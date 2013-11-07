@@ -13,6 +13,8 @@ Generator for DoCSoc digest emails.
 # Writing
 Write emails in the `emails` folder
 
+- `h1` tags are listed at the top as an agenda-style list, unless there aren't any.
+
 # Generating Emails
 
 `node compile.js`
