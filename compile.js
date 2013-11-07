@@ -16,11 +16,14 @@ var file = './emails/test/index.md';
 
 /* Render CSS */
 var getCSS = function(callback) {
-  var template_styl = fs.readFileSync(__dirname + '/template.styl', 'utf8');
 
-  stylus.render(template_styl, function(err, css){
+  fs.readFile(__dirname + '/template.styl', 'utf8', function (err, data) {
     if(err) throw err;
-    callback(css);
+
+    stylus.render(data, function(err, css){
+      if(err) throw err;
+      callback(css);
+    });
   });
 }
 
@@ -41,7 +44,7 @@ var getHTML = function(file, callback) {
           data.meta.agenda.push($(this).text());
         });
 
-        data.meta.date = moment(data.meta.date).format('DD/MM/YYYY')
+        data.meta.date = moment(data.meta.date).format('MMMM Do YYYY');
 
         var html = jade.renderFile('template.jade', {
           page: data.meta,
@@ -86,14 +89,3 @@ fs.readdir('./emails/',function(err, files){
       });
     });
  });
-
-
-
-// fs = require('fs');
-
-// var data = "Hello World!\n\n*Woo*";
-// var options = { md:md, markdownContent:data };
-// var locals = {};
-// var html = jade.renderFile('template.jade', options);
-
-
