@@ -29,3 +29,13 @@ Output will be placed in `compiled` folder
 - Open a new email in exchange
 - Paste (it should center when you resize the window, if not, you copy/pasted wrong)
 - Send!
+
+# Contributing
+
+Just follow the following recommended process:
+
+- Fork it
+- Create your feature branch (`git checkout -b my-new-feature`)
+- Commit your changes (`git commit -am 'Add some feature'`)
+- Push to the branch (`git push origin my-new-feature`)
+- Create new Pull Request
