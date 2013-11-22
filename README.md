@@ -9,7 +9,7 @@ Generator for DoCSoc digest emails.
 - `git clone git@github.com:icdocsoc/digest-emails.git`
 - `cd digest-emails`
 - `npm install`
-- `npm install coffee -g`
+- `npm install coffee-script -g`
 
 # Writing
 Write emails in the `emails` folder
