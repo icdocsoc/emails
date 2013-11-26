@@ -1,20 +1,21 @@
-title: GResearch Coding Challenge - Wednesday 27th November
+title: GResearch Coding Challenge Tomorrow
 
-<center>![](http://docsoc.co.uk/img/sponsors/g-research_logo.png)</center>
+<center>![](http://docsoc.s3.amazonaws.com/gr-header.jpg)</center>
 
 ---
 
-Hi all,
+If you haven't already seen, GResearch are running a coding challenge tomorrow!
 
-GResearch are running a coding challenge on Wednesday the 27th November! 
-
-- **When**: 1pm, Wednesday 27th November
+- **When**: 1pm-2:30pm, Wednesday 27th November
 - **Where**: Huxley Room 217/218
 - **Sign Up**: [Online Form](https://docs.google.com/forms/d/1E3DvBfPyR8qDLGaUJJLYzR8rxkaL9CmDWLl5PMrPPhw/viewform)
+- **Facebook Event**: https://www.facebook.com/events/621158831254965/
 
-**Spaces are limited to 45, so sign up fast!**
+**Spaces are limited to 45, but there are a few places left so sign up fast!**
 
-**There won't be machines provided so please bring your own laptop.**
+Pizza will be provided by way of sustenance and GResearch will be providing machines to use, so if you don't have a laptop, don't worry!
+
+---
 
 Test your coding skills trading fake money and win real prizes. G-Research has developed a simulated stock exchange where you can trade your strategies in competition with other teams. Whose will make the most money by the end of the session?
 
