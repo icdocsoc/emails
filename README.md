@@ -1,7 +1,7 @@
 Digest Email Generator
 =============
 
-Generator for DoCSoc digest emails.
+Generator for DoCSoc digest emails. See [this blog post](http://pete-hamilton.co.uk/2013/11/07/society-newsletters-nodejs/)
 
 # Installation
 
