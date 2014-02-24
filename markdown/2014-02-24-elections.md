@@ -125,4 +125,4 @@ If you have any questions about the elections or what the positions are like, fe
 
 ---
 
-*Wish you could put your witty and sexy signature signoff here? You should probably [nominate yourself for secretary.](http://bit.ly/docsoc-stand)*
+*Wish you could put your witty and sexy signature signoff here? You should probably  [nominate yourself for secretary.](http://bit.ly/docsoc-stand)*
