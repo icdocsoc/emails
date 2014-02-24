@@ -1,4 +1,5 @@
-title: DoCSoc Elections - Nominations Open NOW.
+title: DoCSoc Elections
+subtitle: Nominations Open NOW
 
 ---
 
@@ -43,12 +44,10 @@ What have we been up to this year? A non exhaustive list includes:
 - Read the position descriptions below
 - Visit [https://vote.union.ic.ac.uk](https://vote.union.ic.ac.uk/login.php).
 - Put yourself forward for a position
-- Add a seconder
+- Add a seconder (can be anyone)
 - DONE
 
 The voting will happen after Sunday and you're also welcome to campaign, but that's definitely optional ([I did](https://www.dropbox.com/sh/iby78245kcuhe63/Dnk5MFn4AM) because it was fun and let me practice my haskell).
-
-**It's dangerous to go alone, take this!** - by **this**, we mean a seconder, but that didn't fit the meme very well. Find a friend who thinks you might do a good job and when asked 
 
 ---
 
@@ -56,14 +55,18 @@ The voting will happen after Sunday and you're also welcome to campaign, but tha
 
 **President - The person who gets all the emails**
 
-Oversee the running of the society. You'll liase with your committee, DepReps, other societies and the department itself to plan out exactly how DoC and DoCSoc are going to transcend to an even higher level of awesome. You get to help decide the direction the society goes in but the buck stops with you and it's your job to step in and help out with any tricky decisions or last minute emergencies.
-*(Pete - Probably best suited to a third year who knows the ropes but doesn't have final year hanging over them...)*
+Oversee the running of the society. You'll liase with your committee, DepReps, other societies and the department itself to plan out exactly how DoC and DoCSoc are going to transcend to an even higher level of awesome. 
+
+You get to help decide the direction the society goes in but the buck stops with you and it's your job to step in and help out with any tricky decisions or last minute emergencies.
+*(Pete - Probably best suited to someone who doesn't have final year hanging over them...)*
 
 Stand here: http://bit.ly/docsoc-stand
 
 **Events Officer x2 - The party animal with a serious side**
 
-Help organise the next bar night, industry networking event, university mixer, workshop talk or any one of the awesome events we've done this year. There's typically one person who organises the industry events and one who organises the socials but that's just for convenience and you'll very closely on everything. The student experience is highly dependent on you, making sure they are kept involved in all events from a boozy bar nights to network + pizza evenings. Please note however, this isn't just a social position, you'll spend a lot of time booking rooms, making posters and navigating union red tape.
+Help organise the next bar night, industry networking event, university mixer, workshop talk or any one of the awesome events we've done this year. There's typically one person who organises the industry events and one who organises the socials but that's just for convenience and you'll very closely on everything. 
+
+The student experience is highly dependent on you, making sure they are kept involved in all events from a boozy bar nights to network + pizza evenings. Please note however, this isn't just a social position, you'll spend a lot of time booking rooms, making posters and navigating union red tape.
 
 Stand here: http://bit.ly/docsoc-stand
 
@@ -103,6 +106,8 @@ Stand here: http://bit.ly/docsoc-stand
 DoC has made a great start in game development the past two years with a regular group meeting up to discuss projects and programming relating to all things gamedev. We have a large amount of equipment - android, iOS, PS3, XBox + Kinect and we want to see what our students can do with it. You'll liase with the rest of the committee to help organise gamedev related events and ensure we're giving you everything you need to create something awesome!
 
 Stand here: http://bit.ly/docsoc-stand
+
+---
 
 # I'm not sure I'm qualified...
 
