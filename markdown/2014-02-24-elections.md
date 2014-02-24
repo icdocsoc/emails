@@ -10,9 +10,9 @@ It's that time of year again! The Big Elections are opening, and DoCSoc are taki
 
 Just log in, choose a position to stand for, name your seconder and cross your fingers. Remember, **you can't campaign until voting opens**, there's a timetable and some more information available [here](https://www.imperialcollegeunion.org/big-elections-2014/).
 
-# What does DoCSoc *Do*?
+---
 
-**Some students ran for DoCSoc positions. You won't believe what happened next...**
+# What does DoCSoc *Do*?
 
 What have we been up to this year? A non exhaustive list includes:
 
@@ -35,6 +35,7 @@ What have we been up to this year? A non exhaustive list includes:
 - [Companies On Campus](https://www.facebook.com/events/584525294965351/?ref=5)
 - [Trips to Tech Offices](http://docsoc.co.uk/articles/2013-11-19-amazon-office-visit/)
 
+
 ---
 
 # How do I Run?
@@ -49,9 +50,11 @@ The voting will happen after Sunday and you're also welcome to campaign, but tha
 
 **It's dangerous to go alone, take this!** - by **this**, we mean a seconder, but that didn't fit the meme very well. Find a friend who thinks you might do a good job and when asked 
 
+---
+
 # What are the Positions?
 
-**President - The guy who writes the uncomfortable emails**
+**President - The person who gets all the emails**
 
 Oversee the running of the society. You'll liase with your committee, DepReps, other societies and the department itself to plan out exactly how DoC and DoCSoc are going to transcend to an even higher level of awesome. You get to help decide the direction the society goes in but the buck stops with you and it's your job to step in and help out with any tricky decisions or last minute emergencies.
 *(Pete - Probably best suited to a third year who knows the ropes but doesn't have final year hanging over them...)*
