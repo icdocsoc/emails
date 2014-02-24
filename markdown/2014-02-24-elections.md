@@ -64,7 +64,7 @@ Stand here: http://bit.ly/docsoc-stand
 
 **Events Officer x2 - The party animal with a serious side**
 
-Help organise the next bar night, industry networking event, university mixer, workshop talk or any one of the awesome events we've done this year. There's typically one person who organises the industry events and one who organises the socials but that's just for convenience and you'll very closely on everything. 
+Help organise the next bar night, industry networking event, university mixer, workshop talk or any one of the awesome events we've done this year. There's typically one person who organises the industry events and one who organises the socials but that's just for convenience and you'll work very closely on everything. 
 
 The student experience is highly dependent on you, making sure they are kept involved in all events from a boozy bar nights to network + pizza evenings. Please note however, this isn't just a social position, you'll spend a lot of time booking rooms, making posters and navigating union red tape.
 
