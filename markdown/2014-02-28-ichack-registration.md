@@ -5,7 +5,7 @@ subtitle: Register Interest Now!
 
 ---
 
-<center><h2>[Register for ICHack Now](http://ichack.org)</h2></center>
+<center><h2>[Register at http://ichack.org](http://ichack.org)</h2></center>
 
 
 ---
@@ -23,10 +23,10 @@ Most of the details are available on the website but I've provided a few below f
 
 - **Key Events**
   - **Wed 5th March - Informal lunchtime talk**: If you've never done a hackathon before, are sitting on the fence or just want to come and get excited about the event, this is for you. We'll be keeping it short and sweet, giving some hints and tips for success on the day as well as answering any questions you have. Please come so I don't end up speaking to an empty room.
-  - **Friday 7th March (Evening) - Info Session** - This will be confirmed soon, but on Friday evening there will be several sessions by device engineers and sponsors guiding you to the best resources for hacking on the devices and how to get started so you can hit the ground running on Saturday.
-  - **Saturday 8th - Sunday 9th - Main Event!**: Detailed schedule will be made available on the [website](http://ichack.org).
+  - **Friday 7th March (Evening) - Info Session** - On Friday evening there will be several sessions by device engineers and sponsors guiding you to the best resources for hacking on the devices and how to get started so you can hit the ground running on Saturday. This will save you loads of time during the actual event.
+  - **Saturday 8th - Sunday 9th - Main Event!**: Detailed schedule will be sent through at a later date.
 
-- **The Devices**: Many will be available including (in no particular order) Google Glass, Pebble, Fitbit, Oculus Rift, Leap Motion, iBeacon, Tobii Rex, Clip Tracker, Rasberry Pi, Intel Gallileo... - you get the picture.
+- **The Devices**: Many will be available including Google Glass Kits, Pebble Smartwatches, Fitbit, Oculus Rift, Leap Motion Controllers, iBeacon, Tobii Rex, Clip Tracker, Rasberry Pi, Intel Gallileo... - you get the picture.
 - **Prizes and Swag**: We've got some great prizes and swag lined up, some are already on the site, some are coming soon and some we'll probably surprise you with on the day!
 
 ---
