@@ -1,4 +1,6 @@
+---
 title: Google Glass in Labs TODAY
+...
 
 <center>![](http://i.imgur.com/9S6TmFN.png)</center>
 

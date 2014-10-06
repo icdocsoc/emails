@@ -1,5 +1,7 @@
+---
 title: ICHack Hackathon
 subtitle: Register Interest Now!
+...
 
 <center>![](http://i.imgur.com/9S6TmFN.png)</center>
 

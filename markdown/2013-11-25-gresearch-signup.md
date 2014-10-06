@@ -1,4 +1,6 @@
+---
 title: GResearch Coding Challenge - Wednesday 27th November
+...
 
 <center>![](http://docsoc.co.uk/img/sponsors/g-research_logo.png)</center>
 

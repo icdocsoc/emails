@@ -1,4 +1,6 @@
+---
 title: Entrepreneur First Talk
+...
 
 <center>![](http://i.imgur.com/iAI6vIh.png)</center>
 

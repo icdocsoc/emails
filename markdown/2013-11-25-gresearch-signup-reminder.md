@@ -1,4 +1,6 @@
+---
 title: GResearch Coding Challenge Tomorrow
+...
 
 <center>![](http://docsoc.s3.amazonaws.com/gr-header.jpg)</center>
 

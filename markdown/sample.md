@@ -1,5 +1,7 @@
+---
 title: DoCSoc Weekly Digest
 date: 2013-02-21 10:00
+...
 
 # DoCSoc Bar Night
 We’re having another bar night! 6-11pm on the 12th November, at the Union. Come along and meet some of your fellow computing students. £3 in, and your ticket gets you four drinks (that’s a pretty flippin’ great deal).

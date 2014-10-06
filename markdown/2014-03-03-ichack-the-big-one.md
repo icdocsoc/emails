@@ -1,9 +1,10 @@
+---
 title: ICHACK 2014
 subtitle: THE BIG ONE
 show_social: false
 show_sponsorship: false
 agenda: false
-
+...
 
 <center>![](http://i.imgur.com/9S6TmFN.png)</center>
 

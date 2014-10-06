@@ -1,5 +1,7 @@
+---
 title: DoCSoc Elections
 subtitle: Nominations Open NOW
+...
 
 ---
 

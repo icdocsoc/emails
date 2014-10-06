@@ -1,4 +1,6 @@
+---
 title: DoCSoc Visits Amazon
+...
 
 ![](http://docsoc.s3.amazonaws.com/amazon-logo.png)
 
