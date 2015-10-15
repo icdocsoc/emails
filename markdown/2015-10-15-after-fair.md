@@ -32,7 +32,7 @@ is Graduation Day.
 Keep an eye on the DocSoc digest though, we are planning on organising it soon.
 
 
-## Do you that..
+## Do you know that..
 
 - **We do have an official Facebook group open to every year?**
 Feel free to [join it](https://www.facebook.com/groups/119795004749465/)
@@ -41,6 +41,54 @@ Feel free to [join it](https://www.facebook.com/groups/119795004749465/)
 At the end of every year we hold elections to form the DocSoc committee.
 However, we are always looking for more volounteers. If you would be happy to
 help us, please send us an email at docsoc@imperial.ac.uk.
+
+---
+
+# Microsoft - From Inspiration to Reality
+- **When**: Tuesday 20th October 6pm
+- **Where**: Huxley Building - Room 308
+
+Tom Baxter came to Microsoft straight from earning his BSE in Computer Science 15 years ago.
+He has worked on every version of the Windows operating system since Windows 2000 as a
+software engineer.
+Focusing on system internals, Tom has worked on the fundamentals of quality like Compatibility,
+Reliability, Security, and Privacy across the codebase, in addition to networking and telemetry features. Come hear how Windows is being reshaped for a mobile and cloud first world! Powering PC’s, XBOX’s, phones and more, learn how we empower rapid innovation with world-class Big Data insights to delight customers.
+We’ll discuss a few exciting projects we’re currently working on,
+and provide a glimpse into the future of digital experiences.
+
+Tom will shed some light on what life is like within the largest and most widely
+deployed software development project in the world.
+
+**Free Swag will be an additional plus of the event**
+
+---
+
+# Microsoft - Be one who empowers billions (Workshop)
+
+- **When**: Wednesday 21st October 1
+- **Where**: Huxley building 311
+
+How does one prep for a technical interview?
+What type of questions should one ask?
+From coding on the whiteboard to communicating your passions and ideas,
+we’ll walk you step by step of what the interview process is like and how best to set yourself
+up for success. Speaker Tom Baxter.
+
+**Really high chance of pizza being there**
+
+---
+
+# BlackRock - Women in Technology (Need to apply)
+
+- **When**: Wednesday 21st October 2pm
+- **Where**: BlackRock London
+- **More info**:: [Click here](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-0d787a351310/candidate/so/pm/1/pl/2/opp/1407-Women-in-Technology-BlackRock/en-GB)
+
+This is an event dedicated to our ladies within DocSoc.
+If you are interested in discovering  more about the graduate, internship and
+placement opportunities at BlackRock, you're invited to go into BlackRock office for lunch,
+learn more about life at BlackRock and hear from the women who are currently working on
+the technlogy platform @BlackRock.
 
 ---
 
@@ -57,21 +105,7 @@ This year we have a special price of **£0** for 2 tokens (each token will get y
 
 ---
 
-# [Sponsor Event] - Women in Technology (Need to apply)
-
-- **When**: Wednesday 21st October 2pm
-- **Where**: BlackRock London
-- **More info**:: [Click here](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-0d787a351310/candidate/so/pm/1/pl/2/opp/1407-Women-in-Technology-BlackRock/en-GB)
-
-This is an event dedicated to our ladies within DocSoc.
-If you are interested in discovering  more about the graduate, internship and
-placement opportunities at BlackRock, you're invited to go into BlackRock office for lunch,
-learn more about life at BlackRock and hear from the women who are currently working on
-the technlogy platform @BlackRock.
-
----
-
-# [Sponsor Event] - Discover Aladdin: Innovation (Need to apply)
+# BlackRock - Discover Aladdin: Innovation (Need to apply)
 
 - **When**: Tuesday 27th October 6.30pm
 - **Where**: BlackRock London
@@ -88,7 +122,7 @@ positions will all be presented.
 
 ---
 
-# [Sponsor Event] - The BlackRock Hackathon (Need to apply)
+# The BlackRock Hackathon (Need to apply)
 
 - **When**: Saturday 7th November 10am
 - **Where**: BlackRock London
