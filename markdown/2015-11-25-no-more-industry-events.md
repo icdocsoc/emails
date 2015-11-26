@@ -7,7 +7,7 @@ show_sponsorship: true
 
 ---
 
-<center>**Welcome to DoCSoc's digest. Keeping you on track **</center>
+<center>**Welcome to DoCSoc's digest. Giving you reasons to leave labs.**</center>
 
 <center>![](http://imgur.com/ncd6DsM)
 
@@ -15,11 +15,11 @@ show_sponsorship: true
 
 # Tech News of the Week 
 
-*Shark drones to protect Australian beachgoers from shark attacks*
+*Microsoft Holo Lens to be used in Volvo show rooms*
 
-**MIT working on giving machines emotions**
+*Shark drones to protect Australian beach goers from shark attacks*
 
-*Tech giants fight against the weakening of encryption after the paris attacks*
+*Tech giants fight against the weakening of encryption after the Paris attacks*
 
 ---
 
@@ -39,7 +39,7 @@ As the holidays, and exams, draw closer, we are sad to announce there will be no
 
 UCLU TechSoc and DoCSoc have decided to come together and have our first mixer event of the year!
 
-This will be a fantastic chance to meet and tlak to students form another London uni with the same interests. 
+This will be a fantastic chance to meet and talk to students from another London uni with the same interests. 
 
 Join the [facebook page](https://www.facebook.com/events/578794558926757/).
 ---
@@ -54,6 +54,8 @@ specifically for students who are studying non-Finance related degrees at
 University level and who want to understand what it means to work in asset
 management and particularly, in the Equities Investment division at BlackRock.
 Travel will be reimbursed!
+
+Sign up [here](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/candidate/so/pm/1/pl/2/opp/1446-Discover-the-Art-of-Investing-Equities-BlackRock/en-GB).
 
 ---
 
@@ -92,7 +94,7 @@ Join the [facebook page](https://www.facebook.com/events/178535615823180).
 
 ---
 
-# IC GameDev Society (Today!)
+# IC GameDev Society
 
 - **When**: Wednesdays, 7pm - 9pm
 - **Where**: Back Labs
@@ -101,7 +103,7 @@ For people who are unaware, DoCSoc runs a game development meet up for like mind
 
 It's a great place to find partners for projects, talk about games and even discover a path into the games industry. 
 
-We have lots of cool hardware including an Oculus Rift DK2 and a Leap Motion! We meet up **every Wednesday** 7-9pm *(including today!)*, and are currently planning on running a themed competition to span until the end of term.
+We have lots of cool hardware including an Oculus Rift DK2 and a Leap Motion! We meet up **every Wednesday** 7-9pm, and are currently planning on running a themed competition to span until the end of term.
 
 See you there!
 
@@ -121,12 +123,10 @@ If you would be interested in coordinating the blog, this doesnt necessarily mea
 
 ---
 
-*Hope this was a welcome break to your work!*
-
 DoCSoc sends love via
 
 Summer Jones *(DoCSoc Interim Secretary)*
 
-xoxo
+<3
 
 
