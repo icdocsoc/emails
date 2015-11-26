@@ -36,12 +36,14 @@ Interested in finance? Got Saturday free? Why not spend it at a hackathon run by
 
 *Free pizza!*
 
-- **When**: Tuesday 10th November 6pm - 9pm
+- **When**: Tuesday 10th November 6pm - 8pm
 - **Where**: Huxley Room 308
 
 **"Complex problems live in Travel, and other surprising places..."**
 
 You may know the theory of Big Data & Artificial Intelligence, but have you ever considered how these apply to the complexities of the Travel Industry? We'll explore some surprising applications of modern computing and  learn how the challenges don't end with the code...
+
+Join the Facebook page [here](https://www.facebook.com/events/1483489351956160/).
 
 ---
 
@@ -54,7 +56,7 @@ You may know the theory of Big Data & Artificial Intelligence, but have you ever
 
 Come and enjoy an evening with DocSoc where we gather to play some infamous board games and share some free refreshments. Perhaps a good way to pre-eat before a night of **wild** drinking at sports night. *Drink responsibly*.
 
-Join the facebook page [here](https://www.facebook.com/events/564602963687251/).
+Join the Facebook page [here](https://www.facebook.com/events/564602963687251/).
 
 ---
 
@@ -63,12 +65,20 @@ Do you ever feel restrained by the language restrictions of programming? Want to
 
 The truth is, our [blog](http://docsoc.co.uk/blog/) has been neglected... And we need **you** to bring it back to life. 
 
-If you would be interested in coordinating the blog, or even just writing a single blog, please contact docsoc@ic.ac.uk us as soon as possible! 
+If you would be interested in coordinating the blog, or even just writing a single blog, please contact docsoc@ic.ac.uk as soon as possible! 
+
+---
+
+# Potential DoCSoc Formal Dinner? (Survey)
+
+We would like to gage how much interest there is around the department in our **first ever** formal dinner. This will probably happen at the end of spring term. Please [click here](https://www.surveymonkey.com/r/6PPQT7Z) to fill in *the world's shortest* survey regarding this dinner. That's [this survey](https://www.surveymonkey.com/r/6PPQT7Z). Right [here](https://www.surveymonkey.com/r/6PPQT7Z). 
+
+Thanks!
 
 ---
 
 *Watch out for the next issue, with info about our amazon visit and NewVoiceMedia event!*
 
-DocSoc love
+DoCSoc love
 
 xxxx
