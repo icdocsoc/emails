@@ -42,6 +42,7 @@ UCLU TechSoc and DoCSoc have decided to come together and have our first mixer e
 This will be a fantastic chance to meet and talk to students from another London uni with the same interests. 
 
 Join the [facebook page](https://www.facebook.com/events/578794558926757/).
+
 ---
 
 # Equities @ BlackRock
@@ -111,7 +112,7 @@ See you there!
 
 # Apply to our sponsors
 
-For information on how to apply to our other **fabulous** sponsors, please visit [here](internal.docsoc.co.uk) where we have a description and a direct link to how to apply
+For information on how to apply to our **fabulous** sponsors, please visit [here](internal.docsoc.co.uk) where we have a description and a direct link to how to apply
 
 ---
 
