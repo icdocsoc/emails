@@ -9,7 +9,7 @@ show_sponsorship: true
 
 <center>**Welcome to DoCSoc's digest. Giving you reasons to leave labs.**</center>
 
-<center>![](http://imgur.com/ncd6DsM)
+<center>![](http://i.imgur.com/ncd6DsM.jpg)
 
 ---
 
@@ -17,7 +17,7 @@ show_sponsorship: true
 
 *Microsoft Holo Lens to be used in Volvo show rooms*
 
-*Shark drones to protect Australian beach goers from shark attacks*
+*Feeling Christmassy? Careful, Fairy Lights Slow Wi-fi Speeds*
 
 *Tech giants fight against the weakening of encryption after the Paris attacks*
 
@@ -27,13 +27,15 @@ show_sponsorship: true
 
 As the holidays, and exams, draw closer, we are sad to announce there will be no more industry events this term. DoCSoc wishes to thank you all for your attendance and support at all of such events. 
 
+For information on how to apply to our **fabulous** sponsors, please visit [here](https://www.doc.ic.ac.uk/~docsoc/secure/) where we have a description and a direct link to how to apply.
+
 ---
 
 # The Winter Mixer
 
 *Free drinks!* 
 
-- **When**: Tuesday 1st December 7pm
+- **When**: Tonight 7pm (Meet in Huxley Foyer at 6:15, or meet us there!)
 - **Where**: Student Central, WC1E 7HY (ULU Library bar)
 
 
@@ -107,12 +109,6 @@ It's a great place to find partners for projects, talk about games and even disc
 We have lots of cool hardware including an Oculus Rift DK2 and a Leap Motion! We meet up **every Wednesday** 7-9pm, and are currently planning on running a themed competition to span until the end of term.
 
 See you there!
-
----
-
-# Apply to our sponsors
-
-For information on how to apply to our **fabulous** sponsors, please visit [here](internal.docsoc.co.uk) where we have a description and a direct link to how to apply
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: ADCL Trip - Recruitment Links and Feedback!
+agenda: false
 ...
 
 ![](http://docsoc.s3.amazonaws.com/amazon-logo.png)

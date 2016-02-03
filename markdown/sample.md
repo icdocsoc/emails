@@ -1,6 +1,7 @@
 ---
 title: DoCSoc Weekly Digest
 date: 2013-02-21 10:00
+agenda: true
 ...
 
 # DoCSoc Bar Night
