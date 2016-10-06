@@ -18,7 +18,7 @@ Write emails in the `emails` folder
 
 # Generating Emails
 
-`coffee compile`
+`coffee compile.coffee`
 
 Output will be placed in `compiled` folder
 
