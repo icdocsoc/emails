@@ -19,7 +19,7 @@ show_sponsorship: false
 
 <center>
     <span style="font-size: 1.7em;">
-    [**Facebook Event**](https://www.facebook.comevents/1866631386986389/)
+    [**Facebook Event**](https://www.facebook.com/events/1866631386986389/)
     </span>
     <br>
     <h3>
