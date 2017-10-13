@@ -29,49 +29,41 @@ show_sponsorship: false
     </h3>
 </center>
 
-Fancy taking out a new credit card or payday loan in some else’s name, but
-don't yet know enough about your victim? No need to root around in dustbins…
-steal data from thousands of people at once from a credit reference bureau!
+Netcraft is running a workshop where you can learn some of the opportunities
+that exist to make catastrophic mistakes when developing and maintaining a
+web application on the Internet.
+ 
+Until recently staff at a big three global consumer credit agency worth $tens
+of billions, joked that they were [one hack away from bankruptcy](https://www.bloomberg.com/news/features/2017-09-29/the-equifax-hack-has-all-the-hallmarks-of-state-sponsored-pros).
+Attempting to fulfil the prophecy, within 24 hours of the announcement that
+their credit scoring data on some 140 million people had been stolen, a
+feeding frenzy of class action suit lawyers had commenced to [sue the crap out of Equifax](https://www.theregister.co.uk/2017/09/08/lawyers_line_up_to_sue_equifax/).
+ 
+What sort of programming error can be that expensive? How much is it worth to
+the lawyers? And how much is a mistake like that worth to the hacker who
+finds it?
+ 
+Your challenge is that you are looking at a credit agency's web interface
+holding credit information on hundreds of millions of people. If you can find
+a way to extract this data, it could sell for [$10-20 per person](https://www.bloomberg.com/news/articles/2017-09-15/equifax-hack-your-social-security-and-identity-are-for-sale).
+After a short tutorial outlining and illustrating the concepts, you will
+compete against your peers to exfiltrate as much consumer credit data as you
+can.
 
-You've found a web interface used by banks to perform credit reference
-searches, which contains detailed personal information of many hundreds of
-thousands of individuals in the UK. If you can find a way to extract some of
-this data, you're in the money.
+To take part, bring your own laptop, equipped with a modern web browser and
+[Burp](https://portswigger.net/burp/freedownload). Swotting up on common web
+vulnerabilities and misconfigurations will improve your chances.
 
-Unfortunately, the interface requires a login. Even as a top fraudster you
-don’t yet have any login credentials. Luckily for you the interface was
-implemented in a rush and there might be some implementation mistakes
-allowing you to extract personal information. As a seasoned fraudster, you
-have prior experience in breaching websites.
+Netcraft staff (including many DocSoc alumni) will be available throughout to
+help.
 
-Equifax's recent data breach between May and July 2017 resulted in the
-compromise of personal information for ~145.5m US citizens, along with at
-least 400k UK citizens. After their disclosure in September 2017, Equifax set
-up a website to help citizens determine whether they'd been included in the
-breach. This website also suffered from a number of flaws, with some browser
-vendors—including Google Chrome—classifying it as a phishing site.
-
-It was also disclosed in September that Equifax's Argentinian arm had left
-private data from 14,000 customers (and 100+ staff members) available to
-anybody who utilised default login credentials.
-
-Netcraft is running a workshop where you can learn how to find and exploit
-vulnerabilities in web applications, including server misconfigurations and
-programming errors. You will discover how simple errors can be used by
-criminals to exploit websites, ultimately resulting in large losses of data.
-
-Your challenge, after a short tutorial outlining and illustrating the
-concepts, is to compete against your peers to exfiltrate as much data as
-possible. Your objective is to identify vulnerabilities within the credit
-portal, exploiting these to steal personal information. Netcraft staff will
-be available to help.
-
-To take part, bring your own laptop with a modern web browser. Swotting up on
-common web vulnerabilities and misconfigurations may improve your chances.
-
-Pizza and drinks will be provided at the event.
-
-**This event does not require a ticket** - simply press 'Going' on the [Facebook
-event](https://www.facebook.com/events/1866631386986389/). As always, you
-must be a member of DoCSoc in order to enjoy this event. Computing, JMC and
-EIE students are automatically members.
+Pizza and drinks will be provided at the event. In order to give an accurate
+idea how many staff Netcraft should bring and how much pizza we should buy,
+please press 'Going' if you intend to come.
+ 
+Netcraft's previous workshops have been [very popular](https://www.facebook.com/events/1498700670427466/).
+ 
+There will a free bar at the Union Bar after the competition.
+ 
+As always, you must be a member of DoCSoc in order to attend this event.
+Computing, JMC and EIE students are automatically members.
