@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image src="https://i.imgur.com/hK3gAKy.png" width="50" alt="Oreo Biscuits"
+    title="Something Stupid" />
+  <hr/>
+
+  <text>
+    Hi all,
+
+    This week we bring you a variety of events, including our second Bar Night
+    brought to you by Palantir!
+    The first batch of tickets for our early AlphaGo screening is now sold out, but
+    watch out for our second (and last) batch available to _all Imperial students_,
+    which will be available **today** (Tuesday 14/11) at 16.00.
+
+    There's plenty more, so keep reading!
+  </text>
+
+  <hr/>
+  <text>Our upcoming events:</text>
+
+  <heading>Palantir Extreme Startup</heading>
+  <event>
+    <facebook id="1842428509401230"
+      alias="https://docsoc.co.uk/extreme-startup/" />
+    <links>
+      <link
+        href="https://www.eventbrite.co.uk/e/palantir-extreme-startup-tickets-39830884247">
+        Tickets (Eventbrite)
+      </link>
+    </links>
+		<text>
+      &lt;font color="red"&gt;**Tickets for this event will be available TODAY
+      AT 12.00.**&lt;/font&gt;
+
+			Today's critical institutions don't just protect public safety or provide vital
+			goods and services—they also deal with astonishing amounts of data. At Palantir,
+			we build software that lets organisations integrate and analyse their data to
+			solve problems they couldn't before. For example, we're helping our customers
+			combat terrorism at home and abroad, investigate and prosecute financial fraud
+			rings, offer more credit to retail banking customers, manufacture products
+			faster and more safely, and fight violent crime in the world’s great cities. And
+			we're just getting started.
+
+			Very often, doing this efficiently requires quick iteration and adaptation to
+			customers' requirements, needs and resources. This can only be done effectively
+			with a platform that is designed for easy extension and configuration.
+
+			Come join us at our Extreme Startup event and test your engineering skills!
+			We'll work on a scenario that Palantir uses internally to train their software
+			engineers to develop clean, maintainable and adaptable code.
+
+			Food and drink will be provided at the event. Palantir will also be holding a
+			Bar Night afterwards: (see below)
+		</text>
+  </event>
+
+  <heading>Palantir Bar Night</heading>
+  <event location="Metric">
+    <facebook id="357500474697963" alias="https://docsoc.co.uk/palantir-bar-night" />
+    <text>
+      This event follows directly after Palantir's "Extreme Startup" workshop - you
+      are encouraged to attend this fantastic event! (see above)
+
+      It's time for DoCSoc's second bar night of the year! This time, we're kindly
+      supported by our sponsor Palantir.
+
+      Whether you went to our first bar night or not, this bar night is going to be a
+      big one so come along! This time, we will be in Metric.
+
+      Drinks tokens will be given upon entry for FREE to any member of the Department
+      of Computing. Tokens are valid for both alcoholic and non-alcoholic drinks.
+
+      18+ Only - IDs will be checked. You must be a member of DoCSoc before the day of
+      the event in order to attend. Computing, JMC, and EIE students are automatically
+      DoCSoc members. Membership can be purchased for £15 at docsoc.co.uk/join
+    </text>
+  </event>
+
+  <heading>DoCSoc Breakfast 2</heading>
+  <event>
+    <facebook id="1905369099792703" />
+  </event>
+
+  <heading>Facebook Crush Your Coding Interview Workshop</heading>
+  <event>
+    <facebook id="1351641428278830" />
+  </event>
+
+  <heading>Live with DeepMind: An Early Screening of AlphaGo Movie</heading>
+  <event>
+    <facebook id="787130688161502" alias="https://docsoc.co.uk/alphago-movie/" />
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/live-with-deepmind-an-early-screening-of-alphago-movie-tickets-39618186061">Tickets (Eventbrite)</link>
+    </links>
+    <text>
+      Make sure you get your hands on a ticket for the incredible opportunity to watch
+      an early screening of the AlphaGo documentary, followed by an exclusive Q&amp;A
+      session with one of DeepMind's very own software engineers, Julian
+      Schrittwieser.
+
+      Tickets for all Imperial students will be available &lt;font color="red"&gt;**TODAY**&lt;/font&gt;, Tuesday 14/11 at 16.00.
+
+      WATCH THE TRAILER: https://www.youtube.com/watch?v=8tq1C8spV_g
+
+      On March 9, 2016, the worlds of Go and artificial intelligence collided in South
+      Korea. The best-of-five-game competition, coined The Deep Mind Challenge Match,
+      pitted a legendary Go master against an AI program that was still learning to
+      play the world’s most complex board game. AlphaGo chronicles a journey from the
+      backstreets of Bordeaux, past the coding terminals of Google DeepMind in London,
+      and, ultimately, to the seven-day tournament in Seoul. As the drama unfolds
+      before an audience of over 280 million viewers worldwide, more questions emerge:
+      What can artificial intelligence reveal about a 3000-year-old game? What will it
+      teach us about humanity?
+
+      Directed by Greg Kohs with an original score by Academy Award nominee, Hauschka.
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>Academic Reading Groups</heading>
+  <text>
+    Our second Programming Languages academic reading group is happening &lt;font color="red"&gt;**TODAY**&lt;/font&gt;,
+    Tuesday, at 1pm in Huxley room 145. Speakers will be Paul Kelly and Anastasios
+    Andronidis (Cristian Cadar's Group).
+    Please check the website https://docsoc.co.uk/papers/ the exact agenda.
+
+    Thank you for providing your feedback on our first Programming Languages
+    academic reading group. We've looked through this feedback and will allocate
+    more question time in forthcoming events by reducing the number of
+    speakers to 2.
+  </text>
+
+  <heading>BAML Blog Post</heading>
+  <sponsor company="baml">
+    Our generous sponsor, Bank of America Merrill Lynch, recently made a post on our blog.
+
+    Pooja Gulabani is a Python developer and a project lead in Fixed Income
+    Currencies &amp; Commodities Technology at Bank of America Merrill Lynch. She lives
+    in North Greenwich, South East London. She writes about *A day in the life of a
+    Python developer at Bank of America Merrill Lynch*.
+
+    [Read the Blog Post](https://docsoc.co.uk/articles/2017-11-07-baml-day-in-the-life/).
+  </sponsor>
+
+  <hr/>
+
+  <heading>DoC Careers Talks</heading>
+  <text>
+    The department are hosting a series of talks on Careers. Hosted in Huxley 311.
+    Attendance is optional and on a first-come, first-serve basis, but talks will
+    also be on your timetables.
+
+    *Friday 17th November, 13.00-13.45 &amp;mdash; Finding Internships, Insight Weeks,
+    Projects and Vacation Opportunities.*&lt;br&gt;
+    Advice on sourcing a range of experiential learning opportunities including ways
+    to explore the "hidden job market" and forge your own role.
+
+    *Friday 24th November, 13:00-13:45 &amp;mdash; Application Forms - Fact &amp; Fiction.*&lt;br&gt;
+    Uncover the mysteries of application forms and learn how to create excellent
+    answers to help you secure an interview.
+
+    *Please note that these events are not organised by DoCSoc.*
+  </text>
+
+  <heading>Royal Society Milner Award Lecture</heading>
+  <event startDate="2017-11-22T18:30:00+00:00"
+    endDate="2017-11-22T19:30:00+00:00"
+    location="The Royal Society, 6-9 Carlton House Terrace, SW1Y 5AG, London"
+    external="true">
+    <links>
+      <link href="https://royalsociety.org/science-events-and-lectures/2017/11/milner-lecture/">Royal Society</link>
+    </links>
+    <text>
+      The Royal Society is hosting a lecture coinciding with the annual
+      presentation of the Milner Award for outstanding achievement in computer
+      science research.
+
+      The 2017 Milner Award Lecture will be given by Professor Andrew Zisserman
+      FRS, entitled *How can a computer understand what is happening in a
+      video?*.
+    </text>
+  </event>
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now!
+
+    Until next time,
+  </sign>
+</email>
