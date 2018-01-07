@@ -1,6 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <email title="Weekly Digest">
 
+  <image width="50"
+    src="https://i.imgur.com/V1032UM.jpg"
+    alt="Snow Globe Biscuit"
+    title="The digest is now 'totally different yet basically the same'(tm), generated with a new custom tool :D." />
+  <hr/>
+
+  <text>
+    Happy new year!
+
+    Hopefully everyone has had an enjoyable break. Welcome to 2018: Filled with
+    more coursework, more exams, and of course, more DoCSoc events! Keep reading
+    to find out what's happening...
+  </text>
+  <hr/>
+
+  <heading>IC Hack 18</heading>
+  <event>
+    <facebook id="138720960119278" alias="https://docsoc.co.uk/ichack18" />
+    <links>
+      <link href="http://ichack18.eventbrite.com/">Tickets (Eventbrite)</link>
+      <link href="https://ichack.org">Website</link>
+    </links>
+    <!-- <text> -->
+    <!--   Text here -->
+    <!-- </text> -->
+  </event>
+
+  <heading>EF x DoCSoc Breakfast</heading>
+  <!-- <event> -->
+  <!--   <facebook id="1758452221129582" /> -->
+  <!-- </event> -->
+  <hr/>
+
+  <heading>DoCSoc Autumn Events Survey (Prizes to be won!)</heading>
+  <text>
+    **Perhaps**
+  </text>
+
+  <heading>UROP Talk Participant Sign-up</heading>
+  <text>
+    **Perhaps**
+  </text>
+  <hr/>
+
+  <heading>Felix Seeking Tech Contributors</heading>
+  <text>
+    Felix, Imperial's weekly newspaper, is planning to expand its tech section
+    after a successful first term and they figured Computing students might be
+    interested in joining. The tech section covers popular science topics
+    ranging from Formula 1 aerodynamics to gene drives, with the plan this term
+    being to get involved with established electronics giants and review their
+    upcoming gadgets and devices. Of course, the usual op-eds will make their
+    appearance as well.
+
+    If this is something that interests you, send an email to
+    tecfelix@imperial.ac.uk
+  </text>
+
   <sign name="Nik Vangerow"
     role="DoCSoc Secretary"
     facebook="nik.vangerow">
