@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image width="50"
+    src="https://i.imgur.com/V3kxYPg.png"
+    alt="Amaretti Biscuits"
+    title="Motion to stop biscuit images? Seriously, coming up with unique biscuits is actually quite hard, finding a good picture is even harder. Why not some sweet treats?" />
+
+  <hr/>
+
+  <text>
+    Another week, another digest!&lt;sup&gt;&lt;sup&gt;&lt;sup&gt;Yeah it's
+    Wednesday..&lt;/sup&gt;&lt;/sup&gt;&lt;/sup&gt;
+
+    Check out our DoCSoc Education volunteering initiative below to teach
+    Python to life sciences students. It's a great way to get experience in
+    teaching students!
+
+    If you managed to get a ticket, also look forward to participating in IC
+    Hack 18, the largest student-run hackathon in the UK, this weekend. It's
+    bound to be a blast! If you suddenly can't make it, please cancel your
+    ticket on Eventbrite so that someone else currently on the waitlist can
+    attend in your place.
+
+    Without further ado...
+  </text>
+
+  <hr/>
+
+  <heading>Volunteers Needed for DoCSoc Education</heading>
+  <image src="https://i.imgur.com/VKAshFk.png" alt="Coding 101 Banner" />
+  <text>
+    *As you may have heard, we're starting a new initiative called DoCSoc
+    Education aiming to teach students from other courses to code.*
+
+    Our first venture will be [teaching Python to students from life sciences
+    courses](https://www.facebook.com/events/333505960463269/), and we could
+    definitely use some volunteers to help. You don't have to be amazing at
+    Python - if you're interested in helping, let us know by either sending us
+    an email (docsoc@imperial.ac.uk), or PMing us on
+    [Facebook](https://www.facebook.com/ICDocSoc/).
+  </text>
+
+  <hr/>
+
+  <heading>Accenture Powerful Minds Competition</heading>
+  <sponsor company="accenture">
+    Discovering an insight into the way your mind works can be interesting. Food
+    to boost your brain can also be tasty. And a little competition can be fun?
+    We've combined all of these together to bring you a brand new initiative
+    beginning in January.
+
+    ## What's in it for you?
+    - Chance to win cash prizes towards your society/club. First prize a massive
+    £1,000! Second £250 and third £100.
+    - Each society/club that signs up will also receive an assortment of
+    delicious breakfast bars for your members to enjoy! *(editor's note: we'll
+    figure out how to distribute these later)*
+    - Individual weekly spot prizes: Accenture branded hoodies to keep you warm
+    and Clifton StrengthsFinder assessment codes to help you discover more about
+    yourself with an in-depth report of your strengths.
+
+    If you would like to participate, use [this
+    link](https://ad.doubleclick.net/ddm/clk/411273196;211960615;a).
+  </sponsor>
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now!
+
+    Until next time,
+  </sign>
+</email>
