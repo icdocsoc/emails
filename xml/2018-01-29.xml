@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <email title="Weekly Digest">
 
+  <image width="50"
+    alt="Zoomey Biscuit, HTTP/1.1 404 Not Found"
+    title="Or just no biscuit. Hmm. So many options."
+    src="https://i.imgur.com/cNHFOpW.png" />
+
+  <hr/>
+
+  <text>
+    Welcome back to another edition of the DoCSoc digest!
+
+    IC Hack 18 is over! Thank you so much to all our sponsors and to everyone
+    who participated and volunteered - it has been an incredible weekend! If you
+    haven't already (and even if you have), watch the event montage [here on
+    YouTube](https://www.youtube.com/watch?v=Hngr7ts45Dc).
+
+    While everyone is recovering, we're glad to finally announce a couple of
+    events see below.
+
+    Lastly, I've been delibrating the place and relevancy of the weekly biscuit.
+    Over the weeks that I've written the digest, coming up with a biscuit every
+    week has become quite a burden. Therefore I propose several options
+    pertaining to the future of the biscuit:
+
+    - Weekly biscuit, chosen by YOU.
+    - No biscuit. Just nothing.
+    - Some other kind of confectionery.
+    - Something else?
+
+    [Please submit your votes here so that we may democratically decide the future of the biscuit.](https://docs.google.com/forms/d/e/1FAIpQLSfuJkKLu6KQPJMJpHEd8wJyRFqWvRf9IH8Q3pZYZ4quGvmoIQ/viewform)
+  </text>
+
+  <hr/>
+
+  <heading>IC HealthHack 2018</heading>
+  <event>
+    <facebook id="1698424526881229" />
+  </event>
+
+  <heading>Diversity@Imperial Lunchtime Lecture</heading>
+  <event external="true"
+    startDate="2018-02-01T12:30:00+00:00"
+    endDate="2018-02-01T13:30:00+00:00"
+    location="RSM 131 - Sutton Lecture Theatre, South Kensington Campus">
+    <links>
+      <link href="http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/equality/eventssummary/event_17-1-2018-10-12-41">Event Information</link>
+      <link href="https://www.eventbrite.co.uk/e/a-sense-of-belonging-in-engineering-by-nike-folayan-tickets-41696046999">Tickets</link>
+    </links>
+    <text>
+      This week Thursday (1st Feb), as part of the College's
+      'Diversity@Imperial' campaign, the Equality, Diversity and Inclusion
+      Centre will be hosting a lunchtime lecture on 'A Sense of Belonging in
+      Engineering', given by Dr Nike Folayan.
+
+      Dr Folayan is the Chairperson of the Association for Black and Minority
+      Engineers (AFBE-UK), a national organisation to support and promote BAME
+      engineers and engineering students through their careers in their
+      respective industries. She will be discussing what diversity and the drive
+      towards a more inclusive STEM workforce really mean, with a particular
+      focus on the importance of diversity and inclusion in engineering.
+    </text>
+  </event>
+
   <sign name="Nik Vangerow"
     role="DoCSoc Secretary"
     facebook="nik.vangerow">
