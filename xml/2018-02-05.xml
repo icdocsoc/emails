@@ -53,6 +53,19 @@
   <heading>Docker Workshop</heading>
   <event>
     <facebook id="935309229966009" />
+    <text>
+      Docker is a tool designed to make it easier to create, deploy, and run
+      applications by using containers. Containers allow a developer to package
+      up an application with all of the parts it needs, such as libraries and
+      other dependencies, and ship it all out as one package.
+
+      This workshop is targeted to those who want to learn about the basics of
+      Docker. If you are taking Distributed Algorithms (CO347), this workshop
+      will definitely help you with the course. You may also encounter Docker in
+      some format during a placement or internship this summer..
+
+      This workshop will be hosted by Abhinav Mishra.
+    </text>
   </event>
 
   <heading>The Valentine's Bar Night</heading>
