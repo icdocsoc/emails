@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="70"
+    src="https://i.imgur.com/L2vMIuM.png"
+    alt="Pie Chart of Last Week's Biscuit Vote"
+    title="Thanks for voting, people who care about the biscuit &lt;3!" />
+
+  <hr />
+
+  <text>
+    Hello everyone,
+
+    Welcome to another week of the DoCSoc digest!
+
+    This week, we bring you a Microsoft Cognitive Services workshop and UROP
+    101!
+
+    **Also, you can sign up for our very own Valentine's Service, only until
+    23.59 on Thursday 8th February. If there is someone special who you would
+    like to send a rose and message to,
+    [sign up here](https://docsoc.co.uk/valentines).**
+
+    Last week, over 70 of you voted and decided the future of the biscuit.
+    From now on, the bottom of the digest will include a link to a form where
+    biscuits for the next week may be suggested. The biscuit that we send out
+    remains at the discretion of the DoCSoc committee, but your suggestions
+    should really help. Plus, we'll credit you for the suggestion next to the
+    biscuit form link!
+  </text>
+
+  <hr />
+
+  <heading>Microsoft Cognitive Services: Hands On Workshop</heading>
+  <event>
+    <facebook id="451262598634020" />
+    <text>
+      Come along to learn about Microsoft Cognitive Services, including the
+      Custom Vision AI Service. After learning about these services, there will
+      be a hands on workshop so you can see for yourself how easy it is to build
+      and deploy your projects using these services!
+
+      All experience levels welcome and please make sure you bring your laptop
+      with you. Food and drink will be provided at the event and there will also
+      be giveaways!
+    </text>
+  </event>
+
+  <heading>UROP 101</heading>
+  <event>
+    <facebook id="1980894172231621" />
+  </event>
+
+  <heading>Docker Workshop</heading>
+  <event>
+    <facebook id="935309229966009" />
+  </event>
+
+  <heading>The Valentine's Bar Night</heading>
+  <event>
+    <facebook id="1607380125981757" />
+    <text>
+      It's time for the first Bar Night of 2018! Once again, we'll be meeting in
+      Metric at 7pm for an evening of free drinks and great conversation.
+
+      Drinks tokens will be given upon entry for FREE to any member of DoCSoc.
+      Tokens are valid for both alcoholic and non-alcoholic drinks.
+    </text>
+  </event>
+
+  <heading>Internship 101</heading>
+  <event>
+    <facebook id="140931969937020" />
+  </event>
+
+  <heading>JetBrains: Kotlin Hands-On</heading>
+  <event>
+    <facebook id="166048430696844" />
+  </event>
+
+  <hr />
+  <text>
+    And later we'll bring you...
+  </text>
+
+  <heading>DoCSoc hosts Google Hash Code</heading>
+  <event>
+    <facebook id="397017594079193" />
+    <links>
+      <link href="https://hashcode.withgoogle.com">Tickets</link>
+    </links>
+  </event>
+
+  <heading>IC HealthHack 2018</heading>
+  <event>
+    <facebook id="1698424526881229" />
+  </event>
+
+  <hr />
+
+  <heading>3Hack 2.0</heading>
+  <event external="true">
+    <facebook id="742171662642922" />
+    <links>
+      <link href="http://www.3hack.co.uk/">Website</link>
+      <link
+        href="https://www.eventbrite.co.uk/e/3hack-20-powered-by-microsoft-tickets-42676282911">Tickets</link>
+    </links>
+    <text>
+      This is an open-ended hackathon focused on bringing together students
+      interested in one of the 3 major areas: graphic designing,
+      entrepreneurship, and engineering/programming to create something new
+      while building connections with one another.
+
+      Coming alone on the day of the hack? Not to worry, we can help you form a
+      team on the day. Don't worry if you lack experience, we will have plenty
+      of mentors to help and take this opportunity as a chance to learn!
+      Not only is it a great chance to create something special, but one to
+      network with our mentors/organisers which consists of Microsoft seniors,
+      Internet entrepreneurs, successful mobile-app developers and students from
+      other societies.
+
+      Organised by Microsoft Student Partners of Imperial College London.
+    </text>
+  </event>
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now!
+
+    Until next time,
+  </sign>
+
+  <text>
+    This week's biscuit brought to you by: Biscuit Voters!
+    [Submit Biscuit](https://docsoc.co.uk/suggest-biscuit).
+  </text>
+</email>
