@@ -46,26 +46,13 @@
   </event>
 
   <heading>UROP 101</heading>
-  <event
-    startDate="2018-02-09T13:00:00+00:00"
-    endDate="2018-02-09T14:00:00+00:00"
-    location="HXLY 145, Huxley Building">
-    <text>
-      This Friday, February 9th between 13.00 and 14.00 in Huxley 145 we will be
-      giving a brief introduction to UROP - the research internship programme at
-      Imperial.
+  <event>
+    <facebook id="1980894172231621" />
+  </event>
 
-      It is a great opportunity to work on a topic that truly interests you, at a
-      leading research institution and to find out what academia is like. Some
-      UROPs are funded by industry, so come along even if you are not sure
-      whether academia might be for you. We will go over the funding,
-      accommodation, looking for supervisors, and succeeding as a UROP intern.
-      Paul Kelly, the UROP Lead in the Department of Computing, will be giving
-      the second part of the talk about the programme and available
-      opportunities.
-
-      This event is aimed primarily at first and second year students.
-    </text>
+  <heading>Docker Workshop</heading>
+  <event>
+    <facebook id="935309229966009" />
   </event>
 
   <heading>The Valentine's Bar Night</heading>
@@ -80,11 +67,10 @@
     </text>
   </event>
 
-  <heading>Internships 101</heading>
-  <text>
-    <!-- TODO: Pending Information -->
-    TODO: PENDING
-  </text>
+  <heading>Internship 101</heading>
+  <event>
+    <facebook id="140931969937020" />
+  </event>
 
   <heading>JetBrains: Kotlin Hands-On</heading>
   <event>
