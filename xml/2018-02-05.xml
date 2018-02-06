@@ -104,6 +104,34 @@
     <facebook id="1698424526881229" />
   </event>
 
+  <hr />
+
+  <heading>3Hack</heading>
+  <event external="true">
+    <facebook id="742171662642922" />
+    <links>
+      <link href="http://www.3hack.co.uk/">Website</link>
+      <link
+        href="https://www.eventbrite.co.uk/e/3hack-20-powered-by-microsoft-tickets-42676282911">Tickets</link>
+    </links>
+    <text>
+      This is an open-ended hackathon focused on bringing together students
+      interested in one of the 3 major areas: graphic designing,
+      entrepreneurship, and engineering/programming to create something new
+      while building connections with one another.
+
+      Coming alone on the day of the hack? Not to worry, we can help you form a
+      team on the day. Don't worry if you lack experience, we will have plenty
+      of mentors to help and take this opportunity as a chance to learn!
+      Not only is it a great chance to create something special, but one to
+      network with our mentors/organisers which consists of Microsoft seniors,
+      Internet entrepreneurs, successful mobile-app developers and students from
+      other societies.
+
+      Organised by Microsoft Student Partners of Imperial College London.
+    </text>
+  </event>
+
   <sign name="Nik Vangerow"
     role="DoCSoc Secretary"
     facebook="nik.vangerow">
