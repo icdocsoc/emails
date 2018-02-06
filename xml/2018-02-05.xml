@@ -91,6 +91,11 @@
     <facebook id="166048430696844" />
   </event>
 
+  <hr />
+  <text>
+    And later we'll bring you...
+  </text>
+
   <heading>DoCSoc hosts Google Hash Code</heading>
   <event>
     <facebook id="397017594079193" />
@@ -106,7 +111,7 @@
 
   <hr />
 
-  <heading>3Hack</heading>
+  <heading>3Hack 2.0</heading>
   <event external="true">
     <facebook id="742171662642922" />
     <links>
