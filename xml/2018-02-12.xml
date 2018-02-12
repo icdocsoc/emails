@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+	<image width="50"
+				 src="https://i.imgur.com/1YmCqwM.jpg"
+				 alt="Custard Cream"
+				 title="" />
+
+  <hr/>
+
+  <text>
+    It's Monday!
+
+    We're kicking the week off with a whopping TWO events, happening TODAY!
+    First is the Docker workshop, which you might find useful if you're either
+    taking Distributed Algorithms or will use Docker during a summer internship.
+    Following that is our Valentine's Bar Night, taking place from 19.00 in
+    Metric. Tomorrow (Tuesday) we're holding our Internship 101 event, where you
+    can find out about internships at companies that are still hiring from past
+    interns. And on Thursday we're running a Kotlin workshop at 18.30, which
+    follows the lunchtime iPr0gram talk on the same day.
+
+    Definitely a packed week! Check out below for more details and keep the
+    biscuit suggestions coming!
+  </text>
+
+  <hr/>
+
+	<heading>Docker Workshop</heading>
+  <event>
+    <facebook id="935309229966009" />
+    <text>
+      &lt;strong&gt;&lt;font color="red"&gt;HAPPENING
+      TODAY!&lt;/font&gt;&lt;/strong&gt; Docker is a tool designed to make it
+      easier to create, deploy, and run applications by using containers.
+      Containers allow a developer to package up an application with all of the
+      parts it needs, such as libraries and other dependencies, and ship it all
+      out as one package.
+
+      This workshop is targeted to those who want to learn about the basics of
+      Docker. If you are taking Distributed Algorithms (CO347), this workshop
+      will definitely help you with the course. You may also encounter Docker in
+      some format during a placement or internship this summer..
+
+      This workshop will be hosted by Abhinav Mishra.
+    </text>
+  </event>
+
+	<heading>The Valentine's Bar Night</heading>
+  <event>
+    <facebook id="1607380125981757" />
+    <text>
+      &lt;strong&gt;&lt;font color="red"&gt;HAPPENING
+      TODAY!&lt;/font&gt;&lt;/strong&gt; It's time for the first Bar Night of
+      2018! Once again, we'll be meeting in Metric at 7pm for an evening of free
+      drinks and great conversation.
+
+
+      Drinks tokens will be given upon entry for FREE to any member of DoCSoc.
+      Tokens are valid for both alcoholic and non-alcoholic drinks.
+    </text>
+  </event>
+
+  <heading>Internship 101</heading>
+  <event>
+    <facebook id="140931969937020" />
+  </event>
+
+  <heading>JetBrains: Kotlin Hands-On</heading>
+  <event>
+    <facebook id="166048430696844" />
+  </event>
+
+  <hr />
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now!
+
+    Until next time,
+  </sign>
+
+  <text>
+    This week's biscuit brought to you by: Anonymous.
+    [Submit Biscuit](https://docsoc.co.uk/suggest-biscuit).
+  </text>
+</email>
