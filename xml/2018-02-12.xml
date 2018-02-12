@@ -67,15 +67,13 @@
   </event>
 
   <heading>DoCSoc Committee Elections Talk</heading>
-  <event
-    startDate="2018-02-14T14:00:00+00:00"
-    endDate="2018-02-14T15:00:00+00:00"
-    location="HXLY 217, Huxley Building">
+  <event>
+    <facebook id="1625897214123316" />
     <text>
       Interested in helping to run DoCSoc next year? Come to a short talk to
-      hear about the role of the committee positions you can run for at the
-      upcoming Leadership Elections!
-    </text>
+       hear about the role of the committee positions you can run for at the
+       upcoming Leadership Elections!
+     </text>
   </event>
 
   <heading>JetBrains: Kotlin Hands-On</heading>
