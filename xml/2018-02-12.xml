@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+	<image width="50"
+				 src="https://i.imgur.com/1YmCqwM.jpg"
+				 alt="Custard Cream"
+				 title="" />
+
+  <hr/>
+
+  <text>
+    It's Tuesday!
+
+    We kicked the week off with a whopping TWO events yesterday, the Docker
+    workshop and the Valentine's Bar Night.
+    Today (Tuesday) we're holding our Internship 101 event, where you
+    can find out about internships at companies that are still hiring from past
+    interns. And on Thursday we're running a Kotlin workshop at 18.30, which
+    follows the lunchtime iPr0gram talk on the same day. Don't miss breakfast on
+    Friday!
+
+    Definitely a packed week! Check out below for more details and keep the
+    biscuit suggestions coming!
+  </text>
+
+  <hr/>
+
+  <heading>Internship 101</heading>
+  <event>
+    <facebook id="140931969937020" />
+  </event>
+
+  <heading>DoCSoc Committee Elections Talk</heading>
+  <event>
+    <facebook id="1625897214123316" />
+    <text>
+      Interested in helping to run DoCSoc next year? Come to a short talk to
+       hear about the role of the committee positions you can run for at the
+       upcoming Leadership Elections!
+     </text>
+  </event>
+
+  <heading>JetBrains: Kotlin Hands-On</heading>
+  <event>
+    <facebook id="166048430696844" />
+  </event>
+
+  <heading>EF x DoCSoc Breakfast</heading>
+  <event>
+    <facebook id="1758452221129582" />
+    <text>
+      Get your Friday off to a great start with DoCSoc's third regular free
+      breakfast of the year - this time generously sponsored by EF!
+
+      Come along to Huxley 217/218 any time between 8:30 and 10:30am and enjoy a
+      great pre-lecture breakfast with other DoCSoc'ers. You can learn more
+      about EF at https://www.joinef.com!
+      </text>
+  </event>
+
+  <hr />
+
+  <heading>Oculus Rift Loan System</heading>
+  <text>
+    We've put in place a new loan system that allows you to take out an Oculus
+    Rift for use in your projects.
+
+    Fill in the form at https://docsoc.co.uk/oculus to make a booking!
+  </text>
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now!
+
+    Until next time,
+  </sign>
+
+  <text>
+    This week's biscuit brought to you by: Anonymous.
+    [Submit Biscuit](https://docsoc.co.uk/suggest-biscuit).
+  </text>
+</email>
