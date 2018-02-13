@@ -9,57 +9,21 @@
   <hr/>
 
   <text>
-    It's Monday!
+    It's Tuesday!
 
-    We're kicking the week off with a whopping TWO events, happening TODAY!
-    First is the Docker workshop, which you might find useful if you're either
-    taking Distributed Algorithms or will use Docker during a summer internship.
-    Following that is our Valentine's Bar Night, taking place from 19.00 in
-    Metric. Tomorrow (Tuesday) we're holding our Internship 101 event, where you
+    We kicked the week off with a whopping TWO events yesterday, the Docker
+    workshop and the Valentine's Bar Night.
+    Today (Tuesday) we're holding our Internship 101 event, where you
     can find out about internships at companies that are still hiring from past
     interns. And on Thursday we're running a Kotlin workshop at 18.30, which
-    follows the lunchtime iPr0gram talk on the same day.
+    follows the lunchtime iPr0gram talk on the same day. Don't miss breakfast on
+    Friday!
 
     Definitely a packed week! Check out below for more details and keep the
     biscuit suggestions coming!
   </text>
 
   <hr/>
-
-	<heading>Docker Workshop</heading>
-  <event>
-    <facebook id="935309229966009" />
-    <text>
-      &lt;strong&gt;&lt;font color="red"&gt;HAPPENING
-      TODAY!&lt;/font&gt;&lt;/strong&gt; Docker is a tool designed to make it
-      easier to create, deploy, and run applications by using containers.
-      Containers allow a developer to package up an application with all of the
-      parts it needs, such as libraries and other dependencies, and ship it all
-      out as one package.
-
-      This workshop is targeted to those who want to learn about the basics of
-      Docker. If you are taking Distributed Algorithms (CO347), this workshop
-      will definitely help you with the course. You may also encounter Docker in
-      some format during a placement or internship this summer..
-
-      This workshop will be hosted by Abhinav Mishra.
-    </text>
-  </event>
-
-	<heading>The Valentine's Bar Night</heading>
-  <event>
-    <facebook id="1607380125981757" />
-    <text>
-      &lt;strong&gt;&lt;font color="red"&gt;HAPPENING
-      TODAY!&lt;/font&gt;&lt;/strong&gt; It's time for the first Bar Night of
-      2018! Once again, we'll be meeting in Metric at 7pm for an evening of free
-      drinks and great conversation.
-
-
-      Drinks tokens will be given upon entry for FREE to any member of DoCSoc.
-      Tokens are valid for both alcoholic and non-alcoholic drinks.
-    </text>
-  </event>
 
   <heading>Internship 101</heading>
   <event>
@@ -80,6 +44,29 @@
   <event>
     <facebook id="166048430696844" />
   </event>
+
+  <heading>EF x DoCSoc Breakfast</heading>
+  <event>
+    <facebook id="1758452221129582" />
+    <text>
+      Get your Friday off to a great start with DoCSoc's third regular free
+      breakfast of the year - this time generously sponsored by EF!
+
+      Come along to Huxley 217/218 any time between 8:30 and 10:30am and enjoy a
+      great pre-lecture breakfast with other DoCSoc'ers. You can learn more
+      about EF at https://www.joinef.com!
+      </text>
+  </event>
+
+  <hr />
+
+  <heading>Oculus Rift Loan System</heading>
+  <text>
+    We've put in place a new loan system that allows you to take out an Oculus
+    Rift for use in your projects.
+
+    Fill in the form at https://docsoc.co.uk/oculus to make a booking!
+  </text>
 
   <sign name="Nik Vangerow"
     role="DoCSoc Secretary"
