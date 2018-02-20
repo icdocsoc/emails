@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+	<image width="50"
+				 src="https://i.imgur.com/pYfDnUC.jpg"
+				 alt="Garibaldi Biscuit"
+				 title="Seems like nobody actually cares about suggesting biscuits. We've had suggestions at a rate of one per week, which is not exactly great :(" />
+
+  <hr/>
+
+  <text>
+  </text>
+
+  <hr/>
+
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now!
+
+    Until next time,
+  </sign>
+
+  <text>
+    This week's biscuit brought to you by: Darth Plagueis The Wise.
+    [Submit Biscuit](https://docsoc.co.uk/suggest-biscuit).
+  </text>
+</email>
