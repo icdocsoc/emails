@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+	<image width="70"
+				 src="https://i.imgur.com/KVPpM6S.png"
+				 alt="Revel Bar"
+				 title="nth week of biscuit complaints" />
+
+  <hr/>
+
+  <text>
+    It's that time of the week again that I send an email.
+
+    We're gearing up for the candidate reveal and elections starting NOON,
+    FRIDAY 2ND MARCH! Don't forget to vote at vote.union.ic.ac.uk from Friday
+    onwards!
+
+    The other big thing happening this week is Revel. If you have a ticket that
+    you wish to transfer to someone else, please email docsoc@ic.ac.uk for help.
+
+    Otherwise, see not so much below and have a nice week :).
+  </text>
+
+  <hr/>
+
+  <heading>Status of Hoodies, T-Shirts, and Beanies</heading>
+  <text>
+    Hoodies and T-shirts have finally been ordered and are on their way. They
+    will be arriving later this week, so you should be informed about
+    distribution shortly if you ordered a Hoodie, T-shirt, or Beanie.
+  </text>
+
+  <!-- TODO: new NVM logo -->
+  <!-- DOCSOC EDU -->
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now!
+
+    Until next time,
+  </sign>
+
+  <text>
+    This week's biscuit brought to you by: Nik.
+    [Submit Biscuit](https://docsoc.co.uk/suggest-biscuit).
+  </text>
+</email>
