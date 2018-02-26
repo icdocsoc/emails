@@ -33,6 +33,24 @@
   <!-- TODO: new NVM logo -->
   <!-- DOCSOC EDU -->
 
+  <heading>IC Health Hack 18</heading>
+  <event>
+    <facebook id="1698424526881229" />
+    <text>
+      **Registration will open in two batches: Thursday, March 1st at 20:00,
+      Saturday, March 3rd at 12:00.**
+
+      The Department of Computing Society (DoCSoc), Bioengineering Society and
+      ICSM Coding Society present the IC HealthHack 2018!
+
+      Combining bioengineering, coding skills and domain-specific medical
+      knowledge, this Hackathon is aimed at developing serious games in the
+      public health sector. Over the weekend, teams will compete to develop
+      solutions to real-life healthcare challenges, before pitching to a panel
+      of experts.
+    </text>
+  </event>
+
   <sign name="Nik Vangerow"
     role="DoCSoc Secretary"
     facebook="nik.vangerow">
