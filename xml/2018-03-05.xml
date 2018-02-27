@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+	<image width="50"
+				 src=""
+				 alt=""
+				 title="" />
+
+  <hr/>
+
+  <text>
+    <!-- Intro Section -->
+  </text>
+
+  <hr/>
+
+  <!-- Content Section -->
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now!
+
+    Until next time,
+  </sign>
+
+  <text>
+    This week's biscuit brought to you by: Nik.
+    [Submit Biscuit](https://docsoc.co.uk/suggest-biscuit).
+  </text>
+</email>
