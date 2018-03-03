@@ -9,12 +9,71 @@
   <hr/>
 
   <text>
-    <!-- Intro Section -->
+      <!-- Intro Section -->
+      We hope everyone had a great night a Fiesta del Revel on Thursday! Now all
+      the eyes are on the Leadership Elections: who will be leading Imperial
+      College Union and running DoCSoc next year? Don't forget to vote at
+      vote.union.ic.ac.uk before Friday 12pm!
+      
+      This week we will host a Meet the Candidates event at lunchtime as well as
+      the NewVoiceMedia Panel and Bar Night which was unfortunately postponed a
+      couple of weeks ago!
   </text>
 
   <hr/>
 
   <!-- Content Section -->
+
+
+  <heading>DoCSoc: Meet the Candidates</heading>
+  <event> 
+      <facebook id="139889083496364" />
+      <text>
+      Nominations are closed, and the manifestos are in. This can only mean
+      one thing - it's time to Meet the Candidates! Join us in Huxley 308 from
+      1pm to meet the candidates running for all of the positions in DoC. This
+      is your chance to ask any questions you may have, and hear more about
+      what each candidate is campaigning for! Candidates for DoCSoc and Dep Reps
+      will all be present.
+      
+      Candidates for contested positions: Please turn up and prepare a 1 minute
+      speech on why you think you'd be good for the position. After each pitch
+      up to 2 questions will be asked by the audience.
+      </text>
+  </event>
+
+
+  <heading>NewVoiceMedia: Meet the Engineers + Bar Night</heading>
+  <event>
+      <facebook id="1967862183542078" />
+      <links>
+          <link
+              href="https://docs.google.com/forms/d/e/1FAIpQLSenwx_n0-skq4PR94e9ElB4404UOB8yn7izcwAEnXglehV3QA/viewform">
+              Submit your Questions! 
+          </link>
+      </links> 
+      <text> What is being a
+          software engineer really like?  What does the job involve?  What does
+          working in an agile team really involve?  What kinds of problems and
+          technical challenges will I be solving?
+          
+          If you are interested in the answers to the these questions and more,
+          NewVoiceMedia will be hosting a panel consisting of several
+          professionals with a variety of experience in different roles who will
+          be able to give you a flavour for what working in the industry is
+          really like while answering these questions and many more. 
+          
+          If you have any questions you would like to ask the engineers, please
+          submit them through the form above.
+          
+          This event will also be followed
+          by a bar night in the Union Bar, an excellent opportunity to ask
+          further questions! Please note you will need to have attended the
+          workshop in order to come to the bar night. 
+      </text>
+  </event>
+
+
 
   <sign name="Nik Vangerow"
     role="DoCSoc Secretary"
