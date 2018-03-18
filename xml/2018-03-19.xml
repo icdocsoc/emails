@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<email title="Weekly Digest">
+<email title="Weekly Digest" agenda="false" >
 
 	<image width="50"
 				 src="https://i.imgur.com/46FzTOP.jpg"
@@ -15,6 +15,9 @@
 
     This week, however, there's a bar night! The final one of the term! It's on
     **SATURDAY**.
+
+    We wish everyone the best of luck with their exams both this week and after
+    the spring break. The digest will be back after exams!
   </text>
 
   <hr/>
