@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest" agenda="false" >
+
+	<image width="50"
+				 src="https://i.imgur.com/46FzTOP.jpg"
+				 alt="Butter Scone"
+				 title="So much content warrants more biscuits. Submit yours today! (See below)" />
+
+  <hr/>
+
+  <text>
+    Hello everyone,
+
+    Yeah, there was no digest last week. There wasn't much going on anyway.
+
+    This week, however, there's a bar night! The final one of the term! It's on
+    **SATURDAY**.
+
+    We wish everyone the best of luck with their exams both this week and after
+    the spring break. The digest will be back after exams!
+  </text>
+
+  <hr/>
+
+  <heading>G-Research End of Term Bar Night</heading>
+  <event>
+    <facebook id="1600160333425042" />
+    <text>
+      DoCSoc's final bar night of the term is happening, kindly brought to you
+      by G-Research!
+
+      We will be enjoying free drinks (alcoholic or not), and celebrating our
+      successes throughout this term, don't miss it!
+
+      Note that this event is on a SATURDAY - the day after term ends. Book your
+      flights and trains home accordingly! 18+ only - IDs will be checked.
+    </text>
+  </event>
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now!
+
+    Until next term,
+  </sign>
+
+  <text>
+    This week's biscuit brought to you by: Anonymous.
+    [Submit Biscuit](https://docsoc.co.uk/suggest-biscuit).
+  </text>
+</email>
