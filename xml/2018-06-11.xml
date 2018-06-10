@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest" agenda="false" >
+
+  <image width="70"
+         src="https://i.imgur.com/f9Rr2j2.jpg"
+         alt="Digestive Biscuit"
+         title="No biscuit found :(" />
+
+  <hr/>
+
+  <text>
+    Hello everyone,
+
+    Exams are finally over and summer is in the air! We hope that you are having
+    a blast with your summer projects, placements, or whatever you might be up
+    to right now. I sure love WebApps.
+
+    Since there hasn't been much going on, you haven't been seeing these emails
+    much. But now there is:
+
+    To mark the end of the year, we'll be holding our annual formal dinner. More
+    details below!
+  </text>
+
+  <hr/>
+
+  <heading>DoCSoc End Of Year Dinner 2018</heading>
+	<event startDate="2018-06-21T19:00:00+01:00"
+				 endDate="2018-06-22T00:30:00+01:00"
+				 location="The Ivory Vaults, Ivory House, St Katharine Docks, E1W 1BP">
+    <image src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/34511500_2185187851497752_545841969104945152_o.jpg?_nc_cat=0&amp;oh=0dd5ed00e5f2757eb1ff7d7978f2c33d&amp;oe=5BA8E2F1" />
+    <text>
+      **The final batch of tickets (Late Release, £25) will go live tomorrow,
+      Monday 11th June at 15.00!**
+
+      The time has come for the final DoCSoc event, the End Of Year Dinner. Join
+      us at the Ivory Vaults, on Thursday 21st June for a glamorous evening of
+      dinner, drinking, and dancing.
+
+      The festivities shall begin with a champagne reception, followed by a
+      three-course meal together with half a bottle of wine and/or soft drinks.
+
+      A sophisticated evening calls for sophisticated dress - please arrive in
+      black tie. We hope to see you all there for a memorable night!
+
+      For further details about tickets, please see the
+      [Facebook event](https://www.facebook.com/events/1815337052108607/).
+    </text>
+		<links>
+      <link href="https://www.facebook.com/events/1815337052108607/">Facebook</link>
+      <link href="https://www.eventbrite.co.uk/e/docsoc-end-of-year-dinner-tickets-46799440386">
+        Eventbrite (Placeholder Tickets)
+      </link>
+		</links>
+  </event>
+
+  <text>
+    # Farewell
+
+    It looks like my term is coming to a close. Whether you've enjoyed my
+    "weekly" emails or not, my place will be inherited by someone who is sure to
+    bring you even better digests next year.
+
+    Thanks to everyone who participated in the random stuff that I sent out
+    every now and then, such as when I ran a survey on the future of the
+    biscuit.
+    By the way, I picked the biscuit this week because the number of respondents
+    to the biscuit choosing survey was rather lacking.
+  </text>
+
+  <sign name="Nik Vangerow"
+    role="DoCSoc Secretary"
+    facebook="nik.vangerow">
+    That's all for now -- I think!
+
+    Until next term?
+  </sign>
+
+  <text>
+    This week's biscuit brought to you by: Anonymous.
+    [Submit Biscuit](https://docsoc.co.uk/suggest-biscuit).
+  </text>
+</email>
