@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Digest" logos="false">
+
+  <text>
+    Hope your summer holidays are going well!
+
+    We're getting in touch with two opportunities from our sponsors. Be sure to
+    check them out!
+  </text>
+  <hr/>
+
+  <heading>Facebook Hack-a-Project 2018</heading>
+  <image src="https://i.imgur.com/Aqczu56.png"/>
+  <text>
+    Facebook is launching Hack-a-project!  Consider it an extended hackathon
+    with learning and mentoring attached to it!
+
+    This is a 6 - 8 week programme kicking off in October 2018, designed for 2nd
+    and 3rd year students, looking to apply for a Software Engineering
+    internship with Facebook.
+
+    Selected students will come to the Facebook office, once a week in the
+    evening to focus on understanding the whole development cycle, and build a
+    project.  Each session will consist of a talk, and practical applications
+    with group mentoring support. Dinner will also be provided!
+
+    *Facebook will not be providing this project; students will be coming up
+    with the project.
+
+    In addition, we will be sharing tips on “how to crush your coding interview”,
+    and also do a mock interview with you, where feedback will be provided to
+    help you improve.
+
+    All selected participants will be guaranteed an interview for the Facebook
+    internship!
+
+    **If you would like to sign-up please follow this link https://hackaprojectseptember2018.splashthat.com/**
+
+    **Password: HAP2018**
+
+    **You will be sent a link to complete a “HackerRank” (a coding challenge).
+    Upon passing this, you will be asked to provide your CV, and this will be
+    screened for this programme. To be considered, you will have to complete all
+    of these steps by 31st August!**
+  </text>
+  <hr />
+
+  <heading>Netcraft Final Year Project Kickstarter Hackathon</heading>
+  <event startDate="2018-09-07T17:00:00+01:00"
+    endDate="2018-09-09T16:00:00+01:00"
+    location="Bath, Somerset">
+    <text>
+      Netcraft is running a hackathon in Bath for final year students over the
+      weekend of 8th September.
+
+      Over the past few years, students working with Netcraft have produced some
+      of the best final year projects at the top UK universities, including
+      winning the Best Project Prize at each of Imperial, Bath and Bristol, and
+      securing firsts for all of the projects attempted.
+
+      If you're interested, check out the event description with instructions on
+      how to take part here: https://www.facebook.com/events/1684249138351948/
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1684249138351948/">Facebook</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
