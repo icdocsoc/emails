@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="J.P. Morgan Open for Applications" logos="false">
+
+  <text>
+    Hi everyone,
+
+    J.P. Morgan is now open for applications and have sent us an email sharing
+    their upcoming events and career opportunities. If you're interested, take a
+    look below for more information!
+  </text>
+  <hr/>
+
+  <image src="https://i.imgur.com/7gpC4yi.jpg" />
+  <image src="https://i.imgur.com/AS12ElB.jpg"
+      link="http://careers.jpmorgan.com/student/jpmorgan/careers?jp_cmp=en/jpm_whats_to_come/ema/global/header" />
+
+  <text>
+    Content to be manually pasted due to number of links
+  </text>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
