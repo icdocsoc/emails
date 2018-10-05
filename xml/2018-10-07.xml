@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image width="80"
+         src="https://i.imgur.com/Q2FvTYv.jpg"
+         alt="Photo of a snickerdoodle"
+         title="Snickerdoodles are crispy outside and chewy inside. Would recommend!" />
+  <hr/>
+
+  <text>
+    Here's the second weekly digest of the year!
+
+    First off, thanks to everyone who came to Freshers' Fair. It was great seeing
+    both old and new faces and if you're a fresher, we hope you managed to learn
+    more about what we do as a society and meet our committee members.
+
+    We have a lot of events going on in the coming week and in the longer term,
+    so read on for more information!
+  </text>
+
+  <hr/>
+
+  <text>Let's start off with our events coming up over the next week:</text>
+
+  <heading>Mums &amp; Dads Lunch</heading>
+  <event startDate="2018-10-08T12:30:00+01:00"
+    endDate="2018-10-08T14:00:00+01:00"
+    location="HXLY 341/342">
+    <text>
+      As a fresher, you will have already heard of our Mums and Dads (MaD) programme.
+      If you don't have parents assigned yet or haven't heard of this programme, please
+      reach out to your departmental representatives above.
+
+      We'll be kicking off the Mums and Dads programme with an opportunity for you
+      to meet your MaD parents and have lunch with them! We will be offering free
+      food and drinks, as well as issuing a number of challenges. You might even win
+      a prize!
+
+      Mums and Dads parent? Be sure to turn up to this event to meet your children!
+    </text>
+  </event>
+
+  <heading>An Introduction to Linux &amp; the Command Line</heading>
+  <event startDate="2018-10-08T18:00:00+01:00"
+    endDate="2018-10-08T19:00:00+01:00"
+    location="HXLY 144">
+    <image src="https://i.imgur.com/5LRGebA.jpg" />
+    <text>
+      If you're a first year and are new to Computer Science, then this is the
+      talk for you!
+
+      Familiarity with the Linux/Unix environment and the command line is arguably
+      one of the most important skills a software engineer today can have. Many
+      often find it difficult and intimidating at first - even if they've got
+      quite a bit of coding experience under their belt, but DoCSoc is here to help!
+
+      We'll be covering important fundamental command line skills and Linux-related
+      knowledge that will be useful for you sometime down the road, as well as
+      looking at package managers and different text editors. You'll also have a
+      chance to ask any questions you may have at the end of the talk.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1914035272235179/">Facebook</link>
+    </links>
+  </event>
+
+  <heading>Sponsors' Exhibition</heading>
+  <event startDate="2018-10-09T17:00:00+01:00"
+    endDate="2018-10-09T20:00:00+01:00"
+    location="Queens Tower Rooms">
+    <image src="https://i.imgur.com/ptAlUIl.jpg" />
+    <text>
+      Come to the Queens Tower Rooms on Tuesday 9th October between 5pm - 8pm to
+      have a chance to meet all of DoCSoc's Silver and Gold sponsors this year
+      and grab some swag.
+
+      This year's exciting sponsors that will be attending include Facebook,
+      Palantir, Bloomberg, Samsung, Netcraft, Microsoft, Next Jump, Entrepreneur
+      First, NewVoiceMedia and Artificial Labs.
+
+      Whether you are looking for an internship or graduate role, or simply want
+      to know more about industry, we really recommend you come along as it's a
+      great way to get in direct contact with recruiters and engineers from highly
+      regarded companies and should provide invaluable insight into the recruitment
+      process.
+
+      This event is open to all DoCSoc members (automatically includes Computing,
+      JMC, and EIE students).
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1873849222722225/">Facebook</link>
+    </links>
+  </event>
+
+  <heading>Bloomberg Extreme Decentralised App Development</heading>
+  <event startDate="2018-10-11T18:00:00+01:00"
+    endDate="2018-10-11T21:00:00+01:00"
+    location="Skempton 060">
+    <text>
+      Join Bloomberg on Thursday 11th October at 6pm for a session of Extreme
+      Decentralised Application Development on the Ethereum blockchain. We will
+      present to you the tools you need to develop, test and deploy smart contracts
+      on the Ethereum blockchain. Then you will be given the chance to work in
+      groups to develop and deploy a series of smart contracts that will allow you
+      to create a toy social network on Ethereum.
+
+      We hope that you will leave the session knowing where to start with
+      decentralised app development and with a basic understanding of the issues
+      such apps face and why they haven't been widely adopted yet.
+
+      Note that if you're a first year and are new to programming, you may find
+      this event a little intense.
+
+      Drinks at the Union to follow.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2163782050561037/">RSVP (Facebook)</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>Next, here's a couple of events coming up in the longer term:</text>
+
+  <heading>CGCU Annual Welcome Dinner</heading>
+  <event external="true"
+    startDate="2018-10-27T18:30:00+01:00"
+    endDate="2018-10-28T01:00:00+01:00"
+    location="Millennium Gloucester Hotel">
+    <image src="https://i.imgur.com/LXIr2lJ.jpg" />
+    <text>
+      The City and Guilds College Union (CGCU), the constituent union responsible
+      for Imperial's engineering courses (which DoCSoc belongs to!) is holding
+      their annual welcome dinner. Details below:
+
+      One of the BIGGEST EVENTS of our year - start your year the right way!
+      JOIN US at the CGCU Annual Welcome Dinner!
+
+      Imagine entering through the courtyard on a red carpet, dazzling everyone
+      with your outfit as the paparazzi snap photos. At the drinks reception,
+      you receive a complimentary welcome drink and chat with your friends, before
+      heading to the main room for a 3-course meal with wine. Speeches, music,
+      and dancing follow as the Techtonics (world A Cappella champions) perform,
+      before the DJ comes on and the after party begins! Who wouldn't want to come?!
+
+      **Details**
+
+      - Location: Millennium Gloucester Hotel (next to Gloucester Road Station) -
+      less than a 10 minute walk away from Imperial!
+      - Date: Saturday 27th October
+      - Time: 6.30 pm
+      - Dress Code: Black Tie
+      - Student priced Card/Cash bar available too!
+
+      **Ticket includes**
+      - Glass of prosecco
+      - 3 course meal
+      - 1/2 bottle of wine
+      - Techtonics performance
+      - After party
+      - Free Cloakroom all night
+      - Professional photographer (photos posted online after)
+
+      Open to all, but non-engineers must accompany a plus-one! Under 18s can also attend.
+    </text>
+    <links>
+      <link href="https://www.imperialcollegeunion.org/shop/club-society-project-products/city-guilds-union-products/23894/final-release-welcome-dinner-tickets-">Tickets (Union website)</link>
+      <link href="https://www.facebook.com/events/538834613239338/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Google DevFest London 2018</heading>
+  <event startDate="2018-12-01T09:30:00+01:00"
+    endDate="2018-12-01T18:30:00+01:00"
+    location="Imperial College London (South Kensington Campus)">
+    <image src="https://i.imgur.com/yHopaE6.jpg" />
+    <text>
+      DoCSoc is proud to be hosting Google DevFest London on our very own campus
+      this year! Read on for more information.
+
+      **Learn the latest in web, mobile, cloud, machine learning and more at the
+      UK's largest community organised free conference.**
+
+      GDG London, Google and DoCSoc present GDG Devfest London - a multi-track
+      event covering: cloud and machine learning; web; mobile; assistant; codelabs
+      and demos.
+
+      To find out more about speakers, topics and agenda, visit devfest.gdg.london
+
+      Don’t miss out on a fun, interesting and informative day of expert speakers,
+      demo stands coding labs and much much more.
+
+      You’ll also get the chance to network with experts from Google, Imperial
+      College and beyond and learn more from some of the amazing developer
+      communities we have in London.
+
+      There will be people taking photographs and potentially filming the event.
+      By attending you agree to the possibility of being photographed and filmed
+      once inside the venue.
+
+      Thank you for your interest in GDG DevFest London and we look forward to seeing you there!
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/gdg-devfest-london-2018-tickets-50723931645">Tickets (Eventbrite)</link>
+      <link href="https://www.facebook.com/events/255733691798751">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>CGCU 5-a-side Football</heading>
+  <text>
+    CGCU 5-a-side football is back, better than ever! The CGCU Football League,
+    'Unsullied by sponsorship since 2018.'
+
+    This year promises more games, goals and greatness! Teams play in a league
+    games in one of two departmental conferences (TBC depending on teams responding),
+    then afterwards fighting for the newly created CGCU Cup in an inter-conference.
+    The winners get the trophy displayed in the union or their department with their
+    colours for all to see. This new format enables teams to pay a number of guaranteed
+    league games, but still delivers on an exciting knockout tournament, world cup style!
+
+    The first game is likely to be in October, in order to allow freshers to make
+    teams too, but a further email will follow to team captains with more information
+    closer to the time.
+
+    Team captains: could you send an email with your name and team's name to say
+    you are interested, so that I can sign you guys up into the league and start
+    putting together the conferences and schedule! As early as possible would help
+    me out big time. Email: rh1616@ic.ac.uk.
+  </text>
+
+  <hr />
+
+  <text>Finally, messages from our sponsors:</text>
+
+  <heading>Netcraft Job Opportunities</heading>
+  <sponsor company="netcraft"/>
+  <text>
+    Netcraft is a world-leading security services company, providing penetration
+    testing and cybercrime disruption services to critical institutions throughout
+    the world.
+
+    We’re currently looking to recruit software developers to our new offices in
+    London for graduates and students in at least Year 2, as well as our offices
+    in Bath for all years.
+
+    We are keen to receive applications for graduate positions, industrial
+    placements, or summer internships from high performing Computing students.
+
+    Projects involve working on a range of commercial services extending
+    Netcraft’s network exploration and internet security services.
+
+    To find out more, take a look at our recruitment booklet: https://www.netcraft.com/about-netcraft/jobs/NetcraftGraduateBooklet.pdf
+
+    Interested? Send a CV to cv@netcraft.com.
+  </text>
+
+  <heading>J.P. Morgan Events</heading>
+  <sponsor company="jpmorgan">
+    Paste J.P. Morgan email from Alice (5th Oct 2018) here (contains lots of links).
+  </sponsor>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
