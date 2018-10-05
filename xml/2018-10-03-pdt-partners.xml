@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="PDT Partners Open House" logos="false">
+
+  <text>
+    Hi everyone,
+
+    Our sponsor, PDT Partners, a boutique quantitative trading firm, is hosting
+    an open house office visit **eligible for second year students and above**.
+
+    If you're an eligible student and looking for an internship or industrial
+    placement, check out more details about their event below!
+  </text>
+  <hr/>
+
+  <image src="https://i.imgur.com/RGgeIYO.jpg" width="70" />
+  <event startDate="2018-10-08T17:00:00+01:00"
+    endDate="2018-10-08T20:00:00+01:00"
+    location="PDT Partners, 1 Bishopsgate, 3rd Floor, London, EC2N 3AQ">
+    <text>
+      PDT Partners - a boutique quantitative trading firm - is thrilled to partner
+      again with Imperial for its 2019 Industrial Placement and Internship programs.
+
+      We're hosting an open house the day before the Sponsors' Exhibition to give Imperial
+      students an opportunity to check out the office, and meet some of the engineers
+      we have working in the office while enjoying some food and drinks.
+
+      Your hosts for the evening are [Charlotte Oldfield](https://www.linkedin.com/in/charlotte-oldfield-76964962/),
+      and [Aaron Rosen](https://www.linkedin.com/in/aaronhrosen/).
+
+      **RSVP here (strictly second years and up only):** https://event.pingg.com/PDTOpenHouse
+    </text>
+    <links>
+      <link href="https://event.pingg.com/PDTOpenHouse/">RSVP</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
