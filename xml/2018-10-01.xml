@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image width="70"
+         src="https://i.imgur.com/skyMLSx.jpg"
+         alt="Photo of Oreos on a plate"
+         title="Let's kick off the year with some Oreos!" />
+  <hr/>
+
+  <text>
+    Welcome (back) to the Department of Computing!
+
+    Whether you're a returning student or a recently-joined fresher, this first
+    weekly digest of the year contains a whole lot of useful information, so
+    keep on reading!
+  </text>
+
+  <hr/>
+
+  <heading>What is DoCSoc?</heading>
+
+  <text>
+    **Returning student?** If you aren't a fresher, feel free to skim through this
+    section. If you're new to DoCSoc, there's lots of useful information here so
+    read on!
+
+    **DoCSoc is the Department of Computing Society**. We run multiple events through
+    the year with our sponsors. We invite notable tech speakers, connect our
+    students with different opportunities and run a number of social events to
+    bring together the community of students who are interested in Computing.
+
+    **Committee -** This year, DoCSoc is brought to you by:
+
+    - **President**: Inara Ramji
+    - **Vice President**: Alessandro Bonardi
+    - **Treasurer**: Rachel Mekhteiva Lee
+    - **Industrial Events Director**: Rohan Pritchard
+    - **Social Events Director**: Jayati Sarkar
+    - **Academic Events Director**: Jack Pordi
+    - **Secretary**: Kelvin Zhang
+    - **Events Officers**: Szilveszter Szekely, Serene Chongtrakul, Anindita (Andy) Ghosh
+    - **Marketing &amp; Publicity Officer**: Fawaz Shah
+    - **Webmaster**: George Soteriou
+    - **GameDev Officer**: Athi Dharma
+
+    **Dep Reps -** In addition to the DoCSoc committee, we have three departmental representatives
+    (dep reps) this year responsible for representing the student body to the department:
+
+    - **Computing**: Martin Zlocha ([email](mailto:dep-rep@doc.ic.ac.uk))
+    - **Joint Maths and Computing (JMC)**: Rachel Mekhtieva Lee and Fawaz Shah ([email](mailto:dep-rep@doc.ic.ac.uk))
+    - **Electronic and Information Engineering (EIE)**: Willem van der Schoot (Academic, [email](willem.van-der-schoot16@imperial.ac.uk)) and Mayank Surana (Wellbeing, [email](mayank.surana16@imperial.ac.uk))
+
+    If you have any academic or wellbeing related queries, your dep reps are people
+    you can talk to.
+
+    **Events -** DoCSoc runs a huge number of events every year. Our main events
+    include:
+
+    - **Talks and Workshops** - Not to be confused with the department's lunchtime
+    ACI talks, DoCSoc runs engaging talks and workshops with our sponsors, usually
+    in the evening with pizza (with dietary requirements catered for) and soft
+    drinks provided. In the past, we've run workshops such as capture the flag competitions
+    with Netcraft, an _Extreme Startup_ event with Palantir and Bloomberg's _CodeCon_.
+
+    - **Bar Nights** - Our most well-known events include our bar nights which
+    usually occur every month during term time. Bar nights are a chance for you to
+    socialise with your coursemates, make new friends and occasionally network with
+    recruiters sponsoring our bar nights. Bar nights are _free entry_ to our members
+    and you will be given tokens for _free_ drinks (both alcoholic and non-alcoholic)
+    to use at the bar!
+
+    - **Sponsors' Exhibition** - This is DoCSoc's Careers Fair, where our sponsors
+    come together to present their companies and interact with you. See below for
+    more details about this year's Sponsors' Exhibition!
+
+    - **Revel and End of Year Dinner** - The two formal events hosted by DoCSoc.
+    Held before exams and at the end of the summer term respectively, both events let
+    you celebrate with your coursemates with a unique atmosphere you will remember
+    even after you have graduated!
+
+    - **IC Hack** - Every year, we hold our flagship hackathon, IC Hack, the largest
+    student-run hackathon in the country. Last year, attendees hacked away for
+    twenty-four hours building their competition entries, while we kept them
+    engaged with workshops from five sponsors, a meditation and sleep class with
+    NextJump, games rooms, karaoke and much more! Check out the montage from the
+    last year [here](https://www.youtube.com/watch?v=Hngr7ts45Dc).
+
+    Throughout the year we also host a wide range of social events (go-karting,
+    cinema and theatre trips) and academic events. Do you have suggestions for
+    events? We're always looking for feedback so feel free to email us with anything
+    you have in mind!
+
+    **Sponsors -** DoCSoc would not be possible without the support of our sponsors.
+    Sponsors fund the events we run, including our bar nights, IC Hack and our workshops.
+
+    Why do sponsors fund us? The reason is simple: they want to hire _you_. That's
+    why we host a yearly Sponsors' Exhibition (details below) exclusive to our
+    members and send you opportunities in the weekly digest.
+
+    **Membership -** Our membership base is mostly comprised of Computing, JMC,
+    and EIE students who are automatically members of DoCSoc at no cost. For
+    those _not_ on these courses, membership can be purchased on the [Union website](https://www.imperialcollegeunion.org/activities/a-to-z/computing).
+    Why not get your friends on other courses to become members too?
+
+    **Keeping Updated -** Our weekly digest is one of two key ways to find out about
+    events. The best place to stay updated about events is via our **[Facebook](https://www.facebook.com/ICDocSoc/)**
+    page. You can also find us on [Twitter](https://twitter.com/icdocsoc/).
+
+    Don't forget that we run **group chats for every academic year** on Facebook
+    Messenger. Other than Piazza (run by the department), Messenger is a central
+    place for discussions so if you aren't part of this group chat, get in touch
+    with us and we'll add you!
+  </text>
+
+  <hr />
+
+  <heading>Volunteering with DoCSoc</heading>
+  <text>
+    Running activities at DoCSoc's scale would not be possible without the help
+    of volunteers. We have opportunities open for anyone looking to offer their
+    technical skills or manpower.
+
+    **Operations -** DoCSoc has a central [Facebook group](https://www.facebook.com/groups/1509850436007222/)
+    for when we need volunteers. If you're thinking of volunteering, join the group!
+    Events we will need help for over the coming months include:
+
+    - Google DevFest London - We're hosting Europe's largest free developer conference
+    with over 1000 attendees on Saturday 1st December. We're looking for volunteers
+    to help with organising both before and during the event.
+
+    - IC Hack - With 300 attendees, our yearly hackathon won't be possible without
+    our volunteers. If you aren't looking to compete in the hackathon, lending a
+    helping hand is also a great way to participate in the hackathon!
+
+    **Software Foundation -** We're reviving our open source initiative, the
+    [Software Foundation](https://github.com/docsocsf) and are in need of
+    volunteers and contributors. This year, we're planning lots of projects,
+    from beginner-friendly to more advanced. If you'd like to get involved,
+    either as a project owner or only to suggest ideas, please let us know!
+  </text>
+
+  <hr />
+
+  <text>Now for the upcoming events:</text>
+
+  <heading>Freshers' Fair</heading>
+  <text>
+    - **When:** **TOMORROW!** 11:00 - 16:00, Tuesday 2nd October 2018
+    - **Where:** Main Entrance (ICME) Stall 5
+
+    Come and visit us at our stall at the Freshers' Fair to learn more about us,
+    chat with the committee and compete in a (yet to be announced) competition to
+    win some prizes! We'll be there all day so make sure to check out all of the
+    other fantastic opportunities as well. You can find us by consulting the official
+    map.
+  </text>
+
+  <heading>Mums &amp; Dads Lunch</heading>
+  <text>
+    - **When:** 12:30 - 14:00, Monday 8th October 2018
+    - **Where:** HXLY 341/342
+
+    As a fresher, you will have already heard of our Mums and Dads (MaD) programme.
+    If you don't have parents assigned yet or haven't heard of this programme, please
+    reach out to your departmental representatives above.
+
+    We'll be kicking off the Mums and Dads programme with an opportunity for you
+    to meet your MaD parents and have lunch with them! We will be offering free
+    food and drinks, as well as issuing a number of challenges. You might even win
+    a prize!
+
+    Mums and Dads parent? Be sure to turn up to this event to meet your children!
+  </text>
+
+  <heading>Sponsors' Exhibition</heading>
+  <text>
+    - **When:** 17:00 - 20:00, Tuesday 9th October 2018
+    - **Where:** QTR
+
+    Looking for an internship, placement or graduate role? Want to find out more
+    about industry and chat with out sponsors? Come join us in Queen's Tower Room
+    (Sherfield Building) for our main industrial event of the year to have a chat
+    with companies ranging from Facebook to Palantir and from Netcraft to Microsoft.
+    Bring lots of questions and be prepared to go home with a lot of swag!
+  </text>
+
+  <hr />
+
+  <text>Some notes from our sponsors:</text>
+
+  <heading>Liquidnet ACI Talk</heading>
+  <sponsor company="liquidnet">
+    Liquidnet will be holding an Applications of Computing in Industry (ACI) talk
+    at **1:45pm** on **Tuesday 2nd October** in **HXLY 308**.
+
+    Titled "**Trading, AI and augmenting behaviour**", the talk revolves around
+    the challenges of applying technology and predictive analytics to tasks performed
+    by human experts.
+
+    Abstract: Traders in financial markets perform tasks that require
+    them to absorb large amounts of data in limited time and make rapid decisions.
+    It is relatively easy to show that their performance is sub-optimal and costs
+    firms hundreds of millions of dollars a year. Our company’s product augments
+    the human expert with a variety of technologies, from anomaly detection pattern
+    recognition algorithms to natural language generation and visualizations. In
+    this talk I will review the challenges we experienced in adoption and adherence
+    of new technologies by human experts, deconstructing the methods that were
+    effective in overcoming the obstacles, and review similarities across other
+    industries.
+  </sponsor>
+
+  <heading>Netcraft Opportunities</heading>
+  <sponsor company="netcraft">
+    Netcraft is a world-leading security services company, providing penetration
+    testing and cybercrime disruption services to critical institutions throughout
+    the world.
+
+    We're currently looking to recruit software developers to our offices in Bath,
+    England. We are keen to receive applications for graduate positions, industrial
+    placements, or summer internships from high performing Computing students.
+
+    Projects involve working on a range of commercial services extending Netcraft's
+    network exploration and internet security services.
+
+    To find out more, take a look at our recruitment booklet:
+    https://www.netcraft.com/about-netcraft/jobs/NetcraftGraduateBooklet.pdf
+
+    Interested? Send a CV to cv@netcraft.com.
+  </sponsor>
+
+  <hr />
+
+  <text>
+    That's all for this week! We have a lot more events planned for this month,
+    so stay tuned for the next digest.
+  </text>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
