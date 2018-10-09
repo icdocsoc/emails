@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Sponsors' Exhibition" agenda="false">
+
+  <text>
+    Hi everyone,
+
+    Just a reminder that the Sponsors' Exhibition (DoCSoc's careers fair) will
+    be **today** from 5pm to 8pm, so come along and meet our sponsors!
+
+    You can find the **careers handbook attached**. There will also be physical
+    copies available at the exhibition.
+  </text>
+
+  <hr/>
+
+  <event startDate="2018-10-09T17:00:00+01:00"
+    endDate="2018-10-09T20:00:00+01:00"
+    location="Queens Tower Rooms">
+  <text>
+    Come to the Queens Tower Rooms on Tuesday 9th October between 5pm - 8pm to
+    have a chance to meet all of DoCSoc's Silver and Gold sponsors this year
+    and grab some swag.
+
+    This year's exciting sponsors that will be attending include Facebook,
+    Palantir, Bloomberg, Samsung, Netcraft, Microsoft, Next Jump, Entrepreneur
+    First, NewVoiceMedia and Artificial Labs.
+
+    Whether you are looking for an internship or graduate role, or simply want
+    to know more about industry, we really recommend you come along as it's a
+    great way to get in direct contact with recruiters and engineers from highly
+    regarded companies and should provide invaluable insight into the recruitment
+    process.
+
+    This event is open to all DoCSoc members (automatically includes Computing,
+    JMC, and EIE students).
+  </text>
+  <links>
+    <link href="https://www.facebook.com/events/1873849222722225/">Facebook</link>
+  </links>
+  </event>
+
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
