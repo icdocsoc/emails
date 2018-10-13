@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/5rJTZsq.jpg"
+    alt="Photo of digestive biscuits on a plate"
+    title=""/>
+  <hr/>
+
+  <text>
+    Hi again! It's time for another digest.
+
+    In the past week, we held four events: the Mums and Dads meeting, Linux talk,
+    Sponsors' Exhibition and the Bloomberg Decentralised App Development workshop.
+    These events were an overwhelming success with a total attendee count over all
+    four events of 1000. Thanks to everyone who participated and a special thanks
+    to all of our volunteers!
+
+    If you have any feedback about our events, feel free to [get in touch](mailto:docsoc@imperial.ac.uk).
+    Additionally, if you want to help out at our events, be sure to join our
+    [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/) Facebook group.
+
+    In the coming week, we have our first inaugural bar night of the year, the
+    Welcome Bar Night, so stay tuned for more information and opportunities from
+    our sponsors.
+  </text>
+
+  <hr/>
+
+  <heading>Welcome Bar Night</heading>
+  <event
+    startDate="2018-10-18T19:00:00+01:00"
+    endDate="2018-10-18T23:00:00+01:00"
+    location="Metric">
+    <image src="https://i.imgur.com/TPhybmZ.jpg" />
+    <text>
+      It's time for DoCSoc's first bar night of the year: The Welcome Bar Night!
+
+      Come along for free drinks and to say hi to our new freshers or catch up
+      with friends - it's sure to be a night you don't want to miss out on.
+
+      Drinks tokens will be given upon entry for FREE to all DoCSoc members.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2180649362174437/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Next Jump Opportunities</heading>
+  <sponsor company="next_jump"/><text>
+    It was great speaking to many of you at the DoCSoc careers fair on Tuesday.
+    Hope you managed to swipe some orange sunglasses before they ran out 🕶️! Our
+    fast track applications for intern/placement and full time software developers
+    are still open – use the link below to apply to come to our Super Saturday.
+
+    https://nextjump.applytojob.com/apply/UWulrrsRCG/Software-Engineer-Web-Applications?source=socmedpost
+
+    Next Jump is a global e-commerce company and work with 70% of the Fortune 1000,
+    generating $2.5B a year. We build coders who lead. This means not just building
+    awesome products (in React Native, Golang and PHP), our developers lead teams
+    to design, build and market to our 3mil UK customers – from their first day
+    on the job. Check out the video below to find out more about being a developer
+    at Next Jump https://www.youtube.com/watch?v=xEYu7kOsRWI
+
+    You can also email us at teamukrecruitment@nextjump.com if you have any questions.
+  </text>
+  <image src="https://i.imgur.com/fqjRgbw.jpg" />
+
+  <hr />
+
+  <heading>Schlumberger Meet &amp; Engage Event</heading>
+  <sponsor company="schlumberger"/>
+  <image src="https://i.imgur.com/eDTOQFE.png" />
+  <text>
+    We have selected DoCSoc's members to participate in an exclusive live video
+    chat on the World Alliance for Efficient Solutions!
+
+    Many innovative solutions exist that can reduce our impact on the environment
+    while enabling economic development.
+
+    Join Bertrand Piccard, the man who flew 26,000 miles around the world with a
+    plane powered only by the sun and find out how he is contributing to improve
+    the world’s energy efficiency and have economy and ecology work hand-in-hand.
+    Learn more about his [#1000 Efficient Solutions initiative](https://www.youtube.com/watch?v=3RkXldC2nJI&amp;feature=youtu.be), why innovative
+    companies like Schlumberger are partnering with him, and how you can apply
+    your engineering and science skills to help this important project.
+
+    **WHEN:** October 19th, 11.00 (UK time)
+
+    **HOW:** Register on line @ https://meetandengage.com/g3c6h9h3t
+
+    **Please kindly confirm your availability by registering on the above link.**
+  </text>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
