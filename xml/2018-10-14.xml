@@ -5,7 +5,7 @@
     width="80"
     src="https://i.imgur.com/5rJTZsq.jpg"
     alt="Photo of digestive biscuits on a plate"
-    title=""/>
+    title="/Digest/ives!"/>
   <hr/>
 
   <text>
@@ -14,19 +14,43 @@
     In the past week, we held four events: the Mums and Dads meeting, Linux talk,
     Sponsors' Exhibition and the Bloomberg Decentralised App Development workshop.
     These events were an overwhelming success with a total attendee count over all
-    four events of 1000. Thanks to everyone who participated and a special thanks
+    four events of 1000. The Sponsors' Exhibition in particular saw an incredible
+    500 members attending. Thanks to everyone who participated and a special thanks
     to all of our volunteers!
 
-    If you have any feedback about our events, feel free to [get in touch](mailto:docsoc@imperial.ac.uk).
-    Additionally, if you want to help out at our events, be sure to join our
-    [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/) Facebook group.
+    It would be very appreciated if you could provide your feedback for the Sponsors'
+    Exhibition through this [link](https://docs.google.com/forms/d/e/1FAIpQLSe5Yl4yNZcXLr8x6gdjC5mLl8K_zU0UFQXWaO23iI1lIUqh6w/viewform) so that
+    we can improve our main industrial event next year!
+
+    All of our industrial events are catered (usually with pizza). If you have
+    any dietary requirements and if you are planning on attending an event,
+    please make sure you [get in touch](mailto:docsoc@imperial.ac.uk) at least
+    two days before the event to tell us. You can use the same email address to
+    give us any feedback about our events as well! Additionally, if you want to
+    help out at our events, be sure to join our [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/)
+    Facebook group.
 
     In the coming week, we have our first inaugural bar night of the year, the
-    Welcome Bar Night, so stay tuned for more information and opportunities from
-    our sponsors.
+    Welcome Bar Night, so stay tuned for more information, more industrial events
+    and opportunities from our sponsors.
+
+    Finally, make sure you submit your vote for the Union Autumn Elections at
+    https://vote.union.ic.ac.uk/ before Friday 12pm!
   </text>
 
-  <hr/>
+  <hr />
+
+  <heading>Sponsors' Portal</heading>
+  <text>
+    We have released the DoCSoc Sponsors Portal, our website where you can find
+    out more details about our sponsors, read their blog posts and see their open
+    internship/placement positions. You can also upload your CV and directly
+    apply to all of our Gold and Silver tier sponsors!
+
+    You can access the portal at: https://portal.docsoc.co.uk
+  </text>
+
+  <hr />
 
   <heading>Welcome Bar Night</heading>
   <event
@@ -41,9 +65,87 @@
       with friends - it's sure to be a night you don't want to miss out on.
 
       Drinks tokens will be given upon entry for FREE to all DoCSoc members.
+
+      At the event we will also announce the winners of our End of Year Survey,
+      Speed Typing competition at the Freshers' Fair and the Mums and Dads Checklist!
     </text>
     <links>
       <link href="https://www.facebook.com/events/2180649362174437/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Palantir - Interpreting Law and Policy as Technologists</heading>
+  <image src="https://i.imgur.com/qkZxAgO.jpg" />
+  <image src="" width="70" />
+  <event startDate="2018-10-22T18:30:00+01:00"
+    endDate="2018-10-22T20:00:00+01:00"
+    location="Skempton 060">
+    <text>
+      In May 2018, the EU General Data Protection Regulation (GDPR) became one
+      of the most important reforms of data protection law worldwide. Strangely,
+      this law did not come with technical specifications. Join Paula Kift, of
+      the Privacy and Civil Liberties team at Palantir, for a workshop that aims
+      to highlight for those interested in the intersection of law and technology
+      how they can shape it in practice, while tackling some of the most important
+      privacy challenges of our time.
+
+      Food and drinks provided!
+
+      **Please RSVP using the link provided** before clicking 'Going' on Facebook.
+    </text>
+    <links>
+      <link href="https://imperialpcl1022.splashthat.com/">RSVP</link>
+      <link href="https://www.facebook.com/events/337105763726925/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Netcraft - Cryptocurrencies for Fun and Profit</heading>
+  <image src="https://i.imgur.com/qImfYjE.jpg" />
+  <event startDate="2018-10-25T18:15:00+01:00"
+    endDate="2018-10-25T20:30:00+01:00"
+    location="Skempton 060">
+    <text>
+      Rolling your own cryptocurrency: what could possibly go wrong?
+
+      Over the past few years, the popularity and value of cryptocurrencies,
+      such as Bitcoin, has soared. Bitcoin has also spawned a number of spinoff
+      currencies, known as 'altcoins'. Some altcoins provide genuine technical
+      improvements over Bitcoin; however, most are forks with minimal changes -
+      designed to be pump and dump schemes to enrich their creators.
+
+      In July 2018 Imperial College jointly published a report written by Prof
+      William Knottenbelt with eToro, a cryptocurrency exchange. The report was
+      widely regarded by the press to be a puff piece promoting cryptocurrencies,
+      poorly disguised as academic research. The Financial Times dubbed it "cryptopuff".
+
+      Not wanting to miss out on the fun (or profit!), Netcraft has designed its
+      own cryptocurrency and named it Cryptopuff in tribute to Prof Knottenbelt's
+      report. However, Cryptopuff was written in a rush during a single weekend -
+      who knows what vulnerabilities may be lurking in its depths?
+
+      Your challenge, after a short talk illustrating the concepts, is to compete
+      against your peers to earn as much Cryptopuff as possible.
+
+      You'll need to find and exploit vulnerabilities to steal coins from your
+      peers, while also defending your own node against attack to protect your
+      own coins. Or perhaps you could sell 'zero-day' vulnerabilities to other
+      teams rather than doing the dirty work of exploiting them yourself.
+
+      The team with the greatest number of coins at the end of the event will be
+      declared the winner.
+
+      To take part, bring your own laptop with a web browser and an SSH client
+      (e.g. Putty http://www.chiark.greenend.org.uk/~sgtatham/putty/ for Windows
+      users; OpenSSH for Linux/Mac users)
+
+      **There will a free bar night at the Union Bar after the competition.**
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2190799097619225/">Facebook</link>
     </links>
   </event>
 
@@ -72,28 +174,89 @@
   <hr />
 
   <heading>Schlumberger Meet &amp; Engage Event</heading>
-  <sponsor company="schlumberger"/>
   <image src="https://i.imgur.com/eDTOQFE.png" />
-  <text>
-    We have selected DoCSoc's members to participate in an exclusive live video
-    chat on the World Alliance for Efficient Solutions!
+  <event startDate="2018-10-19T11:00:00+01:00"
+    endDate="2018-10-19T12:00:00+01:00"
+    location="N/A">
+    <text>
+      We have selected DoCSoc's members to participate in an exclusive live video
+      chat on the World Alliance for Efficient Solutions!
 
-    Many innovative solutions exist that can reduce our impact on the environment
-    while enabling economic development.
+      Many innovative solutions exist that can reduce our impact on the environment
+      while enabling economic development.
 
-    Join Bertrand Piccard, the man who flew 26,000 miles around the world with a
-    plane powered only by the sun and find out how he is contributing to improve
-    the world’s energy efficiency and have economy and ecology work hand-in-hand.
-    Learn more about his [#1000 Efficient Solutions initiative](https://www.youtube.com/watch?v=3RkXldC2nJI&amp;feature=youtu.be), why innovative
-    companies like Schlumberger are partnering with him, and how you can apply
-    your engineering and science skills to help this important project.
+      Join Bertrand Piccard, the man who flew 26,000 miles around the world with a
+      plane powered only by the sun and find out how he is contributing to improve
+      the world’s energy efficiency and have economy and ecology work hand-in-hand.
+      Learn more about his [#1000 Efficient Solutions initiative](https://www.youtube.com/watch?v=3RkXldC2nJI&amp;feature=youtu.be), why innovative
+      companies like Schlumberger are partnering with him, and how you can apply
+      your engineering and science skills to help this important project.
 
-    **WHEN:** October 19th, 11.00 (UK time)
+      **Please kindly confirm your availability by registering on the above link.**
+    </text>
+    <links>
+      <link href="https://meetandengage.com/g3c6h9h3t">RSVP</link>
+    </links>
+  </event>
 
-    **HOW:** Register on line @ https://meetandengage.com/g3c6h9h3t
+  <hr />
 
-    **Please kindly confirm your availability by registering on the above link.**
-  </text>
+  <heading>Algothon 2018 at BlackRock</heading>
+  <event startDate="2018-10-20T09:00:00+01:00"
+    endDate="2018-10-21T17:00:00+01:00"
+    location="BlackRock, Drapers Gardens, 12 Throgmorton Avenue, London, EC2N 2DL"
+    external="true">
+    <text>
+      Algothon 2018 in partnership with BlackRock is the inaugural event of the
+      2018/19 academic year organised by the Imperial College Algorithmic Trading
+      Society. We’re excited to bring you 24 hours of intense hacking, bringing
+      200 of the brightest minds together to produce incredible new financial technology.
+
+      This will be an incredible weekend, producing amazing new technologies,
+      learning from some of the best minds in the field, and overall having a
+      great time!
+    </text>
+    <links>
+      <link href="http://algothon.org/">Website</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>2018 Milner Award Lecture - When to trust a self-driving car</heading>
+  <event startDate="2018-11-20T18:30:00+00:00"
+    endDate="2018-11-20T19:30:00+00:00"
+    location="The Royal Society, London, 6-9 Carlton House Terrace, London, SW1Y 5AG"
+    external="true">
+    <text>
+      2018 Milner Award Lecture given by Professor Marta Kwiatkowska.
+
+      How can we ensure system correctness in the presence of uncertainty?
+
+      Computing devices support us in almost all everyday tasks, from mobile
+      phones and online banking to wearable and implantable medical devices.
+      We are now experimenting with self–driving cars and robots.
+
+      Since embedded software at the heart of these devices must behave correctly
+      in presence of uncertainty, probabilistic verification techniques have been
+      developed to guarantee their safety, reliability and resource efficiency.
+
+      Using illustrative examples, this lecture will give an overview of the role
+      that probabilistic modelling and verification can play in a variety of
+      applications, including security, medical devices, self-driving cars and
+      DNA computing. It will also describe recent developments towards model
+      synthesis, which aims to build these systems so that they are correct by
+      construction. Finally, it will explore the problems of ensuring that systems
+      that rely on learning will behave correctly, both in situations that they
+      have seen in training, and in situations that they haven’t.
+
+      The prize lecture will be webcast live and the video recording of the
+      event will be available shortly after the event.
+    </text>
+    <links>
+      <link href="https://royalsociety.org/science-events-and-lectures/2018/11/milner-lecture/">RSVP</link>
+    </links>
+  </event>
 
   <sign
     name="Kelvin Zhang"
