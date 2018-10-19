@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/UXACn8D.jpg"
+    alt="Picture of a cup of tea with two cigarette biscuits leaning against the tea plate"
+    title="Cigarettes Russes"/>
+  <hr/>
+
+  <text>
+    Hi everyone! Here's yet another digest.
+
+    First off, thanks to everyone who came to the Welcome Bar Night last Thursday.
+    We had a great attendance of 350 members and hope everyone who went enjoyed
+    it! For those who missed it, no worries - there will be many more bar nights
+    to come (including one with Netcraft _this coming Thursday_!).
+
+    To reiterate from the last digest, all of our industrial events are catered
+    (usually with pizza). If you have any dietary requirements and if you are
+    planning on attending an event, please make sure you [get in touch](mailto:docsoc@imperial.ac.uk)
+    at least two days before the event to tell us. You can use the same email address to
+    give us any feedback about our events as well!
+
+    This digest is packaged with information and events, so stay tuned and read on!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Mums and Dads Subsidy</heading>
+  <text>
+    Part of the Mums and Dads scheme but haven't met up with your family for food and drinks
+    yet? DoCSoc are subsidising up to £20 for families to get to know each other!
+    If you're a parent, you're eligible to claim £20 back for a family meetup,
+    no matter whether you're introducing your children to curly fries at the Union or
+    hiring a squash court at Ethos.
+
+    To get the reimbursement, you'll need to be sure to ask for and hold onto a
+    receipt and make a claim over [eActivities](https://eactivities.union.ic.ac.uk/training/articles/13) to CGCU DoCSoc (605).
+
+    Feel free to [get in touch](mailto:docsoc@imperial.ac.uk) if you have any questions.
+  </text>
+
+  <hr />
+
+  <heading>Year Representatives</heading>
+  <text>
+    In our first digest of the year, we introduced your departmental representatives (dep reps),
+    responsible for representing Computing, JMC and EIE students to the department.
+    With Autumn elections now over, your _year_ representatives (year reps) have now
+    been announced!
+
+    Academic year reps are responsible for issues relating to your year group
+    (e.g., work not returned on time, too much coursework being scheduled at one
+    time, etc.). Wellbeing year reps are people you can speak to confidentially
+    on a personal level. Feel free to contact them over Messenger and they will
+    be happy to get back to you!
+
+    There's a lot of representatives to list, so we encourage you to take a brief
+    look at your year reps:
+    - [Computing](https://www.imperialcollegeunion.org/your-union/your-representatives/a-to-z/computing-ug)
+    - [JMC](https://www.imperialcollegeunion.org/your-union/your-representatives/a-to-z/jmc-ug)
+    - [EIE](https://www.imperialcollegeunion.org/your-union/your-representatives/a-to-z/electronic-information-engineering-ug)
+
+    Also, in case you forgot, here are our dep reps:
+    - **Computing**: Martin Zlocha ([email](mailto:dep-rep@doc.ic.ac.uk))
+    - **Joint Maths and Computing (JMC)**: Rachel Mekhtieva Lee and Fawaz Shah ([email](mailto:dep-rep@doc.ic.ac.uk))
+    - **Electronic and Information Engineering (EIE)**: Willem van der Schoot (Academic, [email](willem.van-der-schoot16@imperial.ac.uk)) and Mayank Surana (Wellbeing, [email](mayank.surana16@imperial.ac.uk))
+  </text>
+
+  <hr />
+
+  <heading>Sponsors' Portal</heading>
+  <text>
+    Searching for internships or placements? Check out our Sponsors Portal, where
+    you can find out more details about our sponsors, read their blog posts and
+    see their open internship/placement positions. You can also upload your CV
+    and directly apply to all of our Gold and Silver tier sponsors!
+
+    You can access the portal at: https://portal.docsoc.co.uk
+  </text>
+
+  <hr />
+
+  <heading>Competition Winners</heading>
+  <text>
+    At the Welcome Bar Night, we announced the winners of different competitions
+    we hosted over the past few months. Here are the winners again!
+
+    At Freshers' Fair, we gave freshers the chance to compete in a **typing competition**
+    to win great prizes. The winners are:
+    - TODO
+    - TODO
+    - TODO
+
+    Last year, we entered those who completed the **End of Year Survey** into a raffle
+    for a £50 Amazon voucher. The winners of the raffle are:
+    - TODO
+
+    During the Mums and Dads meeting, we created a bingo-like checklist. The winners
+    of the **Mums and Dads Checklist** won an additional subsidy to spend at a family
+    meetup. The winners are:
+    - TODO
+
+    If you have not collected your prize please get in touch with us and we will
+    give it to you at a convenient time!
+
+    Thanks for everyone who participated in these events and congratulations to
+    those who won!
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>Palantir - Interpreting Law and Policy as Technologists</heading>
+  <event startDate="2018-10-22T18:30:00+01:00"
+    endDate="2018-10-22T20:00:00+01:00"
+    location="Skempton 060">
+    <image src="https://i.imgur.com/qkZxAgO.jpg" />
+    <text>
+      In May 2018, the EU General Data Protection Regulation (GDPR) became one
+      of the most important reforms of data protection law worldwide. Strangely,
+      this law did not come with technical specifications. Join Paula Kift, of
+      the Privacy and Civil Liberties team at Palantir, for a workshop that aims
+      to highlight for those interested in the intersection of law and technology
+      how they can shape it in practice, while tackling some of the most important
+      privacy challenges of our time.
+
+      Food and drinks provided!
+
+      **Please RSVP using the link provided** before clicking 'Going' on Facebook.
+    </text>
+    <links>
+      <link href="https://imperialpcl1022.splashthat.com/">RSVP</link>
+      <link href="https://www.facebook.com/events/337105763726925/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Netcraft - Cryptocurrencies for Fun and Profit</heading>
+  <event startDate="2018-10-25T18:15:00+01:00"
+    endDate="2018-10-25T20:30:00+01:00"
+    location="Skempton 060">
+    <image src="https://i.imgur.com/qImfYjE.jpg" />
+    <text>
+      Rolling your own cryptocurrency: what could possibly go wrong?
+
+      Over the past few years, the popularity and value of cryptocurrencies,
+      such as Bitcoin, has soared. Bitcoin has also spawned a number of spinoff
+      currencies, known as 'altcoins'. Some altcoins provide genuine technical
+      improvements over Bitcoin; however, most are forks with minimal changes -
+      designed to be pump and dump schemes to enrich their creators.
+
+      In July 2018 Imperial College jointly published a report written by Prof
+      William Knottenbelt with eToro, a cryptocurrency exchange. The report was
+      widely regarded by the press to be a puff piece promoting cryptocurrencies,
+      poorly disguised as academic research. The Financial Times dubbed it "cryptopuff".
+
+      Not wanting to miss out on the fun (or profit!), Netcraft has designed its
+      own cryptocurrency and named it Cryptopuff in tribute to Prof Knottenbelt's
+      report. However, Cryptopuff was written in a rush during a single weekend -
+      who knows what vulnerabilities may be lurking in its depths?
+
+      Your challenge, after a short talk illustrating the concepts, is to compete
+      against your peers to earn as much Cryptopuff as possible.
+
+      You'll need to find and exploit vulnerabilities to steal coins from your
+      peers, while also defending your own node against attack to protect your
+      own coins. Or perhaps you could sell 'zero-day' vulnerabilities to other
+      teams rather than doing the dirty work of exploiting them yourself.
+
+      The team with the greatest number of coins at the end of the event will be
+      declared the winner.
+
+      To take part, bring your own laptop with a web browser and an SSH client
+      (e.g. Putty http://www.chiark.greenend.org.uk/~sgtatham/putty/ for Windows
+      users; OpenSSH for Linux/Mac users)
+
+      **There will a free bar night at the Union Bar after the competition.**
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2190799097619225/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Netcraft Breakfast</heading>
+  <image src="https://i.imgur.com/roLL583.jpg" />
+  <event startDate="2018-10-26T08:00:00+01:00"
+    endDate="2018-10-26T10:00:00+01:00"
+    location="HXLY 341/342">
+    <text>
+      Get your Friday off to a great start with DoCSoc's first free breakfast of
+      the year, generously sponsored by Netcraft! Come along to Huxley 341/342 any time
+      from 8am-10am and enjoy a great pre-lecture breakfast with other DoCSoc members.
+
+      If you have any specific dietary requirements, please let us know a few days beforehand!
+
+      You can learn more about Netcraft at https://www.netcraft.com!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2203250796371790/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## External Events</text>
+
+  <hr />
+
+  <heading>Tech Talk @ BlackRock's Offices</heading>
+  <sponsor company="blackrock" />
+  <event startDate="2018-10-24T18:00:00+01:00"
+    endDate="2018-10-24T20:00:00+01:00"
+    location="BlackRock London Office"
+    external="true">
+    <text>
+      **Do you want to have a career that’s exciting, rewarding and full of
+      possibilities? Are you driven by change and making an impact?**
+
+      Join us at this Technology @ BlackRock event to learn how you can put your
+      ideas to work at one of the largest FinTech firms in the world!
+
+      At this event we will be delivering a Tech Talk on Continuous Deployment/Containerisation
+      and Cloud. You’ll also hear more about our opportunities, network with
+      current BlackRock employees and receive advice on how to make a successful
+      application!
+
+      Since our inception in 1988, we’ve grown from an entrepreneurial start-up
+      into the world’s largest investment manager, with more than $6 trillion of
+      assets under management, by putting technology and continuous innovation
+      at the heart of our business.
+
+      Join us and learn how you can make an even bigger impact.
+
+      Upload your CV [here](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-16a200d7d3fb/candidate/so/pm/1/pl/2/opp/2817-Technology-BlackRock-London/en-GB) to register your interest in attending this event.
+
+      **Registrations will close on Monday 22 October.**
+
+      _Economy Travel Expenses from outside London (from £25 up to £100) will be
+      reimbursed. Taxi fares will not be reimbursed._
+    </text>
+    <links>
+      <link href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-16a200d7d3fb/candidate/so/pm/1/pl/2/opp/2817-Technology-BlackRock-London/en-GB">RSVP</link>
+    </links>
+  </event>
+  <hr />
+
+  <heading>Bank of America "Discover Technology" Office Visit</heading>
+  <event startDate="2018-10-29T18:00:00+00:00"
+    endDate="2018-10-29T20:30:00+00:00"
+    location="Bank of America Merrill Lynch Offices"
+    external="true" >
+    <image src="https://i.imgur.com/RY5d1rC.jpg" />
+    <text>
+      Bank of America Merrill Lynch are looking for **first year students**
+      interested in their Spring Week and **penultimate year students** interested in
+      internships to come along to their offices and learn more about the Bank and
+      their tech (drinks and canapés provided!).
+
+      ---
+
+      Technology touches every part of Bank of America Merrill Lynch and underpins
+      each deal we make.  Owing to our investment in leading technology the Global
+      Technology division places growth and success as a central part of its strategy.
+      This gives our business the competitive edge to solve business problems
+      delivering high quality and practical solutions. Did you know that the
+      banks mainframe environment is the third largest in the world?
+
+      Join us for our exclusive **‘Discover Technology’ event** at our St Paul’s
+      offices for Imperial students only on **Monday 29 October 6pm-8pm**.
+
+      During the event you will find out more about Bank of America Merrill Lynch
+      and the important role our Technology division has in the running of our
+      business. We’ll have a number of representatives on hand to give you an
+      insight into our campus programs, what we look for in students, and what
+      it would be like to work for us – in addition to an opening presentation
+      from a senior Director, you’ll also have the chance to network over drinks
+      and canapés with Imperial alumni as well as get a tour of our offices!
+
+      This is a fantastic opportunity for students who have either already applied
+      for one of our programs and would like to follow up with a networking opportunity,
+      or to those considering whether to apply – this event should help you in putting
+      in the best application you can.
+
+      Spaces are limited, so apply as soon as possible!
+
+      Please click [here](https://bankcampuscareers.tal.net/vx/brand-5/candidate/so/pm/1/pl/2/opp/3331-UK-Imperial-College-Discover-Technology-at-Bank-of-America-Merrill-Lynch/en-GB) to register for this event.
+
+    </text>
+    <links>
+      <link href="https://bankcampuscareers.tal.net/vx/brand-5/candidate/so/pm/1/pl/2/opp/3331-UK-Imperial-College-Discover-Technology-at-Bank-of-America-Merrill-Lynch/en-GB">RSVP</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Google DevFest London 2018</heading>
+  <event startDate="2018-12-01T09:30:00+01:00"
+    endDate="2018-12-01T18:30:00+01:00"
+    location="Imperial College London (South Kensington Campus)">
+    <image src="https://i.imgur.com/yHopaE6.jpg" />
+    <text>
+      DoCSoc is proud to be hosting Google DevFest London on our very own campus
+      this year! Read on for more information.
+
+      **Learn the latest in web, mobile, cloud, machine learning and more at the
+      UK's largest community organised free conference.**
+
+      GDG London, Google and DoCSoc present GDG Devfest London - a multi-track
+      event covering: cloud and machine learning; web; mobile; assistant; codelabs
+      and demos.
+
+      To find out more about speakers, topics and agenda, visit devfest.gdg.london
+
+      Don’t miss out on a fun, interesting and informative day of expert speakers,
+      demo stands coding labs and much much more.
+
+      You’ll also get the chance to network with experts from Google, Imperial
+      College and beyond and learn more from some of the amazing developer
+      communities we have in London.
+
+      There will be people taking photographs and potentially filming the event.
+      By attending you agree to the possibility of being photographed and filmed
+      once inside the venue.
+
+      Thank you for your interest in GDG DevFest London and we look forward to seeing you there!
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/gdg-devfest-london-2018-tickets-50723931645">Tickets (Eventbrite)</link>
+      <link href="https://www.facebook.com/events/255733691798751">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Palantir Opportunities</heading>
+  <sponsor company="palantir">
+    Palantir is hiring across all roles in London and beyond! We are looking for
+    strong engineers to help us continue helping the worlds most important institutions
+    solve their most challenging problems using data. Find out more here: https://www.palantir.com/students/
+  </sponsor>
+
+  <hr />
+
+  <heading>Internships at Artificial</heading>
+  <sponsor company="artificiallabs">
+    Interested in working in software engineering or data science? Artificial is
+    hiring so if you are, be sure to read on!
+
+    We're a start-up in the insurance technology sector. Our mission is to make
+    the insurance process frictionless. We do this by enabling insurance companies
+    to leverage innovative technology so they can make their customers happier,
+    act more efficiently, and scale faster. We are dedicated to building the
+    advanced and flexible machine learning enabled insurance platform to cater
+    for insurers, brokers and underwriters of all sizes and sectors.
+
+    We're looking to recruit interns for summer 2019 in software engineering and
+    data science. Check us out at https://artificial.io/ and apply at https://artificial.workable.com/.
+  </sponsor>
+
+  <hr />
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
