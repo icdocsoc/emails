@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Stake Zero Blockchain Idea Competition" logos="false">
+
+  <text>
+    Hi everyone,
+
+    Our sponsor, Stake Zero Ventures, have got in touch to advertise a three
+    month long blockchain idea competition. Working with blockchain for your third
+    or fourth year project? If so, this might particularly interest you!
+  </text>
+  <hr/>
+
+  <event startDate="2018-11-23T18:30:00+00:00"
+    endDate="2018-11-23T20:30:00+00:00"
+    location="King's Business School, Bush House, 30 Aldwych, WC2B 4BG London, United Kingdom"
+    external="true" >
+    <image src="https://i.imgur.com/JMiMmQB.png" />
+    <text>
+      **Blockchain Idea Competition, >£80k in cash prizes**
+
+      **3rd and 4th year projects may be entered into this competition and are
+      actively encouraged. This competition is also open to MSc Projects being
+      entered.** If you would like to enter your assessed project into this competition,
+      make sure your supervisor is happy to let you do so beforehand!
+
+      Applications are now open for the Winter Cohort of the **Future of Blockchain**
+      3 month idea competition. Build out an idea from to demo to a panel of
+      leading VCs at the finale in March 2019. Be supported by a mentor and
+      bi-weekly workshops during the term on how to build a blockchain startup.
+
+      Prizes include 24 x £2,000 bounties, £20,000 top prize, £10,000 2nd prize,
+      £5,000 3rd prizes and seed investment for viable projects that want to go
+      full time.
+
+      You can **register interest** and find more information at http://www.futureofblockchain.co.uk/ and
+      **RSVP for the launch event** [here](https://www.eventbrite.co.uk/e/future-of-blockchain-london-launch-and-drinks-tickets-50175230465).
+
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/future-of-blockchain-london-launch-and-drinks-tickets-50175230465">RSVP (Launch Event)</link>
+      <link href="https://www.facebook.com/events/2488542318038708/">Facebook</link>
+      <link href="http://www.futureofblockchain.co.uk/">Website</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
