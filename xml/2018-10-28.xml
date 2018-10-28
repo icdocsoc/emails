@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/rsRbmH2.jpg"
+    alt="Bowl of biscuits"
+    title="Homemade biscuits! "/>
+  <hr/>
+
+  <text>
+    Another week another digest!
+
+    First off, we had another great week with the Palantir Workshop, Netcraft
+    Workshop (and Bar Night) and Netcraft Breakfast. Thanks to everyone who
+    attended and a special thanks to those who volunteered. Also, photos from
+    our [Sponsors' Exhibition](https://www.facebook.com/pg/ICDocSoc/photos/?tab=album&amp;album_id=2408111322538736)
+    and [Welcome Bar Night](https://www.facebook.com/pg/ICDocSoc/photos/?tab=album&amp;album_id=2419005084782693) are up on Facebook, so be sure
+    to check them out!
+
+    This week, we bring you internal events with our sponsors, a Board Games
+    Night and a few sponsor messages, so read on.
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Sponsors' Portal</heading>
+  <text>
+    Searching for internships or placements? Check out our Sponsors Portal, where
+    you can find out more details about our sponsors, read their blog posts and
+    see their open internship/placement positions. You can also upload your CV
+    and directly apply to all of our Gold and Silver tier sponsors!
+
+    You can access the portal at: https://portal.docsoc.co.uk
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>Facebook - Search &amp; Machine Learning</heading>
+  <image src="https://i.imgur.com/OXpHTFp.jpg" />
+  <event startDate="2018-10-30T18:30:00+00:00"
+    endDate="2018-10-30T20:30:00+00:00"
+    location="Blackett LT1">
+    <text>
+      Facebook is coming to Imperial to present a talk on search systems and how
+      they can utilise machine learning.
+
+      Search systems are very complex pieces of software and, in order to be effective,
+      must combine techniques coming from different branch of computer science,
+      math, and statistics. Despite the fact that search systems have been around
+      since just after the Web was created, search is still far from being a
+      closed problem. This is even more true, if we consider searching through
+      information that is produced every-day on social media systems. In this
+      talk we will introduce search at FB and we will show some examples of very
+      recent solutions to problems that we have addressed in the search team at FB.
+
+      Food and drinks will be provided! If you have any specific dietary requirements,
+      please let us know a few days beforehand.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1159268450889918/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Next Jump - Getting Started With React Native</heading>
+  <image src="https://i.imgur.com/jq7D80x.jpg" />
+  <event startDate="2018-11-01T18:30:00+00:00"
+    endDate="2018-11-01T20:30:00+00:00"
+    location="Huxley 308">
+    <text>
+      Learn how to get from “npm install” to releasing your first app with React
+      Native – a JavaScript framework to build cross-platform native mobile apps.
+      At Next Jump we’ve been learning React Native to build a suite of apps across
+      our business, scaling to 3 million users. We’ll share our own onboarding
+      program for new engineers at Next Jump, sharing what libraries, coding standards
+      and patterns we use internally - so you can get off Stack Overflow and get
+      on the App Store!
+
+      Food and drinks will be provided! If you have any specific dietary requirements,
+      please let us know a few days beforehand.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1924319411195676/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Board Games Night</heading>
+  <image src="https://i.imgur.com/L9EaJGh.jpg" />
+  <event startDate="2018-11-02T18:30:00+00:00"
+    endDate="2018-11-02T22:00:00+00:00"
+    location="Huxley 217/218">
+    <text>
+      Come and take a break from your studies with some coursemates at our board
+      games night!
+
+      Snacks and drinks will be provided!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2338076339555663/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Introduction to AI in Games</heading>
+  <image src="https://i.imgur.com/DcfMVdC.jpg" />
+  <event startDate="2018-11-06T18:00:00+00:00"
+    endDate="2018-11-06T21:00:00+00:00"
+    location="Huxley 308">
+    <text>
+      Curious about Artificial Intelligence and its practical applications in games?
+
+      Join DoCSoc GameDev as we learn about Artificial Intelligence in modern games
+      with a short talk followed by a workshop on the application of the Monte Carlo
+      Tree Search Algorithm through coding a Connect 4 game in Python.
+
+      The workshop will be run by Daniel Hernandez and Peter York who are both on
+      course for PhDs in AI applied to videogames at the University of York.
+
+      The only thing you will need is a laptop with Python 3 installed and the
+      workshop is open to programmers of all skill levels.
+
+      Food will of course be provided, with informal drinks following the session at the
+      Union afterwards! If you have any specific dietary requirements, please let
+      us know a few days beforehand.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/359358464805044/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## External Events</text>
+
+  <hr />
+
+  <heading>Discover FinTech @ BlackRock</heading>
+  <sponsor company="blackrock"/>
+  <event startDate="2018-11-06T18:00:00+00:00"
+    endDate="2018-11-06T20:00:00+00:00"
+    location="BlackRock Edinburgh Offices"
+    external="true">
+    <text>
+      BlackRock combines the best of being a technology pioneer and financial leader.
+      Since our inception in 1988, we’ve grown from an entrepreneurial start-up into
+      the world’s largest investment manager by putting technology - and continuous
+      innovation - at the heart of our business.
+
+      Join us in Edinburgh on the 6th November 2018, 18:00 – 20:00 GMT
+
+      We’ve invented our own global enterprise investment system, ‘Aladdin’: a technology
+      ecosystem that empowers our colleagues to do better business every day. It is an
+      unmatched operating platform - and central nervous system - that unites all the
+      information, people and technology needed to manage money in real time and at
+      every step in the investment process.
+
+      Join us in our Edinburgh office to find out more about BlackRock, the opportunities
+      available, gain hints &amp; tips on making a successful application, plus an opportunity
+      to network with representatives from HR and the teams.
+
+      This event will run from 18:00 - 20:00 BST. Economy travel expenses from outside
+      Edinburgh (above £25 and up to £100) will be covered. Registration will close
+      1 week before the event date so early application for this event is encouraged.
+
+      Please visit https://careers.blackrock.com/campusrecruitment to apply.
+    </text>
+    <links>
+      <link href="https://careers.blackrock.com/campusrecruitment">RSVP</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>LSEG WIN Breakfast Sessions for Young Female Talents</heading>
+  <sponsor company="lseg">
+    **Limited spaces available!**
+
+    The **LSEG WIN (Women Inspired Network)** Community aims to provide a
+    platform to celebrate female talents within and outside the Group. As part of the
+    WIN Campus Taskforce, we’d like to invite a small group of elite female
+    students from four top London universities (LSE, UCL, KCL, and Imperial
+    College London) to attend our breakfast sessions to understand and explore the
+    financial industry with the help of industry leaders and senior executives.
+
+    We are excited to offer this opportunity to young talented female students to
+    help them to gain more exposure to financial markets, whilst networking with
+    like-minded peers.
+
+    The three breakfast sessions will cover the below topics respectively:
+
+    - **Understanding the Financial Market Structure** - Friday, 2 November, 9:00am - 10:00am
+    - **Fintech and LSEG Initiatives** - Thursday, 22 November, 9:00am - 10:00am
+    - **Alternative Career Options in Finance** - Wednesday, 5 December, 9:00am – 10:00am
+
+    For more information on what each session is about, take a look at the PDF attached.
+
+    Location: LSEG City of London Global Headquarters, 10 Paternoster Square, London EC4M 7LS
+
+    These breakfasts are _mutually exclusive_ and we are taking five students from
+    Imperial per session.
+
+    If you're interested, email DoCSoc at docsoc@imperial.ac.uk and they'll pass your
+    details onto us!
+
+    _Please note that this event is not organised by DoCSoc._
+  </sponsor>
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>London Stock Exchange Group Internship and Graduate Scheme</heading>
+  <sponsor company="lseg">
+    Joining London Stock Exchange Group (LSEG) is a unique opportunity to test yourself while working
+    in a variety of roles with one of the world’s most influential and innovative markets infrastructure
+    businesses.
+
+    We provide valuable services for a wide range of customers, focusing on Intellectual Property, Risk
+    and Balance Sheet Management and Capital Formation. The Group plays a vital economic and social
+    role in enabling companies to access funds for growth and development. Over recent years, we have
+    expanded our operations to become one of the leading global organisations of our kind, employing
+    approximately 4,500 people around the world.
+
+    As we’ve evolved, technology has become an increasingly crucial component of our global
+    operations. LSEG Technology is the power behind many of the world’s financial markets, delivering
+    robust, scalable, high-performance technologies; including broker, exchange, market data, risk
+    management, surveillance and clearing and settlement products.
+
+    **A rotational graduate programme like no other**
+
+    We have a number of vacancies remaining within our Technology graduate programme. This
+    programme is an opportunity for our graduates to rotate across a number of the Group’s key
+    business areas within Technology.
+
+    Over the course of your graduate programme, you’ll come to discover how diverse and far-reaching
+    our operations really are. You could find yourself working with emerging technologies such as
+    Blockchain, for example, or guiding clients through regulatory challenges – and towards new
+    opportunities – in a constantly shifting financial landscape.
+
+    You’ll also have every opportunity to develop your technical abilities, whilst broadening your
+    commercial awareness and wider skillset. At the end of the programme, you’ll be matched with the
+    business area that’s most closely aligned with your talents and interests, whilst best supporting the
+    wider needs of the Group.
+
+    **The LSEG Internship – a glimpse of what’s to come**
+
+    Our summer internship programme, for penultimate-year students, is designed to mirror LSEG’s
+    graduate programme, and provides a solid grounding in the Group’s operations and the many
+    markets in which we operate. So, whether you see your future in Business or Technology, you’ll get
+    to discover what life is really like as an LSEG graduate.
+
+    The programme is a great opportunity for us to spot talent, and many of our interns go on to join
+    LSEG in a permanent role on completing their studies.
+
+    **Help shape the future of our business**
+
+    We are looking for individuals who will help us embark on the next phase of our growth: graduates
+    from all disciplines who are motivated by a fast-paced environment, and who thrive on working in a
+    variety of roles as part of a critical business project. As a multinational organisation, our workforce is
+    extremely diverse, and we are committed to maintaining an open, inclusive environment that is
+    welcoming of employees from all backgrounds.
+
+    Now that the LSEG graduate and internship programme runs right across the Group, it is a
+    particularly exciting time to join us. While the City of London is the global hub for our programmes,
+    there are increasing opportunities for new joiners to support our expanding operations overseas.
+    This may be in the form of project work from our London office, though some of our graduates have
+    had the opportunity to complete rotations within our different global offices.
+
+    However you look at it, this is a unique springboard for a varied, challenging and impactful career in
+    the financial markets.
+
+    To find out more about the broad range of opportunities on offer at London Stock Exchange Group,
+    visit https://www.lseg.com/graduates. **Applications close on December 23rd 2018**.
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
