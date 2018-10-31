@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="J.P. Morgan Winning Women in Technology" logos="false">
+
+  <text>
+    Hi everyone,
+
+    Our sponsor, J.P. Morgan, are holding an event for female students interested
+    in learning about technology. This is a great networking opportunity where
+    you can learn more about working at J.P. Morgan. If you're interested, check
+    out the information below.
+  </text>
+  <hr/>
+
+  <image src="https://i.imgur.com/P262nPp.jpg" />
+  <image src="https://i.imgur.com/mugITMN.gif" />
+  <event startDate="2018-11-14T18:00:00+00:00"
+    endDate="2018-11-14T20:00:00+00:00"
+    location="J.P. Morgan, London"
+    external="true" >
+    <text>
+      ## Join our Winning Women in Technology event.
+
+      In partnership with University College London &amp; Imperial College London.
+
+      At J.P. Morgan, we pride ourselves on fostering a culture of learning,
+      inclusion and community for all those interested in a meaningful career in
+      technology.
+
+      Our Women in Technology event gives you the chance to meet the influential
+      and inspiring women who are transforming technology at J.P. Morgan and
+      throughout the industry. Hear their stories, experiences and advice that
+      will help you build a successful career in Technology. Join us for pizza,
+      drinks and informal networking.
+
+      Winning Women in Technology.
+
+      - When:  14 November 2018
+      - Where:  J.P. Morgan, London
+      - Who’s it for:  Female students interested in learning about technology
+      - How to apply: Click [here](http://tinyurl.com/ybjlc7z3) to register before 7 November 2018
+
+      We look forward to meeting you.
+    </text>
+    <links>
+      <link href="http://tinyurl.com/ybjlc7z3">Register</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
