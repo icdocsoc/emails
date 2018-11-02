@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Gets Locked In A Room">
+
+  <image src="https://i.imgur.com/QA5VCNi.jpg" />
+  <event startDate="2018-11-07T15:30:00+00:00"
+    endDate="2018-11-07T17:00:00+00:00"
+    location="Locked In A Room ExCeL London, 1 Western Gateway, London, E16 1XL">
+    <text>
+      It’s time for the first social event of the year (which is not a bar night
+      of course)! Join us in a fun evening of solving puzzles and finishing clues.
+      All you need to do is try to escape a locked room in 60 minutes in teams of 5.
+
+      Tickets for this event will go on sale **today**! In order to purchase tickets
+      for the event you first need to secure EVENTBRITE PLACEHOLDER TICKETS (https://lockedinaroom.eventbrite.co.uk).
+      These will be released on Friday 2nd November at 1pm. Once you have secured
+      a ticket on Eventbrite please head to the UNION WEBSITE (https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products/24606/docsoc-gets-locked-in-a-room)
+      to complete the purchase of your ticket BEFORE 3pm. Please ensure that you
+      do not buy more than one ticket and any additional tickets will be voided.
+      Please note that purchases without an Eventbrite placeholder ticket will be cancelled.
+    </text>
+    <links>
+      <link href="https://lockedinaroom.eventbrite.co.uk">Placeholder Tickets</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
