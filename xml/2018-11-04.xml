@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/dFBKqHp.jpg"
+    alt="Granola bars on a plate"
+    title="Nature Valley granola bars are great until they start crumbling apart." />
+
+  <hr/>
+
+  <text>
+    Last week was yet again another busy week with Facebook's talk on Search and
+    Machine Learning, NextJump's workshop on React Native and a wholesome Board
+    Games night. In the coming week, we're bringing you even more events, including
+    a Game AI workshop, escape room, sponsor event and more. Keep on reading for
+    more info!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Sponsors' Portal</heading>
+  <text>
+    Searching for internships or placements? Check out our Sponsors Portal, where
+    you can find out more details about our sponsors, read their blog posts and
+    see their open internship/placement positions. You can also upload your CV
+    and directly apply to all of our Gold and Silver tier sponsors!
+
+    You can access the portal at: https://portal.docsoc.co.uk
+  </text>
+
+  <hr />
+
+  <heading>CGCU Mascotry</heading>
+  <image src="https://i.imgur.com/kVlZUUF.jpg" />
+  <text>
+    Last Wednesday, seven members of the City and Guilds Union (CGCU), including
+    five from DoCSoc, undertook the incredible feat of stealing the Davy Lamp
+    from the Royal School of Mines Union (RSMU). Tensions were high as Memeperial [misleadingly reported](https://www.facebook.com/memeperial/photos/a.1243171632387880/1982226031815766)
+    that it was CGCU which instead succumbed to the hands of the Royal College of
+    Science Union (RSCU) at mascotry. However, with an unexpected twist, the
+    true identities of the mascot's kidnappers [were revealed](https://www.facebook.com/memeperial/photos/a.1243171632387880/1982393761798993).
+
+    On Thursday the CGCU struck again, raiding the RCSU office to capture their
+    mascot Theta. This time out of the 13 rescuers, a whopping 10 were members of
+    DoCSoc! Great job, and looking forward to the Medics' mascot being stolen!
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>Introduction to AI in Games</heading>
+  <image src="https://i.imgur.com/DcfMVdC.jpg" />
+  <event startDate="2018-11-06T18:00:00+00:00"
+    endDate="2018-11-06T21:00:00+00:00"
+    location="Huxley 308">
+    <text>
+      Curious about Artificial Intelligence and its practical applications in games?
+
+      Join DoCSoc GameDev as we learn about Artificial Intelligence in modern games
+      with a short talk followed by a workshop on the application of the Monte Carlo
+      Tree Search Algorithm through coding a Connect 4 game in Python.
+
+      The workshop will be run by Daniel Hernandez and Peter York who are both on
+      course for PhDs in AI applied to videogames at the University of York.
+
+      The only thing you will need is a laptop with Python 3 installed and the
+      workshop is open to programmers of all skill levels.
+
+      Food will of course be provided, with informal drinks following the session at the
+      Union afterwards! If you have any specific dietary requirements, please let
+      us know a few days beforehand.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/359358464805044/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc Gets Locked In A Room</heading>
+  <image src="https://i.imgur.com/8FZ7WRA.jpg" />
+  <event startDate="2018-11-07T15:30:00+00:00"
+    endDate="2018-11-07T17:00:00+00:00"
+    location="Locked In A Room, 1 Western Gateway, Royal Victoria Docks, ExCeL London, E161X">
+    <text>
+      It is finally time for the first social event of the year! Congratulations
+      to all of you who managed to get tickets for Locked In A Room. Join DoCSoc
+      in an evening full of solving puzzles, discovering clues and trying your
+      best to escape a locked room in 60 minutes. You will get the option to form
+      your own teams of 5 and if you don’t have a team, you can always find one
+      once you reach there.
+
+      Be sure to arrive by 3:30pm so we can begin promptly.
+
+      There's exciting news **for those of you who didn’t manage to get a ticket**:
+      there will another session on the 14th of November! Make sure to keep an
+      eye out for the tickets for this session, which will go live on Tuesday 6th
+      November at 1PM.
+
+      Have fun escaping!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/676199486113604/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Bloomberg CodeCon Qualifiers</heading>
+  <image src="https://i.imgur.com/USp4vxv.jpg" />
+  <event startDate="2018-11-09T18:30:00+00:00"
+    endDate="2018-11-09T21:00:00+00:00"
+    location="Skempton 060">
+    <text>
+      Face off against your classmates at CodeCon, a live coding competition hosted by Bloomberg.
+
+      Push your programming and problem solving skills to the limit against the clock!
+
+      The top finishers from each university will be invited to Bloomberg's London
+      headquarters for a showdown against finalists from schools across the globe
+      and a chance to win amazing prizes!
+
+      Food and drinks will be provided! If you have any specific dietary requirements,
+      please let us know a few days beforehand.
+
+      Be sure to **RSVP and register** for CodeCon [here](http://tinyurl.com/yb6ugj36).
+    </text>
+    <links>
+      <link href="http://tinyurl.com/yb6ugj36">RSVP/Register</link>
+      <link href="https://www.facebook.com/events/329054374310881/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## External Events</text>
+
+  <hr />
+
+  <heading>Liquidnet In-Office Interactive Session: Trading, AI and Augmenting Behavior</heading>
+  <image src="https://i.imgur.com/9yqANVy.png" width="80" />
+  <event startDate="2018-11-27T19:00:00+00:00"
+    endDate="2018-11-27T21:00:00+00:00"
+    location="Liquidnet Offices, 21st Floor, Broadgate Tower, Primrose St, London, EC2A 2EW"
+    external="true">
+    <text>
+      JOIN LIQUIDNET CHIEF DATA SCIENTIST TOM DORIS, PHD. to discuss challenges
+      in adoption and adherence of new technologies by human experts, deconstruct
+      the methods that were effective in overcoming the obstacles, and review
+      similarities across other industries.
+
+      There will be an opportunity to network with members of Tom's Technology
+      team, our Recruitment Team and Product Team once the interactive session
+      has ended.
+
+      Refreshments will be served.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/liquidnet-interactive-session-trading-ai-and-augmenting-behavior-tickets-51867766887">Eventbrite</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>LSEG WIN Breakfast Sessions for Young Female Talents</heading>
+  <sponsor company="lseg" />
+  <event startDate="2018-11-22T09:00:00+00:00"
+    endDate="2018-11-22T10:00:00+00:00"
+    location="LSEG City of London Global Headquarters, 10 Paternoster Square, London, EC4M 7LS"
+    external="true">
+    <text>
+      **Limited spaces available!**
+
+      The **LSEG WIN (Women Inspired Network)** Community aims to provide a
+      platform to celebrate female talents within and outside the Group. As part of the
+      WIN Campus Taskforce, we’d like to invite a small group of elite female
+      students from four top London universities (LSE, UCL, KCL, and Imperial
+      College London) to attend our breakfast sessions to understand and explore the
+      financial industry with the help of industry leaders and senior executives.
+
+      We are excited to offer this opportunity to young talented female students to
+      help them to gain more exposure to financial markets, whilst networking with
+      like-minded peers.
+
+      The three breakfast sessions will cover the below topics respectively:
+
+      - **Fintech and LSEG Initiatives** - Thursday, 22 November, 9:00am - 10:00am
+      - **Alternative Career Options in Finance** - Wednesday, 5 December, 9:00am – 10:00am
+
+      For more information on what each session is about, take a look at the PDF attached.
+
+      Location: LSEG City of London Global Headquarters, 10 Paternoster Square, London EC4M 7LS
+
+      These breakfasts are _mutually exclusive_ and we are taking five students from
+      Imperial per session.
+
+      If you're interested, email DoCSoc at docsoc@imperial.ac.uk and they'll pass your
+      details onto us!
+    </text>
+    <links>
+      <link href="mailto:docsoc@imperial.ac.uk">RSVP</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Google DevFest London 2018</heading>
+  <event startDate="2018-12-01T09:30:00+00:00"
+    endDate="2018-12-01T18:30:00+00:00"
+    location="Imperial College London (South Kensington Campus)">
+    <image src="https://i.imgur.com/yHopaE6.jpg" />
+    <text>
+      DoCSoc is proud to be hosting Google DevFest London on our very own campus
+      this year! Read on for more information.
+
+      **Learn the latest in web, mobile, cloud, machine learning and more at the
+      UK's largest community organised free conference.**
+
+      GDG London, Google and DoCSoc present GDG Devfest London - a multi-track
+      event covering: cloud and machine learning; web; mobile; assistant; codelabs
+      and demos.
+
+      To find out more about speakers, topics and agenda, visit devfest.gdg.london
+
+      Don’t miss out on a fun, interesting and informative day of expert speakers,
+      demo stands coding labs and much much more.
+
+      You’ll also get the chance to network with experts from Google, Imperial
+      College and beyond and learn more from some of the amazing developer
+      communities we have in London.
+
+      There will be people taking photographs and potentially filming the event.
+      By attending you agree to the possibility of being photographed and filmed
+      once inside the venue.
+
+      Thank you for your interest in GDG DevFest London and we look forward to seeing you there!
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/gdg-devfest-london-2018-tickets-50723931645">Tickets (Eventbrite)</link>
+      <link href="https://www.facebook.com/events/255733691798751">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <sponsor company="facebook">
+    We have a number of new 2019 Security Engineering Summer internship opportunities
+    open for applications. Please see further details below:
+
+    - Our programme will start on 24th June and last for 12 weeks
+    - We are open to Bachelors, Masters and PhD students who are in their penultimate
+    year of study/graduating in 2020
+    - We are specifically interested in students that are studying Computer Science,
+    Cyber Security, Information Security, Information Forensics or other related degrees.
+    We are also particularly interested in students that partake in Cyber Security activities
+    and events such as CTF (Capure the Flag), bug bounty participation or something similar
+
+    Please find more info and application links below:
+
+    - 2019 Security Engineer, Intern (Product) - London - https://www.facebook.com/careers/jobs/285333835643814/
+    - 2019 Security Engineer, Intern (CERT &amp; Detection Infra) - London - https://www.facebook.com/careers/jobs/710700472618593/
+    - 2019 Security Analyst, Intern (Dublin) - https://www.facebook.com/careers/jobs/553516991773728/
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
