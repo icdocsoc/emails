@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Jump Trading Internships and Full-Time Opportunities" logos="false">
+
+  <text>
+    Hi everyone,
+
+    Our sponsor, Jump Trading, have got in touch to advertise their internship
+    and full-time opportunities. Their applications close **30th November** so
+    if you're interested, start applying ASAP!
+  </text>
+  <hr/>
+
+  <image
+    src="https://i.imgur.com/5h3xQfF.png"
+    width="50"/>
+  <text>
+    Apply by 30th November - **only a resume is needed**!
+
+    ## Links to vacancies
+
+    - Software Engineering | Full-Time / Graduate Placement - https://www.jumptrading.com/apply.html?gh_jid=1045812
+    - Software Engineering | Summer 2019 Internship &amp; 6 month placements - https://www.jumptrading.com/apply.html?gh_jid=1045844
+    - Web Dev / UI Software Engineering | Summer 2019 Internship &amp; 6 month placements - https://www.jumptrading.com/apply.html?gh_jid=1255843
+    - FPGA Hardware Engineering | Summer 2019 Internship &amp; 6 month placements – https://www.jumptrading.com/apply.html?gh_jid=1045825
+    - FPGA Hardware Engineering | Full-Time / Graduate Placement - https://www.jumptrading.com/apply.html?gh_jid=1044275
+    - Production Engineering | Summer 2019 Internship &amp; 6 month placements - https://www.jumptrading.com/apply.html?gh_jid=1281579
+
+    Follow the links above for information regarding each opportunity. Only a resume is needed to apply!
+
+    ## about Jump Trading
+
+    Jump Trading is a leading algorithmic trading firm built upon cutting-edge technology, sophisticated quantitative research, and an entrepreneurial culture.
+
+    Founded in 1999, Jump Trading has been at the forefront of electronic trading for 19 years. With a strong track record of success through all market conditions, the firm has grown to 700 people now in Chicago, New York, London, Singapore, and Shanghai.
+
+    We are a privately-funded company and do not rely on outside investors or private equity. We trade across all major asset classes in dozens of financial exchanges around the world.
+
+    ## Additional info on our vacancies:
+
+    **Software Engineering (Internships, 6 month placements, and Graduate roles available)** - You may be a fit for Software Development at Jump Trading if you’re interested in low-level, high performance C/C++ code on Linux, you like to build optimal solutions from scratch, and you have interests in networking, operating systems, and compilers.
+
+    **FPGA / Hardware Engineering (Internships, 6 month placements)** - You’ll help build next-generation, ultra-low-latency systems to power trading with machine learning and other algorithms on a global scale. We value a blend of hardware engineering experience with exceptional software development skills to add value to our growing operation.
+
+    **Production Engineering (Internships and 6 month placements available)** - You may be a fit for Production Engineering at Jump Trading if you have exceptionally strong skills in Python, Linux, troubleshooting, networking, and creative problem solving. We also highly value students who love to tinker with new technology – many team members have been contributors to open source projects.
+
+    **Web Dev / UI Software Engineering (Internships, 6 month placements available)** - You’ll use advanced JavaScript, Python, and modern Web frameworks to build Web-based applications that interact with several components of our real-time trading platform.
+
+  </text>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
