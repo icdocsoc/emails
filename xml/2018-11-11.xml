@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/T18dBBr.jpg"
+    alt="Row of Leibniz biscuits"
+    title="This is what happens when you let mathematicians name biscuits" />
+
+  <hr/>
+
+  <text>
+    Another busy week has gone by, with the events over the past week including
+    the Game AI workshop, Bloomberg CodeCon Qualifiers and our first off-campus
+    social event this year, DoCSoc Gets Locked in a Room! Thanks to everyone who
+    attended and as always, thanks to everyone who helped out at these events.
+
+    Over the next week, we're holding a talk and a coding challenge with two of
+    our sponsors, LSEG and G-Research, which are events not to be missed!
+    Additionally, preparations for Google DevFest London and IC Hack '19 are
+    well underway and we're in search for organisers and volunteers. For more
+    details, read on!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>DevFest Volunteers and IC Hack '19 Organisers</heading>
+  <text>
+    This academic year, we're not only hosting our flagship hackathon, IC Hack
+    (26/27th Jan 2019), but also Google DevFest London (1st Dec 2018)!
+
+    Both events are fast-approaching. For IC Hack in particular, we're looking
+    for organisers taking on responsibilities beyond the standard volunteering
+    role.
+
+    To get involved, join the [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/)
+    Facebook group and learn more about organising IC Hack [here](https://www.facebook.com/groups/1509850436007222/permalink/2300633930262198/).
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>LSEG - Technologies Driving the Financial Markets</heading>
+  <image src="https://i.imgur.com/bIqMC8v.jpg" />
+  <event startDate="2018-11-12T18:30:00+00:00"
+    endDate="2018-11-12T20:00:00+00:00"
+    location="Huxley 308">
+    <text>
+      Next week, DoCSoc will be hosting a talk by the current Chief Operating and
+      Information Officer at the London Stock Exchange Group, Chris Corrado.
+
+      Chris was also the **former CTO of eBay, Deutsche Bank and Merrill Lynch**,
+      former CIO at Morgan Stanley and AT&amp;T, former Head of Platform Services
+      at UBS, and has been featured by Forbes and Bloomberg. He has a unique (and
+      exceptionally sought after) insight of today’s financial markets, and will be
+      discussing the technological advancements that will be defining the future of
+      financial trading. This talk should be high priority for **anyone who is
+      interested in working in or around finance**, or practically any area that
+      may be benefited by knowledge of financial markets.
+
+      This iconic heritage brand can trace its history back to 1698. Today with
+      over 4,500 employers and offices in 20 cities globally it leads the world’s
+      financial market infrastructure and capital markets as a recognised leader
+      in emerging fast-changing financial technology (or FinTech).
+
+      During the presentation you will have ample networking opportunity for
+      one-on-ones with recent graduates and senior representatives from the many
+      different business areas as well as recruiters. This is a great opportunity
+      for you to get the latest technology market knowledge, advice and insight
+      into LSEG’s 2019 Graduate and Internship programmes, its cultures, values
+      and exciting roles on offer.
+
+      Drinks and food provided. If you have any specific dietary requirements,
+      please let us know a few days beforehand.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/284082455563025/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>G-Research Coding Challenge</heading>
+  <image src="https://i.imgur.com/kgo5FRo.jpg" />
+  <event startDate="2018-11-15T18:30:00+00:00"
+    endDate="2018-11-15T21:00:00+00:00"
+    location="Skempton 060">
+    <text>
+      Calling all software engineering enthusiasts that enjoy a bit of healthy
+      competition!
+
+      G-Research is a leading quantitative research and technology company. By
+      using the latest scientific techniques, we produce world-beating predictive
+      research and build advanced technology to analyse the world's data.
+
+      Join us for the G-Research Coding Challenge where you will compete in
+      teams in a series of progressively difficult challenges. Open to absolutely
+      anyone, you will be competing in teams of 2-3 to build a natural language
+      calculation engine (no prior NLP experience required). The challenges will
+      cover things like evaluation of arithmetic expressions to unit conversions
+      and equation solving.
+
+      We will allocate teams when you arrive, you don't need to find a team
+      beforehand - but feel free to bring your own team if you would like. To
+      take part, you will need to bring at least one laptop per team.
+
+      There will be a live leaderboard up on the projector to give all teams the
+      opportunity to see where they are placing throughout the challenge. 1st,
+      2nd and 3rd place (decided by a point system) will win prizes!
+      Following the event there will be pizza and a chance for you to informally
+      talk with our employees about internships, graduate roles and life at G-Research.
+
+      Languages for the challenges - .NET Core 2 , Java and Maven or Python 3
+      with client starter kits provided when you login.
+
+      Registration beforehand is optional. To register, please email graduates@gresearch.co.uk
+      detailing whether you are registering as an individual or a team.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/277450032912641/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## External Events</text>
+
+  <hr />
+
+  <heading>Facebook Women Create Workshop</heading>
+  <image src="https://i.imgur.com/F82Obs2.png" />
+  <event startDate="2018-11-26T19:00:00+00:00"
+    endDate="2018-11-26T21:00:00+00:00"
+    location="Facebook, 1 Rathbone Square, Fitzrovia, W1T1FB"
+    external="true">
+    <text>
+      Hi there!
+
+      Come learn how to put your best foot forward at this Crush Your Coding
+      Interview Workshop by Facebook.
+
+      This presentation will be delivered by one of Facebook’s Software Engineers
+      and will cover:
+      - How to walk through an algorithm problem,
+      - How to brainstorm solutions,
+      - How to discuss the problem with your interviewer,
+      - How to write (and test) code on a whiteboard.
+
+      The talk will finish with a panel of Engineers from Software, Solutions,
+      FrontEnd and Product exploring their life at Facebook, how they got to where
+      they are and any tips they have for future candidates.
+
+      Lastly, we will have 30 minutes of informal networking with food and drink.
+
+      Sign-up link: https://womencreate-codinginterviewworkshop.splashthat.com/
+
+      Visit this link to prepare: https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
+
+      We look forward to seeing you there!
+
+      The Facebook Team
+
+    </text>
+    <links>
+      <link href="https://womencreate-codinginterviewworkshop.splashthat.com/">RSVP</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Liquidnet In-Office Interactive Session: Trading, AI and Augmenting Behavior</heading>
+  <image src="https://i.imgur.com/9yqANVy.png" width="80" />
+  <event startDate="2018-11-27T19:00:00+00:00"
+    endDate="2018-11-27T21:00:00+00:00"
+    location="Liquidnet Offices, 21st Floor, Broadgate Tower, Primrose St, London, EC2A 2EW"
+    external="true">
+    <text>
+      JOIN LIQUIDNET CHIEF DATA SCIENTIST TOM DORIS, PHD. to discuss challenges
+      in adoption and adherence of new technologies by human experts, deconstruct
+      the methods that were effective in overcoming the obstacles, and review
+      similarities across other industries.
+
+      There will be an opportunity to network with members of Tom's Technology
+      team, our Recruitment Team and Product Team once the interactive session
+      has ended.
+
+      Refreshments will be served.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/liquidnet-interactive-session-trading-ai-and-augmenting-behavior-tickets-51867766887">Eventbrite</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Google DevFest London 2018</heading>
+  <event startDate="2018-12-01T09:30:00+00:00"
+    endDate="2018-12-01T18:30:00+00:00"
+    location="Imperial College London (South Kensington Campus)">
+    <image src="https://i.imgur.com/yHopaE6.jpg" />
+    <text>
+      DoCSoc is proud to be hosting Google DevFest London on our very own campus
+      this year! Read on for more information.
+
+      **Learn the latest in web, mobile, cloud, machine learning and more at the
+      UK's largest community organised free conference.**
+
+      GDG London, Google and DoCSoc present GDG Devfest London - a multi-track
+      event covering: cloud and machine learning; web; mobile; assistant; codelabs
+      and demos.
+
+      To find out more about speakers, topics and agenda, visit devfest.gdg.london
+
+      Don’t miss out on a fun, interesting and informative day of expert speakers,
+      demo stands coding labs and much much more.
+
+      You’ll also get the chance to network with experts from Google, Imperial
+      College and beyond and learn more from some of the amazing developer
+      communities we have in London.
+
+      There will be people taking photographs and potentially filming the event.
+      By attending you agree to the possibility of being photographed and filmed
+      once inside the venue.
+
+      Thank you for your interest in GDG DevFest London and we look forward to seeing you there!
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/gdg-devfest-london-2018-tickets-50723931645">Tickets (Eventbrite)</link>
+      <link href="https://www.facebook.com/events/255733691798751">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>LSEG WIN Breakfast Sessions for Young Female Talents</heading>
+  <sponsor company="lseg" />
+  <event startDate="2018-12-05T09:00:00+00:00"
+    endDate="2018-12-05T10:00:00+00:00"
+    location="LSEG City of London Global Headquarters, 10 Paternoster Square, London, EC4M 7LS"
+    external="true">
+    <text>
+      **Limited spaces available!**
+
+      The **LSEG WIN (Women Inspired Network)** Community aims to provide a
+      platform to celebrate female talents within and outside the Group. As part of the
+      WIN Campus Taskforce, we’d like to invite a small group of elite female
+      students from four top London universities (LSE, UCL, KCL, and Imperial
+      College London) to attend our breakfast sessions to understand and explore the
+      financial industry with the help of industry leaders and senior executives.
+
+      We are excited to offer this opportunity to young talented female students to
+      help them to gain more exposure to financial markets, whilst networking with
+      like-minded peers.
+
+      Our last breakfast session is **Alternative Career Options in Finance**, on
+      Wednesday, 5 December, 9:00am – 10:00am. For more details, see the PDF attached.
+
+      Location: LSEG City of London Global Headquarters, 10 Paternoster Square, London EC4M 7LS
+
+      If you're interested, email DoCSoc at docsoc@imperial.ac.uk and they'll pass your
+      details onto us!
+    </text>
+    <links>
+      <link href="mailto:docsoc@imperial.ac.uk">RSVP</link>
+    </links>
+  </event>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
