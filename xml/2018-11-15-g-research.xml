@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="G-Research Coding Challenge"
+  logos="false">
+
+  <text>
+    Hi all!
+
+    **Today**, we have an amazing event with G-Research, open to students of all
+    skill levels! This event is not one you want to miss, so head down to
+    Skempton 060 today around 18:15 for a prompt 18:30 start. Have fun!
+  </text>
+  <hr/>
+
+  <image src="https://i.imgur.com/kgo5FRo.jpg" />
+  <event startDate="2018-11-15T18:15:00+00:00"
+    endDate="2018-11-15T21:00:00+00:00"
+    location="Skempton 060">
+    <text>
+      Calling all software engineering enthusiasts that enjoy a bit of healthy
+      competition!
+
+      G-Research is a leading quantitative research and technology company. By
+      using the latest scientific techniques, we produce world-beating predictive
+      research and build advanced technology to analyse the world's data.
+
+      Join us for the G-Research Coding Challenge where you will compete in
+      teams in a series of progressively difficult challenges. Open to absolutely
+      anyone, you will be competing in teams of 2-3 to build a natural language
+      calculation engine (no prior NLP experience required). The challenges will
+      cover things like evaluation of arithmetic expressions to unit conversions
+      and equation solving.
+
+      We will allocate teams when you arrive, you don't need to find a team
+      beforehand - but feel free to bring your own team if you would like. To
+      take part, you will need to bring at least one laptop per team.
+
+      There will be a live leaderboard up on the projector to give all teams the
+      opportunity to see where they are placing throughout the challenge. 1st,
+      2nd and 3rd place (decided by a point system) will win prizes!
+      Following the event there will be pizza and a chance for you to informally
+      talk with our employees about internships, graduate roles and life at G-Research.
+
+      Languages for the challenges - .NET Core 2 , Java and Maven or Python 3
+      with client starter kits provided when you login.
+
+      Registration beforehand is optional. To register, please email graduates@gresearch.co.uk
+      detailing whether you are registering as an individual or a team.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/277450032912641/">Facebook</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
