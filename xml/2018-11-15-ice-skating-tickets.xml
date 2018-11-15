@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Goes Ice Skating - Ticket Release" logos="false">
+
+  <text>
+    Hi all!
+
+    DoCSoc will be going ice skating on the 20th November and **tickets release
+    today** at 13:00! Read on for more info.
+  </text>
+  <hr/>
+
+  <image src="https://i.imgur.com/qcLvVWW.jpg" />
+  <event startDate="2018-11-20T18:30:00+00:00"
+    endDate="2018-11-20T20:30:00+00:00"
+    location="Natural History Museum, Cromwell Road, London, SW7 5BD">
+    <text>
+      Get out your scarf and gloves, and join us at the Natural History Museum
+      for our annual ice skating spectacular on Tuesday 20th November at 6:30pm!
+      DoCSoc will be heavily subsidising tickets to just £3! We only have a limited
+      number of tickets for this session, so make sure to try and get one. If you
+      do not manage to get a ticket, we will definitely be holding another session,
+      so don't worry!
+
+      Tickets will go on sale on Thursday 15th November at 1pm. In order to
+      purchase tickets for the event you first need to secure **Eventbrite placeholder tickets** - https://docsocgoesiceskating.eventbrite.co.uk.
+      Once you have secured a ticket on Eventbrite please head to the **Union website** - https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products/24917/docsoc-goes-ice-skating
+      to complete the purchase of your ticket **BEFORE 3pm**. Please ensure that
+      you do not buy more than one ticket as any additional tickets will be voided.
+      Please also note that purchases without an Eventbrite placeholder ticket will
+      be cancelled.
+
+      The ice skating starts at 7pm, so we will be meeting at 6:30pm at the
+      entrance of the Ice Skating Rink.
+
+      We hope to see you there!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2194365650777056/">Facebook</link>
+      <link href="https://docsocgoesiceskating.eventbrite.co.uk">Placeholder Tickets (Eventbrite)</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
