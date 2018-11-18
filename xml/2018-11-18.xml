@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/b13LgID.jpg"
+    alt="Stack of biscuits on a plate"
+    title="I can't think of an alt text for this one" />
+
+  <hr/>
+
+  <text>
+    Welcome to another digest!
+
+    Last week was yet another busy week for DoCSoc, with over _100_ members
+    attending the LSEG talk and 80 members attending the G-Research Coding
+    Challenge. As usual, thanks to everyone who attended and a special thanks
+    to our volunteers!
+
+    One thing to note from us: if you're attending an event, be sure to click
+    _Going_ on Facebook so we can order enough food and drinks in advance.
+
+    Over the next week, we will be holding an ice skating trip, hosting a cybersecurity
+    talk from Facebook and releasing tickets for a trip to watch The Book of Mormon.
+    With DevFest on the 1st of December too, the next fortnight will be busy
+    and exciting. And don't forget: Liquidnet are hosting a talk and an _office
+    visit_, which will be great casual event for those looking to network over
+    a few drinks. Read on for more details!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>DevFest Volunteers and IC Hack 19 Organisers</heading>
+  <text>
+    This academic year, we're not only hosting our flagship hackathon, IC Hack 19
+    (26/27th Jan 2019), but also Google DevFest London (1st Dec 2018)!
+
+    For IC Hack in particular, we're looking for organisers taking on
+    responsibilities beyond the standard volunteering role. We held our initial
+    volunteers' meeting last week, with minutes available on the IC Hack 19 Slack
+    (joinable via DoCSoc: Operations). On the Slack channel, you'll be able to
+    choose whether you want to take part in Logistics, Finance, Marketing and
+    Hacker Experience.
+
+    To get involved, join the [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/)
+    Facebook group and learn more about organising IC Hack [here](https://www.facebook.com/groups/1509850436007222/permalink/2300633930262198/).
+  </text>
+
+  <hr />
+
+  <heading>Careers Service: Start-Up and SME Week</heading>
+  <text>
+    The Careers Service is hosting a series of events related to SMEs and start-ups
+    from 19th - 23rd November. For more information, see the PDF attached and
+    be sure to book the events on [JobsLive](http://www.imperial.ac.uk/careers/services/jobslive/).
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>DoCSoc Goes Ice Skating</heading>
+  <image src="https://i.imgur.com/qcLvVWW.jpg" />
+  <event startDate="2018-11-20T18:30:00+00:00"
+    endDate="2018-11-20T20:30:00+00:00"
+    location="Natural History Museum, Cromwell Road, London, SW7 5BD">
+    <text>
+      Get out your scarf and gloves, and join us at the Natural History Museum
+      for our annual ice skating spectacular on Tuesday 20th November at 6:30pm
+      and Wednesday 21st November at 5:30pm, followed by one free drink at the end.
+
+      Please ensure that you only attend the session that you have bought tickets for.
+
+      If you were lucky enough to secure a ticket last week, we hope to see you
+      there!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2194365650777056/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Cyber Security at Facebook</heading>
+  <image src="https://i.imgur.com/HHVbNsD.jpg" />
+  <event startDate="2018-11-22T18:30:00+00:00"
+    endDate="2018-11-22T20:30:00+00:00"
+    location="Huxley 308">
+    <text>
+      RSVP here: https://cybersecurityfacebook.splashthat.com/
+
+      Interested in becoming a Security Engineer? Want to help us catch the bad
+      guys? We are excited to invite you to an information session and an evening
+      of pizza and drinks with the Facebook Security Engineering team!
+
+      More than two billion people around the world use Facebook to connect with
+      their friends, family, and communities. Facebook Security understands the
+      importance of keeping those interactions secure, and the team strives each
+      day to create and maintain the safest environment possible for the people
+      on Facebook and their data.
+
+      You will have an opportunity to hear from Engineers in our Product Security
+      Assessment &amp; Analysis and Computer &amp; Emergency Response teams, as well
+      as representatives from the University Recruitment team. You can hear more
+      about our 2019 Security Internship opportunities and we will give you
+      information for the application process. The evening will finish off with
+      pizza, swag giveaways and networking!
+
+      If you have any specific dietary requirements, please let us know a few days
+      beforehand. **Don't forget to click 'Going' on Facebook so we can order
+      enough pizza!**
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/725303204514407/">Facebook</link>
+      <link href="https://cybersecurityfacebook.splashthat.com/">RSVP</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc Goes to the Book of Mormon</heading>
+  <image src="https://i.imgur.com/Ei9AKcL.jpg" />
+  <event startDate="2018-11-26T19:00:00+00:00"
+    endDate="2018-11-26T22:30:00+00:00"
+    location="Prince of Wales Royal Theatre, 31 Coventry Street, London W1D 6AS">
+    <text>
+      Due to popular demand, DoCSoc is going for a trip to the multi award-winning
+      musical, The Book of Mormon, on Monday 26th of November at 7pm.
+
+      Tickets will be heavily subsidised to £20 so join us in a fun evening of
+      music and comedy!
+
+      Tickets for this event will go on sale on Thursday 22nd November at 1pm.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/193126784904232/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## External Events</text>
+
+  <hr />
+
+  <event startDate="2018-11-23T18:30:00+00:00"
+    endDate="2018-11-23T20:30:00+00:00"
+    location="King's Business School, Bush House, 30 Aldwych, WC2B 4BG London, United Kingdom"
+    external="true" >
+    <image src="https://i.imgur.com/JMiMmQB.png" />
+    <text>
+      **Blockchain Idea Competition, >£80k in cash prizes**
+
+      **3rd and 4th year projects may be entered into this competition and are
+      actively encouraged. This competition is also open to MSc Projects being
+      entered.** If you would like to enter your assessed project into this competition,
+      make sure your supervisor is happy to let you do so beforehand!
+
+      Applications are now open for the Winter Cohort of the **Future of Blockchain**
+      3 month idea competition. Build out an idea from to demo to a panel of
+      leading VCs at the finale in March 2019. Be supported by a mentor and
+      bi-weekly workshops during the term on how to build a blockchain startup.
+
+      Prizes include 24 x £2,000 bounties, £20,000 top prize, £10,000 2nd prize,
+      £5,000 3rd prizes and seed investment for viable projects that want to go
+      full time.
+
+      You can **register interest** and find more information at http://www.futureofblockchain.co.uk/ and
+      **RSVP for the launch event** [here](https://www.eventbrite.co.uk/e/future-of-blockchain-london-launch-and-drinks-tickets-50175230465).
+
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/future-of-blockchain-london-launch-and-drinks-tickets-50175230465">RSVP (Launch Event)</link>
+      <link href="https://www.facebook.com/events/2488542318038708/">Facebook</link>
+      <link href="http://www.futureofblockchain.co.uk/">Website</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Liquidnet In-Office Interactive Session: Trading, AI and Augmenting Behavior</heading>
+  <image src="https://i.imgur.com/9yqANVy.png" width="80" />
+  <event startDate="2018-11-27T19:00:00+00:00"
+    endDate="2018-11-27T21:00:00+00:00"
+    location="Liquidnet Offices, 21st Floor, Broadgate Tower, Primrose St, London, EC2A 2EW"
+    external="true">
+    <text>
+      JOIN LIQUIDNET CHIEF DATA SCIENTIST TOM DORIS, PHD. to discuss challenges
+      in adoption and adherence of new technologies by human experts, deconstruct
+      the methods that were effective in overcoming the obstacles, and review
+      similarities across other industries.
+
+      There will be an opportunity to network with members of Tom's Technology
+      team, our Recruitment Team and Product Team once the interactive session
+      has ended.
+
+      Refreshments will be served.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/liquidnet-interactive-session-trading-ai-and-augmenting-behavior-tickets-51867766887">Eventbrite</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Google DevFest London 2018</heading>
+  <event startDate="2018-12-01T09:30:00+00:00"
+    endDate="2018-12-01T18:30:00+00:00"
+    location="Imperial College London (South Kensington Campus)">
+    <image src="https://i.imgur.com/yHopaE6.jpg" />
+    <text>
+      DoCSoc is proud to be hosting Google DevFest London on our very own campus
+      this year! Read on for more information.
+
+      **Learn the latest in web, mobile, cloud, machine learning and more at the
+      UK's largest community organised free conference.**
+
+      GDG London, Google and DoCSoc present GDG Devfest London - a multi-track
+      event covering: cloud and machine learning; web; mobile; assistant; codelabs
+      and demos.
+
+      To find out more about speakers, topics and agenda, visit devfest.gdg.london
+
+      Don’t miss out on a fun, interesting and informative day of expert speakers,
+      demo stands coding labs and much much more.
+
+      You’ll also get the chance to network with experts from Google, Imperial
+      College and beyond and learn more from some of the amazing developer
+      communities we have in London.
+
+      There will be people taking photographs and potentially filming the event.
+      By attending you agree to the possibility of being photographed and filmed
+      once inside the venue.
+
+      Thank you for your interest in GDG DevFest London and we look forward to seeing you there!
+
+      (Tickets are sold out, so if you have a ticket but are unable to attend,
+      please let us know so we can release your ticket to our waitlist!)
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/gdg-devfest-london-2018-tickets-50723931645">Tickets (Eventbrite)</link>
+      <link href="https://www.facebook.com/events/255733691798751">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>LSEG WIN Breakfast Sessions for Young Female Talents</heading>
+  <sponsor company="lseg" />
+  <event startDate="2018-12-05T09:00:00+00:00"
+    endDate="2018-12-05T10:00:00+00:00"
+    location="LSEG City of London Global Headquarters, 10 Paternoster Square, London, EC4M 7LS"
+    external="true">
+    <text>
+      **Limited spaces available!**
+
+      The **LSEG WIN (Women Inspired Network)** Community aims to provide a
+      platform to celebrate female talents within and outside the Group. As part of the
+      WIN Campus Taskforce, we’d like to invite a small group of elite female
+      students from four top London universities (LSE, UCL, KCL, and Imperial
+      College London) to attend our breakfast sessions to understand and explore the
+      financial industry with the help of industry leaders and senior executives.
+
+      We are excited to offer this opportunity to young talented female students to
+      help them to gain more exposure to financial markets, whilst networking with
+      like-minded peers.
+
+      Our last breakfast session is **Alternative Career Options in Finance**, on
+      Wednesday, 5 December, 9:00am – 10:00am. For more details, see the PDF attached.
+
+      Location: LSEG City of London Global Headquarters, 10 Paternoster Square, London EC4M 7LS
+
+      If you're interested, email DoCSoc at docsoc@imperial.ac.uk and they'll pass your
+      details onto us!
+    </text>
+    <links>
+      <link href="mailto:docsoc@imperial.ac.uk">RSVP</link>
+    </links>
+  </event>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
