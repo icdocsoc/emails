@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Haskell and Serverless Internships at Artificial"
+  logos="false">
+
+  <sponsor company="artificiallabs">
+    ​
+
+    _Already applied to us? Email us and let us know if you haven't yet expressed
+    interest and/or prior experience in Haskell or serverless technologies._
+
+    **[Artificial](https://artificial.io/)** is hiring engineering interns with
+    a specific interest in either functional programming or serverless technologies
+    for two of our teams:
+
+    - **Build** - with challenges including modelling complex insurance contracts where correctness is key, the Build team is looking for candidates with a keen interest in **functional programming, type theory/type systems and Haskell**;
+    - **Serverless** - with a need to rapidly scale a wide range of features for our clients, our insurance platform is compromised of **rapidly scalable microservices**, where technologies required include using Go, Node.js and Python to build serverless functions.
+
+    **Artificial**'s mission is to make insurance frictionless. From building the
+    foundation to scalable, market leading insurance software with ArtificialOS,
+    to leading the future of pricing and claims with machine learning, we're
+    building market leading tools to radically improve the efficiency and
+    profitability of insurance companies.
+
+    We're looking for students who have demonstrated an interest in the
+    technologies we use and push their skills by working on our platform. If
+    you're an undergraduate who has worked with Haskell beyond the first year
+    course (perhaps choosing Haskell for your WACC project) or have gained experience
+    working with serverless and cloud technologies, we think you'd be a great fit
+    for us.
+
+    Interested in our **engineering roles**? To apply, click [here](https://artificial.workable.com/j/88F255BEEC)
+    and let us know your specific field of interests in the cover letter section.
+
+    We're also looking for **machine learning interns**. If you're interested in this
+    area, you can apply for a machine learning internship [here](https://artificial.workable.com/j/D7F425D4C0).
+  </sponsor>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
