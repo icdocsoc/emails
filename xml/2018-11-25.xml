@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/NwTWnqP.jpg"
+    alt="Stack of biscuits on a plate"
+    title="Oddly satisfying" />
+
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    The past week week was another fun week, with ice skating sessions by the
+    Natural History Museum and a great security talk from Facebook.
+
+    In the coming week, we have another social trip (to watch The Book of Mormon),
+    followed by two major events: our joint diversity panel event with CGCU on
+    Thursday and Google DevFest London on Saturday. Also, Liquidnet have an open
+    office on Tuesday, involving casual networking drinks open to all DoCSoc
+    members, so if you're looking for a relaxed evening in the City of London,
+    this would be a good opportunity to take. Read on for more information!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>DevFest Volunteers</heading>
+  <text>
+    DevFest is _this_ Saturday (1st December)! The event is already sold out, with
+    1000 people attending. We need as many hands as possible for this event so
+    if you're interested in helping out, join the [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/)
+    group.
+  </text>
+
+  <hr />
+
+  <heading>Careers Service: CV Reviews</heading>
+  <text>
+    Looking to get your CV reviewed? The Careers Service has an online review
+    system, My CVs, where you can upload your CV, provide details and get feedback
+    from the Careers team within three working days.
+
+    To get started, upload your CV under the "My Profile" section of [JobsLive](http://www.imperial.ac.uk/careers/services/jobslive/).
+  </text>
+
+  <hr />
+
+  <heading>CO Careers Talk: LinkedIn - Leverage the Power of Social Media</heading>
+  <text>
+    This Friday, the Careers Service will be holding the last DoC Careers Talk of
+    the year, where you'll learn how to make the most of LinkedIn to promote your
+    personal brand and network effectively.
+
+    This talk will be held in HXLY 311 on Friday from 13:00 - 13:50.
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>CGCU &amp; DoCSoc - Diversity in Engineering</heading>
+  <image src="https://i.imgur.com/SweqIyL.jpg" />
+  <event startDate="2018-11-29T18:30:00+00:00"
+    endDate="2018-11-29T22:00:00+00:00"
+    location="Clore Lecture Theatre (Huxley)">
+    <text>
+      **Submit your questions to the panel here: https://goo.gl/3j3e3w **
+
+      Open to all Imperial students!
+
+      CGCU &amp; DoCSoc are very excited to announce our launch event of a brand new diversity initiative!
+
+      We have picked some of the most talented engineers from a range of backgrounds
+      and engineering disciplines to feature in a live Q&amp;A panel where they
+      will be sharing their experiences and challenges throughout their career.
+      This will be followed by a networking reception with drinks and canapés
+      where engineers and recruiters will be able to share advice one on one
+      with you. These engineers will be from a number of highly influential
+      companies, including:
+
+      - Google
+      - P&amp;G
+      - Bloomberg
+      - Lendlease
+      - Facebook
+      - InterEngineering
+      - Microsoft
+      - Palantir
+
+      ...and more yet to be announced!
+
+      _Note: Year 12/13 students will also be invited to this event where they
+      will benefit from your own experiences during the networking session as
+      much as the engineers' attending, should you wish to share. We invite you
+      to come and play your part in pushing inclusion to the forefront of our
+      engineering disciplines, however of course this is not mandatory._
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/293123184877438/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Google DevFest London 2018</heading>
+  <event startDate="2018-12-01T09:30:00+00:00"
+    endDate="2018-12-01T18:30:00+00:00"
+    location="Imperial College London (South Kensington Campus)">
+    <image src="https://i.imgur.com/yHopaE6.jpg" />
+    <text>
+      DoCSoc is proud to be hosting Google DevFest London on our very own campus
+      this year! Read on for more information.
+
+      **Learn the latest in web, mobile, cloud, machine learning and more at the
+      UK's largest community organised free conference.**
+
+      GDG London, Google and DoCSoc present GDG Devfest London - a multi-track
+      event covering: cloud and machine learning; web; mobile; assistant; codelabs
+      and demos.
+
+      To find out more about speakers, topics and agenda, visit devfest.gdg.london
+
+      Don’t miss out on a fun, interesting and informative day of expert speakers,
+      demo stands coding labs and much much more.
+
+      You’ll also get the chance to network with experts from Google, Imperial
+      College and beyond and learn more from some of the amazing developer
+      communities we have in London.
+
+      There will be people taking photographs and potentially filming the event.
+      By attending you agree to the possibility of being photographed and filmed
+      once inside the venue.
+
+      Thank you for your interest in GDG DevFest London and we look forward to seeing you there!
+
+      (Tickets are sold out, so if you have a ticket but are unable to attend,
+      please release your ticket on Eventbrite so someone else can go!)
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/gdg-devfest-london-2018-tickets-50723931645">Tickets (Eventbrite)</link>
+      <link href="https://www.facebook.com/events/255733691798751">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## External Events</text>
+
+  <hr />
+
+  <heading>Liquidnet In-Office Interactive Session: Trading, AI and Augmenting Behavior</heading>
+  <image src="https://i.imgur.com/9yqANVy.png" width="80" />
+  <event startDate="2018-11-27T19:00:00+00:00"
+    endDate="2018-11-27T21:00:00+00:00"
+    location="Liquidnet Offices, 21st Floor, Broadgate Tower, Primrose St, London, EC2A 2EW"
+    external="true">
+    <text>
+      JOIN LIQUIDNET CHIEF DATA SCIENTIST TOM DORIS, PHD. to discuss challenges
+      in adoption and adherence of new technologies by human experts, deconstruct
+      the methods that were effective in overcoming the obstacles, and review
+      similarities across other industries.
+
+      There will be an opportunity to network with members of Tom's Technology
+      team, our Recruitment Team and Product Team once the interactive session
+      has ended.
+
+      Refreshments will be served.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/liquidnet-interactive-session-trading-ai-and-augmenting-behavior-tickets-51867766887">Eventbrite</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>LSEG WIN Breakfast Sessions for Young Female Talents</heading>
+  <sponsor company="lseg" />
+  <event startDate="2018-12-05T09:00:00+00:00"
+    endDate="2018-12-05T10:00:00+00:00"
+    location="LSEG City of London Global Headquarters, 10 Paternoster Square, London, EC4M 7LS"
+    external="true">
+    <text>
+      **Limited spaces available!**
+
+      The **LSEG WIN (Women Inspired Network)** Community aims to provide a
+      platform to celebrate female talents within and outside the Group. As part of the
+      WIN Campus Taskforce, we’d like to invite a small group of elite female
+      students from four top London universities (LSE, UCL, KCL, and Imperial
+      College London) to attend our breakfast sessions to understand and explore the
+      financial industry with the help of industry leaders and senior executives.
+
+      We are excited to offer this opportunity to young talented female students to
+      help them to gain more exposure to financial markets, whilst networking with
+      like-minded peers.
+
+      Our last breakfast session is **Alternative Career Options in Finance**, on
+      Wednesday, 5 December, 9:00am – 10:00am. For more details, see the PDF attached.
+
+      Location: LSEG City of London Global Headquarters, 10 Paternoster Square, London EC4M 7LS
+
+      If you're interested, email DoCSoc at docsoc@imperial.ac.uk and they'll pass your
+      details onto us!
+    </text>
+    <links>
+      <link href="mailto:docsoc@imperial.ac.uk">RSVP</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>WinC@IC talks: Research Careers in Industry and Academia</heading>
+  <event startDate="2018-11-28T17:00:00+00:00"
+    endDate="2018-11-28T19:00:00+00:00"
+    location="Huxley Building"
+    external="true">
+    <text>
+      What do you want to do after your research degree? Do you want to learn
+      more about the opportunities and challenges of continuing a career in research?
+      Two wonderful speakers, Dr Emily Adlam and Dr Victoriia Sharmanska, will
+      share their research interests and career paths within industry and academia.
+
+      **The Women in Computing group** at Imperial is thrilled to announce the
+      first event of the year with two wonderful speakers, who will share their
+      research interests and career paths within industry and academia.
+
+      **Emily Adlam** graduated with a PhD in theoretical physics from the
+      University of Cambridge and currently works as a Quantitative Researcher
+      G Research, a world-leading tech company that uses machine learning,
+      artificial intelligence and big data analytics to predict prices in global
+      financial markets.
+
+      **Victoriia Sharmanska** is a Research Fellow in the Department of
+      Computing at Imperial, leading the project in 'Deep Understanding of Human
+      Behaviour from Video Data: Action Emotion Approach'. Her research interests
+      include deep learning methods and cross-modal transfer that are suitable for
+      learning from complex visual data.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/wincic-talks-research-careers-in-industry-and-academia-tickets-52830593728">Tickets (Eventbrite)</link>
+    </links>
+  </event>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
