@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="American Express - Student and Graduate Jobs"
+  logos="false">
+
+  <text>
+    Hi all!
+
+    American Express have got in touch to advertise their student and graduate
+    jobs. Read on to learn more about the company and how to apply!
+  </text>
+
+  <hr />
+
+  <sponsor company="amex">
+    There’s a difference between having a job and making a difference.
+
+    American Express has been making a difference in people’s lives for over 160
+    years, backing them in moments big and small, granting access, tools, and
+    resources to take on their biggest challenges and reap the greatest rewards.
+
+    Because we believe that the best way to back our customers is to back our people.
+    Here at American Express, we’ve made a difference in the lives of our people,
+    providing a culture of learning and collaboration, and helping them with what
+    they need to succeed and thrive.
+
+    We have their backs as they grow their skills, conquer new challenges, or
+    even take time to spend with their family or community.
+
+    When they’re ready to take on a new career path, we’re right there with them,
+    giving them the guidance and momentum into the best future they envision.
+
+    Students will work building enterprise scale Java and JavaScript applications
+    with a host of tools and frameworks. You’ll find all sorts of things across
+    our software products, like Spring Cloud and Webflux for reactive Java services,
+    or Node.js driving React web applications and even polyglot microservices.
+    We’re often experimenting with new technology; it’s all about picking the
+    right tool for the right job.
+
+    Are you up for the challenge?
+
+    -	We need creative, collaborative and curious thinkers
+    -	Can identify opportunities for innovation and change
+    -	Have a passion for technology and desire to learn
+    -	Ability to effectively communicate with non-technical business partners
+    -	Capable of working well in a team environment and contributing
+
+    The powerful backing of American Express.
+
+    Don’t make a difference without it.
+
+    Don’t live life without it.
+
+    https://jobs.americanexpress.com/jobs?page=1&amp;tags=UKUndergrad
+  </sponsor>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
