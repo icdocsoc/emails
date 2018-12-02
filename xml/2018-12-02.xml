@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/M1avYQf.png"
+    alt="Desserts from the DoCSoc and CGCU Diversity Event"
+    title="A selection of dessert canapes fom the diversity event last week!" />
+
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    The past week was hectic with two major events: our joint diversity panel
+    and networking event (photo of desserts above) with CGCU and Google DevFest
+    London. Both events were great fun, and thanks to everyone who attended and
+    helped out!
+
+    As the Department of Computing goes into December exams (or in the case of
+    second years, their final week of Pintos), the next week will be quieter.
+    Despite the super-short digest, we have some exciting things to announce,
+    including a festive Christmas party, Pintos glasses and DoCSoc swag!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Pintos Glasses</heading>
+  <text>
+    If you're a second year, join DoCSoc in celebrating the end of Pintos! We're
+    handing out Pintos pint glasses at 7pm on Friday around labs. If you can't
+    make it, don't worry! There will be another collection the week after
+    (details TBC).
+  </text>
+
+  <hr />
+
+  <heading>DoCSoc Swag</heading>
+  <image src="https://i.imgur.com/XFjBZW5.png" />
+  <text>
+    This Wednesday, DoCSoc's 2018-19 selection of branded swag will go online on
+    the Union's online store, with DoCSoc hoodies (in black/yellow, heather/navy
+    and burgundy/charcoal), T-shirts (mens and womens sizes available) and
+    beanies (one size fits all, perfect for the winter!).
+
+    More details will follow in a separate email later this week!
+  </text>
+
+  <hr />
+
+  <heading>IC Hack 19 Organisers</heading>
+  <text>
+    With DevFest over (thanks to everyone who volunteered!), our focus is now
+    on IC Hack 19. This year, we're back bigger than ever, targeting 400 attendees.
+    With help needed in Logistics, Hacker Experience, Sponsorship, Marketing
+    and more, IC Hack 19 is an opportunity to go beyond the standard role of a
+    volunteer and become a _core organiser_ of a major hackathon. For more information,
+    join the [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/)
+    group.
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>DoCSoc Christmas Party</heading>
+  <image src="https://i.imgur.com/Kh0oZqD.jpg" />
+  <event startDate="2018-12-04T18:00:00+00:00"
+    endDate="2018-12-04T20:00:00+00:00"
+    location="Huxley 217/218">
+    <text>
+      Come put on your Santa hat and Christmas jumper, and join us for a night
+      of festive fun! There'll be mince pies, Christmassy snacks, mulled wine,
+      hot chocolate, and more. We'll also be playing some party games, so come
+      get into the holiday spirit with us at the end of a busy term!
+
+      If you have any specific dietary requirements, please let us know a few
+      days beforehand.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/256520188364519/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## External Events</text>
+
+  <hr />
+
+  <heading>LSEG WIN Breakfast Sessions for Young Female Talents</heading>
+  <sponsor company="lseg" />
+  <event startDate="2018-12-05T09:00:00+00:00"
+    endDate="2018-12-05T10:00:00+00:00"
+    location="LSEG City of London Global Headquarters, 10 Paternoster Square, London, EC4M 7LS"
+    external="true">
+    <text>
+      **Limited spaces available!**
+
+      The **LSEG WIN (Women Inspired Network)** Community aims to provide a
+      platform to celebrate female talents within and outside the Group. As part of the
+      WIN Campus Taskforce, we’d like to invite a small group of elite female
+      students from four top London universities (LSE, UCL, KCL, and Imperial
+      College London) to attend our breakfast sessions to understand and explore the
+      financial industry with the help of industry leaders and senior executives.
+
+      We are excited to offer this opportunity to young talented female students to
+      help them to gain more exposure to financial markets, whilst networking with
+      like-minded peers.
+
+      Our last breakfast session is **Alternative Career Options in Finance**, on
+      Wednesday, 5 December, 9:00am – 10:00am. For more details, see the PDF attached.
+
+      Location: LSEG City of London Global Headquarters, 10 Paternoster Square, London EC4M 7LS
+
+      If you're interested, email DoCSoc at docsoc@imperial.ac.uk and they'll pass your
+      details onto us!
+    </text>
+    <links>
+      <link href="mailto:docsoc@imperial.ac.uk">RSVP</link>
+    </links>
+  </event>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
