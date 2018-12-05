@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Merch Now Available!" logos="true">
+
+  <image src="https://i.imgur.com/XFjBZW5.png" />
+
+  <text>
+    Head on over to the Union's website to buy DoCSoc-branded hoodies, T-shirts,
+    and beanies. They will be available on the shop from 6pm on Wednesday 26th
+    December, of course at rock-bottom prices thanks to our generous sponsors.
+
+    Available here: https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products
+  </text>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
