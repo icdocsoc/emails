@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Jump Trading FPGA Hardware Internships and Full-Time Opportunities" logos="false">
+
+  <text>
+    Hi everyone,
+
+    Our sponsor, Jump Trading, have got in touch to advertise their FPGA internship
+    and full-time opportunities. If this interests you, read on!
+  </text>
+  <hr/>
+
+  <image
+    src="https://i.imgur.com/5h3xQfF.png"
+    width="50"/>
+  <text>
+    We’ve been fortunate to hire several Imperial students over the past several
+    years ([Jaden Liu](https://www.linkedin.com/in/jaden-jianxiong-liu-56a86015/)
+    and [Dylan McCormick](https://www.linkedin.com/in/dylan-mccormick-17a81676/))
+    and we’re looking forward to meeting more students for opportunities in 2018 and beyond.
+
+    Our FPGA team is looking to grow and we’re hoping to hire several interns and
+    new grads. If you're intrigued by the intersection of software and hardware,
+    and are looking for a challenge, please consider our job postings below.
+
+    **APPLY TO JUMP TRADING**
+
+    FPGA ENGINEER INTERNSHIP - https://www.jumptrading.com/apply.html?gh_jid=1045825
+
+    FPGA ENGINEER NEW GRAD - https://www.jumptrading.com/apply.html?gh_jid=1044275
+
+    **ABOUT JUMP TRADING**
+
+    At Jump Trading, you will find a group of driven, dynamic people focused on
+    researching, interpreting and capitalizing on the global trading markets.
+    Headquartered in Chicago since 1999, Jump has expanded over the years as a
+    global operation with offices in London, Singapore, New York, and Shanghai.
+
+    We are a privately-funded company that is owned and managed by trading
+    professionals who have set high standards around trust and leadership in a
+    quantitative trading environment. We trade across all major asset classes on
+    multitudes of electronic exchanges around the world, with a strong track
+    record of success through all market conditions.
+
+    Our casual atmosphere, culture of continuous learning and innovation, and
+    philosophy of rewarding outstanding performance based on merit rather than
+    tenure or title has attracted brilliant people from around world. We value
+    our people at Jump and pride ourselves on being a diverse set of individuals.
+    Employees have notable backgrounds from the trading industry, Silicon Valley,
+    tech companies, startups, world renowned research labs, top tier Universities,
+    and PhD programs.
+
+    **ABOUT THE FPGA ENGINEER TEAM**
+
+    We’re looking for brilliant engineering talent to join our FPGA team in London
+    that is building next-generation, ultra-low-latency systems to power trading
+    with machine learning and other algorithms on a global scale.
+
+    This is an opportunity to work on complex problems around networking, high
+    performance computing, and real-time acceleration where we can't just use
+    off-the-shelf hardware.
+
+    You’ll work alongside a small team of experienced engineers, led by [Steve Perry](https://www.linkedin.com/in/stevenwperry/),
+    who all came to Jump from leading companies in FPGAs, semiconductors,
+    networking cards, and more… as well as PhDs from top FPGA research labs
+    around the world.
+
+    No prior knowledge of finance or trading is necessary. We’ll give you the
+    training that you’ll need.
+
+    **WHAT YOU’LL NEED**
+
+    - **Undergraduate or Graduate** concentration in Electrical Engineering, Computer Science, or related areas
+    - **Experience** with FPGA or other hardware/systems design and development
+    - **Experience** with RTL (SystemVerilog/Verilog/VHDL)
+    - **Previous internship** experience in hardware or low-level software engineering
+    - **Experience** with C, C++, or Python
+    - **Passion for** solving complex problems and ability to draw upon knowledge
+    and experience from a variety of technical areas to produce extremely high-performance solutions
+
+    **OTHER HELPFUL AND RELATED EXPERIENCE**
+
+    -	Excellent marks in courses such as computer architecture, digital design,
+    design verification
+    -	Any programming close to the metal with CPU, GPU, microprocessors, etc.
+    -	Linux kernel and driver programming
+    - lowRISC or RISC-V
+    - CocoTB, Chisel, Opencore, or Bluespec
+    - HLS or OpenCL
+    - Robotics, Telecommunications, or High Speed Networking
+    - Raspberry Pi or Arduino
+
+    ---
+
+    Questions? Email bmcnamara@jumptrading.com
+
+  </text>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>

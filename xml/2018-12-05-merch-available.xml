@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <email title="Merch Now Available!" logos="true">
 
+  <text>
+    Just a brief amendment to my last email: merchandise is **available now**
+    and will be up _until_ Wednesday 26th!
+  </text>
+
+  <hr />
+
   <image src="https://i.imgur.com/XFjBZW5.png" />
 
   <text>
     Head on over to the Union's website to buy DoCSoc-branded hoodies, T-shirts,
-    and beanies. They will be available on the shop from 6pm on Wednesday 26th
+    and beanies. They will be available on the shop until 6pm on Wednesday 26th
     December, of course at rock-bottom prices thanks to our generous sponsors.
 
     Available here: https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products
