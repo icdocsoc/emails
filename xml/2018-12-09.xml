@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/N5zo1QB.jpg"
+    alt="A selection of very festive biscuits"
+    title="A festive selection of biscuits with Christmas around the corner!" />
+
+  <hr/>
+
+  <text>
+    We made it! Welcome to the last week of term. With December exams and code
+    reviews, there's no doubt most of us will be working right until the end.
+    However, that means there's more reason to celebrate, so if you're still around
+    on Saturday, join us for another DoCSoc Bar Night! More details below.
+
+    If you're a second year, congratulations on finishing Pintos! It's time to
+    have some well-deserved rest. If you're a third or fourth year with the next
+    week being the final hurdle of the term, we wish you good luck with your exams!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Pintos Glasses</heading>
+  <text>
+    If you're a second year who missed their Pintos glass collection, we'll be
+    doing a final pickup session at 2pm on Tuesday in labs (after the final OS
+    lecture).
+  </text>
+
+  <hr />
+
+  <heading>DoCSoc Merch</heading>
+  <image src="https://i.imgur.com/XFjBZW5.png" />
+  <text>
+    Head on over to the Union's website to buy DoCSoc-branded hoodies, T-shirts,
+    and beanies. They will be available on the shop until 6pm on Wednesday 26th
+    December, of course at rock-bottom prices thanks to our generous sponsors.
+
+    Available here: https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products
+  </text>
+
+  <hr />
+
+  <heading>IC Hack 19 Organisers</heading>
+  <text>
+    This year, we're back bigger than ever for IC Hack 19, targeting 400 attendees.
+    With help needed in Logistics, Hacker Experience, Sponsorship, Marketing
+    and more, IC Hack 19 is an opportunity to go beyond the standard role of a
+    volunteer and become a _core organiser_ of a major hackathon. For more information,
+    join the [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/)
+    group.
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>Christmas Bar Night</heading>
+  <image src="https://i.imgur.com/KTzAWzP.jpg" />
+  <event startDate="2018-12-15T19:00:00+00:00"
+    endDate="2018-12-15T23:00:00+00:00"
+    location="Union Bar">
+    <text>
+      DoCSoc's third and final bar night of the term, and final bar night of 2018
+      is here - the Christmas Bar Night!
+
+      We'll be enjoying free drinks (alcoholic or not), celebrating our successes
+      throughout the year, and looking forward to 2019 and beyond! Don't miss it!
+
+      Drinks tokens will be given upon entry for FREE to DoCSoc members. Tokens
+      are valid for both alcoholic and non-alcoholic drinks. Note that this event
+      is on a SATURDAY - the day after term ends.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/528361920996868/">Facebook</link>
+    </links>
+  </event>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Wishing everyone a festive holiday,
+  </sign>
+</email>
