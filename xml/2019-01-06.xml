@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="90"
+    src="https://i.imgur.com/WZJa6LG.jpg"
+    alt="Container of Danish butter cookies"
+    title="" />
+
+  <hr/>
+
+  <text>
+    Welcome back! We hope you had a well-deserved, enjoyable break and are feeling
+    refreshed for another term.
+
+    Over the next term, DoCSoc will be holding our yearly flagship events, IC Hack
+    19 and Revel. We'll also be continuing our usual series of social events, including
+    bar nights, trips and more! Be sure to stay updated over our social media
+    channels (especially Facebook!) and weekly digest emails.
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>DoCSoc Merch Update</heading>
+  <text>
+    For those of you who ordered DoCSoc-branded merchandise last term, we will
+    be following up with pick-up times over the coming weeks.
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>Post-Haskell Curry Night (Freshers Only)</heading>
+  <event startDate="2019-01-13T17:00:00+00:00"
+    endDate="2019-01-13T20:00:00+00:00"
+    location="Sheba Brick Lane, 136 Brick Lane, London, E1 6RU">
+    <text>
+      Now that you've finished your first major exam at Imperial, we want you to
+      take a well-deserved break and enjoy the delicious curry dishes of the famous
+      Brick Lane, on us!
+
+      So whether you want to celebrate smashing the exam or drown your sorrows
+      in tikka masala, come join your fellow coursemates at the Sheba Restaurant
+      on Sunday 13th Jan at 5pm for a great time and great food!
+
+      ONLY first year Computing and JMC students are allowed to purchase tickets - they
+      will be revoked otherwise.
+
+      Tickets will be released on Eventbrite - more information coming soon!
+    </text>
+    <links>
+      <link href="https://www.eventbrite.com/e/post-haskell-curry-night-freshers-only-tickets-54499654935">Tickets (Eventbrite)</link>
+      <link href="https://www.facebook.com/events/1966152080356316/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>IC Hack 19 - Batch Two Ticket Release</heading>
+  <image src="https://i.imgur.com/dJL5aDU.png" />
+  <event startDate="2019-01-26T10:00:00+00:00"
+    endDate="2019-01-27T17:00:00+00:00"
+    location="Imperial College London">
+    <text>
+      24 hours.
+      Amazing prizes.
+      Are you ready for IC Hack 19?
+
+      Running for its eighth consecutive year, we’re bringing over 400 of the
+      UK's most creative and talented students together for 24 hours of learning,
+      building, fun, and networking on the weekend of 26-27th January 2019.
+      Come create something cool!
+
+      IC Hack 19 Powered By Cisco will be hosted on Imperial College London's South Kensington campus.
+
+      The **second batch of tickets** will be released on the **10th of January at 1:30pm GMT**,
+      so don't miss out! The first batch sold out in under 15 seconds. Did we
+      mention all tickets are completely free?
+    </text>
+    <links>
+      <link href="http://ichack19.eventbrite.com/">Tickets (Eventbrite)</link>
+      <link href="https://twitter.com/ichackuk">Twitter</link>
+      <link href="https://ichack.org/">Website</link>
+    </links>
+  </event>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time
+  </sign>
+</email>
