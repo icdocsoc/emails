@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Serverless Internships at Artificial"
+  logos="false">
+
+  <sponsor company="artificiallabs">
+    ​
+
+    **[Artificial](https://artificial.io/)** has open positions for engineering
+    internships on our serverless team.
+
+    **Artificial**'s mission is to make insurance frictionless. With ArtifiicalOS,
+    we're building market leading tools to radically improve the efficiency and
+    profitability of insurance companies.
+
+    With a need to rapidly scale a wide range of features for our clients, our
+    insurance platform is compromised of **rapidly scalable microservices**, where
+    technologies required include using Go, Node.js and Python to build serverless functions.
+
+    We're looking for students who have demonstrated an interest in the
+    technologies we use and push their skills by working on our platform. If
+    you're an undergraduate who has undertaken projects beyond your course or
+    have gained experience working with serverless and cloud technologies, we
+    think you'd be a great fit for us.
+
+    Interested in our **engineering roles**? To apply, click [here](https://artificial.workable.com/jobs/816324)
+    and let us know your specific field of interests in the cover letter section.
+  </sponsor>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
