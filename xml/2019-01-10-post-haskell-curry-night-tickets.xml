@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Post-Haskell Curry Night - Ticket Release"
+  logos="false"
+  agenda="false">
+
+  <text>
+    Hi all!
+
+    Tickets for the Post-Haskell Curry Night will be released at **12pm tomorrow**
+    (Friday 11th). We have limited spaces available, so be sure to grab tickets
+    as soon as they release!
+  </text>
+
+  <hr />
+
+  <heading>Post-Haskell Curry Night</heading>
+  <event startDate="2019-01-13T17:00:00+00:00"
+    endDate="2019-01-13T20:00:00+00:00"
+    location="Sheba Brick Lane, 136 Brick Lane, London, E1 6RU">
+    <text>
+      Now that you've finished your first major exam at Imperial, we want you to
+      take a well-deserved break and enjoy the delicious curry dishes of the famous
+      Brick Lane, on us!
+
+      So whether you want to celebrate smashing the exam or drown your sorrows
+      in tikka masala, come join your fellow coursemates at the Sheba Restaurant
+      on Sunday 13th Jan at 5pm for a great time and great food!
+
+      ONLY first year Computing and JMC students are allowed to purchase tickets - they
+      will be revoked otherwise.
+
+      Tickets will be released on Eventbrite at 12pm on Friday 11th January 2019.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.com/e/post-haskell-curry-night-freshers-only-tickets-54499654935">Tickets (Eventbrite)</link>
+      <link href="https://www.facebook.com/events/1966152080356316/">Facebook</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>

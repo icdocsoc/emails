@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="IC Hack 19 Final Year Tickets - Sold Out"
+  logos="false"
+  agenda="false">
+
+  <text>
+    Hi there!
+
+    DoCSoc have reserved a limited number of IC Hack 19 tickets for **final year
+    students who have not attended an IC Hack in the past**. If you fall into this
+    criteria and would like a ticket to attend IC Hack 19 Powered by Cisco, reply
+    to this email as soon as possible and we will send you a ticket while there
+    are still some remaining!
+  </text>
+
+  <hr />
+
+  <heading>IC Hack 19</heading>
+  <image src="https://i.imgur.com/dJL5aDU.png" />
+  <event startDate="2019-01-26T10:00:00+00:00"
+    endDate="2019-01-27T17:00:00+00:00"
+    location="Imperial College London">
+    <text>
+      24 hours.
+      Amazing prizes.
+      Are you ready for IC Hack 19?
+
+      Running for its eighth consecutive year, we’re bringing over 400 of the
+      UK's most creative and talented students together for 24 hours of learning,
+      building, fun, and networking on the weekend of 26-27th January 2019.
+      Come create something cool!
+
+      IC Hack 19 Powered By Cisco will be hosted on Imperial College London's South Kensington campus.
+    </text>
+    <links>
+      <link href="http://ichack19.eventbrite.com/">Tickets (Eventbrite)</link>
+      <link href="https://twitter.com/ichackuk">Twitter</link>
+      <link href="https://ichack.org/">Website</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
