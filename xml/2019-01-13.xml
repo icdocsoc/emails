@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="55"
+    src="https://i.imgur.com/VsDtOCH.jpgl"
+    alt="Chocolate chip cookie"
+    title="" />
+
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    Our committee has been busy preparing for IC Hack 19 but that definitely doesn't
+    mean we'll let the term go by without any events! That's right - we have another
+    bar night coming up this week! More details below.
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>IC Hack 19 Volunteers</heading>
+  <text>
+    If you didn't manage to get a ticket to IC Hack 19, you can still take part
+    by volunteering on the day! It isn't easy making an event go smoothly for
+    400 attendees and every volunteer counts.
+
+    To volunteer, join the [DoCSoc Operations](https://www.facebook.com/groups/1509850436007222/members/)
+    Facebook group and we'll post more instructions soon.
+  </text>
+
+  <hr />
+
+  <heading>Imperial Venture Catalyst Challenge</heading>
+  <image src="https://i.imgur.com/4pNN0eT.jpg" />
+  <text>
+    The deadline for applications to the Imperial Venture Catalyst Challenge
+    competition is on the 20th Jan. This year’s competition has an £80K total
+    prize fund as well as a dedicated AI, Software &amp; Robotics track sponsored
+    by Amazon Robotics.
+
+    The Venture Catalyst Challenge enables Imperial students and alumni, within
+    three years of graduation, to develop an innovative idea for commercialisation.
+    If you have created something as part of your coursework, have an idea that
+    spins out of your research, or have a project you’ve been messing
+    around with on weekends, then the VCC is for you!
+
+    For more information, visit [this page](https://www.imperialenterpriselab.com/programmes/vcc/) for more details.
+
+    _Please note this programme is not run by DoCSoc._
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>The New Year Bar Night</heading>
+  <image src="https://i.imgur.com/KbgH0WP.jpg" />
+  <event startDate="2019-01-17T19:00:00+00:00"
+    endDate="2019-01-17T23:00:00+00:00"
+    location="Metric">
+    <text>
+      Come celebrate the start of 2019 with us at the first bar night of the year!
+      Everyone's welcome (even if you've given up on your New Year's Resolutions
+      already 👀).
+
+      Drinks tokens will be given upon entry for FREE to DoCSoc members. Tokens
+      are valid for both alcoholic and non-alcoholic drinks.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/790551464622069/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <image src="https://i.imgur.com/NxONDEd.png" />
+  <text>
+    Facebook is launching their 3rd run of Hack-a-project!
+
+    This is a 5-week mentoring programme kicking off in February 2019, designed
+    for 1st years of a three year degree and 2nd years of a fourth year degree,
+    looking to apply for a Software Engineering internship with Facebook. Selected
+    students will come to the Facebook office, once a week in the evening to learn
+    about the whole development cycle and build a project as a team via a hackathon!
+
+    In addition, we will be sharing tips on “how to crush your coding interview”,
+    and also do a mock interview with you, where feedback will be provided to help
+    you improve.
+
+    Each session will also be catered, so come hungry (to learn and to eat!)
+
+    **If you are interested, please sign-up by following [this](https://urldefense.proofpoint.com/v2/url?u=https-3A__hackaproject2019.splashthat.com_&amp;d=DwMF-g&amp;c=5VD0RTtNlTh3ycd41b3MUw&amp;r=4Ht1aWc8IssynPN9692iKw&amp;m=3QnJFgqZ2ln3T1h10vEd1PXGLEETEPLoEWP_HRlZc9k&amp;s=rGe1mlmZqLK51_y0Ld3_wzqoa2xekf0TsLzs_VBIJ2E&amp;amp;e=)
+    link AND send your CV to LucyKemp@fb.com with the subject headline ‘Hack-a-project – applicant 2019’.**
+
+    **The deadline for applications is the 1st of Feb.**
+  </text>
+
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time
+  </sign>
+</email>
