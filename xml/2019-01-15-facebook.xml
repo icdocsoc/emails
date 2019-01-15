@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Facebook – Front End Engineering Internships" logos="false">
+
+  <text>
+    Facebook has got in touch to advertise their front end engineering internships
+    in London. If you're interested, see below for more details!
+  </text>
+  <hr/>
+
+  <image src="https://i.imgur.com/NxONDEd.png" />
+  <text>
+    Hi there!
+
+    Facebook are currently seeking **Front End Engineer Interns** to join the **Front
+    End Engineering Team** in team in **London**. If you are passionate about building
+    web applications this could be an excellent opportunity to work with one of
+    the best front end teams in the world, helping to build products used by over
+    a billion people.
+
+    We are recruiting for our 2019 Internship Programmes and have start dates
+    throughout May, June, July and September. Please note our internships last
+    for 12 weeks and we require candidates to be available for the full duration.
+    To be eligible for the programme you must be currently enrolled in a full-time
+    degree and be returning to the program after the completion of the internship 😊
+
+    For more information and to apply, please visit the link below –
+
+    [Front End Engineer, Intern - London](https://www.facebook.com/careers/jobs/603593410001824/)
+
+    We look forward to hearing from you!
+
+    The Facebook Team
+  </text>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
