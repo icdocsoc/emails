@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email agenda="false" logos="false">
+
+  <image
+    src="https://i.imgur.com/dJL5aDU.png"
+    title="IC Hack 19 - CV Deadline Today!"/>
+
+  <hr/>
+
+  <text>
+    With IC Hack 19 little over a week away, we'll be sending out event information
+    including our Slack channel invitation link soon.
+
+    In the meantime, here's a reminder that **CV submissions are open until the end
+    of today**. Our sponsors are looking to recruit from the event for various roles.
+    Submitting your CV will help you **get the most out of IC Hack 19** and build
+    your network.
+
+    Make sure to submit yours using [this form](https://goo.gl/forms/tqqDFvMjuYPdqhdC2) before 11:59pm today!
+  </text>
+
+  <hr />
+
+  <text>
+    If you have any questions, please don't hesitate to let us know by emailing
+    info@ichack.org.
+
+    We look forward to seeing you at IC Hack 19!
+
+    _- The IC Hack 19 team_
+  </text>
+</email>
