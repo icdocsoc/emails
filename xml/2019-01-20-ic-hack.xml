@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email agenda="false" logos="false">
+
+  <image
+    src="https://i.imgur.com/dJL5aDU.png"
+    title="IC Hack 19 IS ALMOST HERE!"/>
+
+  <hr/>
+
+  <text>
+    **IC Hack 19 Powered by Cisco** is only a few days away. We can't wait to see
+    you there! In the meantime, we have some **key information** for you to go through,
+    so be sure to read through this email carefully!
+  </text>
+
+  <image src="https://media.giphy.com/media/1hwRvWKkkoJby/giphy.gif"
+         width="50"/>
+
+  <hr />
+
+  <text>
+    ## Join Our Slack!
+
+    Join our Slack team using [this link](https://join.slack.com/t/ichack19/shared_invite/enQtNTEwNTA2OTAzODI0LWFjMWNkZTQyZDNjYTgxMTdhOTZlODNiNGZjYjc5MDI3YTdkYTVkYTc4MTRjM2QxMmFhZjA2NzUxN2Y3NzEzNzk).
+    We use the Slack team to **make important announcements** (on the *#announcements* channel)
+    and you can use the team to talk to organisers, sponsors and fellow hackers.
+    Make sure you **join the team before the weekend** so you don't miss any important
+    information.
+
+    Keep an eye on our sponsor (*#sp-[sponsor]*) channels to find out more about them and take
+    part in their challenges. If you're looking for a team, be sure to join the *#team-forming*
+    channel.
+  </text>
+
+  <hr />
+
+  <text>
+    ## Ticket Cancellations
+
+    As we have a very long waitlist, if you are unable to attend, please cancel
+    your ticket [via Eventbrite](https://www.eventbrite.co.uk/mytickets/)
+    as soon as possible so your space can be released. If you are
+    having difficulties doing so, you can email us at info@ichack.org. Please note
+    that tickets are non-transferable.
+  </text>
+
+  <hr />
+
+  <text>
+    ## Equipment Requests
+
+    We're happy to provide our attendees with hardware/equipment for their hacks
+    on a best-effort basis. If you have an idea which requires additional equipment,
+    please send a short proposal to info@ichack.org detailing your idea and what
+    equipment you require, and we'll do our best to provide you with what you need!
+  </text>
+
+  <hr />
+
+  <text>
+    ## What to Bring
+
+    On the day, be sure to have your Eventbrite ticket ready (either digital or
+    printed - up to you!) and a **valid form of Government ID** (driving license
+    or passport). Please note you must be **over 18** on the day of the event to attend.
+
+    Also don't forget to bring chargers for your devices (including your phone and
+    laptop) to keep them powered on overnight. Bringing a warm coat is also
+    recommended as some of our activities may involve going outdoors.
+  </text>
+
+  <hr />
+
+  <text>
+    ## Getting There
+
+    IC Hack is hosted at **Imperial College South Kensington Campus**. The registration
+    will take place at the **main entrance** on Exhibition Road, SW7 2BX. The best way
+    to reach the venue is via tube to South Kensington Station (District, Circle and
+    Piccadilly lines), then either walking up the subway (exiting at the end of the
+    subway and turning left) or up Exhibition Road.
+
+    Alternatively, you can take buses **9, 23, 52, 70, 452**, which stop opposite the
+    Royal Albert Hall. The Imperial College main entrance is then a short, five-minute
+    walk south from there. There are limited car parking spaces nearby, so we
+    recommend using public transport.
+
+    **Registration starts from 10:00am**. Please **do not be late** as the Opening Ceremony
+    starts at 10:45am!
+
+    Please be sure to bring a **valid form of Government ID** for admission,
+    hardware loans and to be able to attend the _Drinks with PolyAI_ activity.
+
+    If you are walking from South Kensington station, here is a map of the route:
+  </text>
+
+  <image src="https://i.imgur.com/6G1A6fb.png"
+         width="70" />
+
+  <hr />
+
+  <text>
+    ## Schedule
+
+    The schedule for the weekend is as follows:
+
+    **Saturday 26th January**
+
+    - **10:00** - Check-in
+    - **10:45** - Opening Ceremony
+    - **12:00** - Hacking begins
+    - **12:15** - Cisco Workshop 1 - *Hacking with Cisco Collaboration Technologies*
+    - **13:15** - Lunch
+    - **14:00** - Next Jump Workshop - *Getting to grips with Go*
+    - **14:40** - Visa Workshop - *Tech for Good: How can we utilize technology for the betterment of society?*
+    - **15:20** - Atlas City Workshop - *Build your Dreamed dApp*
+    - **16:00** - Cisco Workshop 2 - *Introduction to Cisco DevNet*
+    - **18:00** - Sleep Class with Next Jump
+    - **18:30** - Sleep Class with Next Jump 2
+    - **19:00** - Nando's Dinner by Two Sigma
+    - **21:00** - Drinks with PolyAI
+
+    **Sunday 27th January**
+
+    - **00:00** - Midnight Pizza with G-Research
+    - **02:00** - Karaoke
+    - **07:00** - Breakfast
+    - **12:00** - Hacking ends
+    - **12:15** - Lunch
+    - **13:00** - Judging
+    - **15:00** - Closing ceremony
+    - **17:00** - IC Hack ends
+  </text>
+
+  <hr />
+
+  <text>
+    ## Venue
+
+    Below is a map of the campus and of all the rooms where IC Hack will be hosted.
+    If you're on a mobile device, click [here](https://i.imgur.com/r3AOiou.png) for
+    the full image. A physical copy of this will be inside the lanyard booklet
+    given to you at the event.
+  </text>
+
+  <image src="https://i.imgur.com/r3AOiou.png" />
+
+  <hr />
+
+  <text>
+    Finally, be sure to make good use of the **#ICHack19** hashtag on social media!
+
+    If you have any questions, please don't hesitate to let us know by emailing
+    info@ichack.org.
+
+    We look forward to seeing you at IC Hack 19!
+
+    _- The IC Hack 19 team_
+  </text>
+</email>

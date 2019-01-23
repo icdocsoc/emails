@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="70"
+    src="https://i.imgur.com/sDUoHX0.jpg"
+    alt="Oreos"
+    title="" />
+
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    We have an exciting week ahead with IC Hack 19 and the committee is super-busy
+    preparing for it. In the meantime, we have one on-campus event this week,
+    _Internship 101_. Additionally, Facebook and Bloomberg have got in touch to
+    advertise their events. For more information, read on!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>IC Hack 19 Volunteers</heading>
+  <text>
+    If you didn't manage to get a ticket to IC Hack 19, you can still take part
+    by volunteering on the day! It isn't easy making an event go smoothly for
+    400 attendees and every volunteer counts.
+
+    To volunteer, come along to our **Volunteers' Meeting** on **Wednesday 23rd January
+    at 1pm** in Huxley 145. Be sure to also read our [DoCSoc: Operations post](https://www.facebook.com/groups/1509850436007222/permalink/2356588118000112/).
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>Internship 101</heading>
+  <image src="https://i.imgur.com/lcO7fU0.jpg" />
+  <event startDate="2019-01-21T18:00:00+00:00"
+    endDate="2019-01-21T19:00:00+00:00"
+    location="Huxley 145">
+    <text>
+      If you're currently looking for an internship, or simply want to know more
+      about the internship process, come along to Internship 101 to find out about
+      companies that are still hiring from past interns.
+
+      Gain an exclusive honest insider opinion, learn about the types of projects
+      interns worked on and the interview process to give you the best chance of
+      getting an offer.
+
+      Although it's now relatively late in the cycle, these companies offer
+      interesting projects and past interns have gone on to work/intern at top
+      companies including Google and Facebook so it's definitely worth coming
+      along to hear more about their experiences!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1263390987169298/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Facebook Hack-a-project</heading>
+  <image src="https://i.imgur.com/NxONDEd.png" />
+  <text>
+    Facebook is launching their 3rd run of Hack-a-project!
+
+    This is a 5-week mentoring programme kicking off in February 2019, designed
+    for 1st years of a three year degree and 2nd years of a fourth year degree,
+    looking to apply for a Software Engineering internship with Facebook. Selected
+    students will come to the Facebook office, once a week in the evening to learn
+    about the whole development cycle and build a project as a team via a hackathon!
+
+    In addition, we will be sharing tips on “how to crush your coding interview”,
+    and also do a mock interview with you, where feedback will be provided to help
+    you improve.
+
+    Each session will also be catered, so come hungry (to learn and to eat!)
+
+    **If you are interested, please sign-up by following [this](https://urldefense.proofpoint.com/v2/url?u=https-3A__hackaproject2019.splashthat.com_&amp;d=DwMF-g&amp;c=5VD0RTtNlTh3ycd41b3MUw&amp;r=4Ht1aWc8IssynPN9692iKw&amp;m=3QnJFgqZ2ln3T1h10vEd1PXGLEETEPLoEWP_HRlZc9k&amp;s=rGe1mlmZqLK51_y0Ld3_wzqoa2xekf0TsLzs_VBIJ2E&amp;amp;e=)
+    link AND send your CV to LucyKemp@fb.com with the subject headline ‘Hack-a-project – applicant 2019’.**
+
+    **The deadline for applications is the 1st of Feb.**
+  </text>
+
+  <hr />
+
+  <heading>Discover Bloomberg</heading>
+  <sponsor company="bloomberg" />
+  <event startDate="2019-02-06T15:00:00+00:00"
+    endDate="2019-02-06T19:00:00+00:00"
+    location="Bloomberg LP, 3 Queen Victoria Street, London, EC4N 4TQ"
+    external="true">
+    <text>
+      Bloomberg Women in Technology are pleased to invite you to '**Discover Bloomberg**'
+      on **6th February**.
+
+      **Bloomberg Women in Technology (BWIT)** is an employee network focused on
+      encouraging increased participation of women and other underrepresented
+      groups in technology. The goal of the community is to offer a strong support
+      network, encourage community members to continuously pursue technical
+      advancement and leadership, helping to inspire the next generation of
+      girls in STEM.
+
+      Starting at 3pm, you will get a **tour of our fantastic office space**, gain
+      insight into our Software Engineering department, and learn more about life
+      at Bloomberg through **1-2-1 shadowing** with an engineer and our **panel discussion**.
+      And, if this sparks your interest in a career at Bloomberg, our recruitment
+      team will be on hand to talk to you about the Software Engineering positions
+      available to you.
+
+      Spaces for this event are limited. We therefore ask you to complete the
+      registration form by **28th January**. Spots will be confirmed on **31st January**
+      and we will then reach out to you to arrange any travel assistance that you may need.
+
+      Please sign up via http://tinyurl.com/ydy8aaj4.
+    </text>
+    <links>
+      <link href="http://tinyurl.com/ydy8aaj4">Sign-up</link>
+    </links>
+  </event>
+
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time
+  </sign>
+</email>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email agenda="false" logos="false">
+
+  <image
+    src="https://i.imgur.com/dJL5aDU.png"
+    title="IC Hack 19: Hello from Cisco"/>
+
+  <hr/>
+
+  <text>
+    IC Hack 19 Powered by Cisco is only a few days away and we hope you're excited!
+    In the meantime, our title sponsor, Cisco, have reached out with an introduction.
+    Read on below!
+  </text>
+
+  <hr />
+
+  <text>
+    Cisco is proud to be title sponsor of IC Hack 19.
+
+    Collaboration, IoT and networking are at the heart of what we do. To that end,
+    the Cisco challenge for IC Hack 19 is to build something innovative in the
+    collaboration space, leveraging the extensive developer APIs provided by Cisco's
+    popular Webex platform (https://developer.webex.com/). Enhance collaboration
+    however you see fit, from writing a bot powered by AWS, to customising the
+    Webex experience with our widget API or even integrating Webex into an
+    entirely new space utilising the power of our integration API. The team with
+    the most innovative and useful hack will win £200 of Amazon vouchers per team
+    member, courtesy of Cisco and IC Hack.
+
+    No idea where to start? Then our two workshops are for you. At 12:15 on Saturday,
+    we'll be running a "Your First Webex Teams Bot" workshop - guiding you through
+    developing a Webex Teams chat bot from scratch (keep an eye on *#sp-cisco* for
+    prerequisites). At 15:00, our second "Introduction to Cisco DevNet" workshop
+    will give you an overview of the vast array of tools and resources that DevNet
+    has to offer (https://developer.cisco.com/).
+
+    Visit us at our stall over the weekend (we'll have plenty of goodies too!) or
+    get in touch on #sp-cisco to learn more about who we are, what we do, and what
+    opportunities we have here in London - here are some you can chat to us about:
+    http://cs.co/media-engineering-uk-jobs.
+
+    We hope you're looking forward to this weekend as much as we are. See you there!
+  </text>
+
+  <hr />
+
+  <text>
+    If you have any questions, please don't hesitate to let us know by emailing
+    info@ichack.org.
+
+    We look forward to seeing you at IC Hack 19!
+
+    _- The IC Hack 19 team_
+  </text>
+</email>
