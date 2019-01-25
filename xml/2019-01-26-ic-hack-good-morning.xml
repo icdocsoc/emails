@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email agenda="false" logos="false">
+
+  <image
+    src="https://i.imgur.com/dJL5aDU.png"
+    title="IC Hack 19 - Good Morning!"/>
+
+  <hr/>
+
+  <text>
+    Good morning Hackers!
+
+    Just a reminder that registration takes place from **10am at Imperial College's
+    Main Entrance**. The Opening Ceremony starts at 10:45am, so make you arrive on time!
+
+    Our address is **Imperial College London, Exhibition Road, SW7 2AZ**. If you're travelling
+    on the tube, get off at South Kensington and take the subway, exiting at the very end
+    (following signs for Imperial College) and turning left. If you're still lost,
+    take a look at Google Maps Street View [here](https://goo.gl/maps/HjrGCw8eGAU2).
+
+    At the entrance, have your **QR code** ready either on your Eventbrite app or on paper
+    and make sure you bring a **valid form of government ID** (driving license or passport).
+    Note that we cannot admit you without these documents.
+
+    If you haven't joined our Slack team yet, be sure to do so by clicking [this link](https://join.slack.com/t/ichack19/shared_invite/enQtNTEwNTA2OTAzODI0LWFjMWNkZTQyZDNjYTgxMTdhOTZlODNiNGZjYjc5MDI3YTdkYTVkYTc4MTRjM2QxMmFhZjA2NzUxN2Y3NzEzNzk).
+    If you have any questions, feel free to ask them on the _#helpdesk_ channel
+    and if you're looking for a team, join the _#team-forming_ channel.
+
+    Finally, be sure to make good use of the **#ICHack19** hashtag on social media!
+    We'll be keeping our eyes on Facebook and Twitter throughout the event, so do
+    let us know what you're up to during the event.
+  </text>
+
+  <hr />
+
+  <text>
+    As always, if you have any questions, please don't hesitate to let us know by emailing
+    info@ichack.org.
+
+    We look forward to seeing you at IC Hack 19!
+
+    _- The IC Hack 19 team_
+  </text>
+</email>
