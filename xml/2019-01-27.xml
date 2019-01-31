@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/10yQfIX.jpg"
+    alt="Chocolate chip cookies"
+    title="I was going to put snowman cookies but it didn't snow enough at all :(" />
+
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    As IC Hack 19 approaches its final hours, we want to firstly thank all of our
+    organisers and volunteers for making IC Hack 19 possible. We will have a live stream
+    of the closing ceremony taking place today, with more details below.
+
+    Next week will be relatively quiet as we recover from the hackathon. However, we
+    have a few opportunities from sponsors (both held in their offices!),
+    introductions to DoCSoc CTF and Google Hash Code 2019!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>IC Hack 19 Closing Ceremony</heading>
+  <text>
+    As IC Hack comes to a close, you can tune into a livestream of the **closing ceremony
+    from 3pm today**. Stay tuned on our social media channels for the YouTube link!
+  </text>
+
+  <hr />
+
+  <heading>DoCSoc CTF</heading>
+  <text>
+    We run weekly sessions of "CTF dojos" every Wednesday afternoon (15:00 – 17:00).
+    During our sessions we cover various cybersecurity related topics, including
+    network and web security. We often participate in (rather challenging) CTFs
+    during the weekend, which provide interesting challenges to dissect during
+    the dojos as well.
+
+    If you have never heard of Capture The Flag (CTF) competitions, they are e
+    ssentially challenges which require you to develop exploits or take advantage
+    of vulnerabilities based on black-box analysis, source code analysis, forensic
+    analysis, etc. These skills are very useful for your career and for courses like 331 Network and Web Security.
+
+    Here is a video introduction by a popular CTF channel: https://www.youtube.com/watch?v=8ev9ZX9J45A
+
+    If you are interested, please join our FB group, [DoCSoc CTF](https://www.facebook.com/groups/2422843637940223/).
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>DoCSoc Hosts Google Hash Code 2019</heading>
+  <image src="https://i.imgur.com/bobaBYY.jpg" />
+  <event startDate="2019-02-28T17:00:00+00:00"
+    endDate="2019-02-28T21:30:00+00:00"
+    location="RSM G01 ">
+    <text>
+      We’ll be hosting a hub at Imperial College London for the Online Qualification
+      Round of Hash Code, a team programming competition organized by Google.
+
+      The Online Qualification Round takes place on February 28th, 2019 at 17:30
+      UTC, and registered teams from are invited to participate from our hub, which
+      will take place at Imperial College London RSM G01. Top scoring teams from
+      the Online Qualification Round will then be invited to Google’s office to
+      compete in the Final Round of the competition in April.
+
+      If you’re interested in joining our hub, find a team (2 to 4 people) and
+      be sure you all register at https://g.co/hashcode. You'll then need to select Imperial
+      College London Hub United Kingdom from the list of hubs in the Judge System.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/472520253277578/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Facebook Hack-a-project</heading>
+  <image src="https://i.imgur.com/NxONDEd.png" />
+  <text>
+    This is just a gentle reminder that we are **closing applications** for our 3rd run of **Hack-a-project on Feb 1st 2019**.
+
+    This is a 5-week mentoring programme kicking off in February 2019, designed
+    for 1st years of a three year degree and 2nd years of a fourth year degree,
+    looking to apply for a Software Engineering internship with Facebook. Selected
+    students will come to the Facebook office, once a week in the evening to learn
+    about the whole development cycle and build a project as a team via a hackathon!
+
+    Each session will also be catered, so come hungry (to learn and to eat!)
+
+    Please take a look at the video from our last Hack-a-project to find out more https://www.facebook.com/265781023507354/posts/2024153967670042/.
+
+    **If you are interested, please sign-up by following [this](https://hackaproject2019.splashthat.com/)
+    link AND send your CV to LucyKemp@fb.com with the subject headline ‘Hack-a-project – applicant 2019’.**
+  </text>
+
+  <hr />
+
+  <heading>Discover Bloomberg</heading>
+  <sponsor company="bloomberg" />
+  <event startDate="2019-02-06T15:00:00+00:00"
+    endDate="2019-02-06T19:00:00+00:00"
+    location="Bloomberg LP, 3 Queen Victoria Street, London, EC4N 4TQ"
+    external="true">
+    <text>
+      Bloomberg Women in Technology are pleased to invite you to '**Discover Bloomberg**'
+      on **6th February**.
+
+      **Bloomberg Women in Technology (BWIT)** is an employee network focused on
+      encouraging increased participation of women and other underrepresented
+      groups in technology. The goal of the community is to offer a strong support
+      network, encourage community members to continuously pursue technical
+      advancement and leadership, helping to inspire the next generation of
+      girls in STEM.
+
+      Starting at 3pm, you will get a **tour of our fantastic office space**, gain
+      insight into our Software Engineering department, and learn more about life
+      at Bloomberg through **1-2-1 shadowing** with an engineer and our **panel discussion**.
+      And, if this sparks your interest in a career at Bloomberg, our recruitment
+      team will be on hand to talk to you about the Software Engineering positions
+      available to you.
+
+      Spaces for this event are limited. We therefore ask you to complete the
+      registration form by **28th January**. Spots will be confirmed on **31st January**
+      and we will then reach out to you to arrange any travel assistance that you may need.
+
+      Please sign up via http://tinyurl.com/ydy8aaj4.
+    </text>
+    <links>
+      <link href="http://tinyurl.com/ydy8aaj4">Sign-up</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Entrepreneur First - Future Outliers Workshop</heading>
+  <sponsor company="ef" />
+  <event startDate="2019-02-12T18:00:00+00:00"
+    endDate="2019-02-12T20:30:00+00:00"
+    location="Block L, The Biscuit Factory, 100 Drummond Road, SE16 4DG"
+    external="true">
+    <text>
+      **Do you have the technical skills and ambition to build a deep tech company?**
+
+      Entrepreneur First and Imperial are hosting a _Future Outliers_ workshop
+      series for 40 students interested in learning how to build a company from
+      scratch. You'll get access to the same learning EF shares with the founders
+      on their programme. If you want to build a world-changing company, but don't
+      know where to start, apply here http://buff.ly/2W9ZFx6 by **February 2nd**.
+
+      The workshops will take place at **EF's London office** on 12th, 13th and 19th Feb from 6pm.
+
+      Please see the flyer attached for more information.
+    </text>
+    <links>
+      <link href="http://buff.ly/2W9ZFx6">Apply</link>
+    </links>
+  </event>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time
+  </sign>
+</email>

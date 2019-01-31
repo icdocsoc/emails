@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Discover Bloomberg" logos="false">
+
+  <text>
+    Bloomberg's Women in Technology group are running an in-office event with
+    **registrations closing at the end of Sunday**. This includes an office tour
+    in their **new office** in the City (seriously, [check it out](https://www.bloomberg.com/company/london/)!),
+    one-to-one shadowing with full time software engineers and a panel discussion.
+
+    If you haven't yet seen this opportunity, learn more about it below!
+  </text>
+  <hr/>
+
+  <sponsor company="bloomberg" />
+  <event startDate="2019-02-06T15:00:00+00:00"
+    endDate="2019-02-06T19:00:00+00:00"
+    location="Bloomberg LP, 3 Queen Victoria Street, London, EC4N 4TQ"
+    external="true">
+    <text>
+      Bloomberg Women in Technology are pleased to invite you to '**Discover Bloomberg**'
+      on **6th February**.
+
+      **Bloomberg Women in Technology (BWIT)** is an employee network focused on
+      encouraging increased participation of women and other underrepresented
+      groups in technology. The goal of the community is to offer a strong support
+      network, encourage community members to continuously pursue technical
+      advancement and leadership, helping to inspire the next generation of
+      girls in STEM.
+
+      Starting at 3pm, you will get a **tour of our fantastic office space**, gain
+      insight into our Software Engineering department, and learn more about life
+      at Bloomberg through **1-2-1 shadowing** with an engineer and our **panel discussion**.
+      And, if this sparks your interest in a career at Bloomberg, our recruitment
+      team will be on hand to talk to you about the Software Engineering positions
+      available to you.
+
+      Spaces for this event are limited. We therefore ask you to complete the
+      registration form by **28th January**. Spots will be confirmed on **31st January**
+      and we will then reach out to you to arrange any travel assistance that you may need.
+
+      Please sign up via http://tinyurl.com/ydy8aaj4.
+    </text>
+    <links>
+      <link href="http://tinyurl.com/ydy8aaj4">Sign-up</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
