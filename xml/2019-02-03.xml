@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="70"
+    src="https://i.imgur.com/SNgkxyi.jpg"
+    alt="Chocolate chip cookies with hot chocolate"
+    title="It's cold outside, so wrap up and stay warm!" />
+
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    With a hugely successful IC Hack 19 over, we'll now be busy working on our
+    next events, including HealthHack 2019 and Revel (we can't tell you more
+    about that just yet...)! Over the next few weeks, we'll be also be running
+    our annual Python workshops, as well as our Google Hash Code Hub.
+    Read on for more details!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>IC Hack 19 Videos</heading>
+  <text>
+    For those of you who couldn't make it to IC Hack 19 (as well as those who did!),
+    be sure to check out the [**montage video**](https://www.youtube.com/watch?v=Oy6tcQY6K6Q) of
+    the event, and if you have the time, check out the [**Opening Ceremony**](https://www.youtube.com/watch?v=VsOa8KYeWpo)
+    and [**Closing Ceremony**](https://www.youtube.com/watch?v=piaTBgY5EUc) streams.
+
+    We've taken plenty of photos over the hackathon, which will be released soon!
+
+    (P.S: if you did attend the event, don't forget to fill out the **feedback form**
+    we sent in Saturday's _Thank You_ email!)
+  </text>
+
+  <hr />
+
+  <heading>Careers Service: Friday Lunchtime DoC Careers Talks</heading>
+  <text>
+    Careers Service have got in touch to advertise Friday Lunchtime careers talks
+    as follows.
+
+    Every Friday 13:00 – 13:50 in Huxley 311 – these events will appear in
+    timetables and the content is very similar to the season run through the
+    Autumn Term. Sessions will not run in summer term so this is the last chance
+    to access this content for the 2018/19 academic year.
+
+    - 08 February 2019 - 13:00 - 13:50 - Application Forms - How To Ace Them
+    - 15 February 2019 - 13:00 - 13:50 - Finding Internships, Insight Weeks, Projects and Vacation Opportunities
+    - 22 February 2019 - 13:00 - 13:50 - Psychometric Tests &amp; Assessment Centres
+    - 01 March 2019 - 13:00 - 13:50 - Interviews – The Guide To Success
+    - 08 March 2019 - 13:00 - 13:50	- Postgraduate Study – Options &amp; Applications
+    - 15 March 2019	- 13:00 - 13:50	- LinkedIn – Leverage The Power Of Social Media
+
+    For more information, including event descriptions, please see the **attached PDF**
+    for more details.
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>Coding 101 | Python for Beginners</heading>
+  <image src="https://i.imgur.com/XK6R3IZ.jpg" />
+  <event startDate="2019-02-04T18:00:00+00:00"
+    endDate="2019-02-04T20:00:00+00:00"
+    location="SAF G34">
+    <text>
+      _(This event is aimed at non-DoC members. Please share this with any of your
+      friends who might be interested!)_
+
+      Want to know how to code but have no idea where to start? Tried to learn on
+      your own but not really made any progress? Whether you've dabbled in programming before,
+      or you barely know what a computer is, DoCSoc (Department of Computing Society)
+      is once again running a course for you!
+
+      After our highly successful (and award-winning!) series last year, we'll be
+      repeating our beginners coding course starting Monday, 4th Feb.
+
+      This year the course isn't just open to people from Biology / Biochem, but
+      anyone at all who wants to come along! Check out the Facebook event description
+      for more information.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2080323318702227/?event_time_id=2080652732002619">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Coding 102 | Intermediate Python</heading>
+  <image src="https://i.imgur.com/DHNRpcW.jpg" />
+  <event startDate="2019-02-07T18:30:00+00:00"
+    endDate="2019-02-07T20:30:00+00:00"
+    location="TBA">
+    <text>
+      _(This event is aimed at non-DoC members. Please share this with any of your
+      friends who might be interested!)_
+
+      For those of you who have dabbled a little bit in programming before (Python
+      or not) and want to learn more, DoCSoc is holding a free, 6-week course on intermediate Python!
+
+      We expect you to know the basics of programming already - functions,
+      conditionals, loops, basic data structures and types, etc, either from
+      Python or other languages.
+
+      We will cover a range of topics, such as object-oriented programming, good
+      software engineering design, as well as applications of Python in statistics,
+      sciences, machine learning/data science, and building web applications.
+
+      The course will focus on enabling you to understand the underlying logic and
+      thinking process of programming, in order for you to become self-sufficient
+      in your own learning and future development.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2374077755936130/?event_time_id=2374077772602795">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc Hosts Google Hash Code 2019</heading>
+  <image src="https://i.imgur.com/bobaBYY.jpg" />
+  <event startDate="2019-02-28T17:00:00+00:00"
+    endDate="2019-02-28T21:30:00+00:00"
+    location="RSM G01 ">
+    <text>
+      DoCSoc is hosting a hub for the Online Qualification Round of Hash Code,
+      a team programming competition organized by Google.
+
+      The Online Qualification Round takes place on **February 28th, 2019 at 17:00 UTC**
+      and registered teams for **Imperial College London Hub United Kingdom**
+      are invited to participate from our hub, which will take place at **RSM G01**.
+
+      Top scoring teams from the Online Qualification Round will then be invited
+      to Google’s office to compete in the Final Round of the competition in April.
+
+      If you’re interested in joining our hub, find a team (2 to 4 people) and
+      be sure you all register at g.co/hashcode. You’ll then need to select **Imperial
+      College London Hub United Kingdom** from the list of hubs in the Judge System
+      *after you create your team!*
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/472520253277578/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>IC HealthHack 2019</heading>
+  <image src="https://i.imgur.com/hxpP0Yp.jpg" />
+  <event startDate="2019-03-02T09:00:00+00:00"
+    endDate="2019-03-03T17:00:00+00:00"
+    location="Imperial College London">
+    <text>
+      The Department of Computing Society (DoCSoc), Bioengineering Society and
+      ICSM Coding Society proudly present the IC HealthHack 2019!
+
+      Combining your skills in bioengineering, coding, and medicine, this
+      Hackathon will bring together talented students from each field and will
+      be aimed at addressing current medical challenges through technology. Over
+      the weekend of 2nd - 3rd March 2019, teams will bring their awesome ideas
+      to life and develop solutions to real-life healthcare challenges.
+
+      Registration and ticketing will start in the next two weeks following our
+      sponsor announcements! Stay tuned and follow our event and page for our
+      latest updates!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/293101718230640/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Schlumberger Women in Technology Day</heading>
+  <sponsor company="schlumberger">
+    Schlumberger are holding a **Women in Technology Day** on **Thursday 28th February**
+    and **Friday 1st March**.
+
+    ## What is this event about?
+
+    The Schlumberger Women in Technology Day - UK 2019 is an annual INSIGHT EVENT
+    designed for future female leaders in engineering sciences.
+
+    The fully-hosted program (see FAQs for more details) allows you to come and
+    see for yourself what it's like to work at Schlumberger. In one comprehensive
+    day you will get an in-depth view of the diverse career paths an engineer or
+    scientist can have in our company, from oil rigs to software technology centres
+    to research facilities.
+
+    This event is a phenomenal opportunity for anyone who is looking to get a
+    wider view of their career opportunities.
+
+    ## On the schedule:
+
+    Schlumberger Women in Technology Day - UK 2019 is a unique chance to explore
+    worldwide career opportunities and meet face-to-face with professionals you
+    would not meet otherwise. The agenda will include:
+
+    - a welcome drink and dinner on the Thursday
+    - a full day at the Schlumberger Cambridge Research Centre on the Friday
+    - detailed insights into the different activities and jobs offered
+    - an exciting technical challenge
+    - a roundtable and Q&amp;A session with International Senior Management
+
+    Register your interest by [applying here](https://www.eiseverywhere.com/womenintechnologyuk).
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time
+  </sign>
+</email>
