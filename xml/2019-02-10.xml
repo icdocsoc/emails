@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/Jwzkb5T.jpg"
+    alt="Round biscuit with heart jelly in centre"
+    title="Valentine's Day!" />
+
+  <hr/>
+
+  <text>
+    Does anybody miss skimming through action-packed digest emails from first
+    term, hoping that one of your friends _actually_ read the whole thing so you
+    can decide what to go to?
+
+    There's tons in this digest for both this week and beyond! Be sure to check out
+    our events especially - with upcoming committee elections, Valentine's Day (did someone
+    say bar night? 👀🍺), a website building workshop and a V&amp;A trip, perhaps something
+    will grab your attention! If you still aren't convinced, perhaps a **20% Nando's
+    discount** will encourage you to read through the entire thing?
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>IC Hack 19 Photos Now Available!</heading>
+  <text>
+    **Photos for IC Hack 19** are now available! Check them out on Facebook [here](https://www.facebook.com/pg/ICDoCSoc/photos/?tab=album&amp;album_id=2589206401095893).
+    Get tagging! Photos can also be found in higher quality on [Flickr](https://www.flickr.com/photos/paulmonishbalaji/sets/72157706623151464/).
+
+    _Photos courtesy of our amazing photographer, [Paul Balaji](https://www.instagram.com/thepaulbalaji/)._
+  </text>
+
+  <hr />
+
+  <heading>Run for DoCSoc's 2019/20 Committee</heading>
+  <text>
+    **Leadership Elections 2019** are now open and nominations are now open for
+    DoCSoc's 2019/20 committee. Nominations will run **until 12:00 on Friday 1st
+    March**.
+
+    For more information, check out our email dated 4th February 2019. We'll
+    also be sending out further information and **holding a talk** about our
+    positions next Friday. See below for more information!
+  </text>
+
+  <hr />
+
+  <heading>20% Nando's Discount</heading>
+  <text>
+    Craving Nando's? Or thinking of going for a _Nandate_ next week? Don't worry -
+    DoCSoc has got you covered!
+
+    We've negotiated a 20% discount at the Nando's High Street Kensington branch
+    for our members for in-store purchases. This offer is redeemable by showing
+    your College ID card and letting them know you're with DoCSoc.
+
+    _Offer only valid in-store at the Nando's HSK branch with a valid Imperial
+    College student ID._
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>Learn to Build Your Own Personal Website!</heading>
+  <image src="https://i.imgur.com/SxQ7NRx.jpg" />
+  <event startDate="2019-02-12T18:30:00+00:00"
+    endDate="2019-02-12T19:30:00+00:00"
+    location="Huxley 308">
+    <text>
+      _(This event is aimed at non-DoC members. Please share this with any of your
+      friends who might be interested!)_
+
+      Ever wanted to create your own website, but didn't know where to start?
+      Well, now's your chance!
+
+      We at DoCSoc are hosting a free workshop that will take you through the
+      basics of HTML, CSS, and using frameworks and tools like Bootstrap and
+      Netlify to get your very own personal website up and running in an hour!
+
+      This event is FREE and open to anybody, however there are limited spaces
+      in the lecture room, so if you want a seat, please come on time!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/148709422683450/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>The Yap-Bower Valentine's Bar Night</heading>
+  <image src="https://i.imgur.com/YwIzsrD.jpg" />
+  <event startDate="2019-02-14T20:00:00+00:00"
+    endDate="2019-02-15T00:00:00+00:00"
+    location="Metric">
+    <text>
+      You've made it halfway through term - come celebrate with us at the
+      Valentine's Bar Night! Whether you've been bitten by the love bug or you're
+      living life carefree, everyone's welcome for some free drinks!
+
+      We're also dedicating this bar night to Maurice Yap and Tom Bower, the
+      President and Vice President of DoCSoc for the 2017-18 academic year.
+
+      Drinks tokens will be given upon entry for FREE to DoCSoc members. Tokens
+      are valid for both alcoholic and non-alcoholic drinks. We have the right
+      to refuse tokens to members at our discretion.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/240161160195674/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc Committee - All You Need To Know</heading>
+  <image src="https://i.imgur.com/vmtlKTY.jpg" />
+  <event startDate="2019-02-15T13:00:00+00:00"
+    endDate="2019-02-15T14:00:00+00:00"
+    location="Huxley 217/218">
+    <text>
+      Thinking of running for DoCSoc committee in this year's Leadership Elections?
+      Come along to this talk, presented by current members of the committee,
+      where we'll be detailing what exactly goes into DoCSoc and what each role entails.
+
+      Read more about the Leadership Elections here: https://www.imperialcollegeunion.org/your-union/leadership-elections-2019
+
+      Nominate yourself here: https://vote.union.ic.ac.uk/
+
+      Don't forget to read the Candidates' Pack &amp; Election Rules:
+      https://www.imperialcollegeunion.org/your-union/leadership-elections-2019/information-for-candidates.
+      Breaking election rules can result in disqualification.
+
+      See you there!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/324371091537210/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc Goes To The V&amp;A</heading>
+  <image src="https://i.imgur.com/OMNtXiH.jpg" />
+  <event startDate="2019-02-16T12:00:00+00:00"
+    endDate="2019-02-16T14:00:00+00:00"
+    location="Victoria &amp; Albert Museum">
+    <text>
+      DoCSoc is going to the Victoria &amp; Albert Museum for the [Videogames: Design / Play / Disrupt](https://www.vam.ac.uk/exhibitions/videogames)
+      exhibition.
+
+      Tickets are free and will be released on Monday 11th February at 13:30 on Eventbrite.
+
+      The tickets will be allocated in two slots entering the exhibition at 12:15
+      and 12:45 so choose the tickets accordingly.
+
+      Please meet at the Exhibition Road entrance to the V&amp;A five minutes
+      before your slot and remember to bring your Imperial College ID for entry!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1169315143225479/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc Hosts Google Hash Code 2019</heading>
+  <image src="https://i.imgur.com/bobaBYY.jpg" />
+  <event startDate="2019-02-28T17:00:00+00:00"
+    endDate="2019-02-28T21:30:00+00:00"
+    location="RSM G01 ">
+    <text>
+      DoCSoc is hosting a hub for the Online Qualification Round of Hash Code,
+      a team programming competition organized by Google.
+
+      The Online Qualification Round takes place on **February 28th, 2019 at 17:00 UTC**
+      and registered teams for **Imperial College London Hub United Kingdom**
+      are invited to participate from our hub, which will take place at **RSM G01**.
+
+      Top scoring teams from the Online Qualification Round will then be invited
+      to Google’s office to compete in the Final Round of the competition in April.
+
+      If you’re interested in joining our hub, find a team (2 to 4 people) and
+      be sure you all register at g.co/hashcode. You’ll then need to select **Imperial
+      College London Hub United Kingdom** from the list of hubs in the Judge System
+      *after you create your team!*
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/472520253277578/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>IC HealthHack 2019</heading>
+  <image src="https://i.imgur.com/hxpP0Yp.jpg" />
+  <event startDate="2019-03-09T09:00:00+00:00"
+    endDate="2019-03-10T17:00:00+00:00"
+    location="Imperial College London">
+    <text>
+      The Department of Computing Society (DoCSoc), Bioengineering Society and
+      ICSM Coding Society proudly present the IC HealthHack 2019!
+
+      Combining your skills in bioengineering, coding, and medicine, this
+      Hackathon will bring together talented students from each field and will
+      be aimed at addressing current medical challenges through technology. Over
+      the weekend of 9-10th March 2019, teams will bring their awesome ideas
+      to life and develop solutions to real-life healthcare challenges.
+
+      Registration and ticketing will start in the next two weeks following our
+      sponsor announcements! Stay tuned and follow our event and page for our
+      latest updates!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/293101718230640/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>ACI Talk - Automated Victim: Final Year Projects at Internet Scale</heading>
+  <sponsor company="netcraft" />
+  <event startDate="2019-02-12T12:00:00+00:00"
+    endDate="2019-02-12T13:00:00+00:00"
+    location="Huxley 308">
+    <text>
+      **Abstract:** Netcraft operates an industry-leading feed of validated phishing websites,
+      which is licensed by all leading web browsers to protect their users. Over
+      56 million unique phishing sites have been detected and blocked by Netcraft
+      to date. The scale of the problem is vast: every day Netcraft processes
+      millions of suspect URLs in order to identify new threats. URLs found to be
+      phishing are included in the feed, whilst harmless URLs are discarded. Prompt
+      classification of each site is essential in order to protect users from new
+      attacks as soon as possible. To this end, Netcraft automates its classification
+      of suspected phishing sites to the fullest extent.
+
+      The "Automated Victim" approach to classification began as a DoC final year project, and now runs in
+      production at Netcraft. It automatically mimics the behaviour of a human
+      interacting with a phishing site - filling form fields, scrolling, and
+      uploading files - in order to perform an accurate classification.
+      We demonstrate the effectiveness of this approach, whilst outlining the
+      challenges of scaling up from an undergraduate project to a distributed
+      production system.
+
+      **Speaker:** Tom Szyszko is a Computer Scientist at Netcraft, where he works
+      on the development of automated phishing site classification techniques.
+      He graduated from Imperial College London in 2018 with an MEng in Computing.
+    </text>
+    <links>
+      <link href="https://www.imperial.ac.uk/computing/industry/aci/2018-19/netcraft/">ACI Talk Details</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Schlumberger Women in Technology Day</heading>
+  <sponsor company="schlumberger">
+    Schlumberger are holding a **Women in Technology Day** on **Thursday 28th February**
+    and **Friday 1st March**.
+
+    ## What is this event about?
+
+    The Schlumberger Women in Technology Day - UK 2019 is an annual INSIGHT EVENT
+    designed for future female leaders in engineering sciences.
+
+    The fully-hosted program (see FAQs for more details) allows you to come and
+    see for yourself what it's like to work at Schlumberger. In one comprehensive
+    day you will get an in-depth view of the diverse career paths an engineer or
+    scientist can have in our company, from oil rigs to software technology centres
+    to research facilities.
+
+    This event is a phenomenal opportunity for anyone who is looking to get a
+    wider view of their career opportunities.
+
+    ## On the schedule:
+
+    Schlumberger Women in Technology Day - UK 2019 is a unique chance to explore
+    worldwide career opportunities and meet face-to-face with professionals you
+    would not meet otherwise. The agenda will include:
+
+    - a welcome drink and dinner on the Thursday
+    - a full day at the Schlumberger Cambridge Research Centre on the Friday
+    - detailed insights into the different activities and jobs offered
+    - an exciting technical challenge
+    - a roundtable and Q&amp;A session with International Senior Management
+
+    Register your interest by [applying here](https://www.eiseverywhere.com/womenintechnologyuk).
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
