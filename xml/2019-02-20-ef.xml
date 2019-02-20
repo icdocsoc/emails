@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="EF x DoCSoc"
+  logos="false"
+  agenda="false">
+
+  <text>
+    Hi all!
+
+    Just another reminder about Entrepreneur First's upcoming event! If you're
+    interested, be sure to **RSVP on Eventbrite**.
+
+    **Entrepreneur First** are holding a **guest lecture** with Matt Clifford
+    (the co-founder and CEO of Entrepreneur First) followed by a **panel discussion**
+    with Georgina Kirby (Imperial alumnus and founder of Vine Health) and Mostafa
+    Elsayed (founder of robotics startup Automata). This will take place in Clore LT
+    next Thursday.
+
+    If you're interested in entrepreneurship or looking into building your own startup,
+    this talk will provide a great insight into the ecosystem and programme which
+    EF provides. This event is aimed in particular towards postgraduates and PhDs,
+    where specialisms and experience provide great value to building a startup.
+  </text>
+
+  <hr/>
+
+  <heading>EF x DoCSoc: The Founder Mindset with Matt Clifford and guests</heading>
+  <image src="https://i.imgur.com/DuO9Hdh.jpg" />
+  <event startDate="2019-02-21T18:15:00+00:00"
+    endDate="2019-02-21T21:00:00+00:00"
+    location="Clore Lecture Theatre, Huxley Building">
+    <text>
+      **Matt Clifford is the co-founder and CEO of Entrepreneur First**, the world's
+      leading talent investor on a mission to kick-start the next generation of
+      globally important deep-tech companies. How? By finding exceptional individuals
+      before they’re founders and supporting them to find a co-founder, develop
+      an idea and raise investment. Since starting EF seven years ago, he has
+      worked with over 1,000 people to build over 200 companies around the world,
+      collectively valued at $1.6bn.
+
+      **From all the individuals he's met, Matt has had the chance to observe the
+      most important, and often hidden, traits that the most successful entrepreneurs
+      have in common. In this guest lecture, he will share five mindsets that are
+      critical to successful founders, and what you can do to develop them.**
+
+      EF will be inviting TWO ATTENDEES, selected at RANDOM, to visit their offices
+      and meet with Matt or Alice (EF's co-founders), and the team! All you have
+      to do is register for a ticket, and sign-in on the day.
+
+      After his lecture, Matt will interview two founders who are at different
+      points in their startup journey.
+
+      **Mostafa ElSayed is the CEO and co-founder of robotics startup Automata**,
+      which is democratising robotics for the SME, consumer and hobbyist markets.
+      Their first product, Eva, is a benchtop robot arm that can be set up in
+      minutes, costs a fraction of other industrial arms, and can be used in a
+      range of industries including metals, pharmaceuticals and electronics
+      manufacturing. Surprisingly, Mostafa didn’t have a history in robotics
+      before starting Automata, but trained as an architect and was working for
+      Zaha Hadid, the infamous designer of the London Olympics Aquatics Centre
+      and many other iconic buildings. Fast-forward, four years and Automata has
+      raised sizeable Series A and grown to a 30-person company, with plans to
+      expand this year. Join us to hear Mostafa’s personal story, from everything
+      he has learnt about startups, and himself, along the way.
+
+      **Georgina Kirby is CTO and co-founder of Vine Health**. Having completed her
+      Masters at Imperial Department of Surgery and Cancer, she went on to work
+      as a Data Scientist for 5 years before joining EF’s current cohort. Having
+      met her co-founder Rayna Patel, a medical doctor and neuroscientist, just
+      4 months ago, they have now raised £80K in pre-seed investment from Entrepreneur
+      First to launch Vine Health. Vine Health aims to optimise cancer patient
+      outcomes using artificial intelligence and behavioural neuropsychology.
+      Now, Georgina is preparing to pitch to VCs at Demo Day in just three months
+      time. She’ll share her journey so far, and particularly what matters most
+      in the very early days of starting something.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/ef-x-docsoc-the-founder-mindset-with-matt-clifford-georgina-kirby-and-mostafa-elsayed-tickets-56180916634">Eventbrite (RSVP)</link>
+      <link href="https://www.facebook.com/events/304995220371967/">Facebook</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>

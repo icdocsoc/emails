@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Vive la Revelution - Early Bird Tickets"
+  logos="false"
+  agenda="false">
+
+  <text>
+    It’s finally time! 😃 Early Bird tickets for DoCSoc members will be released at **1pm
+    on Thursday 21st February** for £20 each.
+
+    In order to purchase tickets for the event you first need to secure
+    **Eventbrite placeholder tickets** at https://revel-london.eventbrite.co.uk.
+    Once you have secured a ticket on Eventbrite please head to the **Union website** [here](https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products/26254/vive-la-revelution)
+    to complete the purchase of your ticket **before 3pm**. Purchases without
+    an Eventbrite placeholder ticket will be cancelled.
+
+    Please note that you are allowed to buy a +1 ticket (for a maximum of 2 tickets
+    per person). Please include the email address of your +1 when you buy the
+    Eventbrite ticket and pay for both tickets on the Union website.
+
+    Please remember to read the terms and conditions of your ticket after
+    purchasing. You must have been a DoCSoc member before 18th February to be
+    eligible for the tickets.
+
+    We look forward to having you there!
+  </text>
+
+  <hr />
+
+  <image src="https://i.imgur.com/OxixkQe.jpg" />
+  <event startDate="2019-03-04T20:00:00+00:00"
+    endDate="2019-03-05T02:00:00+00:00"
+    location="Café de Paris, 3 Coventry Street, London, W1D 6BL">
+    <text>
+      DoCSoc and RCSU have come together again to bring to you the HOTTEST party
+      of the year, this time with a French twist - Vive la Revelution!
+
+      From rooftop bars to Spanish restaurants, we’re now taking you to the city
+      of love. Vive la Revelution will be taking place in Café de Paris, one of the most famous entertainment venues in the world.
+
+      Drinks, canapés, dancing and entertainment - we’ve got it all covered. All
+      you have to do is buy a ticket and dress to impress in black tie!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/370168953714798/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>
+    Terms and Conditions:
+
+    - Tickets may be purchased by DoCSoc or RCSU members only, and the event
+    is strictly 18+. Government issued ID must be brought to the venue or entry
+    will be refused. You may purchase a +1 ticket for anyone from any department
+    (or external), but tickets are limited to two per member across all sales!
+    - Ticket transfers are allowed only to people who would have been otherwise
+    eligible to them.
+    - You must have been a DoCSoc member before 18th February 2019 to qualify for DoCSoc tickets.
+    - RCSU members cannot purchase DoCSoc tickets (and vice-versa).
+    - Drinks will be staggered throughout the night to ensure the best possible
+    experience for all our attendees. In the case of indecent or rowdy behaviour,
+    the venue reserves the right to escort you from the premises.
+    - A maximum of two drinks are allowed to be ordered at the bar at any time.
+  </text>
+</email>
