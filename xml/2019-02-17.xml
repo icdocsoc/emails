@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/25DNbII.jpg"
+    alt="Tea and biscuits"
+    title="Happy Sunday!" />
+
+  <hr/>
+
+  <text>
+    Hi everyone,
+
+    We hope everyone had a good week! From holding a website building talk to trips to
+    the V&amp;A exhibition, as well as fulfilling rose deliveries and song requests
+    on Valentine's Day, the past week was certainly a busy week for us and we hope
+    you enjoyed it as much as we did.
+
+    Next week we have an event with Entrepreneur First's CEO and two EF startup
+    founders, so if you're interested in entrepreneurship, be sure to give the
+    event details a read! We're also in the run-up to the next Union elections, so
+    if you're interested in running, you can find more details below.
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Run for DoCSoc's 2019/20 Committee</heading>
+  <text>
+    **Leadership Elections 2019** are now open and nominations are now open for
+    DoCSoc's 2019/20 committee. Nominations will run **until 12:00 on Friday 1st
+    March**.
+
+    For more information, check out our email dated 4th February 2019. We'll
+    also be sending out a detailed blog post shortly and will be sure to let
+    everyone know. In the meantime, there will be a fortnightly **general meeting
+    tomorrow** (Monday 18th February) in 217/218. **All prospective candidates
+    are strongly encouraged to attend** to get an small insight into what
+    goes on behind the scenes.
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <heading>EF x DoCSoc: The Founder Mindset with Matt Clifford and guests</heading>
+  <image src="https://i.imgur.com/DuO9Hdh.jpg" />
+  <event startDate="2018-02-21T18:15:00+00:00"
+    endDate="2019-02-21T21:15:00+00:00"
+    location="Clore Lecture Theatre, Huxley Building">
+    <text>
+      **Matt Clifford is the co-founder and CEO of Entrepreneur First**, the world's
+      leading talent investor on a mission to kick-start the next generation of
+      globally important deep-tech companies. How? By finding exceptional individuals
+      before they’re founders and supporting them to find a co-founder, develop
+      an idea and raise investment. Since starting EF seven years ago, he has
+      worked with over 1,000 people to build over 200 companies around the world,
+      collectively valued at $1.6bn.
+
+      From all the individuals he's met, Matt has had the chance to observe the
+      most important, and often hidden, traits that the most successful entrepreneurs
+      have in common. In this guest lecture, he will share five mindsets that are
+      critical to successful founders, and what you can do to develop them.
+
+      EF will be **inviting TWO ATTENDEES, selected at RANDOM, to visit their offices**
+      and meet with Matt or Alice (EF's co-founders), and the team! All you have
+      to do is register for a ticket, and sign-in on the day.
+
+      After his lecture, Matt will interview two founders who are at different
+      points in their startup journey, **Mostafa ElSayed, CEO and co-founder of
+      robotics startup Automata** and **Georgina Kirby, CTO and co-founder of
+      Vine Health**.
+
+      More details on Facebook. Please be sure to **RSVP on [Eventbrite](https://www.eventbrite.co.uk/e/ef-x-docsoc-the-founder-mindset-with-matt-clifford-georgina-kirby-and-mostafa-elsayed-tickets-56180916634)**!
+
+      Food and drinks will be provided! If you have any **specific dietary requirements**,
+      please let us know a few days beforehand.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/ef-x-docsoc-the-founder-mindset-with-matt-clifford-georgina-kirby-and-mostafa-elsayed-tickets-56180916634">Eventbrite (RSVP)</link>
+      <link href="https://www.facebook.com/events/304995220371967/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc Hosts Google Hash Code 2019</heading>
+  <image src="https://i.imgur.com/bobaBYY.jpg" />
+  <event startDate="2019-02-28T17:00:00+00:00"
+    endDate="2019-02-28T21:30:00+00:00"
+    location="RSM G01 ">
+    <text>
+      DoCSoc is hosting a hub for the Online Qualification Round of Hash Code,
+      a team programming competition organized by Google.
+
+      The Online Qualification Round takes place on **February 28th, 2019 at 17:00 UTC**
+      and registered teams for **Imperial College London Hub United Kingdom**
+      are invited to participate from our hub, which will take place at **RSM G01**.
+
+      Top scoring teams from the Online Qualification Round will then be invited
+      to Google’s office to compete in the Final Round of the competition in April.
+
+      If you’re interested in joining our hub, find a team (2 to 4 people) and
+      be sure you all register at g.co/hashcode. You’ll then need to select **Imperial
+      College London Hub United Kingdom** from the list of hubs in the Judge System
+      *after you create your team!*
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/472520253277578/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>IC HealthHack 2019</heading>
+  <image src="https://i.imgur.com/YL0vmzT.jpg" />
+  <event startDate="2019-03-09T09:00:00+00:00"
+    endDate="2019-03-10T17:00:00+00:00"
+    location="Imperial College London">
+    <text>
+      The Department of Computing Society (DoCSoc), Bioengineering Society and
+      ICSM Coding Society proudly present the IC HealthHack 2019!
+
+      Combining your skills in bioengineering, coding, and medicine, this
+      Hackathon will bring together talented students from each field and will
+      be aimed at addressing current medical challenges through technology. Over
+      the weekend of 9-10th March 2019, teams will bring their awesome ideas
+      to life and develop solutions to real-life healthcare challenges.
+
+      Registration and ticketing will start in the next two weeks following our
+      sponsor announcements! Stay tuned and follow our event and page for our
+      latest updates!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/293101718230640/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Schlumberger Women in Technology Day</heading>
+  <sponsor company="schlumberger">
+    Schlumberger are holding a **Women in Technology Day** on **Thursday 28th February**
+    and **Friday 1st March**.
+
+    ## What is this event about?
+
+    The Schlumberger Women in Technology Day - UK 2019 is an annual INSIGHT EVENT
+    designed for future female leaders in engineering sciences.
+
+    The fully-hosted program (see FAQs for more details) allows you to come and
+    see for yourself what it's like to work at Schlumberger. In one comprehensive
+    day you will get an in-depth view of the diverse career paths an engineer or
+    scientist can have in our company, from oil rigs to software technology centres
+    to research facilities.
+
+    This event is a phenomenal opportunity for anyone who is looking to get a
+    wider view of their career opportunities.
+
+    ## On the schedule:
+
+    Schlumberger Women in Technology Day - UK 2019 is a unique chance to explore
+    worldwide career opportunities and meet face-to-face with professionals you
+    would not meet otherwise. The agenda will include:
+
+    - a welcome drink and dinner on the Thursday
+    - a full day at the Schlumberger Cambridge Research Centre on the Friday
+    - detailed insights into the different activities and jobs offered
+    - an exciting technical challenge
+    - a roundtable and Q&amp;A session with International Senior Management
+
+    Register your interest by [applying here](https://www.eiseverywhere.com/womenintechnologyuk).
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
