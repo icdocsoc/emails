@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/TE1451i.jpg?1"
+    alt="Macaroons"
+    title="It's finally sunny outside!" />
+
+  <hr/>
+
+  <text>
+    Hi everyone,
+
+    Thanks to everyone who came to our talk and panel last week with Entrepreneur
+    First's CEO, Matt Clifford, and two startup founders. The event was engaging
+    and insightful and we hope those attending found it equally as interesting!
+
+    In the coming week, we'll be holding a **Games Night with G-Research** and
+    a hub for for Google Hash Code 2019. We also have a **Revel ticket release
+    tomorrow**, so be sure to read on!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Run for DoCSoc's 2019/20 Committee</heading>
+  <text>
+    **Leadership Elections 2019** are now open and nominations are now open for
+    DoCSoc's 2019/20 committee. Nominations will run **until 12:00 on Friday 1st
+    March**.
+
+    We have written a **detailed blog post** which includes the responsibilities for
+    every role and other information you should know when running for a committee position.
+    If you are looking to run for a DoCSoc committee position, we strongly recommend
+    you read this.
+
+    Read the blog post here: https://docsoc.co.uk/elections
+
+    If you have any questions, please feel free to reach out to us at docsoc@imperial.ac.uk
+    or get in touch with a current committee member!
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>Games Night with G-Research</heading>
+  <image src="https://i.imgur.com/BvlB2x3.jpg" />
+  <event startDate="2019-02-26T18:30:00+00:00"
+    endDate="2019-02-26T20:30:00+00:00"
+    location="Huxley 341/342">
+    <text>
+      Join us and G-Research as we hold our second **games night** of the academic
+      year, so come along and relax.  We'll have **board games, games consoles
+      and lots of food and drinks**!
+
+      If you have any specific dietary requirements, please let us know a few days
+      beforehand.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2230342137005319/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc Hosts Google Hash Code 2019</heading>
+  <image src="https://i.imgur.com/bobaBYY.jpg" />
+  <event startDate="2019-02-28T17:00:00+00:00"
+    endDate="2019-02-28T21:30:00+00:00"
+    location="RSM G01 ">
+    <text>
+      DoCSoc is hosting a hub for the Online Qualification Round of Hash Code,
+      a team programming competition organized by Google.
+
+      The Online Qualification Round takes place on **February 28th, 2019 at 17:00 UTC**
+      and registered teams for **Imperial College London Hub United Kingdom**
+      are invited to participate from our hub, which will take place at **RSM G01**.
+
+      Top scoring teams from the Online Qualification Round will then be invited
+      to Google’s office to compete in the Final Round of the competition in April.
+
+      **Our hub is now fully booked**, but you can still sign up at [g.co/hashcode](https://g.co/hashcode)
+      and join the competition with your team from your own location, such as from
+      labs or home!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/472520253277578/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Vive la Revelution - Late Release Tickets</heading>
+  <image src="https://i.imgur.com/s0h3ptL.png" />
+  <event startDate="2019-03-04T20:00:00+00:00"
+    endDate="2019-03-05T02:00:00+00:00"
+    location="Café de Paris, 3 Coventry Street, London, W1D 6BL">
+    <text>
+      This is your last chance to grab tickets for Vive la Revelution!
+
+      In order to purchase tickets for the event you first need to secure
+      **Eventbrite placeholder tickets** at https://revel-london.eventbrite.co.uk.
+      Once you have secured a ticket on Eventbrite please head to the **Union website** [here](https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products/26254/vive-la-revelution)
+      to complete the purchase of your ticket **before 3pm**. Purchases without
+      an Eventbrite placeholder ticket will be cancelled.
+
+      If you would like to bring a +1 to the event, then you must buy TWO Eventbrite
+      tickets and pay for TWO Union tickets (maximum of 2 tickets per person). If
+      you have bought two tickets, then please fill your Imperial shortcode for
+      the first ticket and the email address of your +1 for the second ticket on
+      Eventbrite.
+
+      Please remember to read the terms and conditions of your ticket after purchasing.
+      You must have been a DoCSoc member before 18th February to be eligible for the tickets.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/370168953714798/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>IC HealthHack 2019</heading>
+  <image src="https://i.imgur.com/YL0vmzT.jpg" />
+  <event startDate="2019-03-09T09:00:00+00:00"
+    endDate="2019-03-10T17:00:00+00:00"
+    location="Imperial College London">
+    <text>
+      The Department of Computing Society (DoCSoc), Bioengineering Society and
+      ICSM Coding Society proudly present the IC HealthHack 2019!
+
+      Combining your skills in bioengineering, coding, and medicine, this
+      Hackathon will bring together talented students from each field and will
+      be aimed at addressing current medical challenges through technology. Over
+      the weekend of 9-10th March 2019, teams will bring their awesome ideas
+      to life and develop solutions to real-life healthcare challenges.
+
+      Registration and ticketing will start in the next two weeks following our
+      sponsor announcements! Stay tuned and follow our event and page for our
+      latest updates!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/293101718230640/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Schlumberger Women in Technology Day</heading>
+  <sponsor company="schlumberger">
+    Schlumberger are holding a **Women in Technology Day** on **Thursday 28th February**
+    and **Friday 1st March**.
+
+    ## What is this event about?
+
+    The Schlumberger Women in Technology Day - UK 2019 is an annual INSIGHT EVENT
+    designed for future female leaders in engineering sciences.
+
+    The fully-hosted program (see FAQs for more details) allows you to come and
+    see for yourself what it's like to work at Schlumberger. In one comprehensive
+    day you will get an in-depth view of the diverse career paths an engineer or
+    scientist can have in our company, from oil rigs to software technology centres
+    to research facilities.
+
+    This event is a phenomenal opportunity for anyone who is looking to get a
+    wider view of their career opportunities.
+
+    ## On the schedule:
+
+    Schlumberger Women in Technology Day - UK 2019 is a unique chance to explore
+    worldwide career opportunities and meet face-to-face with professionals you
+    would not meet otherwise. The agenda will include:
+
+    - a welcome drink and dinner on the Thursday
+    - a full day at the Schlumberger Cambridge Research Centre on the Friday
+    - detailed insights into the different activities and jobs offered
+    - an exciting technical challenge
+    - a roundtable and Q&amp;A session with International Senior Management
+
+    Register your interest by [applying here](https://www.eiseverywhere.com/womenintechnologyuk).
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
