@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/zUwtCNT.jpg?1"
+    alt="Stack of chocolate chip biscuits next to a glass of milk"
+    title="" />
+
+  <hr/>
+
+  <text>
+    Hi everyone,
+
+    Thanks to everyone who came to Games Night with G-Research and our Google
+    Hash Code hub last week!
+
+    We have a busy week ahead, with our yearly joint event with RCSU, Vive la
+    Revelution, taking place on Monday. In the days which follow, we will be
+    holding an Introduction to Unity workshop, inviting Palantir for a talk and
+    product demo and finishing the week with DoCSoc's election hustings.
+
+    Read on!
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>An Introduction to Unity</heading>
+  <image src="https://i.imgur.com/NA1HnpI.jpg" />
+  <event startDate="2019-03-05T18:30:00+00:00"
+    endDate="2019-03-05T20:30:00+00:00"
+    location="Skempton 060">
+    <text>
+      An introduction to Unity (the popular game engine used to make games like
+      Hearthstone and Pokemon Go), how to use it, and what you can do with it.
+
+      Open to all Imperial students, no coding experience required. Bring your
+      laptops and code along!
+
+      This session is targeted for those participating in HealthHack 19, check out:
+      https://www.facebook.com/events/293101718230640/
+
+      Please download the latest version of Unity from the official Unity website
+      in advance: https://unity3d.com/
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/408088853331218/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>Palantir - An Engineer's Experience</heading>
+  <image src="https://i.imgur.com/z0JdTDu.jpg" />
+  <event startDate="2019-03-07T18:30:00+00:00"
+    endDate="2019-03-07T20:30:00+00:00"
+    location="Clore Lecture Theatre">
+    <text>
+      Register here: http://tinyurl.com/y63g5ag9
+
+      Come join us for an evening with Randall Dorin, one of Palantir's Forward
+      Deployed Software Engineers, for a sneak peak of what it’s like to work at
+      Palantir and to see first-hand a demonstration of the work Palantir has done
+      with some of their biggest clients.
+
+      Randall graduaded from University of Arizona with a degree in Electrical
+      Engineering. He started his professional career working at Lockheed Martin
+      Aeronautics on the JSF program and then spent a few years as a government
+      contractor on various IT projects for Lockheed and NGC before joining Palantir in 2010.
+
+      Food and drink will be provided! If you have any specific dietary requirements,
+      please let us know a few days beforehand.
+    </text>
+    <links>
+      <link href="http://tinyurl.com/y63g5ag9">RSVP</link>
+      <link href="https://www.facebook.com/events/1175972195912709/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc: Meet the Candidates!</heading>
+  <image src="https://i.imgur.com/Jc0jUeP.jpg" />
+  <event startDate="2019-03-08T13:00:00+00:00"
+    endDate="2019-03-08T14:00:00+00:00"
+    location="Huxley 340">
+    <text>
+      After nominations close on Friday 1st March, it's time to Meet the
+      Candidates!
+
+      Join us in Huxley 340 from 1pm on Friday 8th March to meet the candidates
+      running for all of the positions in DoCSoc.
+
+      This is your chance to ask any questions you may have, and hear more about
+      what each candidate is campaigning for! Candidates for DoCSoc and Dep Reps
+      will all be present.
+
+      Candidates for contested positions: We'll release more preparatory information
+      on Meet The Candidates soon. For now, think about why you'd be good for the
+      position, and prepare to be asked some questions from the audience!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2229853583948069/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>IC HealthHack 2019</heading>
+  <image src="https://i.imgur.com/wfS8fVU.jpg" />
+  <event startDate="2019-03-09T09:00:00+00:00"
+    endDate="2019-03-10T17:00:00+00:00"
+    location="Imperial College London">
+    <text>
+      The Department of Computing Society (DoCSoc), Bioengineering Society and
+      ICSM Coding Society proudly present the IC HealthHack 2019!
+
+      Combining your skills in bioengineering, coding, and medicine, this
+      Hackathon will bring together talented students from each field and will
+      be aimed at addressing current medical challenges through technology. Over
+      the weekend of 9-10th March 2019, teams will bring their awesome ideas
+      to life and develop solutions to real-life healthcare challenges.
+
+      _This is NOT an overnight hackathon. The hackspace will be closed during
+      the night and the hack spread out in two days._
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/293101718230640/">Facebook</link>
+      <link href="https://ichealthhack.org/">Website</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>What I Wish I Knew As An Imperial Student (presented by a DeepMind employee)</heading>
+  <image src="https://i.imgur.com/zR7cyVF.jpg" />
+  <event startDate="2019-03-12T18:30:00+00:00"
+    endDate="2019-03-12T19:30:00+00:00"
+    location="Huxley 308">
+    <text>
+      Andrea Michi is an Imperial alumni who's spent the last 3 years working
+      for Google and DeepMind. He'll be coming in to present on everything he
+      would have loved to know before he started his job - a talk which has been
+      very popular when presented internally at Google.
+
+      Andrea will cover many soft topics often ignored in the tech industry:
+      how to deal with rejections and failures, what you should prioritise at
+      the start of your career, how to give, receive, and internalise feedback,
+      how you can be a better teammate and a more efficient engineer.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/338191750124340/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Palantir Women in Tech Scholarship</heading>
+  <sponsor company="palantir">
+    We launched the Palantir Women in Technology Scholarship in 2010 to celebrate
+    and support women who are beginning careers in technology. We hope to encourage
+    women to pursue computer science, engineering, and technical studies, and to
+    become leaders in these fields.
+
+    This year, 10 scholarship recipients will be chosen and invited to visit our
+    London office for a full-day, all-expenses paid developmental workshop.
+    Programming will include professional development sessions, breakouts with
+    our engineers, and some fun social activities! All recipients are awarded
+    grants of £5,500 to support their education.
+
+    The scholarship is open to students who:
+
+    -	Are active, full-time undergraduate or Master's students enrolled in an
+    accredited European college/university during the academic years that the
+    scholarship is awarded, i.e., you must be enrolled in both the current
+    (2018-19) and upcoming (2019-20) academic years
+    -	Are majoring in or plan to major in Science, Technology, Engineering or
+    Math (STEM) fields
+    -	Identify as women
+    -	Have not been finalists in the past
+
+    For more information, click [here](https://jobs.lever.co/palantir/2dce1c15-faca-4e91-a8aa-0c2c6a259d77) and
+    see the flyer attached!
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
