@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/R9e6434.jpg?1"
+    alt="Stack of biscuits next to tea"
+    title="I am eternally offended by a certain first year who suggested that a past digest had a photo of '*coffee* and biscuits'. It's completely absurd to even suggest such a non-traditional combination would appear in a digest email." />
+
+  <hr/>
+
+  <text>
+    Hi everyone,
+
+    Last week was a busy week, with events including Revel, a Unity workshop, a talk from
+    Palantir, election hustings and finally, our yearly health-related
+    hackathon, Health Hack!
+
+    With exam season for third and fourth years, as well as voting opening for
+    the Leadership Elections, we have a quiet week planned ahead so all of us can try
+    focus on some work. If you don't have imminent exams just yet, we do have a
+    talk by an ex-Imperial student (and now-DeepMind employee) next Tuesday and
+    a few other announcements to make. Read on!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>DoCSoc Merch Collection</heading>
+  <text>
+    If you ordered merchandise from us this year, they are now on the way and
+    almost ready for collection! We'll be sending out a separate mailshot soon
+    to let you know about collection dates and times.
+  </text>
+
+  <hr />
+
+  <heading>Vote in the Leadership Elections!</heading>
+  <image src="https://i.imgur.com/q5ZQOjp.jpg" width="80" />
+  <text>
+    It's that time of year again where you get endlessly pestered by people asking
+    for you to vote for them. That's right - it's time to vote for next year's
+    DoCSoc committee and wider Imperial College Union roles.
+
+    Voting opens tomorrow, Monday 11th March and closes on Thursday 14th March.
+    Be sure to check out candidates' manifestos [here](https://www.imperialcollegeunion.org/your-union/leadership-elections-2019/manifestos/a-to-z)
+    and vote by going to https://vote.union.ic.ac.uk/!
+
+    We would also encourage you to vote for CGCU and sabbatical roles too. Sabbatical officers
+    such as the Union President and Deputy President for Finance and Services, as well
+    as CGCU officers such as the President and Treasurer, all affect how well
+    DoCSoc runs.
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>What I Wish I Knew As An Imperial Student (presented by a DeepMind employee)</heading>
+  <image src="https://i.imgur.com/zR7cyVF.jpg" />
+  <event startDate="2019-03-12T18:30:00+00:00"
+    endDate="2019-03-12T19:30:00+00:00"
+    location="Huxley 308">
+    <text>
+      Andrea Michi is an Imperial alumni who's spent the last 3 years working
+      for Google and DeepMind. He'll be coming in to present on everything he
+      would have loved to know before he started his job - a talk which has been
+      very popular when presented internally at Google.
+
+      Andrea will cover many soft topics often ignored in the tech industry:
+      how to deal with rejections and failures, what you should prioritise at
+      the start of your career, how to give, receive, and internalise feedback,
+      how you can be a better teammate and a more efficient engineer.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/338191750124340/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Palantir Women in Tech Scholarship</heading>
+  <sponsor company="palantir">
+    We launched the Palantir Women in Technology Scholarship in 2010 to celebrate
+    and support women who are beginning careers in technology. We hope to encourage
+    women to pursue computer science, engineering, and technical studies, and to
+    become leaders in these fields.
+
+    This year, 10 scholarship recipients will be chosen and invited to visit our
+    London office for a full-day, all-expenses paid developmental workshop.
+    Programming will include professional development sessions, breakouts with
+    our engineers, and some fun social activities! All recipients are awarded
+    grants of £5,500 to support their education.
+
+    The scholarship is open to students who:
+
+    -	Are active, full-time undergraduate or Master's students enrolled in an
+    accredited European college/university during the academic years that the
+    scholarship is awarded, i.e., you must be enrolled in both the current
+    (2018-19) and upcoming (2019-20) academic years
+    -	Are majoring in or plan to major in Science, Technology, Engineering or
+    Math (STEM) fields
+    -	Identify as women
+    -	Have not been finalists in the past
+
+    For more information, click [here](https://jobs.lever.co/palantir/2dce1c15-faca-4e91-a8aa-0c2c6a259d77) and
+    see the flyer attached!
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
