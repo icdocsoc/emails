@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/R9e6434.jpg?1"
+    alt="Stack of biscuits next to tea"
+    title="Will anyone notice if I reuse a digest biscuit?" />
+
+  <hr/>
+
+  <text>
+    Hi everyone,
+
+    Firstly, for those of you who have exams next week, we wish you the best of luck!
+
+    With third and fourth year exams next week, the upcoming week will be quiet.
+    However, we do have a couple announcements to make in this (shorter than usual)
+    digest, so read on!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Leadership Election Results</heading>
+  <image src="https://i.imgur.com/q5ZQOjp.jpg" width="80" />
+  <text>
+    Thanks for participating in the Leadership Elections 2019! We're excited to
+    announce that the DoCSoc Committee for 2019/20 is as follows:
+
+    - **President**: Kelvin Zhang
+    - **Vice President:** Rayan Hatout
+    - **Treasurer:** Anindita Ghosh
+    - **Secretary:** Radostin Petrov
+    - **Webmaster:** George Soteriou
+    - **Marketing &amp; Publicity Officer:** Rosemary Ng
+    - **Academic Events Coordinator:** Azhara Assanova
+    - **Industrial Events Coordinators:** Tiger Cross, Clara Lebbos
+    - **Social Events Coordinator:** Chandler Low
+    - **Events Officers:** Viet Nguyen, Eugene Lin, Iulia Ivana
+    - **Postgraduate Officer:** Rakhilya Mekhtieva Lee
+    - **Game Dev Officer:** Athithan Dharmaratnam
+
+    Congratulations to those elected and thanks to everyone who put themselves
+    forward for these positions!
+
+    Detailed results can be found here: https://www.imperialcollegeunion.org/news/leadership-elections-2019-results
+  </text>
+
+  <hr />
+
+  <heading>DoCSoc Merch Collection</heading>
+  <text>
+    The long-awaited hoodies, T-shirts and beanies have arrived!
+
+    We have already held two collection days but if you've ordered one of the
+    above and have not yet collected your order, Fawaz will be in the Huxley level two
+    Computing common room for you on Monday 18th March (tomorrow) from 4pm to
+    7pm to collect your order.
+
+    Additionally, if you ordered a hoodie and are **graduating this year**, please
+    let us know when you come to collect your order as we have special 'Class of 2019'
+    hoodies available!
+
+    If you can't make it for these times, please let us know via email at docsoc@ic.ac.uk
+    and we will try work around your availability.
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <text>
+    None this week! We won't be providing any more reasons to procrastinate from
+    exams!
+  </text>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Palantir Women in Tech Scholarship</heading>
+  <sponsor company="palantir">
+    We launched the Palantir Women in Technology Scholarship in 2010 to celebrate
+    and support women who are beginning careers in technology. We hope to encourage
+    women to pursue computer science, engineering, and technical studies, and to
+    become leaders in these fields.
+
+    This year, 10 scholarship recipients will be chosen and invited to visit our
+    London office for a full-day, all-expenses paid developmental workshop.
+    Programming will include professional development sessions, breakouts with
+    our engineers, and some fun social activities! All recipients are awarded
+    grants of £5,500 to support their education.
+
+    The scholarship is open to students who:
+
+    -	Are active, full-time undergraduate or Master's students enrolled in an
+    accredited European college/university during the academic years that the
+    scholarship is awarded, i.e., you must be enrolled in both the current
+    (2018-19) and upcoming (2019-20) academic years
+    -	Are majoring in or plan to major in Science, Technology, Engineering or
+    Math (STEM) fields
+    -	Identify as women
+    -	Have not been finalists in the past
+
+    For more information, click [here](https://jobs.lever.co/palantir/2dce1c15-faca-4e91-a8aa-0c2c6a259d77) and
+    see the flyer attached!
+  </sponsor>
+
+  <hr />
+
+  <heading>Bloomberg Women in Tech Spring Program</heading>
+  <sponsor company="bloomberg">
+    To celebrate International Women's Month, Bloomberg are launching the
+    **Bloomberg Women in Tech Spring Program**. The 3-day program is designed to
+    introduce you to our work and culture, connect you to our diverse communities
+    and help prepare you for future technical interviews. The program will run
+    from **April 15th - 17th at our London EMEA Headquarters**.
+
+    Travel, food and accommodation expenses will be covered for the duration of
+    the program. Successful candidates will be **fast tracked** for our 2020 Summer
+    Internship Program at the end of the program.
+
+    For more information and to apply click [here](http://tinyurl.com/y2es9ohj).
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
