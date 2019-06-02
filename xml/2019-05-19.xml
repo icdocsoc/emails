@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/7J6fHf7.jpg?1"
+    alt="Four yellow macaroons in a horizontal line"
+    title="Here's to hoping our weather will be as bright as those macaroons over the coming weeks!" />
+
+  <hr/>
+
+  <text>
+    Welcome back to your weekly digest email!
+
+    First off, congratulations to those who have just finished with their exams!
+    Although Imperial won't give us our much-deserved break just yet, we have
+    lots planned over the next few weeks of term so you can relax, make the most
+    out of your downtime and take your mind off exam results.
+
+    Over the next week, we'll be hosting a Game of Thrones finale viewing (**with pizza,
+    tomorrow!**), an end of exams bar night and our annual international trip (this time,
+    to Prague). More events follow, including our annual End of Year Dinner (location
+    to be revealed soon!). Read on for more!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Merch Update</heading>
+  <text>
+    If you still haven't collected your merchandise, be sure to give us an email
+    at docsoc@imperial.ac.uk with your order details and preferred collection times
+    and we will be in touch shortly.
+  </text>
+
+  <hr />
+
+  <heading>EmpireCTF - Weekly CTF Sessions</heading>
+  <text>
+    Hello everyone!
+
+    **We are EmpireCTF, the Imperial CTF team, currently ranking second in the UK.**
+    Capture The Flag is a type of cybersecurity competitions that covers a large
+    range of topics including (but not limited to) web security, forensics,
+    reverse engineering, binary exploitation, cryptography, and blockchain security.
+
+    Last term we have organized CTF dojo sessions every Wednesday led by Aurel –
+    we hope you’ve enjoyed it. This term, we are going to cover reverse engineering
+    and binary exploitation. You might be familiar with reverse engineering if
+    you have done the bomb lab in the architecture course before; you might also
+    want to learn about binary exploitation if you are interested in how a C program
+    with buffer overflow can be hacked. These are all very interesting topics and
+    I hope to see you on Wednesday!
+
+    If this piqued your interest, please join our Facebook group where we will
+    announce the room and times for our weekly session:
+    https://www.facebook.com/groups/2422843637940223/
+
+    – EmpireCTF
+  </text>
+
+  <hr />
+
+  <heading>Global Female Leadership Conference</heading>
+  <text>
+    The Global Female Leadership Conference, **the largest university-led conference
+    on female leadership in the world** is taking place on the 22nd of May at Oxford
+    University’s Said Business School.
+
+    The conference will focus on the experiences and insights of inspiring female
+    leaders from a wide variety of sectors and the challenges they have faced whilst
+    showcasing their great accomplishments. A key theme will be the discussion of
+    obstacles those identifying as women face in environments where they are
+    underrepresented, which can make a career progression more challenging,
+    as well as the questions about how to best combine prosperous careers with
+    families and personal lives.
+
+    The organisers are very keen on having the students from this department attend
+    and have offered a 50% discount on tickets - so they would cost less than £5.
+    The discount code is VIPTICKET19.
+
+    More details, including a line-up of speakers can be found on the Eventbrite
+    event page: https://www.eventbrite.co.uk/e/global-female-leadership-conference-2019-tickets-61647939647
+  </text>
+
+  <hr />
+
+  <heading>Hopperx1 Women in Computing Celebration</heading>
+  <text>
+    [AnitaB.org](https://anitab.org/) offers an excellent opportunity for undergraduate and post-graduate
+    students to attend a one-day locally organised event modeled after [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/),
+    the world’s largest gathering of women technologists. GHC is an immersive event
+    bringing together women technologists at all levels – along with leading companies
+    from industry, academia, and research – to build relationships, learn, and advance their careers.
+
+    [Hopperx1 London](https://community.anitab.org/event/hopperx1-london/)
+    is taking place on the **14th of June**, at **ETC - 155 Bishopsgate, Liverpool Street, London**.
+
+    Scholars who attend Hopperx1 London gain access to career workshops, networking
+    opportunities, and memories that will last a lifetime.
+
+    The Hopperx1 London program includes keynote speakers such as -
+    Brenda Darden-Wilkson CEO &amp; President of AnitaB.org, Mico Yuk Co-Founder/CEO
+    of BI Brainz, panel discussions, as well as workshops and talks by inspiring
+    women from our London WiT community, which will be split into Career, Data
+    Science and AI, Emerging Technology and Open Source tracks.
+
+    The scholarship is a £75 Hopperx1 student registration fee and will be granted
+    according to eligibility (see application form) and first come first served basis.
+
+    [AnitaB.org Hopper x 1 London Student Registration Scholarship Application Form](https://forms.gle/Q98sUDYAb66ktxGv8)
+
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>DoCSoc Watches The Game of Thrones Finale With Liquidnet</heading>
+  <image src="https://i.imgur.com/NvvpeXV.jpg" />
+  <event startDate="2019-05-20T18:45:00+01:00"
+    endDate="2019-05-20T20:30:00+01:00"
+    location="Huxley 308">
+    <text>
+      No matter whether you've loved this season or hated it, join us in viewing
+      and reacting to the finale of one the biggest and most popular TV shows to
+      ever air, Game of Thrones! Drinks and snacks will be provided (including pizza!),
+      but you'll want to bring your own tissues. If you have any specific dietary requirements,
+      please let us know as soon as possible by sending us an email.
+
+      This event is kindly sponsored by Liquidnet, who currently have graduate
+      positions for Quantitative Developers/Data Scientists open! For more
+      information about the roles, click here: https://bit.ly/2YoxM4t and read
+      more about Liquidnet below.
+
+      "For 17 years, Liquidnet has revolutionized the way the world invests.
+      Spanning 45 markets across the globe, our network connects the world’s
+      biggest investors to the world’s biggest investment opportunities. We’re
+      bold. We’re creative. We’re growing.
+
+      And we’re passionate about the power of technology to change the lives of
+      our customers and the world beyond.
+
+      Liquidnet prides itself on standing at the nexus of Wall Street and Silicon
+      Valley. But, with fewer than 500 employees, Liquidnet is more like a
+      start-up than any dusty old bank or overgrown tech giant. It’s a culture
+      where everyone has an opportunity to make a difference — and to make someone’s
+      day a little brighter.
+
+      We’re looking for people who are smart, accomplished, and one of the
+      friendliest people in the room. If that describes you, we’d love to talk
+      to you about working with us."
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2085636301547867/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>The Ramji-Bonardi End Of Exams Bar Night</heading>
+  <image src="https://i.imgur.com/e5Ts9Wu.jpg" />
+  <event startDate="2019-05-23T20:00:00+01:00"
+    endDate="2019-05-24T00:00:00+01:00"
+    location="Metric">
+    <text>
+      Exams are soon over, so come along to celebrate (or drown your sorrows) on
+      Thursday 23rd May at Metric! Kick off summer term the right way, and don't
+      miss out on what's sure to be a great night.
+
+      We're also dedicating this bar night to Inara Ramji and Alessandro Bonardi,
+      the President and Vice President of DoCSoc.
+
+      Drinks tokens will be given upon entry for FREE to DoCSoc members. Tokens
+      are valid for both alcoholic and non-alcoholic drinks. We have the right
+      to refuse tokens to members at our discretion.
+
+      Please note: Drinks are not allowed to be taken outside Metric and we have
+      the right to stop members from doing so.
+
+      You are entitled to bring one non-Imperial plus one. Please message/email
+      DoCSoc with your plus one's name. The deadline to do this is BY 22nd May 10pm.
+
+      Any plus ones whose name has not been provided beforehand will not be let in!
+
+      College ID of your plus one must be shown at entry. You must stay with your
+      plus one at all times and they will not be given any drinks tokens.
+      Imperial plus ones must be DoCSoc members in order to attend.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/341298409836110/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Facebook Cyber Security - Decoded Summer 2019</heading>
+  <image src="https://i.imgur.com/NxONDEd.png" />
+  <text>
+     \
+    Are you interested in cyber security? Join Facebook's Product Security team
+    at our London offices for an evening of networking and talks about security here at Facebook.
+
+    Facebook's London Product Security team or PSAA is part of a global team who
+    are focused on discovering potential weaknesses and then crafting creative
+    solutions to eliminate those weaknesses. We achieve this by doing security
+    reviews, code and design reviews, building tools and automations through our
+    WhiteHat program. The team is spread across three offices, Menlo Park, Seattle
+    and London and works cross functionally with software development teams.
+    Testing code for vulnerabilities building out longtime security tools and
+    protecting against anomalies or vulnerabilities. We aim to make life hard for the bad guys!
+
+    Our security team are focused on making Facebook a safe and secure place for
+    the 2 billion people on our service to connect and share with each other.
+    We're fortunate to have some of the brightest security minds at Facebook,
+    and they are working around the clock to help protect people's Facebook accounts.
+
+    **When: 12th June**\
+    **Where: Facebook London Offices**
+
+    If you are interested in attending the event, please follow this [LINK](https://facebookdecodedsummer2019.splashthat.com/) and **submit your details by the 20th May**.
+
+    All applications will then be reviewed and decisions communicated by the 27th May.
+
+  </text>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
