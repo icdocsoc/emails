@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Goes Paintballing" logos="false">
+
+  <image src="https://i.imgur.com/ZM1Cq4u.jpg" />
+  <event startDate="2019-06-12T16:00:00+01:00"
+    endDate="2019-06-12T19:00:00+01:00"
+    location="Delta Force Paintball East London, 1 Aveley Road, RM14 2TW Upminster, Havering, United Kingdom">
+    <text>
+      Join us for Paintball in Aveley Road, Upminster from 4pm on Wednesday
+      12th June!
+
+      Tickets will be £10 each and will go live on Sunday 9th June at 1pm. Stay
+      tuned on our Facebook event for more updates on this.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2368441203438763/">Facebook</link>
+    </links>
+  </event>
+
+  <sign name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>

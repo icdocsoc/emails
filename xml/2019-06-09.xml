@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/HruF8WO.jpg"
+    alt="Biscuits next to a glass of milk"
+    title="m i n i m a l i s m" />
+
+  <hr/>
+
+  <text>
+    Welcome back to another weekly digest!
+
+    As the term winds down to a close, we have a few events left, from paintballing
+    next week to the (already sold out!) End of Year Dinner. Read on for more!
+  </text>
+
+  <hr />
+
+  <text>## General Notices</text>
+
+  <hr />
+
+  <heading>Union Awards</heading>
+  <text>
+    This week, DoCSoc were proud to receive the Contribution to College Life award
+    for our joint Diversity in Engineering event with the CGCU! We were also
+    nominated for Club, Society and Project of the Year and Event of the Year
+    (also for Diversity in Engineering). In addition to DoCSoc, many of our
+    volunteers received individual awards, from the Outstanding Service Award
+    to Union Colours.
+
+    Congrats to everyone who won awards, and for our volunteers who didn't, this
+    small awards ceremony was a testament to the level of gratitute many of DoCSoc's members
+    have for those who actively help our society run our events, particularly volunteers
+    on [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/) and the
+    many volunteers who made IC Hack 19 possible!
+  </text>
+
+  <hr />
+
+  <heading>DoCSoc CV Reviews</heading>
+  <text>
+    Got questions about your CV or internship applications?
+
+    Though it's still early for the upcoming internship search season, some of
+    you may want to get a head start. DoCSoc is currently rolling out a new
+    initiative, where first and second years who want a CV review and advice
+    can be matched with third and fourth years who are seasoned veterans of the
+    job search process (and have also been trained by the college Careers Service!).
+
+    If you're interested, please fill in this form: https://forms.gle/7UYRsKvfwdmciQWQ9
+  </text>
+
+  <hr />
+
+  <text>## On-Campus Events</text>
+
+  <hr />
+
+  <heading>DoCSoc Goes Paintballing</heading>
+  <image src="https://i.imgur.com/ZM1Cq4u.jpg" />
+  <event startDate="2019-06-12T16:00:00+01:00"
+    endDate="2019-06-12T19:00:00+01:00"
+    location="Delta Force Paintball East London, 1 Aveley Road, RM14 2TW Upminster, Havering, United Kingdom">
+    <text>
+      Join us for Paintball in Aveley Road, Upminster from 4pm on Wednesday
+      12th June!
+
+      Tickets will be £10 each and are live on the Union store now but be quick -
+      there are only a **few tickets remaining**!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2368441203438763/">Facebook</link>
+      <link href="https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products/27122/docsoc-goes-paintballing">Tickets (Union)</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <heading>DoCSoc End of Year Dinner (Sold Out!)</heading>
+  <image src="https://i.imgur.com/hgi0gik.jpg" />
+  <event startDate="2019-06-17T19:00:00+01:00"
+    endDate="2019-06-18T00:30:00+01:00"
+    location="Bluebird Chelsea">
+    <text>
+      **Sold out!**
+
+      It is time for the final DoCSoc event of the year, our annual End Of Year
+      Dinner! Join us at Bluebird Chelsea on 17th June at 7pm for an exciting
+      evening filled with food, drink and dance.
+
+      Upon arrival, you will be welcomed with a champagne reception followed by
+      a three-course meal along with wine or beer.
+
+      So pick out your best dresses/suits for this glamorous, black tie evening
+      and together we hope to make it an extremely memorable night!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/836958003349840/">Facebook</link>
+    </links>
+  </event>
+
+  <hr />
+
+  <text>## Sponsor Notices</text>
+
+  <hr />
+
+  <heading>Facebook Black@ Workshop</heading>
+  <sponsor company="facebook">
+     \
+    Hi there!
+
+    Facebook's Black@ community, are hosting a Web development &amp; Github Workshop for students.
+
+    **The Black@ community’s mission**: is to build a strong vibrant community
+    that leads the conversation on equity, accelerating the personal and
+    professional development of its members, and beyond.
+
+    This workshop will be run by one of our Software Engineers and will focus on:
+
+    -	Basics of Web Development - front end, back end and data storage
+    -	How to create and build a project on Github www.github.com
+    -	Panel and Q&amp;A with members of the Black@ community
+    -	Networking
+
+    When and where?
+
+    -	Date: Thursday 20th of June
+    -	Time: 18:30
+    -	Location: **Facebook’s London Office**
+
+    Our aim with this workshop is for you to get a bit more exposure to web
+    development, help you to start your own personal coding project and learn
+    more about the Black@ community here at Facebook.
+
+    If you are interested in signing up, please follow this link: https://webdevelopmentandgithubworksho.splashthat.com/
+
+    Best wishes, \
+    Lucy and The Black@ Facebook Community
+  </sponsor>
+
+  <sign
+    name="Kelvin Zhang"
+    role="DoCSoc Secretary '18/19"
+    facebook="KelvZhan">
+    Until next time,
+  </sign>
+</email>
