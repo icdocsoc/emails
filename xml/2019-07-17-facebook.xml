@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Explore Facebook at Wayfinder" logos="false">
+  <text>
+  Hi everyone,
+
+  Facebook have got in touch with us to share an event they are hosting this
+  summer called Wayfinder! It's a wonderful opportunity for students to learn
+  about different roles at Facebook and explore their culture. If you're
+  interested, take a look below!
+  </text>
+
+  <hr />
+
+  <sponsor company="facebook">
+
+    Join Facebook this summer at Wayfinder.
+
+    Hosted at our office in London and Dublin, Wayfinder is an opportunity to
+    experience our culture, explore opportunities and engage with the teams
+    that make this all possible.
+
+    Open to undergraduate students across all areas of study, Wayfinder allows
+    you to explore more about your career pathway and gives you insight to what
+    it is like working here at Facebook, where the journey is only 1% done.
+  </sponsor>
+
+  <image src="https://i.imgur.com/GlHMLgq.png" alt="Wayfinder" width="40"/>
+
+  <text>
+    **To express you interest in this event, please follow the links below and
+    complete our registration form – there are limited spaces available so we
+    encourage you to sign up asap:**
+
+    [Dublin](https://q32019dublinwayfinder.splashthat.com/)
+
+    [London](https://q32019londonwayfinder.splashthat.com/)
+
+    Have a wonderful summer and we hope to see you there!
+
+    Many thanks,\
+    Facebook University Recruitment
+  </text>
+
+  <sign name="Radostin Petrov"
+    role="DoCSoc Secretary 19/20"
+    facebook="radostin.petrov.94">
+    Until next time,
+  </sign>
+
+</email>
