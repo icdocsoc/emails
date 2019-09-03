@@ -3,7 +3,7 @@
     <text>
         It's that time of the year again - DoC is about to be joined by a new
         cohort of first years!
-
+        &lt;br/&gt;
         Hence, the Mums and Dads Scheme returns!
 
         If you're unfamiliar with the Mums and Dads Scheme, every year DoCSoc
@@ -13,8 +13,8 @@
         some friends and enjoy some events together. Each family will get a
         termly budget that they can decide how to spend themselves.
         &lt;br/&gt;
-        **If you're interested in joining as a parent please follow this link:**
-        https://mad.docsoc.co.uk/
+        **If you're interested in joining as a parent click [here](https://mad.docsoc.co.uk/parent)!**
+
 
     </text>
     <hr/>
@@ -50,6 +50,7 @@
         interested to find out more, the source code of this application is
         available on [Github](https://github.com/docsocsf/mad2).
 
-        If you have any other questions, please feel free to message our facebook page or send us an email!
+        If you have any other questions, please feel free to message our
+        facebook page or send us an email!
     </text>
 </email>
