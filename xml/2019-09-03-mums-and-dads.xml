@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Mums and Dads is Back - Parents Sign Up!" agenda="false" logos="false">
+    <text>
+        It's that time of the year again - DoC is about to be joined by a new
+        cohort of first years!
+
+        Hence, the Mums and Dads Scheme returns!
+
+        If you're unfamiliar with the Mums and Dads Scheme, every year DoCSoc
+        members can become the "adoptive parents" of up to 6 freshers and
+        form a family. It is not only a great way to welcome freshers and help
+        them settle into university life, but for everyone involved to make
+        some friends and enjoy some events together. Each family will get a
+        termly budget that they can decide how to spend themselves.
+        &lt;br/&gt;
+        **If you're interested in joining as a parent please follow this link:**
+        https://mad.docsoc.co.uk/
+
+    </text>
+    <hr/>
+    <text>
+        FAQ:
+
+        **How does it all work?**
+        &lt;br/&gt;
+        Parents are existing 2nd, 3rd, and 4th year Computing and JMC students
+        in DoC. Each family will consist of two parents, and up to 6 freshers.
+        After term commences, there will be a timetabled slot for freshers to
+        meet their families, along with some food and activities to get to know
+        each other. Each term there is also a small budget for each family
+        (around 20 pounds) to use as appropriate (dinner, drinks, any family
+        gathering etc).
+
+        **Can I sign up as a solo parent?**
+        &lt;br/&gt;
+        No, unfortunately you can't. You will need to sign up with a partner -
+        this is done to ensure the best possible experience for incoming
+        freshers. If you sign up without choosing a partner, your registration
+        will be ignored.
+
+        **I've already signed up on the union website. Do I sign up here too?**
+        &lt;br/&gt;
+        Yes, please do. If you haven't signed up on the union website then you
+        won't need to, as long as you sign up here.
+
+        **How will freshers be allocated?**
+        &lt;br/&gt;
+        Based on the interests filled in, we do our best to assign each fresher
+        to fellow freshers and parents with similar interests. If you're
+        interested to find out more, the source code of this application is
+        available on [Github](https://github.com/docsocsf/mad2).
+
+        If you have any other questions, please feel free to message our facebook page or send us an email!
+    </text>
+</email>
