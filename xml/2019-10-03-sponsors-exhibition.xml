@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Sponsors' Exhibition Update - Amended Location" logos="false" agenda="false">
+  <text>
+    Hi everyone,
+
+    There has been an update on the time and location of Sponsors' Exhibition
+    since the previous email. It will take place **in Great Hall from 2pm to 5pm
+    on 9th October.**\
+    Check the event page below for more information!
+  </text>
+  <hr/>
+
+
+  <image src="https://i.imgur.com/1aPxKCI.jpg"/>
+  <event startDate="2019-10-09T14:00:00+01:00"
+    endDate="2019-10-09T17:00:00+01:00"
+    location="Great Hall">
+  <text>
+    Come to the Great Hall on Wednesday 9th October between 2pm - 5pm to have a
+    chance to meet all of DoCSoc's Silver and Gold sponsors this year and grab some swag.
+
+    Whether you are looking for an internship or graduate role, or simply want
+    to know more about industry, we really recommend you come along as it's a
+    great way to get in direct contact with recruiters and engineers from highly
+    regarded companies and should provide invaluable insight into the recruitment process.
+
+    This event is open to all DoCSoc members (automatically includes Computing, JMC, and EIE students).
+  </text>
+  <links>
+  <link href="https://www.facebook.com/events/2357745387873182/">Facebook</link>
+  </links>
+  </event>
+  <sign name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov.99">
+    Until next time,
+  </sign>
+</email>
