@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email title="Welcome from DoCSoc - Mums and Dads Information Inside!">
+  <text>
+    Hi everyone,
+
+    Welcome to your first year at Imperial! For those of you who missed our
+    induction talk, we're the Department of Computing Society and we run over
+    fifty events per year, both social and careers-related, to make sure you
+    get the most out of uni.
+
+    Here's some **important information** for you to keep in mind for the
+    coming weeks.
+  </text>
+
+  <hr/>
+
+  <heading>Mums and Dads</heading>
+  <text>
+
+    Every first year is assigned a college family. Next Monday, your Haskell
+    lecture with Tony Field will end early so you can be at the Mums and Dads
+    Lunch (12:30 - 13:30) in HXLY 341/342 for you to meet your family, collect
+    your DoCSoc swag bags (with loads of goodies inside) and have sandwiches
+    and snacks on us!
+
+    **Not yet signed up to Mums and Dads?** If you haven't signed up to Mums
+    and Dads, you will be automatically signed up to a family without your
+    hobbies/preferences being taken into account. Be sure to sign up **before
+    the end of this Friday 4th October** by going here: http://mad.docsoc.co.uk/fresher.
+    Don't forget to check your email to verify your sign-up after!
+
+    **Haven't got your family allocation yet?** We'll be releasing final
+    allocations over the weekend.
+  </text>
+
+  <hr/>
+
+  <heading>Facebook/Messenger Group</heading>
+  <text>
+
+    Every year group has a dedicated Facebook group and Messenger group chat.
+    This is the primary way for DoC students to communicate. To join these
+    groups, see the links below:
+
+    - Facebook Messenger group chat: https://docsoc.co.uk/y1chat
+    - Facebook group: https://docsoc.co.uk/y1fb
+  </text>
+
+  <hr/>
+
+  <heading>How do I find out about events?</heading>
+  <text>
+
+    The primary way DoCSoc advertises events is via our weekly digest emails,
+    sent to your email addresses every Sunday. These contain lots of information,
+    but be sure to read through every email carefully.
+
+    We also publicise events over Facebook, so be sure to like and follow our
+    page here: https://www.facebook.com/ICDoCSoc/. Our evening events almost
+    always have **free pizza and soft drinks** (usually one box between two attendees)
+    and we ask that you **RSVP on Facebook** if you're interested in an event so
+    we can order enough pizza for everyone.
+
+    We will also communicate last-minute changes to events over year group
+    Messenger chats linked above.
+  </text>
+
+  <hr/>
+
+  <heading>Intro to Linux</heading>
+  <image src="https://i.imgur.com/jXzJVPf.jpg"/>
+  <event startDate="2019-10-07T18:00:00+01:00"
+    endDate="2019-10-07T19:00:00+01:00"
+    location="Huxley 308">
+    <text>
+      Are you a first year who is new to the world of computing? Then come and join
+      us at our first academic event of the year!
+
+      Familiarity with the Linux/Unix environment and the command line is arguably
+      one of the most important skills a software engineer today can have. Many
+      often find it difficult at first - even if they've got quite a bit of coding
+      experience, but DoCSoc is here to help!
+
+      We'll be covering fundamental command line skills and Linux-related knowledge
+      that will be useful for you, as well as some more advanced tricks and looking
+      at some different text editors. You'll also have a chance to ask any questions
+      you may have at the end of the talk.
+
+      This event is aimed at people who have never had any experience with Linux or
+      the Linux terminal.
+    </text>
+    <links>
+      <link href="https://www.docsoc.co.uk/intro-to-linux">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Other Stuff</heading>
+  <text>
+
+    A few other things to give a heads up on:
+    - Be sure to check out the Computing/JMC common room on the same corridor
+    as the labs entrance and Student Tea Point.
+    - The Student Tea Point's facilities are provided courtesy of DoCSoc. We
+    have provided students with a coffee machine and buy coffee beans throughout
+    term time (with the next delivery coming soon!). All we ask is that you
+    keep the tea point tidy and clean up after yourselves!
+
+    If you have any questions, please don't hesitate to ask us on your year
+    group chat or email us at docsoc@imperial.ac.uk.
+
+    Looking forward to seeing you around!
+
+    Sincerely,\
+    DoCSoc Committee '19/20
+
+  </text>
+</email>
