@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image width="90"
+    src="https://i.imgur.com/rF1XCfo.jpg"
+    alt="Chocolate chip biscuits and a glass of milk"
+    title="Chocolate chip biscuits go very well with a glass of milk!" />
+  <hr/>
+
+  <text>
+    Welcome to your second digest of the year!
+
+    Thank you to everyone who came to meet us at the Welcome Fair! We had a great
+    time talking to you guys, as well as enjoying some Beat Saber and typing
+    competitions together. We'll be announcing the winners and prizes of the
+    typing competition in the next digest email... stay tuned for that!
+
+    Now let's dig in some important announcements for the upcoming week.
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>Autumn Elections - Year Rep Nominations Open</heading>
+    <text>
+      Nominations in the Union Autumn elections are **NOW OPEN** and close at
+      **Midnight on Monday 14 October**!
+
+      It is an opportunity to make your voice heard within the College and the Union.
+
+      Every year students vote for an Academic Year Representative and Wellbeing Year
+      Representative.
+
+      The Academic Year Representative receives and collates feedback from their cohort,
+      passing this information to the Departmental Representatives or staff as appropriate.
+      Academic Representatives have made long-lasting improvements in many areas such as
+      the content of curricula, feedback quality and timeliness, exam timetables and formats,
+      online learning resources, and the physical facilities available.
+
+      Wellbeing Year Representatives are part of the Wellbeing Representation Network,
+      which aims to tackle issues such as stress and pressure, mental health, the quality of
+      personal tutoring, how students are supported to be resilient and independent,
+      transitioning back into study after time off, and more. Wellbeing Representatives
+      will work with College staff, Welfare Officers, and Academic Representatives.
+
+      Year reps make **real change within the department**, with a place on regular Staff
+      Student Committee meetings, voicing their concerns to teaching fellows and staff.
+
+      To nominate yourself and for more information on the mentioned and other roles available,
+      visit the Union's [Autumn Elections page](https://www.imperialcollegeunion.org/your-union/autumn-elections-2019).
+    </text>
+
+  <hr/>
+
+  <heading>CGCU Town Hall</heading>
+  <event startDate="2018-10-08T17:00:00+01:00"
+  endDate="2018-10-08T18:00:00+01:00"
+  location="CAGB 200">
+    <text>
+      Interested in representing student voice in faculty decisions to how your
+      course is ran?
+
+      As an Academic or Wellbeing Year Rep, you're on the forefront of influencing
+      what changes to policies the Department of Computing makes during the
+      academic year, whether that be issues with teaching staff, usage of student
+      space, or improving department support services.
+
+      The CGCU are hosting a Town Hall to help explain the responsibilities
+      involved, how to apply, and network with current representatives to understand
+      how you can impact student experience, on Tuesday 8th of October from
+      5pm - 6pm in CAGB 200 (City &amp; Guilds Building just next to the Main Reception).
+      Pizza will be provided during networking, so do come along!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2206124359679290/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>Mums &amp; Dads Lunch</heading>
+  <event startDate="2018-10-07T12:30:00+01:00"
+    endDate="2018-10-07T13:30:00+01:00"
+    location="Huxley 341/342">
+    <text>
+      We'll be kicking off the Mums and Dads programme with an opportunity for you
+      to meet your MaD parents and have lunch with them! We will be offering free
+      food and drinks, as well as issuing a number of challenges. You might even win
+      a prize!
+
+      If you're a fresher and you don't have parents assigned yet or have not
+      registered, please let us know.
+
+      Mums and Dads parent? Be sure to turn up to this event to meet your children!
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>Intro to Linux</heading>
+  <image src="https://i.imgur.com/jXzJVPf.jpg"/>
+  <event startDate="2019-10-07T18:00:00+01:00"
+    endDate="2019-10-07T19:00:00+01:00"
+    location="Huxley 308">
+    <text>
+      Are you a first year who is new to the world of computing? Then come and join
+      us at our first academic event of the year!
+
+      Familiarity with the Linux/Unix environment and the command line is arguably
+      one of the most important skills a software engineer today can have. Many
+      often find it difficult at first - even if they've got quite a bit of coding
+      experience, but DoCSoc is here to help!
+
+      We'll be covering fundamental command line skills and Linux-related knowledge
+      that will be useful for you, as well as some more advanced tricks and looking
+      at some different text editors. You'll also have a chance to ask any questions
+      you may have at the end of the talk.
+
+      _This event is aimed at people who have never had any experience with Linux or
+      the Linux terminal._
+    </text>
+    <links>
+      <link href="https://www.docsoc.co.uk/intro-to-linux">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>IC Game Development Taster</heading>
+  <image src="https://i.imgur.com/wxgRIy9.jpg"/>
+  <event startDate="2019-10-08T18:00:00+01:00"
+    endDate="2019-10-08T20:00:00+01:00"
+    location="Huxley 341">
+    <text>
+      A warm welcome to everyone who is new to Imperial and welcome to the IC Game
+      Development Society!
+
+      We will be holding our first weekly session on Tuesday 8th of October from
+      18:00 - 20:00 located in Huxley, room 341 run in collaboration with DoCSoc.
+
+      In this session we will try give you a flavour of game development at Imperial
+      through a game ideation workshop followed by a gaming social at the end.
+
+      If this hasn't whetted your appetite, hopefully the free pizza will!
+
+      If you have any specific dietary requirements, please let us know a few days
+      beforehand.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/515745679205499/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Sponsors' Exhibition</heading>
+  <image src="https://i.imgur.com/1aPxKCI.jpg"/>
+  <event startDate="2019-10-09T14:00:00+01:00"
+    endDate="2019-10-09T17:00:00+01:00"
+    location="Great Hall">
+    <text>
+      Come to the Great Hall on Wednesday 9th October between 2pm - 5pm to have a
+      chance to meet all of DoCSoc's Silver and Gold sponsors this year and grab some swag.
+
+      Whether you are looking for an internship or graduate role, or simply want
+      to know more about industry, we really recommend you come along as it's a
+      great way to get in direct contact with recruiters and engineers from highly
+      regarded companies and should provide invaluable insight into the recruitment process.
+
+      This event is open to all DoCSoc members (automatically includes Computing, JMC, and EIE students).
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2357745387873182/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Next Jump Workshop</heading>
+  <image src="https://i.imgur.com/mejiIuS.png"/>
+  <event startDate="2019-10-10T18:00:00+01:00"
+    endDate="2019-10-10T20:00:00+01:00"
+    location="Skempton 060 A/B/C">
+    <text>
+      Details to come soon in an email in the coming week!
+
+      As usual, this event will be catered with lots of pizza and soft drinks.
+      If you're a first year, don't miss out on the first sponsor event of the academic year!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/3056707901011343/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Postgraduate Drinks</heading>
+  <image src="https://i.imgur.com/UoBjyZI.png"/>
+  <event startDate="2019-10-11T19:00:00+01:00"
+    endDate="2019-10-11T23:00:00+01:00"
+    location="Eastside Bar">
+    <text>
+      (If you are an undergraduate, i.e., BEng/MEng Computing/JMC, unfortunately this
+      event isn't for you! Otherwise, read ahead!)
+
+      Come join us for our first ever postgraduate social and get to know each other
+      over food and drinks, complimentary of DoCSoc. For this event, we have reserved
+      a number of tables in Eastside Bar.
+
+      Bar tokens will be provided, eligible for both alcoholic and non-alcoholic drinks.
+      A limited amount of canapés will be served at the start of the event.
+
+      Please note Eastside Bar (unlike our usual bar venue, Metric) has limited space,
+      shared with other bookings, and we will not be able to accommodate all postgraduates
+      this time round! We will be returning to Metric for future postgraduate drinks over
+      the academic year.
+
+      This event is open to all DoCSoc postgraduates (MScs [not MEng], PhDs, postdocs, etc.).\
+      Membership can be purchased for £30 at docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/551673548909850/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Netcraft Introduction</heading>
+  <sponsor company="netcraft">
+    Netcraft is an innovative internet services company, with offices in central Bath,
+    Hammersmith in London and central Manchester from July 2020. Netcraft conducts
+    internet research and provides a range of security services, including cybercrime
+    disruption, application security testing and automated penetration testing.
+
+    Netcraft provides anti-cybercrime services for hundreds of customers around the world,
+    including large Internet companies (e.g. Microsoft, Netflix), banks (e.g. Metro Bank,
+    BNP Paribas, Deutsche Bank), retailers (e.g. Gumtree) and the UK Government. It also
+    provides similar services to smaller companies at the sharp end of internet financial
+    crime, including leading cryptocurrency exchanges and wallet providers (e.g. Coinbase),
+    and many banks in developing countries where cybercrime is more prevalent.
+
+    Netcraft has a variety of roles available—including Graduate positions, summer placements,
+    and industrial years—at its offices in Bath and London. We are keen to receive applications
+    from high performing Computer Science students, although applicants must be able to
+    demonstrate the right to work in the United Kingdom. More information on the roles and
+    what it's like to work with Netcraft can be found in our recruitment brochure:
+    https://www.netcraft.com/NetcraftGraduateBooklet.pdf
+
+    Come and join our talented and growing software development team! Projects involve
+    working on a range of our anti-cybercrime services and extending our network
+    exploration and internet security services.
+
+    We're looking for:
+    - a broad knowledge of internet technology, including a keen interest in network
+    security, data mining, machine learning, and web-based user interfaces;
+    - attention to detail, and a desire to find things out empirically rather than
+    relying on conjecture;
+    - demonstrable programming ability and experience.
+    - evidence of conspicuous achievement and a strong computing background, equivalent
+    to a first-class degree in Computer Science or similar subjects;
+    - expressive verbal and written communications skills in English. Skills in other
+    languages are also welcomed;
+    - a well-developed sense of precaution: someone who likes to plan for the future
+    with suitable programming abstractions, automated test suites and version control.
+
+    Prior experience with any of the following technologies and programming languages
+    would be helpful, but not essential:
+    - Scripting languages like Perl, Python and PHP;
+    - Database engines like MySQL;
+    - Web languages like JavaScript and TypeScript, and HTML and CSS;
+    - Automation tools like Puppet and cloud computing services like AWS;
+    - Unix systems programming and administration, and tools like git.
+
+    To apply, email [cv@netcraft.com](mailto:cv@netcraft.com) with your CV.
+  </sponsor>
+
+  <hr/>
+
+  <heading>Bloomberg - Ada Lovelace Day</heading>
+  <sponsor company="bloomberg">
+    Join us to celebrate Ada Lovelace Day with a
+    special women in technology themed quiz. Put your
+    knowledge to the test, get inspired and meet our
+    Software engineers from the Bloomberg Women
+    in Technology &amp; Allyship Communities.
+    Sign up here: http://tinyurl.com/y69erchg
+
+    _More information in the PDF attached._
+  </sponsor>
+
+  <sign name="Radostin Petrov"
+  role="DoCSoc Secretary '19/20"
+  facebook="radostin.petrov99">
+  Until next time,
+  </sign>
+</email>
