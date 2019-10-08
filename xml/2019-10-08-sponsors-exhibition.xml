@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Sponsors' Exhibition - TOMORROW!" logos="false" agenda="false">
+  <text>
+    Hi all!
+
+    Don't forget our annual DoCSoc Sponsors' Exhibition is **tomorrow** in the
+    Great Hall from 14:00 to 17:00.
+
+    Come along to greet sponsors including tech giants such as Microsoft and
+    Facebook, financial companies such as Jump Trading and G-Research and
+    startups such as Next Jump and Artificial.
+
+    Don't forget to pick up the merchandise they're giving away, including
+    t-shirts, mugs, pens, notebooks and more!
+
+    Be sure to [RSVP](https://www.facebook.com/events/2357745387873182/) to
+    this event on Facebook so we can gauge attendance!
+  </text>
+  <hr/>
+
+
+  <image src="https://i.imgur.com/1aPxKCI.jpg"/>
+  <event startDate="2019-10-09T14:00:00+01:00"
+    endDate="2019-10-09T17:00:00+01:00"
+    location="Great Hall">
+    <text>
+      Come to the Great Hall on Wednesday 9th October between 2pm - 5pm to have a
+      chance to meet all of DoCSoc's Silver and Gold sponsors this year and grab some swag.
+
+      Whether you are looking for an internship or graduate role, or simply want
+      to know more about industry, we really recommend you come along as it's a
+      great way to get in direct contact with recruiters and engineers from highly
+      regarded companies and should provide invaluable insight into the recruitment process.
+
+      This event is open to all DoCSoc members (automatically includes Computing, JMC, and EIE students).
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2357745387873182/">Facebook</link>
+    </links>
+  </event>
+</email>
