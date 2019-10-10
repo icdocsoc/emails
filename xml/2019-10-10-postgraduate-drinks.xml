@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="DoCSoc Postgraduate Drinks THIS FRIDAY (TOMORROW!)"
+  logos="false"
+  agenda="false">
+  <text>
+    Hi everyone!
+
+    This email is a reminder for tomorrow's Postgraduate Drinks happening in **Eastside Bar at
+    7PM!**\
+    Come along for a nice atmosphere and relax with some drinks (alcoholic and non-alcoholic) and
+    snacks on us. This event is _free_ and open to DoCSoc postgraduate members only (Department of
+    Computing students are automatically members).
+
+    If you would like to come, please **RSVP by pressing Going on the Facebook event below** and
+    check it out for more details and updates.\
+    We would love to see you there!
+  </text>
+  <hr/>
+
+
+  <image src="https://i.imgur.com/UoBjyZI.png"/>
+  <event
+    startDate="2019-10-11T19:00:00+01:00"
+    endDate="2019-10-11T23:00:00+01:00"
+    location="Eastside Bar">
+    <text>
+      (If you are an undergraduate, i.e., BEng/MEng Computing/JMC, unfortunately this event isn't
+      for you! Otherwise, read ahead!)
+
+      Come join us for our first ever postgraduate social and get to know each other over food and
+      drinks, complimentary of DoCSoc. For this event, we have reserved a number of tables in
+      Eastside Bar.
+
+      Bar tokens will be provided, eligible for both alcoholic and non-alcoholic drinks. A limited
+      amount of canapés will be served at the start of the event.
+
+      Please note Eastside Bar (unlike our usual bar venue, Metric) has limited space, shared with
+      other bookings, and we will not be able to accommodate all postgraduates this time round! We
+      will be returning to Metric for future postgraduate drinks over the academic year.
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/551673548909850/">Facebook</link>
+    </links>
+  </event>
+</email>
