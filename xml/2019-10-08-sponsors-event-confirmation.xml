@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Bloomberg Event Confirmation" logos="false" agenda="false">
+  <text>
+     
+We are delighted to confirm that your Sponsors Event will be taking place on the **10th of October at 18:30**.
+
+If you have not visited campus before, please meet us at the main entrance of the following address:
+
+Huxley Building, 
+180 Queen's Gate, 
+SW7 2AZ
+
+where you will see rotating blue doors and a large **"180"/Huxley** sign. The nearest tube stations are Gloucester Road and South Kensington. If you are travelling by car, there is ample car parking space along the road of the entrance. If you are familiar with where the event will be held, please let us know beforehand where you expect to meet us and a committee member will wait for you there. 
+
+If you haven't provided us with the following information, please provide it to us on the **Sponsors Event - Information Form [Action Required]** thread.
+The required information includes:
+- Name of the event
+- Description of the event (this will be used for the description of a Facebook event and sent in an email to all of our members -- be sure to make it exciting!)
+- Estimated duration of the event
+- What time would you prefer to have the food handed out?
+- Do you or the attendees on your side have any dietary requirements?
+
+If you could revert the above information to us by **XXXXXXXXX**, that would be most appreciated.
+
+Should you need to contact us during the day for any reasons, here are some phone numbers:
+
+Viet Nguyen - +447719293667
+
+Iulia Ivana - +447521244348
+
+Eugene Lin - +447577490072
+
+Please do let me know if you have any questions!
+
+  </text>
+  <hr/>
+
+
+<!-- SPONSORS LOGO -->
+  <image src="https://i.imgur.com/1aPxKCI.jpg"/>
+
+<!-- TO CHANGE ACCORDING TO DATE -->
+  <event startDate="2019-10-09T14:00:00+01:00"
+    endDate="2019-10-09T17:00:00+01:00"
+    location="Great Hall">
+    <text>
+Click the link provided above to view your **event page** on Facebook, as well as monitor the attendance. Do let us know if you would like us to add anything!
+This event is open to all DoCSoc members (automatically includes Computing, JMC, and EIE students).
+
+We have room XXXXX in the XXXXX building booked from 18:00, so the event would **start at 18:30** in order to have enough time for us to set everything up. Room XXXXX has a capacity of XXXXX and room XXXXX has a capacity of XXXXX.
+As usual, this event will be catered with pizza and soft drinks.
+
+We look forward to seeing you and your colleagues there!
+
+    </text>
+    <links>
+    <!-- TO CHANGE TO FACEBOOK INVITE -->
+      <link href="https://www.facebook.com/events/2357745387873182/">Event invite</link>
+    </links>
+  </event>
+</email>
