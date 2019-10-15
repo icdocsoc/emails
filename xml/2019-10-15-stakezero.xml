@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="Future of Blockchain Speaker and Launch Event"
+  logos="false"
+  agenda="false">
+
+  <sponsor company="stakezero">
+    DoCSoc is co-hosting the Future of Blockchain competition! FoB is a 3 month competition to built
+    something in blockchain. Either build/enter a startup or answer a technical challenge. There is
+    over £100k in cash prizes!
+
+    Join us at the Launch Event at **WeWork Waterloo at 7pm on Thursday 24th October**! There will
+    be free pizza and beer too! [Register via this
+    link!](https://www.eventbrite.co.uk/e/future-of-blockchain-speaker-and-launch-event-london-tickets-75262440987)
+  </sponsor>
+
+  <hr/>
+
+  <image src="https://i.imgur.com/Ngm4Uin.jpg"/>
+  <event
+    startDate="2019-10-24T19:00:00+01:00"
+    endDate="2019-10-24T21:00:00+01:00"
+    location="WeWork 10 York Road">
+    <text>
+      Join us for the Launch Event of our Blockchain Competition with talks from space leaders:
+      Algorand, Tezos, Near, Atlas, Graph and Oasis.
+
+      Future of Blockchain is a 3 month competition to build a project with blockchain. You can
+      either enter/build a startup or answer a technical challenge. Be rewarded with over £100k
+      worth of prizes and potentially receive investment for your idea.
+
+      This event will include:
+
+      - Talks from our partners: Algorand, Tezos, Atlas, Graph and Oasis
+
+      - Information about the competition
+
+      - Q/A with the partners about their companies and challenges
+
+      - Free Pizza and beer
+
+      If you want to enter the Future of Blockchain competition, enter via
+      www.futureofblockchain.co.uk
+
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2223462684626640/">Facebook</link>
+    </links>
+  </event>
+
+</email>
