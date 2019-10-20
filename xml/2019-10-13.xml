@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="90"
+    src="https://i.imgur.com/S8dPKIl.jpg"
+    alt="Snickerdoodle"
+    title="Snickerdoodles are crunchy on the outside and chewy on the inside!"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    Just to give a brief recap of the past week: we held Mums and Dads lunch for freshers to meet
+    their new college families, an informative Intro to Linux talk and a relaxing games night with
+    Next Jump.
+
+    We also held our annual Sponsors' Exhibition, which was a massive success with over 500
+    attendees. It was wonderful to see the Great Hall - one of the biggest halls in Imperial, full
+    with enthusiastic students together next to our amazing sponsors! If you have any feedback,
+    regarding the exhibition, please contact us at docsoc@imperial.ac.uk.
+
+    In the upcoming week, we are continuing with our sponsor events, holding three big industrial
+    events, which will be catered with food and drinks. Please make sure to **RSVP to all events
+    that you will be attending by pressing Going on their Facebook events.** That way we can ensure
+    that there is enough food and drinks for everyone. For dietary requirements, please [contact us](mailto:docsoc@imperial.ac.uk)
+    as soon as possible, specifying the event that you will be attending and your dietary
+    requirement.
+
+    This week's digest is full with a lot of useful information, so without further ado, let's get
+    to it!
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>Autumn Elections - Nominations Close Tomorrow!</heading>
+  <text>
+    Nominations in the Union Autumn elections close at
+    **Noon tomorrow, Monday 14 October**!
+    This is an opportunity to make your voice heard within the College and the Union.
+
+    Students in every year group vote for an Academic Year Representative and Wellbeing Year
+    Representative.
+
+    Year reps make **real change within the department**, with a place on regular Staff
+    Student Committee meetings, voicing their concerns to teaching fellows and staff.
+
+    To nominate yourself and for more information on the mentioned and other roles available,
+    visit the Union's [Autumn Elections
+    page](https://www.imperialcollegeunion.org/your-union/autumn-elections-2019).
+  </text>
+
+  <hr/>
+
+  <heading>Internship 101 - Panelists Wanted!</heading>
+  <text>
+    **Did an internship this summer? Want to share your experience?**
+
+    DoCSoc will be holding an event - Internship 101, a panel-based discussion where you will be
+    asked about your internship experience. This event will be on the 4th November at 6 pm and will
+    be catered. If you are interested in being a panelist, please fill out this form and we will
+    send you an email with more details!
+
+    **[Click here if you're interested in being a
+    panelist!](https://docs.google.com/forms/d/e/1FAIpQLSdScW9hQtg67Dzk6MTjT3BFNm06Qjh3omgY-SV4-F6ai0lPAQ/viewform)**
+  </text>
+
+  <hr/>
+
+  <heading>DoCSoc: Operations - Your Chance to Help!</heading>
+  <text>
+    We are kicking off next week with a wowing **three events** from our wonderful sponsors (more
+    details below).
+    All of our talks and events will be catered with _free_ pizza and drinks for all of our members.
+    If you want to lend a helping hand or are just interested in the magic of organizing such events
+    then check out [DoCSoc: Operations](https://www.facebook.com/groups/1509850436007222/) - our
+    Facebook group for volunteers, where we will post all things events. Our events wouldn't be
+    possible without the help of our amazing volunteers and it is also a great chance to meet both
+    committee members and sponsor representatives!
+
+    If you're interested, join the Facebook group and make sure to keep yourself updated for when we
+    post there!
+  </text>
+
+  <hr/>
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>Coding Challenge with G-Research</heading>
+  <image src="https://i.imgur.com/XJYbgf7.png"/>
+  <event
+    startDate="2018-10-14T18:15:00+01:00"
+    endDate="2018-10-14T20:00:00+01:00"
+    location="Skempton 060 A/B/C">
+    <text>
+      Calling all software engineering enthusiasts that enjoy a bit of healthy competition!
+
+      G-Research is a leading quantitative research and technology company. By using the latest
+      scientific techniques, we produce world-beating predictive research and build advanced
+      technology to analyse the world’s data.
+
+      Join us for the G-Research Coding Challenge where you will compete in teams in a series of
+      progressively difficult challenges. You will be competing in teams of 2-3 to build a natural
+      language calculation engine (no prior NLP experience required). The challenges will cover
+      things like evaluation of arithmetic expressions to unit conversions and equation solving.
+
+      We can allocate teams when you arrive, you don't need to find a team beforehand - but feel
+      free to bring your own team if you would like. To take part, you will need to bring at least
+      one laptop per team. **If you can, please install an IDE ahead of time.**
+
+      There will be a live leader board up on the projector to give all teams the opportunity to see
+      where they are placing throughout the challenge. 1st, 2nd and 3rd place (decided by a point
+      system) will win prizes!
+
+      Following the event we will provide drinks and canapés and a chance for you to informally talk
+      with our employees about internships, graduate roles and life at G-Research.
+
+      Languages for the challenges - .NET Core 2 , Java and Maven or Python 3 with client starter
+      kits provided when you login.
+
+      This event will be catered with free pizza and soft drinks as usual! Please RSVP to help us
+      gauge our food ordering requirements. If you have any specific dietary requirements, please
+      let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/909394122791273/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>An Evening with Macquarie - Talk, Interview Prep and Networking!</heading>
+  <image src="https://i.imgur.com/cgo87A8.jpg"/>
+  <event
+    startDate="2019-10-15T18:15:00+01:00"
+    endDate="2019-10-15T20:00:00+01:00"
+    location="Skempton 060 A/B/C">
+    <text>
+      **Our first event of the year for people looking to find out how to prepare for internship
+      interviews** and see what life is working in a financial services company.
+
+      ---
+
+      At Macquarie, we look for innovative, driven and talented students who share our drive for
+      excellence. People who drive their own success, are high calibre, motivated and creative.
+
+      Is this you? Then come to our event to find out more about Macquarie and the role of
+      technology in the financial sector, including some of the exciting projects we are working on
+      in this space.
+
+      An interactive session will help you experience some of the ways in which we interview
+      candidates for our technical interviews, and we will have plenty of time for you to chat to
+      our graduates over pizza and soft drinks where you can ask them any questions you might have.
+
+      We look forward to meeting you!
+
+
+      This event will be catered with free pizza and soft drinks as usual! Please RSVP to help us
+      gauge our food ordering requirements. If you have any specific dietary requirements, please
+      let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+
+
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2362712984057093/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Intro to Vim</heading>
+  <image src="https://i.imgur.com/qXXUcz7.jpg"/>
+  <event
+    startDate="2019-10-17T13:00:00+01:00"
+    endDate="2019-10-17T14:00:00+01:00"
+    location="Huxley 311">
+    <text>
+      Different tools and technologies have come and gone across the past few decades, but even
+      after 30 years since its release, this popular text editor is still favoured by many
+      programmers in the industry.
+
+      Come and join us at the Intro to Vim talk where we will introduce the basic building blocks of
+      Vim and what makes it so productive. We will also show you some very powerful commands that
+      may make you throw your old text editor away!
+
+      Whether you want to actually switch to Vim, or you're just a little curious about it, do come
+      along and bring friends!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/678948305931648/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Facebook - React: A Tree of Functions</heading>
+  <image src="https://i.imgur.com/jMdYslO.jpg"/>
+  <event
+    startDate="2019-10-17T18:00:00+01:00"
+    endDate="2019-10-17T20:00:00+01:00"
+    location="Huxley 145">
+    <text>
+      Hi there!
+      Facebook are holding a Tech Talk with Imperial DoCSoc called React: A Tree of Functions.
+
+      What’s it about?
+      From the roots of server rendered web, to the most modern of React APIs, we can express the UI
+      problem as a problem of tree generation and manipulation. This allow us to reevaluate UI not
+      in term of its visual elements, but instead as a general computer science problem for which a
+      wide range of solutions is available. We will dive into the concept of UI as a tree and how
+      React allows us to build rich applications within this tree abstraction.\
+      **Make sure to RSVP using the sign-up link: https://imperialtechtalk.splashthat.com/**
+
+      This event will be catered with free pizza and soft drinks as usual! Please RSVP to help us
+      gauge our food ordering requirements. If you have any specific dietary requirements, please
+      let us know a few days beforehand by emailing docsoc@imperial.ac.uk.
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30
+      at docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/453913321886476/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>CV Tutorial by Nic Prettejohn, a former Computing student</heading>
+  <image src="https://i.imgur.com/Rwq8j6I.jpg"/>
+  <event
+  startDate="2019-10-21T13:00:00+01:00"
+  endDate="2019-10-21T14:00:00+01:00"
+  location="Huxley 145">
+  <text>
+    CV is a great chance to make a good impression on a potential employer as it is the first thing
+    they receive from you. That is why it is important to put enough time and effort into perfecting
+    your resume.
+
+    Join us at the CV Tutorial talk where you will be given tips and tricks on how to write a resume
+    that reflects all your relevant skills and abilities for a software engineering internship/job.
+    You will also have a chance to ask any questions from our speaker at the end of the event.
+
+    The talk will be hosted by Nic Prettejohn who graduated from Imperial with a BEng in Computing
+    in 2016 and was the former DoCSoc President.
+  </text>
+    <links>
+      <link href="https://www.facebook.com/events/1173847982809957/">Facebook</link>
+    </links>
+</event>
+
+  <hr/>
+
+  <heading>Welcome Bar Night</heading>
+  <image src="https://i.imgur.com/GMVIPh3.jpg"/>
+  <event
+    startDate="2019-10-21T19:00:00+01:00"
+    endDate="2019-10-21T23:00:00+01:00"
+    location="Metric">
+    <text>
+      It's time for DoCSoc's first bar night of the year: The Welcome Bar Night!
+
+      Come along for free drinks and to say hi to our new freshers or catch up
+      with friends - it's sure to be a night you don't want to miss out on.
+
+      Drinks tokens will be given upon entry for **FREE** to all DoCSoc members.
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30
+      at docsoc.co.uk/join. Non-Imperial plus ones are allowed entry only after notifying
+      docsoc@imperial.ac.uk in advance.
+
+
+    </text>
+
+  </event>
+
+  <hr/>
+
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Facebook Industrial Placement Application Deadline</heading>
+  <sponsor company="facebook">
+    For all students in their penultimate year, interested in an industrial placement, please note
+    there is a new deadline for applications on the **25th of October** – please apply via the
+    following link: https://www.facebook.com/careers/jobs/702665046848694/
+
+    For all penultimate year student’s applying for the 12 week internship the deadline is rolling
+    but we would recommend getting your CV in by mid-November at the latest. The same application
+    link applies.
+  </sponsor>
+
+  <hr/>
+
+  <heading>StarLeaf Student and Graduate Roles Now Live!</heading>
+  <sponsor company="starleaf">
+    StarLeaf have now launched their new [Careers Hub](https://jobs.starleaf.com/) and their 2020 student and graduate roles.
+
+    **Graduate roles**\
+    So, you are in your final year at Uni and you find yourself here, looking for a job that you
+    will start nearly a year away! Well, we salute you. The last thing you need during your exams
+    next year is to have interviews to worry about, even worse, countless calls from recruiters
+    telling you about an “exciting new opportunity.”
+
+    We are not hanging about either. We are interviewing people right now to start with us in 2020.
+    It’s a win win, we get to hire the smartest people and you get to secure yourself an awesome job
+    and sit back and relax over the festive break.
+
+    Check out our opportunities and get in touch with us now to find out some more and ask any
+    questions you may have.
+
+    **Intern roles**\
+    StarLeaf are currently looking for 2020 Interns to join our software engineering teams. They
+    will be attending a lot of careers fairs between now and the end of the year, so please do pop
+    by and say hello.
+
+    https://www.starleaf.com/careers/students-and-graduates/ - Showcase of Life at StarLeaf as a
+    student or graduate and hear from the Humans of StarLeaf.
+
+    **Opportunities**
+
+    [Product Team Graduate](https://www.starleaf.com/careers/jobs/job/580CF18AC2-product-team-graduate/) – Watford\
+    [Graduate Cloud Ops Engineer](https://www.starleaf.com/careers/jobs/job/5788C13092-graduate-cloud-operations-engineer/) - Watford\
+    [Graduate Software Engineer 2020 intake](https://www.starleaf.com/careers/jobs/job/42D5BFD4BA-graduate-software-engineer-2020-intake/) – Watford\
+    [Software Engineer Intern 2020 intake](https://www.starleaf.com/careers/jobs/job/90395F60A1-software-engineer-intern-2020-intake/) - Watford\
+    [Graduate Software Engineer 2020 intake](https://www.starleaf.com/careers/jobs/job/8B350E9DB8-graduate-software-engineer-2020-intake/) – Cambridge\
+    [Software Engineer Intern 2020 intake](https://www.starleaf.com/careers/jobs/job/696FB8624B-software-engineer-intern-2020-intake/) - Cambridge\
+    [Graduate Solutions Consultant](https://www.starleaf.com/careers/jobs/job/9C0B8D382D-graduate-solutions-consultant/) – London
+  </sponsor>
+
+  <hr/>
+
+  <heading>Jump Trading Internship/Placement Opportunities</heading>
+  <sponsor company="jump_trading">
+    **APPLY BY November 18, 2019 for most roles**\
+    **London Software Engineer role has earlier deadline of October 25, 2019**\
+    _Only a resume is needed_
+
+    **London job vacancies**
+
+    - Software Engineer (Python or C++) | Summer Internship / 6 month placement - https://www.jumptrading.com/apply.html?gh_jid=1550596
+    **October 25 deadline**
+
+    - FPGA Hardware/Software Engineer | Summer Internship / 6 month placement - https://www.jumptrading.com/apply.html?gh_jid=1550517
+
+    - Web Dev / UI Software Engineer | Summer Internship / 6 month placement - https://www.jumptrading.com/apply.html?gh_jid=1550590
+
+    - Tech Ops Engineer | Summer Internship - https://www.jumptrading.com/apply.html?gh_jid=1550559
+
+    - Production Engineer | Summer Internship - https://www.jumptrading.com/apply.html?gh_jid=1550525
+
+
+    **Bristol job vacancies**
+
+    - FPGA Hardware/Software Engineer | Summer Internship / 6 month placement - https://www.jumptrading.com/apply.html?gh_jid=1803025
+
+    - FPGA Hardware/Software Engineer | Full-Time / Graduate Placement - https://www.jumptrading.com/apply.html?gh_jid=1902736
+
+    - Software Engineer (Python or C++) | Summer Internship / 6 month placement - https://www.jumptrading.com/apply.html?gh_jid=1862851
+
+    - Software Engineer (Python or C++) | Full-Time / Graduate Placement - https://www.jumptrading.com/apply.html?gh_jid=1815371
+
+    _Follow the links above for information regarding each opportunity. Only a resume is needed to apply!_
+
+    ---
+
+    **About Jump Trading**
+
+    Jump Trading is a leading global trading firm that combines sophisticated quantitative research,
+    cutting-edge technology, and an entrepreneurial culture.
+
+    Jump has 20 years of experience investing in superior infrastructure, including custom hardware,
+    software, wireless networks, and a world-class supercomputer. We leverage our proprietary
+    technology to analyze massive data sets and identify trends in global markets across asset
+    classes.
+
+    Jump is privately owned and funded, fostering a culture of intellectual curiosity, learning and
+    experimentation.
+
+    With offices around the globe, Jump has more than 700 employees, many with backgrounds in
+    trading, Silicon Valley tech companies and startups, top PhD programs, and research labs.
+  </sponsor>
+
+  <hr/>
+
+  <heading>Macquarie Internship Programme</heading>
+  <sponsor company="macquarie">
+    As an intern at Macquarie, you’ll sit side-by-side with business leaders and have the
+    opportunity to work on live projects and transactions from day one. After an in-depth
+    induction, you’ll gain valuable experience and insight into your chosen business area working
+    closely with the team on live deals and transactions. This valuable experience will provide
+    unique insights into both Macquarie and the broader financial services industry and can set
+    you up for a successful career once you have completed your studies
+
+    Our internship programmes offer an opportunity to be a part of a talented, global team.
+    Instinctively entrepreneurial. Ambitious in nature. Determined to succeed. As an intern at
+    Macquarie, you’ll sit side-by-side with business leaders and have the opportunity to work on
+    projects and transactions from day one.
+
+    Macquarie is a diversified financial group providing clients with asset management and
+    finance, banking, advisory and risk and capital solutions across debt, equity and commodities.
+    Our global operations include offices in the world’s major financial centres. Founded in 1969,
+    Macquarie operates in 30 markets, employs more than 15,715 people and has a total of £305.8
+    billion assets under management (as at 31 March 2019).
+
+    For more information about our internship programmes, visit our
+    [careers page](https://www.macquarie.com/uk/about/careers/emea/graduate-and-interns).
+  </sponsor>
+
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
+</email>

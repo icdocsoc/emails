@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="90"
+    src="https://i.imgur.com/UXACn8D.jpg"
+    alt="Picture of a cup of tea with two cigarette biscuits leaning against the tea plate"
+    title="Cigarettes Russes"/>
+  <hr/>
+
+  <text>
+    Hi everyone! Here's yet another digest.
+
+    We hope you enjoyed our events this past week and thank you for coming. We have many more
+    industrial events planned this month, as well as our first social event of the year - the
+    Welcome Bar Night!
+    Read on for more information!
+
+    To reiterate from the last digest, all of our industrial events are catered
+    (usually with pizza). If you have any dietary requirements and if you are
+    planning on attending an event, please make sure you [get in
+    touch](mailto:docsoc@imperial.ac.uk)
+    at least two days before the event to tell us. And please don't forget to **RSVP to the events
+    you plan to attend by hitting Going on the Facebook event**!
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>Careers Service Pi-metrics &amp; Online Assessments</heading>
+  <event
+    startDate="2019-10-25T13:00:00+01:00"
+    endDate="2019-10-25T14:00:00+01:00"
+    location="Huxley 145">
+    <text>
+      Many companies use online assessments and games as part of their recruitment process; these
+      are
+      often called pi-metrics or pymetrics (short for psychometrics). The formats vary but the
+      underlying principles are the same. Come along to this session to find out how to prepare and
+      hopefully pass them!
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>Sponsors' Portal</heading>
+  <text>
+    Searching for internships or placements? Check out our Sponsors Portal, where
+    you can find out more details about our sponsors, read their blog posts and
+    see their open internship/placement positions. You can also upload your CV
+    and directly apply to all of our Gold and Silver tier sponsors!
+
+    You can access the portal at: https://portal.docsoc.co.uk/
+  </text>
+
+
+  <hr/>
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>CV Tutorial by Nic Prettejohn, a former Computing student</heading>
+  <image src="https://i.imgur.com/Rwq8j6I.jpg"/>
+  <event
+    startDate="2019-10-21T13:00:00+01:00"
+    endDate="2019-10-21T14:00:00+01:00"
+    location="Huxley 145">
+    <text>
+      CV is a great chance to make a good impression on a potential employer as it is the first
+      thing they receive from you. That is why it is important to put enough time and effort into
+      perfecting your resume.
+
+      Join us at the CV Tutorial talk where you will be given tips and tricks on how to write a
+      resume that reflects all your relevant skills and abilities for a software engineering
+      internship/job. You will also have a chance to ask any questions from our speaker at the end
+      of the event.
+
+      The talk will be hosted by Nic Prettejohn who graduated from Imperial with a BEng in Computing
+      in 2016 and was the former DoCSoc President.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1173847982809957/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Welcome Bar Night</heading>
+  <image src="https://i.imgur.com/GMVIPh3.jpg"/>
+  <event
+    startDate="2019-10-21T19:00:00+01:00"
+    endDate="2019-10-21T23:00:00+01:00"
+    location="Metric">
+    <text>
+      It's time for DoCSoc's first bar night of the year: The Welcome Bar Night!
+
+      Come along for free drinks and to say hi to our new freshers or catch up with friends - it's
+      sure to be a night you don't want to miss out on.
+
+      Two drinks tokens will be given upon entry for FREE to all DoCSoc members.
+
+      We may decide to head to Belushi's after the event; if this is the case, DoCSoc often buys
+      attendees a round of drinks, so if you're unable to come to the bar night, bear in mind there
+      is still a chance members will go out after!
+
+      ----------------------
+
+      You must be a member of DoCSoc by Friday 18th October in order to be admitted. Computing, JMC,
+      and EIE students are automatically members of DoCSoc. Membership is £30. Strictly 18+ only -
+      we will be checking IDs.
+
+      Please send an email to us at docsoc@ic.ac.uk if you intend to bring a non-Imperial plus one.
+      Any Imperial plus-ones must have purchased membership, otherwise they will be denied entry.
+
+      Our full barnight policy is linked here: http://docsoc.co.uk/barnightpolicy
+
+      Find out more: http://docsoc.co.uk/join
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/479850222612082/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Microsoft - Fast, Fuzzy Prefix Search</heading>
+  <image src="https://i.imgur.com/I2uMi6S.jpg"/>
+  <event
+    startDate="2019-10-22T18:15:00+01:00"
+    endDate="2019-10-22T20:00:00+01:00"
+    location="Huxley 311">
+    <text>
+      Daniel Slocombe from Microsoft will talk about People and Entity search in Outlook and
+      Exchange.
+
+      He will explain some the problems faced, and techniques used to solve, online spell correction
+      and fuzzy lookup with experience from serving billions of requests a week.
+
+      This event will be catered with free pizza and soft drinks as usual! Please press GOING to
+      help us gauge our food ordering requirements. If you have any specific dietary requirements,
+      please let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/437470870210931/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Bloomberg - The Soul of the Beast</heading>
+  <image src="https://i.imgur.com/UCxezR3.jpg"/>
+  <event
+    startDate="2019-10-24T18:15:00+01:00"
+    endDate="2019-10-24T20:00:00+01:00"
+    location="Skempton 060">
+    <text>
+      What makes Python so easy to learn and read? Other languages also have a robust community and
+      a compelling ecosystem and standard library, but Python somehow stands out on how easy it is
+      to understand existing code and how quickly and pleasantly people can learn it. In this talk,
+      we learn everything about the Python Grammar:
+      - How the Python parser is automatically generated and how it works
+      - How the technical details of the grammar translate into the properties of the language we
+      all know and love
+      - What are the limitations that prevent some grammar rules you would think are trivial from
+      being implement
+      - And finally, how to include new grammar rules in CPython in the form of a new operator with
+      an associated protocol.
+
+      This event will be catered with free pizza and soft drinks as usual! Please press GOING to
+      help us gauge our food ordering requirements. If you have any specific dietary requirements,
+      please let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2506364892733979/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Reading Groups by Nuri Cingillioglu and Dr. Antoine Cully</heading>
+  <image src="https://i.imgur.com/MzuvCF9.jpg"/>
+  <event
+    startDate="2019-10-28T13:00:00+00:00"
+    endDate="2019-10-28T14:00:00+00:00"
+    location="Huxley 217">
+    <text>
+      We are happy to announce that the Reading Groups are back! Reading Groups are lectures/panels
+      where researchers talk about their current work, aimed at final and penultimate year
+      undergraduate, as well as and postgraduate students. Our main goal for organising such talks
+      is to expose students to different types of research in Computer Science. Our first 2 Reading
+      Groups will be by Nuri Cingillioglu and Dr. Antoine Cully.
+
+      Reading Group by Nuri Cingillioglu 1 - 1.30pm
+
+      Title: Computational Neuro-Symbolic Reasoning and how machines can learn elements of logical
+      thinking
+
+      Abstract: "Can machines think?" - asked Alan Turing in his 1950 seminal paper "Computing
+      Machinery and Intelligence". Recent advances in deep learning are yielding great results
+      across practical applications such as natural language processing, image recognition and
+      reinforcement learning; however, how machines can incorporate elements of logical thought and
+      learn to reason are open to research. Combining machine learning with logic-based expert
+      systems in order to get the best of both worlds are becoming increasingly more popular. In
+      this talk, I’ll give a brief overview of my involvement in the field of neuro-symbolic
+      reasoning and discuss how the future of Artificial Thought is evolving.
+
+      Reading Group by Dr. Antoine Cully 1.30 - 2pm
+
+      Title: Creative Learning algorithms for Resilient Robots
+
+      Abstract: Reinforcement learning algorithms are tightly linked with the optimisation of
+      functions to find the best solution according to one or several objectives. Recently, we
+      developed a new family of optimisation algorithms, named Quality-Diversity optimisation, that
+      contrasts with classic algorithms. Instead of searching for a single solution,
+      Quality-Diversity algorithms are searching for a large collection of both diverse and
+      high-performing solutions. With this approach, robots are capable of finding creative
+      solutions to overcome complicated situations, like loss of a leg. During this seminar, I will
+      show several examples of applications of these algorithms.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/519302712237572/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Next Jump Application Deadline</heading>
+  <sponsor company="next_jump">
+
+    \
+    Next Jump is hiring!
+
+    Next Jump is a ‘Deliberately Developmental Organisation’, on a mission to create high-performing
+    workplace cultures across the globe. People development is at the heart of everything we do, and
+    we follow this simple mantra: Better Me + Better You = Better Us. Next Jumpers train and improve
+    themselves at work (Better Me) and use that knowledge to help others (Better You): together we
+    create a better world (Better Us).
+
+    With offices in New York, Boston, San Francisco and London, our cutting-edge e-commerce platform
+    is used by 30 million employees across Fortune 1000 companies and generates $3 billion in sales
+    every year. This fuels our social movement: changing workplace culture. We run immersive
+    ‘Leadership Academies’ for C-suite leaders across all industries, such as, GCHQ, RBS and JP
+    Morgan Chase, to help them build adaptive learning teams. We are rapidly scaling our HR
+    technology to large organisations, with the help of a $10 million contract with the US Navy.
+
+    As our core and social businesses continue to grow exponentially, we are looking for
+    individuals, who are driven and willing to learn, to join us! If you want responsibility and a
+    job that will challenge you and grow you, then Next Jump’s the place for you! We offer 3, 6, and
+    12-month internships to penultimate-year students, as well as full-time roles to graduates.
+
+    The application deadline for our 2nd November Super Saturday (assessment centre) is **midnight
+    this Monday 21st October.**
+
+    Make your application here now http://nxj.me/hiring_uk_eng !
+  </sponsor>
+
+  <hr/>
+
+  <heading>LSEG - Make your mark at a world-leading financial technology business</heading>
+  <sponsor company="lseg">
+    London Stock Exchange Group (LSE.L) has a long, prestigious heritage that few organisations
+    around the world can rival, dating back to 1698. We have grown to become one of the world’s
+    foremost financial market infrastructure and capital markets groups, and a global leader in new
+    financial technology (FinTech).
+
+    Joining the Technology programme at London Stock Exchange Group is a chance to work with the
+    essential systems and platforms that drive the world’s markets. From Artificial Intelligence, to
+    Blockchain and beyond, our technologists are helping to shape the future of financial services
+    technology, improving efficiencies, reducing risk and creating new business models.
+
+    Both our graduate and internship programmes offer real responsibility from day one. This means
+    the opportunity to work on critical projects with leading individuals from the world of finance
+    and technology. Underpinning this is a friendly and supportive working environment where
+    work-life balance is both respected and encouraged.
+
+    If you have a STEM degree, a passion for technology and are ready for a challenge, we’ll provide
+    roles that will stretch you and enable you to develop your skills and knowledge.
+    Apply before **1 December 2019** to help shape the future of LSEG’s dynamic and growing global
+    technology operation. We recruit on a rolling basis and encourage early application.
+
+    **Apply at [lseg.com/graduates](https://lseg.com/graduates)**
+
+  </sponsor>
+
+  <hr/>
+
+  <heading>Future of Blockchain Speaker and Launch Event</heading>
+  <image src="https://i.imgur.com/zvdcFFB.jpg"/>
+  <event
+    startDate="2019-10-24T19:00:00+01:00"
+    endDate="2019-10-24T21:00:00+01:00"
+    location="WeWork 10 York Road">
+    <text>
+      Join us for the Launch Event of our Blockchain Competition with talks from space leaders:
+      Algorand, Tezos, Near, Atlas, Graph and Oasis.
+
+      Future of Blockchain is a 3 month competition to build a project with blockchain. You can
+      either enter/build a startup or answer a technical challenge. Be rewarded with over £100k
+      worth of prizes and potentially receive investment for your idea.
+
+      This event will include:
+
+      - Talks from our partners: Algorand, Tezos, Atlas, Graph and Oasis
+
+      - Information about the competition
+
+      - Q/A with the partners about their companies and challenges
+
+      - Free Pizza and beer
+
+      If you want to enter the Future of Blockchain competition, enter via
+      www.futureofblockchain.co.uk
+    </text>
+  </event>
+
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
+</email>
