@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="Citadel - Challenge the Impossible"
+  logos="false"
+  agenda="false">
+
+  <text>
+    Citadel is hosting an Information &amp; Networking session on Thursday 31st Oct at Imperial!
+
+    If you're interested in learning more about the different roles in a leading trading firm and
+    are looking to expand your career options, then come along in Lecture Theatre 201 in Skempton
+    Building at 18:30 on the 31st.
+
+    For more information check out the attached PDF.
+  </text>
+
+  <image src="https://docsoc.co.uk/img/sponsors/citadel_logo.png"/>
+  <event
+    startDate="2019-10-31T18:30:00+00:00"
+    endDate="2019-10-31T21:00:00+00:00"
+    location="Skempton LT 201">
+    <text>
+      The session will start with a business rep panel and then a networking session with members
+      from Citadel's Trading, Software Engineering and Quantitative Research teams.
+
+      - Citadel is a leading investor in the world's financial markets.
+
+      - Citadel Securities is a leading quantitative trading firm and market maker.
+
+      - Careers in Trading | Quantitative Research | Software Engineering
+    </text>
+  </event>
+</email>
