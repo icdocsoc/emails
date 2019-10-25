@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="Reading Groups Kick-Off Next Monday!"
+  logos="false"
+  agenda="false">
+
+  <text>
+    Are you interested in learning more about research in academia? Are you looking for project
+    ideas
+    in the area of Computer Science?
+
+    If you're the inquisitive type, come along to our first Reading Groups of the year next **Monday
+    the 28th of October**!
+    Reading Groups are targeted at higher year students (postgraduates especially) who are
+    interested
+    in the kind of research that happens in Computer Science.
+
+    For more details take a look at the event information below and RSVP on Facebook!
+  </text>
+
+  <hr/>
+
+  <heading>Reading Groups by Nuri Cingillioglu and Dr. Antoine Cully</heading>
+  <image src="https://i.imgur.com/rR75XiS.jpg"/>
+  <event
+    startDate="2019-10-28T13:00:00+00:00"
+    endDate="2019-10-28T14:00:00+00:00"
+    location="Huxley 217">
+    <text>
+      We are happy to announce that the Reading Groups are back! Reading Groups are lectures/panels
+      where researchers talk about their current work, aimed at final and penultimate year
+      undergraduate, as well as and postgraduate students. Our main goal for organising such talks
+      is to expose students to different types of research in Computer Science. Our first 2 Reading
+      Groups will be by Nuri Cingillioglu and Dr. Antoine Cully.
+
+      Reading Group by Dr. Antoine Cully 1 - 1.30pm
+
+      Title: Creative Learning algorithms for Resilient Robots
+
+      Abstract: Reinforcement learning algorithms are tightly linked with the optimisation of
+      functions to find the best solution according to one or several objectives. Recently, we
+      developed a new family of optimisation algorithms, named Quality-Diversity optimisation, that
+      contrasts with classic algorithms. Instead of searching for a single solution,
+      Quality-Diversity algorithms are searching for a large collection of both diverse and
+      high-performing solutions. With this approach, robots are capable of finding creative
+      solutions to overcome complicated situations, like loss of a leg. During this seminar, I will
+      show several examples of applications of these algorithms.
+
+      Reading Group by Nuri Cingillioglu 1.30 - 2pm
+
+      Title: Computational Neuro-Symbolic Reasoning and how machines can learn elements of logical
+      thinking
+
+      Abstract: "Can machines think?" - asked Alan Turing in his 1950 seminal paper "Computing
+      Machinery and Intelligence". Recent advances in deep learning are yielding great results
+      across practical applications such as natural language processing, image recognition and
+      reinforcement learning; however, how machines can incorporate elements of logical thought and
+      learn to reason are open to research. Combining machine learning with logic-based expert
+      systems in order to get the best of both worlds are becoming increasingly more popular. In
+      this talk, I’ll give a brief overview of my involvement in the field of neuro-symbolic
+      reasoning and discuss how the future of Artificial Thought is evolving.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/519302712237572/">Facebook</link>
+    </links>
+  </event>
+</email>
