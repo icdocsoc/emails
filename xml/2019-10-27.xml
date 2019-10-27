@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="90"
+    src="https://i.imgur.com/rsRbmH2.jpg"
+    alt="Bowl of biscuits"
+    title="Homemade biscuits! "/>
+  <hr/>
+
+  <text>
+    Another week another digest!
+
+    We're sending off a week with some very successful and interesting industrial events from
+    Microsoft and Bloomberg, as well as our Welcome Bar Night! Thank you to all who came to those
+    and we hope you had fun!
+
+
+    This week, we bring you more internal events (and a breakfast!) with our sponsors, so read on.
+  </text>
+
+  <hr/>
+
+  <text>## General notices</text>
+
+  <hr/>
+
+  <heading>Volunteer at DoCSoc Events</heading>
+  <text>
+    Attended our events? Have you wondered how we make them happen under the hood?
+
+    If you would like to be part of the organisation behind our industrial events and get to know
+    sponsors or committee members, then go to docsoc.co.uk/volunteer and join the DoCSoc: Operations
+    Facebook group for updates. Volunteering at events can get you recognition and experience that
+    can one day earn you a spot in DoCSoc committee. If you have any queries ask us at
+    docsoc@imperial.ac.uk!
+  </text>
+
+  <hr/>
+
+  <heading>Create the DoC Banner Competition!</heading>
+  <text>
+    Take a chance in winning a £20/£10 Amazon voucher and get a better banner for our department!
+
+    Did you know that our department uses this banner below at all its public events? It looks quite
+    outdated, right? That is why we decided to partner with the department to have the competition
+    of creating a better DoC banner! All you need to do is design a banner that follows all the
+    requirements below and submit your design here! The winner will get a £20 Amazon voucher, while
+    the runner-ups will get £10 Amazon vouchers.
+
+    [Click here to enter the competition!](https://forms.gle/cZP52Fx97N8JdN9t6)
+
+    **The deadline: 1st December 2019**
+  </text>
+
+  <hr/>
+
+  <heading>2019 Milner Award Lecture - Towards the Genomic Footprints of Life</heading>
+  <event
+    startDate="2019-12-02T18:30:00+00:00"
+    endDate="2019-12-02T19:30:00+00:00"
+    location="The Royal Society, London, 6-9 Carlton House Terrace, London, SW1Y 5AG"
+    external="true">
+    <text>
+      Milner Award Lecture 2019 given by Professor Eugene Myers.
+
+      We are about to enter an era of DNA technology where one can determine the genome sequence of
+      any living animal or plant with near perfect fidelity for €1,000 or less. Already there are
+      nascent projects such as the Vertebrate Genome Project (VGP) whose goal is to sequence every
+      one
+      of the more than 70,000 species of vertebrates currently extant on our planet. As such, this
+      ability will revolutionize ecology, evolution, and conservation science and effectively mark
+      the
+      beginning of a new exploration of the natural world.
+
+      The lecture will start with a brief review of the history of DNA sequencing technology and the
+      computational problems involved in interpreting the data so produced. This history begins with
+      Fred Sanger’s sequencing of the virus “lambda” in 1980, continues to the sequencing of the
+      Human
+      genome in 2000, and culminates in the present with an introduction to the transformative
+      technologies alluded to above. However, the primary hurdle in this future vision is actually
+      computational and the issues and potential approaches to addressing them will be discussed.
+      Professor Myers will present several recent findings enabled by having the genome sequences of
+      related species and conclude with a prospectus of what could be discovered in the future.
+
+      The prize lecture will be webcast live and the video recording of the event will be available
+      shortly after the event.
+    </text>
+    <links>
+      <link href="https://royalsociety.org/science-events-and-lectures/2019/12/milner-lecture/">
+        RSVP
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>Huxley Breakfast! Sponsored by Bank of America Merrill Lynch</heading>
+  <image src="https://i.imgur.com/upFz5ba.jpg"/>
+  <event
+    startDate="2019-10-28T08:00:00+00:00"
+    endDate="2019-10-28T10:00:00+00:00"
+    location="Huxley 341/342">
+    <text>
+      Get your week off to a great start with one of DoCSoc's free breakfasts - generously sponsored
+      by Bank of America Merrill Lynch! Come along to Huxley 341/342 any time from 8am-10am and
+      enjoy a great pre-lecture breakfast with other DoCSoc'ers and fellow MathSoc folk. So come on
+      over, have a snack and meet with engineers from BAML!
+
+      If you have any specific dietary requirements, please let us know a few days beforehand!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2784190164960020/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Reading Groups by Nuri Cingillioglu and Dr. Antoine Cully</heading>
+  <image src="https://i.imgur.com/rR75XiS.jpg"/>
+  <event
+    startDate="2019-10-28T13:00:00+00:00"
+    endDate="2019-10-28T14:00:00+00:00"
+    location="Huxley 217">
+    <text>
+      We are happy to announce that the Reading Groups are back! Reading Groups are lectures/panels
+      where researchers talk about their current work, aimed at final and penultimate year
+      undergraduate, as well as and postgraduate students. Our main goal for organising such talks
+      is to expose students to different types of research in Computer Science. Our first 2 Reading
+      Groups will be by Nuri Cingillioglu and Dr. Antoine Cully.
+
+      Reading Group by Dr. Antoine Cully 1 - 1.30pm
+
+      Title: Creative Learning algorithms for Resilient Robots
+
+      Abstract: Reinforcement learning algorithms are tightly linked with the optimisation of
+      functions to find the best solution according to one or several objectives. Recently, we
+      developed a new family of optimisation algorithms, named Quality-Diversity optimisation, that
+      contrasts with classic algorithms. Instead of searching for a single solution,
+      Quality-Diversity algorithms are searching for a large collection of both diverse and
+      high-performing solutions. With this approach, robots are capable of finding creative
+      solutions to overcome complicated situations, like loss of a leg. During this seminar, I will
+      show several examples of applications of these algorithms.
+
+      Reading Group by Nuri Cingillioglu 1.30 - 2pm
+
+      Title: Computational Neuro-Symbolic Reasoning and how machines can learn elements of logical
+      thinking
+
+      Abstract: "Can machines think?" - asked Alan Turing in his 1950 seminal paper "Computing
+      Machinery and Intelligence". Recent advances in deep learning are yielding great results
+      across practical applications such as natural language processing, image recognition and
+      reinforcement learning; however, how machines can incorporate elements of logical thought and
+      learn to reason are open to research. Combining machine learning with logic-based expert
+      systems in order to get the best of both worlds are becoming increasingly more popular. In
+      this talk, I’ll give a brief overview of my involvement in the field of neuro-symbolic
+      reasoning and discuss how the future of Artificial Thought is evolving.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/519302712237572/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Palantir Decomposition Workshop</heading>
+  <image src="https://i.imgur.com/tIB9YOs.jpg"/>
+  <event
+    startDate="2019-10-29T18:00:00+00:00"
+    endDate="2019-10-29T20:00:00+00:00"
+    location="Skempton 060">
+    <text>
+      At Palantir, we solve real-world problems. A big part of this is being able to break down a
+      problem you aren’t familiar with, and coming up with creative and strategic solutions. This is
+      what we call decomposition. Come join our workshop to learn more about how we problem solve
+      and how to ace any technical interview! We will also be showing a live demo of our software in
+      action.
+
+      We look forward to seeing you there!
+
+      This event will be catered with free pizza and soft drinks as usual! Please press GOING to
+      help us gauge our food ordering requirements. If you have any specific dietary requirements,
+      please let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+
+      Please fill out this link as well if you are going to the event:
+      https://palantir.recsolu.com/external/events/-VpzqQIxns4qxR8yKPulxA
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/774649976321372/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Netcraft - Credit Card Skimming for Fun and Profit</heading>
+  <image src="https://i.imgur.com/owOcYwu.jpg"/>
+  <event
+    startDate="2019-10-31T18:00:00+00:00"
+    endDate="2019-10-31T21:00:00+00:00"
+    location="Skempton 060">
+    <text>
+      JavaScript credit card skimmers are increasingly prevalent. Criminals break into online
+      shopping
+      websites and insert small snippets of JavaScript which steal a copy of credit card details and
+      any other credentials as they are entered, sometimes receiving them even before the legitimate
+      site processes the payment.
+
+      Strategies available to criminals include researching vulnerabilities in widely used commerce
+      software, scanning across the internet to install their skimmer on all the matching shops
+      worldwide and then securing the site so that other criminals are unable to do the same.
+      Alternatively, criminals may try to find a vulnerability in a high traffic shop which alone
+      might do as many transactions as the entire set of vulnerable installations of shopping
+      platform
+      such as WooCommerce or Magento.
+
+      To illustrate the scale of the opportunity, last year a skimmer were discovered on the British
+      Airways' site after it had harvested an estimated 380,000 credentials. The Information
+      Commissioner’s Office subsequently fined British Airways £183 million for the breach.
+
+      As part of the UK’s Active Cyber Defence (https://www.ncsc.gov.uk/news/annual-review-2019),
+      Netcraft protects UK shoppers against JavaScript skimmers by continually searching for
+      skimmers
+      on shops hosted in the UK, notifying all the people in a position to influence the removal of
+      the skimmer including the shop owner and hosting company. To date we have done over 2000
+      successful takedowns of JavaScript skimmers on British shops. Current DocSoc members have
+      contributed significantly to the development of this service.
+
+      The Challenge
+
+      After a tutorial on JavaScript skimming, each team is given a shopping site to operate. A
+      shopping bot makes purchases from each shop throughout the event. The aim is to keep your own
+      shop free of skimmers so that it makes money through the shopping bot’s purchases, whilst
+      attempting to install and maintain a skimmer on as many of the other contestants shops as
+      possible and steal their transactions.
+
+      The team with the most money at the end of the event is the winner.
+
+      To take part, bring your own laptop with a web browser and an SSH client (e.g. Putty
+      http://www.chiark.greenend.org.uk/~sgtatham/putty/ for Windows users; OpenSSH for Linux/Mac
+      users).
+
+      Pizza and soft drinks will be provided during the event, followed by a Netcraft-sponsored bar
+      night. This event is only for DoCSoc members. Netcraft’s previous workshops have been very
+      popular, please make sure you press "Going" so we know how much food to order. If you have any
+      specific dietary requirements, please let us know a few days beforehand by emailing
+      docsoc@imperial.ac.uk
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/516331008913687/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Internship 101</heading>
+  <image src="https://i.imgur.com/dhv4A4V.jpg"/>
+  <event
+    startDate="2019-11-04T18:00:00+00:00"
+    endDate="2019-11-04T19:00:00+00:00"
+    location="Huxley 311">
+    <text>
+      If you're currently looking for an internship, or simply want to know more about the
+      internship
+      process, come along to Internship 101 to find out about companies that are still hiring from
+      past interns.
+
+      Gain an exclusive honest insider opinion, learn about the types of projects interns worked on
+      and the interview process to give you the best chance of getting an offer!
+
+      This event will be held as a panel discussion with past interns from Google, Bloomberg and
+      other
+      companies. We tried to gather a diverse group of panellists who interned not only at banks and
+      big tech companies but also smaller firms and startups.
+
+      If you have any questions that you would like to be answered during the panel, please submit
+      them using this form: docsoc.co.uk/internship101-questions
+
+      This event will be catered with free pizza and soft drinks as usual! Please press GOING to
+      help
+      us gauge our food ordering requirements. If you have any specific dietary requirements, please
+      let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC,
+      and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/417525138959228/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Citadel - Challenge the Impossible</heading>
+  <image src="https://docsoc.co.uk/img/sponsors/citadel_logo.png"/>
+  <event
+    startDate="2019-10-31T18:30:00+00:00"
+    endDate="2019-10-31T21:00:00+00:00"
+    location="Skempton LT 201">
+    <text>
+      Citadel is hosting an Information &amp; Networking session on Thursday 31st Oct at Imperial!
+
+      If you're interested in learning more about the different roles in a leading trading firm and
+      are looking to expand your career options, then come along in Lecture Theatre 201 in Skempton
+      Building at 18:30 on the 31st.
+
+      For more information check out the attached PDF.
+    </text>
+  </event>
+
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
+
+</email>
