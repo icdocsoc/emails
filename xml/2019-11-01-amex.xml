@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="AMEXTECH (Inter) University Pub Quiz"
+  logos="false"
+  agenda="false">
+  <text>
+    Looking for a fun event to cool off from classes? Or an activity for you Mums and Dads family?
+
+    American Express will be hosting an inter university pub quiz **on the 6th of November**. The
+    challenge will be split into two rounds with the first one taking place next Wednesday at The
+    Prince in West Brompton crossing Earls Court.
+
+    If you're looking to show off your trivia knowledge or just have some fun over a drink, **email
+    scott.hardie1@aexp.com** to sign up your team of 4.
+
+    Need help finding a team? Why not go with your Mums and Dads family or ping us a quick email at
+    docsoc@imperial.ac.uk and we'll match you to a team.
+
+    _This event is open to non-members._
+
+  </text>
+
+  <hr/>
+
+  <heading>(Inter) University Challenge: Heats</heading>
+  <event
+    startDate="2019-11-06T19:00:00+00:00"
+    endDate="2019-11-06T21:00:00+00:00"
+    location="The Prince Pub, 14 Lillie Road, West Brompton Crossing Earls Court, London, SW6 1TT">
+    <text>
+      One team from each participating university will WIN an ultimate Amex Experience from Brighton
+      to London culminating in the Grand Final in London.
+
+      7 universities for all over the country will be competing for the chance to win an ultimate
+      Amex Experience from Brighton to London and send a winning team to the Grand Final in
+      London.
+
+      Email us with the name of your team &amp; 4 team members by 05.11.19 at
+      scott.hardie1@aexp.com.
+
+      Check the attached flyer for more information!
+    </text>
+  </event>
+
+</email>
