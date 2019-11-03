@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/dFBKqHp.jpg"
+    alt="Granola bars on a plate"
+    title="Nature Valley granola bars are great until they start crumbling apart."/>
+
+  <hr/>
+
+  <text>
+    Last week was informative and fun with lots of different events starting from our BAML breakfast,
+    all the way to the Netcraft Bar Night!\
+    For next week we have prepared just as much events, as well as two off-campus ones, so make
+    sure to read on!
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>Sponsors' Portal</heading>
+  <text>
+    Searching for internships or placements? Check out our Sponsors Portal, where
+    you can find out more details about our sponsors, read their blog posts and
+    see their open internship/placement positions. You can also upload your CV
+    and directly apply to all of our Gold and Silver tier sponsors!
+
+    You can access the portal at: https://portal.docsoc.co.uk
+  </text>
+
+  <hr/>
+
+  <heading>DoC Privacy Hack Day/Workshop This Wednesday</heading>
+  <text>
+    The [Computational Privacy Group](https://cpg.doc.ic.ac.uk/) and [Data Science
+    Institute](https://www.imperial.ac.uk/data-science/) are organising a Privacy Hackathon on 6th
+    November 2019 from 5pm tom 8pm in Huxley 418.
+    The goal of the hack day is to discover the public datasets that are vulnerable to
+    re-identification attacks.
+
+    There will be talks from researchers and practitioners on re-identification and privacy from
+    privacy engineers and researchers, including a talk about a tool which can
+    [tool](https://cpg.doc.ic.ac.uk/individual-risk/) which can re-identify individuals from as
+    minimal demographic and survey data.
+
+    Sign up here:
+    https://docs.google.com/forms/d/e/1FAIpQLSc5iHq6UcIW2UQ6SBAaAgOscn1NusIef78En2JeID_o--RR1w/viewform
+    For questions, contact sjain@imperial.ac.uk.
+  </text>
+
+  <hr/>
+
+  <heading>Tea Point Coffee Machine Update</heading>
+  <text>
+    As it's been a month into the term, undoubtedly many of you have needed the support of coffee
+    and what better place than the tea point coffee machine! As this is entirely funded by DoCSoc
+    (we are a very generous Departmental Society) we would like to point out some instructions for
+    the future.
+
+    Please make sure to read the instructions when using the coffee machine and remember to always
+    keep it clean, ideally in the condition in which you found it. Being funded by the society, the
+    people who handle the machine are all volunteers (and students just like you!), so we would like
+    to keep things tidy.
+
+    We would also like to notify that we do not provide milk or other forms of sweeteners. We only
+    fund the coffee beans, so we kindly remind you to use your own coffee supplements if you would
+    like to.
+  </text>
+
+  <hr/>
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>Intenship 101</heading>
+  <image src="https://i.imgur.com/wxXSgb2.jpg"/>
+  <event
+    startDate="2019-11-04T18:00:00+00:00"
+    endDate="2019-11-04T19:00:00+00:00"
+    location="Huxley 311">
+    <text>
+      If you're currently looking for an internship, or simply want to know more about the
+      internship process, come along to Internship 101 to find out about companies that are still
+      hiring from past interns.
+
+      Gain an exclusive honest insider opinion, learn about the types of projects interns worked on
+      and the interview process to give you the best chance of getting an offer!
+
+      This event will be held as a panel discussion with past interns from Google, Bloomberg and
+      other companies. We tried to gather a diverse group of panellists who interned not only at
+      banks and big tech companies but also smaller firms and startups.
+
+      If you have any questions that you would like to be answered during the panel, please submit
+      them using this form: docsoc.co.uk/internship101-questions
+
+      This event will be catered with free pizza and soft drinks as usual! Please press GOING to
+      help us gauge our food ordering requirements. If you have any specific dietary requirements,
+      please let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/417525138959228/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>DRW Tech Talk</heading>
+  <image src="https://i.imgur.com/1zmokpn.jpg"/>
+  <event
+    startDate="2019-11-05T18:15:00+00:00"
+    endDate="2019-11-05T20:00:00+00:00"
+    location="Huxley 311">
+    <text>
+      DRW is a technology-driven, diversified principal trading firm. We trade our own capital at
+      our own risk, across a broad range of asset classes, instruments and strategies, in financial
+      markets around the world. As the markets have evolved over the past 26 years, so has DRW –
+      maximizing opportunities to include real estate, cryptoassets and venture capital. With over
+      1,000 employees at our Chicago headquarters and offices around the world, we work together to
+      solve complex problems, challenge consensus and deliver meaningful results. It’s a place of
+      high expectations, deep curiosity and thoughtful collaboration. DRW will be hosting a tech
+      talk where students will hear from one of our Senior Software Developers and Traders and learn
+      more about their roles within the company. Students will also be able to learn more about job
+      opportunities, both full-time and internships, and discuss the hiring process with recruiters.
+
+      This event will be catered with free pizza and soft drinks as usual! Please press GOING to
+      help us gauge our food ordering requirements. If you have any specific dietary requirements,
+      please let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/812918489137660/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>An Evening with the Group COO &amp; CIO of LSEG</heading>
+  <image src="https://i.imgur.com/HasrUpM.jpg"/>
+  <event
+    startDate="2019-11-07T18:15:00+00:00"
+    endDate="2019-11-07T20:00:00+00:00"
+    location="CAGB LT 300">
+    <text>
+      Chris Corrado Group COO &amp; CIO invites you to join him for an evening event looking at the
+      vision of Technology within FinTech. Chris was appointed Group COO and Group CIO in November
+      2015. Chris was previously Managing Director at MSCI, CIO/CTO, responsible for technology,
+      data services and program management from 2013. Chris has more than thirty years of global
+      experience in managing technology platforms and transformational change in the financial
+      services industry. Prior to joining MSCI, Chris held a variety of senior CTO roles in leading
+      banks, including Morgan Stanley, Deutsche Bank, Merrill Lynch and UBS. He has also worked for
+      high growth technology companies as CTO at eBay, CIO at AT&amp;T Wireless, and SVP of
+      Technology,
+      Strategic Initiatives and Business Architecture at Asurion, the mobile technology protection
+      company. He began his career at IBM. He graduated with a B.S. in Management Information
+      Systems &amp; Business Administration from the University of New York at Albany.
+
+      This event will be catered with free pizza and soft drinks as usual! Please press GOING to
+      help us gauge our food ordering requirements. If you have any specific dietary requirements,
+      please let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1179855152214016/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Postgraduate Drinks 2</heading>
+  <image src="https://i.imgur.com/HOejF6H.jpg"/>
+  <event
+    startDate="2019-11-08T18:30:00+00:00"
+    endDate="2019-11-08T21:30:00+00:00"
+    location="Eastside Bar">
+    <text>
+      The time has come for the second DoCSoc Postgraduate bar night!
+
+      Come along to grab some free drinks and to chat to our sponsors: for this night we will host
+      Stake Zero Ventures and EF (Entrepreneur First), who are especially interested in our
+      postgraduate members (you!). As usual, two drink tokens will be given upon entry for FREE to
+      all DoCSoc postgraduate members.
+
+      Please note, that only DoCSoc postgraduate members will be admitted into the event - this
+      includes MSc, MRes, and PhD students.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/779622592458039/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Reading Group by Sophia Drossopoulou</heading>
+  <image src="https://i.imgur.com/1CtC1B4.jpg"/>
+  <event
+    startDate="2019-11-12T13:00:00+00:00"
+    endDate="2019-11-12T13:30:00+00:00"
+    location="Huxley 217">
+    <text>
+      Come and join us at our bi-weekly Reading Groups. This time we have Sophia Drossopoulou who
+      will talk about her research "Holistic specifications for robust code". This talk is aimed at
+      penultimate/4th year undergraduate as well as postgraduate students.
+
+      Abstract
+      Functional specifications of program components describe what the code can do — the sufficient
+      conditions to invoke the component’s operations: a client who supplies arguments meeting that
+      operation’s preconditions can invoke it, and obtain the associated effect. While
+      specifications of sufficient conditions may be enough to reason about complete, unchanging
+      programs, they cannot support reasoning about components that interact with external
+      components of possibly unknown provenance. In this open world setting, ensuring that your
+      component is robust even when executing with buggy or malicious external code is critical.
+      Holistic specifications — as their name implies — are concerned with the overall behaviour of
+      a component, in all possible interleavings of calls to the component’s operations with those
+      of the external code. Thus, holistic specifications are concerned with sufficient conditions,
+      i.e. what is enough to cause some effect, as well as with necessary conditions, i.e. what are
+      the conditions without which an effect will not happen. By adopting holistic specification
+      techniques, programmers can explicitly define what their components should not do, making it
+      easier to write robust and reliable programs.
+
+      In this work we argue for the need for such holistic specifications, propose a language
+      Chainmail for writing specifications, give a formal semantics, and discuss several examples
+      from the literature.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/437009023668599/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## External Events</text>
+
+  <hr/>
+
+  <sponsor company="lseg">
+
+  </sponsor>
+
+  <heading>LSEG WIN Afternoon Session: Technology and Innovation</heading>
+  <event
+    startDate="2019-11-06T14:30:00+00:00"
+    endDate="2019-11-06T16:30:00+00:00"
+    location=" 10 Paternoster Row, London EC4M 7LS">
+    <text>
+      LSEG is at heart of the UK’s financial industry and is home to one of the oldest stock
+      exchanges in the world. The Women Inspired Network harnesses’ the power and reputation of this
+      renowned organisation to inspire, educate and pave the way for the next generation of
+      graduates.
+
+      This unique panel event showcases LSEG’s pivotal role within the global financial market and
+      the impact of leveraging innovative technology.
+
+      **If you would like to RSVP for this opporunity to visit the LSEG offices, please email
+      docsoc@imperial.ac.uk stating your interest and giving your full name.**\
+      This opportunity is limited to only 10 students, so make sure to let us know ASAP to make sure
+      you reserve your spot!
+
+      For more information, check out the event below and the PDF attached.
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>#AMEXTECH (Inter) University Challenge: Heats</heading>
+  <event
+    startDate="2019-11-06T19:00:00+00:00"
+    endDate="2019-11-06T21:00:00+00:00"
+    location="The Prince Pub, 14 Lillie Road, West Brompton Crossing Earls Court, London, SW6 1TT">
+    <text>
+      Looking for a fun event to cool off from classes? Or an activity for you Mums and Dads family?
+
+      American Express will be hosting an inter university pub quiz **on the 6th of November**. The
+      challenge will be split into two rounds with the first one taking place next Wednesday at The
+      Prince in West Brompton crossing Earls Court.
+
+      7 universities for all over the country will be competing for the chance to win an ultimate
+      Amex Experience from Brighton to London and send a winning team to the Grand Final in
+      London.
+
+      If you're looking to show off your trivia knowledge or just have some fun over a drink,
+      **email
+      scott.hardie1@aexp.com** to sign up your team of 4.
+
+      Need help finding a team? Why not go with your Mums and Dads family or ping us a quick email
+      at
+      docsoc@imperial.ac.uk and we'll match you to a team.
+
+      **This event is open to non-members.**\
+      Check the attached flyer for more information!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2180570715580190/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Bank of America | GIS Summer Analyst Programmes - Camberley &amp; Chester</heading>
+  <sponsor company="baml">
+    Our Summer Analyst programme is designed to offer you a broad and exciting experience of work as
+    a full time Technology Analyst. During the summer you will be placed within one team and have
+    the opportunity to participate in real delivery of technology solutions.
+
+    Your training and development is our top priority with extensive formal training offered at the
+    start of the program in addition to on the job support, educational speaker events and
+    mentorship throughout.
+
+    As a Summer Analyst, your key tasks and responsibilities may include but are not limited to:
+
+    - Work with the cyber forensics team to identify policy violations, compliance incidents or
+    malicious acts
+
+    - Ensuring third party vendor processes are in accordance with bank policies
+
+    - Be involved in the infrastructure and application exception process
+
+    - Develop and produce metrics to track remediation activities
+
+    - Work with the cyber security defence team as the first response to cyber security incidents
+
+    - Being part of the GIS team offers you the opportunity to be part of a world-class information
+    security workforce. These teams cover all aspects of Information Security including the
+    development of strategy and policy; vulnerability identification and management; monitoring,
+    detecting and responding to cybersecurity incidents.
+
+    **To apply for our GIS Summer Analyst Programme (Camberley) please click [here](https://bankcampuscareers.tal.net/vx/brand-5/candidate/so/pm/1/pl/1/opp/4319-EMEA-Camberley-Global-Technology-Summer-Analyst-Programme-Global-Information-Security/en-GB)**
+
+    **To apply for our GIS Summer Analyst Programme (Chester) please click [here](https://bankcampuscareers.tal.net/vx/brand-5/candidate/so/pm/1/pl/1/opp/4324-EMEA-Chester-Global-Technology-Summer-Analyst-Programme-Global-Information-Security/en-GB)**
+
+    **Application Deadline 8th November 2019**
+  </sponsor>
+
+  <hr/>
+
+  <heading>Jump Trading Internship/Placement Opportunities</heading>
+  <sponsor company="jump_trading">
+    **APPLY BY November 18, 2019 for most roles**\
+    _Only a resume is needed_
+
+    **London job vacancies**
+
+    - FPGA Hardware/Software Engineer | Summer Internship / 6 month placement - https://www.jumptrading.com/apply.html?gh_jid=1550517
+
+    - Web Dev / UI Software Engineer | Summer Internship / 6 month placement - https://www.jumptrading.com/apply.html?gh_jid=1550590
+
+    - Tech Ops Engineer | Summer Internship - https://www.jumptrading.com/apply.html?gh_jid=1550559
+
+    - Production Engineer | Summer Internship - https://www.jumptrading.com/apply.html?gh_jid=1550525
+
+
+    **Bristol job vacancies**
+
+    - FPGA Hardware/Software Engineer | Summer Internship / 6 month placement - https://www.jumptrading.com/apply.html?gh_jid=1803025
+
+    - FPGA Hardware/Software Engineer | Full-Time / Graduate Placement - https://www.jumptrading.com/apply.html?gh_jid=1902736
+
+    - Software Engineer (Python or C++) | Summer Internship / 6 month placement - https://www.jumptrading.com/apply.html?gh_jid=1862851
+
+    - Software Engineer (Python or C++) | Full-Time / Graduate Placement - https://www.jumptrading.com/apply.html?gh_jid=1815371
+
+    _Follow the links above for information regarding each opportunity. Only a resume is needed to apply!_
+
+    ---
+
+    **About Jump Trading**
+
+    Jump Trading is a leading global trading firm that combines sophisticated quantitative research,
+    cutting-edge technology, and an entrepreneurial culture.
+
+    Jump has 20 years of experience investing in superior infrastructure, including custom hardware,
+    software, wireless networks, and a world-class supercomputer. We leverage our proprietary
+    technology to analyze massive data sets and identify trends in global markets across asset
+    classes.
+
+    Jump is privately owned and funded, fostering a culture of intellectual curiosity, learning and
+    experimentation.
+
+    With offices around the globe, Jump has more than 700 employees, many with backgrounds in
+    trading, Silicon Valley tech companies and startups, top PhD programs, and research labs.
+  </sponsor>
+
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
+
+</email>
