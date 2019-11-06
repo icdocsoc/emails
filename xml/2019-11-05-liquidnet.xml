@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="Pizza and Prosecco with Liquidnet"
+  logos="false"
+  agenda="false">
+  <text>
+    Join Liquidnet for pizza and prosecco followed by a talk at their offices, 24 floors up in the
+    heart of the City of London. It's a great way to network and learn more about the company, while
+    having fun!
+
+    Check out the event information below and RSVP **for free** in [Eventbrite](https://www.eventbrite.co.uk/e/liquidnet-interactive-session-graduate-recruitment-trading-ai-tickets-80036171343).
+
+    _Please note this event is 18+ only._
+  </text>
+
+  <hr/>
+
+  <heading>Liquidnet Interactive Session: Graduate Recruitment; Trading &amp; AI</heading>
+  <image src="https://i.imgur.com/anyZi0q.jpg"/>
+  <event
+    startDate="2019-11-25T19:00:00+00:00"
+    endDate="2019-11-25T21:30:00+00:00"
+    location="Liquidnet Offices, 24 Floor, Broadgate Tower, Primrose St, London EC2A 2EW">
+    <text>
+      Traders in financial markets perform tasks that require them to absorb large amounts of data
+      in limited time and make rapid decisions. Time is money and sub-optimal performance can cost
+      firms hundreds of millions of dollars a year. Liquidnet augments the human expert with a
+      variety of technologies, from anomaly detection pattern recognition algorithms to natural
+      language generation and visualizations.
+
+      **Join Liquidnet Chief Data Scientist Tom Doris, PhD.** to discuss challenges in adoption and
+      adherence of new technologies by human experts, deconstruct the methods that were effective in
+      overcoming the obstacles, and review similarities across other industries.
+
+      There will be an opportunity to network with members of Tom's Technology team, our Recruitment
+      Team and Product Team once the interactive session has ended.
+
+      Refreshments will be served.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/liquidnet-interactive-session-graduate-recruitment-trading-ai-tickets-80036171343">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+</email>
