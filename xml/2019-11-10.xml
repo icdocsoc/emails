@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/T18dBBr.jpg"
+    alt="Row of Leibniz biscuits"
+    title="This is what happens when you let mathematicians name biscuits"/>
+
+  <hr/>
+
+  <text>
+    We're saying goodbye to another busy week full of events both on- and off-campus. We hope that
+    you found our sponsored industrial events by DRW and LSEG helpful and we hope you enjoyed our
+    informative Internship 101 session. Also, a big thank you those who went to the AMEX pub quiz
+    and the LSEG WIN afternoon session.
+
+    For next week we have more educational events planned, as well as a Game Jam, but also a lot of
+    messages for you! So without further ado, let's get right into it.
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>CGCU Football League</heading>
+  <image src="https://i.imgur.com/DPERyrD.jpg"/>
+  <text>
+    For those who don't know, the CGCU Football League is a currently running championship, where
+    each department represented in the CGCU competes to prove their superiority in the game of
+    football.
+
+    To represent DoC, we have team Foo Bar FC with players:
+    Athithan Dharmaratnam, Avish
+    Vijayaraghavan, George Mitenkov, Kyle Patel, Rohan Gupta, Pranav Bansal. In their first match
+    against the Chem Eng Blues, our team won with a whopping 4-1. Here's a brief match report from
+    the game:
+
+    First game of the season produced a strong start for league aspirations with a dominating win
+    against the Chem Eng Blues. A solid defensive performance by Rohan and Pranav created a
+    foundation for the attackers to play more freely. The final goal summed up the performance of
+    Foo Bar FC with a route one goal kick to Avish, banged in with a first time volley. A clinical
+    all round performance.
+
+    We wish the players even more success in the games to come and to make DoC proud of their
+    performance.
+  </text>
+
+  <hr/>
+
+  <heading>NXP Cup Competition</heading>
+  <text>
+    The NXP Cup Competition is an innovational challenge for students all around Europe to build a
+    self-driving DIY race robot for the chance to win big prizes such as a trip to Bucharest! In
+    order to participate players need to have a basic entry
+    electronics kit which comes equipped with NXP components that are used in cars on the road
+    today. All you need is basic embedded software programming and circuitry knowledge – and the
+    willingness to learn!
+
+    If you're interested in participating make sure to [sign your team up
+    here](https://getregisterednow.com/NXP/Cup/Registration/Register.aspx?li=87&amp;l=1), as well as
+    [message us about your interest](mailto:docsoc@imperial.ac.uk) for more information surrounding
+    how to get the kit. The deadline for signing up is **30th of November**.
+
+    For more information check out the competition at their website: https://nxpcup.nxp.com/
+  </text>
+
+  <hr/>
+
+  <heading>Create the DoC Banner Competition!</heading>
+  <text>
+    Take a chance in winning a £20/£10 Amazon voucher and get a better banner for our department!
+
+    Did you know that our department uses this banner below at all its public events? It looks quite
+    outdated, right? That is why we decided to partner with the department to have the competition
+    of creating a better DoC banner! All you need to do is design a banner that follows all the
+    requirements below and submit your design here! The winner will get a £20 Amazon voucher, while
+    the runner-ups will get £10 Amazon vouchers.
+
+    [Click here to enter the competition!](https://forms.gle/cZP52Fx97N8JdN9t6)
+
+    **The deadline: 1st December 2019**
+  </text>
+
+  <hr/>
+
+  <heading>Imperial Mathematics Competition</heading>
+  <text>
+    Challenge yourself with maths puzzles in the third edition of Imperial Mathematics Competition!
+    Round One of the annual contest will take place in late November, when contestants, from
+    universities across the UK, will be given 3 hours to solve 6 problems individually. The top
+    performers will be invited to Round Two (the final round) in Term 2.
+
+    Sign up [here](https://icmathscomp.org/signup/). You can have a look at [past papers
+    here](https://icmathscomp.org/pages/past-papers.html).
+
+    Students from all departments are welcomed, both undergraduate and one-year master's. Some of the
+    problems on the papers may require knowledge from the first year of an undergraduate course in
+    Maths, much of which is covered in science and engineering courses as well. A separate team
+    competition will be run in Term 2, with details to be announced in January.
+
+    The deadline for signing up for the individual contest is **18th of November** and the
+    competition will take place on **Sunday 24th November 9:30 - 12:30** in Huxley.
+  </text>
+
+  <hr/>
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>IC Hack 20 Volunteers Onboarding Meeting</heading>
+  <event
+    startDate="2019-11-11T18:00:00+00:00"
+    endDate="2019-11-11T20:00:00+00:00"
+    location="Huxley 145">
+    <text>
+      Our annual hackathon is coming up and we're looking for volunteers! Last year, IC Hack 19 was
+      the largest student run hackathon in the UK with over 420 attendees. This year, we aim to make
+      it bigger and better! Check out our
+      [montage from IC Hack 19!](https://www.youtube.com/watch?v=Oy6tcQY6K6Q).
+
+      Our kickoff meeting will take place on **Monday 11th 6-8pm in Huxley 145** and
+      we're looking for people to take on the responsibilities beyond the standard volunteering
+      role.
+      If you want to be a part of this mammoth event, come along to find out more about the roles
+      we're looking for!
+
+      Make sure to join the [DoCSoc: Operations](https://docsoc.co.uk/volunteer) Facebook group to
+      keep yourself updated and you can also learn more about organising IC Hack
+      [here](https://www.facebook.com/groups/1509850436007222/2621692211489700/).
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>Website 101</heading>
+  <image src="https://i.imgur.com/DpN7m4k.jpg"/>
+  <event
+    startDate="2019-11-12T18:00:00+00:00"
+    endDate="2019-11-12T19:30:00+00:00"
+    location="Huxley 311">
+    <text>
+      Are you a first year Computing student? Then come join us at this event! DoCSoc presents
+      “Website 101: A Basic Introduction to Web Development”! In this event, you will learn the
+      basics of what a website is, how to build your own, and how to deploy it!
+
+      This event is Part 1 of 2 DoCSoc events that will help you lay down the foundations of website
+      development, and can prove to be quite useful for your future studies and the beginning of
+      your professional career. We look forward to seeing you there!
+
+      ***Important***
+      This event is aimed at those people who have never had any experience with web development. If
+      you are familiar with the basics, then feel free to join our next event on the 21st November
+      for more advanced content.
+
+      This event will be catered with free pizza and soft drinks as usual! Please press GOING to
+      help us gauge our food ordering requirements. If you have any specific dietary requirements,
+      please let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2388381191288314/">
+        Facebook
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Prototype Gamejam</heading>
+  <image src="https://i.imgur.com/LCS1WF3.jpg"/>
+  <event
+    startDate="2019-11-16T10:00:00+00:00"
+    endDate="2019-11-16T17:00:00+00:00"
+    location="Huxley 341">
+    <text>
+      We are excited to announce the first Gamejam of the year, hosted in collaboration with ICU
+      Game Development Society. Get ready for a day of fun game prototyping and development on
+      Saturday the 16th of November.
+
+      If you are already working on some games, feel free to come along and boost your game
+      development process. For those who don't have a project yet, this is the perfect opportunity
+      to get started and find something to work on for the rest of the year.
+
+      The event will feature a Unity tutorial at the beginning to bring game development novices up
+      to speed, free Pizza for lunch 🍕, a fun time making games 🕹, and prizes for the best game
+      prototype made by teams of up to 4 🏆.
+
+      Make sure to bring your laptop, so you can work on your game during the event!
+
+      We will be releasing the tickets for the event **on Eventbrite on Tuesday 1:00pm.** The
+      tickets
+      are free, but you have to have a valid one in order to attend as places are limited!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/430635647644613/">
+        Facebook
+      </link>
+      <link href="https://www.eventbrite.co.uk/e/docsoc-prototype-gamejam-tickets-81095574045">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>RESCHEDULED: Reading Group by Sophia Drossopoulou</heading>
+  <image src="https://i.imgur.com/1CtC1B4.jpg"/>
+  <event
+    startDate="2019-11-19T13:00:00+00:00"
+    endDate="2019-11-19T13:30:00+00:00"
+    location="Huxley 217">
+    <text>
+      **Please note this event has been rescheduled to the 19th of November. We apologize for the
+      inconvenience.**
+
+      Come and join us at our bi-weekly Reading Groups. This time we have Sophia Drossopoulou who
+      will talk about her research "Holistic specifications for robust code". This talk is aimed at
+      penultimate/4th year undergraduate as well as postgraduate students.
+
+      Abstract
+      Functional specifications of program components describe what the code can do — the sufficient
+      conditions to invoke the component’s operations: a client who supplies arguments meeting that
+      operation’s preconditions can invoke it, and obtain the associated effect. While
+      specifications of sufficient conditions may be enough to reason about complete, unchanging
+      programs, they cannot support reasoning about components that interact with external
+      components of possibly unknown provenance. In this open world setting, ensuring that your
+      component is robust even when executing with buggy or malicious external code is critical.
+      Holistic specifications — as their name implies — are concerned with the overall behaviour of
+      a component, in all possible interleavings of calls to the component’s operations with those
+      of the external code. Thus, holistic specifications are concerned with sufficient conditions,
+      i.e. what is enough to cause some effect, as well as with necessary conditions, i.e. what are
+      the conditions without which an effect will not happen. By adopting holistic specification
+      techniques, programmers can explicitly define what their components should not do, making it
+      easier to write robust and reliable programs.
+
+      In this work we argue for the need for such holistic specifications, propose a language
+      Chainmail for writing specifications, give a formal semantics, and discuss several examples
+      from the literature.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/437009023668599/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Ed Tech Hackday</heading>
+  <image src="https://i.imgur.com/D0rw30s.jpg"/>
+  <event
+    startDate="2019-11-23T11:00:00+00:00"
+    endDate="2019-11-23T17:00:00+00:00"
+    location="Huxley 342">
+    <text>
+      Join DoC on Saturday 23rd for a one day Hackathon to learn how your education tools
+      (Materials, eMarking and more) are made.
+
+      Please RSVP here: https://forms.gle/foZwZKEN6XVrNVr68
+
+      Learn how real webapps work, chalenge yourselves to contibute to these open sourse projects
+      with new and amazing ideas, and win the prize for the best contribution, OR show us your web
+      apps knowledge by creating a whole new webapp that will help the EdTech ecosystem!
+
+      Lunch will be provided on the day, so let us know if you plan to attend by sellecting "going"
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/494024571188237/">Facebook</link>
+      <link href="https://docs.google.com/forms/d/e/1FAIpQLSdQaMWltx44IvT1WfalwPYN-u5oFRRiI9u5Q70IuuHrjftGSQ/viewform">
+        RSVP
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## External Events</text>
+
+  <hr/>
+
+  <heading>Liquidnet Interactive Session: Graduate Recruitment; Trading &amp; AI</heading>
+  <image src="https://i.imgur.com/anyZi0q.jpg"/>
+  <event
+    startDate="2019-11-25T19:00:00+00:00"
+    endDate="2019-11-25T21:30:00+00:00"
+    location="Liquidnet Offices, 24 Floor, Broadgate Tower, Primrose St, London EC2A 2EW">
+    <text>
+      Join Liquidnet for pizza and prosecco followed by a talk at their offices, 24 floors up in the
+      heart of the City of London. It's a great way to network and learn more about the company,
+      while
+      having fun!
+
+      Check out the event information below and RSVP **for free** in
+      [Eventbrite](https://www.eventbrite.co.uk/e/liquidnet-interactive-session-graduate-recruitment-trading-ai-tickets-80036171343).
+
+      _Please note this event is 18+ only._
+
+      ---
+
+      Traders in financial markets perform tasks that require them to absorb large amounts of data
+      in limited time and make rapid decisions. Time is money and sub-optimal performance can cost
+      firms hundreds of millions of dollars a year. Liquidnet augments the human expert with a
+      variety of technologies, from anomaly detection pattern recognition algorithms to natural
+      language generation and visualizations.
+
+      **Join Liquidnet Chief Data Scientist Tom Doris, PhD.** to discuss challenges in adoption and
+      adherence of new technologies by human experts, deconstruct the methods that were effective in
+      overcoming the obstacles, and review similarities across other industries.
+
+      There will be an opportunity to network with members of Tom's Technology team, our Recruitment
+      Team and Product Team once the interactive session has ended.
+
+      Refreshments will be served.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/liquidnet-interactive-session-graduate-recruitment-trading-ai-tickets-80036171343">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Citadel &amp; Citadel Securities Internships and Graduate Positions</heading>
+  <sponsor company="citadel">
+    **Citadel** is a leading investor in the world’s financial markets. For over a quarter of a
+    century,
+    we have sought to deliver industry-leading investment returns to clients including corporate
+    pensions, endowments, foundations, public institutions, and sovereign wealth funds.
+
+    **Citadel Securities** is an award-winning global market maker that helps meet the liquidity
+    needs
+    of asset managers, banks, broker-dealers, hedge funds, government agencies, and public pension
+    programs.
+
+    Applications open for both internships and graduate roles for the following positions:
+    - Investment &amp; Trading
+    - Quantitative Strategies
+    - Software Engineering
+
+    Apply via our websites citadel.com &amp; citadelsecurities.com
+
+    _For more information check out the attached PDF._
+
+  </sponsor>
+
+  <hr/>
+
+  <heading>Jane Street - Spring Insight Programme - SPiN</heading>
+  <image src="https://i.imgur.com/E270kzP.png"/>
+  <text>
+    Spring Insight Programme (SPiN) is a new three-day programme hosted by Jane Street. Participants
+    will learn about the real world ways we use math, computer science and probability concepts in
+    the work we do. We’ll also provide an in-depth look at the different roles that exist within our
+    firm. Participants will hear from and interact with full timers to learn how they transitioned
+    from studying STEM subjects at university to a career at Jane Street. In addition, there will be
+    a few social events which will provide another great opportunity to speak with Jane Street
+    employees and the other students attending the event.
+
+    Selected students will arrive in London the evening of Tuesday 14th April and will depart the
+    evening of Friday 17th April. Jane Street will provide all travel to and from London,
+    accommodation at a hotel near the office, and of course, plenty of food and drinks throughout
+    the event.
+
+    **[APPLY HERE](https://www.janestreet.com/apply-spin/?utm_campaign=spin-2020)**
+
+    **Sign-ups will close on Sunday 5th January at 11:59pm.** Selected applicants will be notified
+    after the 6th January regarding your status.
+
+    Questions? Please don't hesitate to email [work@janestreet.com](mailto:work@janestreet.com). We
+    look forward to meeting you!
+
+    ---
+
+    Jane Street is a quantitative trading firm that uses innovative technology, a scientific
+    approach, and a deep understanding of markets to guide our business, working out of offices in
+    New York, London, Amsterdam and Hong Kong. Founded in 2000, Jane Street employs over 1000
+    people. We are always recruiting top students and the environment at Jane Street is open,
+    informal, intellectual and fun. The dress code is casual, the kitchen is stocked and discussions
+    are always lively. Teaching and learning are central activities through classes, mentoring and
+    discussion.
+
+  </text>
+
+  <hr/>
+
+  <heading>LSEG Graduate Opportunities</heading>
+  <sponsor company="lseg">
+    This is the link to the technology graduate webpage
+    https://www.lseg.com/careers/graduate-and-internship-programmes/graduate-opportunities/technology-graduate-programme
+
+    Here is our brochure:
+    https://www.lseg.com/sites/default/files/content/documents/FINAL%20LSEG_GRADUATE_BROCHURE_2019%20condensed.pdf
+  </sponsor>
+
+  <hr/>
+
+  <heading>Macquarie - Interview with Florence Marshall, Intern</heading>
+  <sponsor company="macquarie">
+    If you are interested in applying and working at Macquarie Group, please find attached an
+    interview with Florence Marshall, a summer intern.
+
+    You can learn more about the culture and a typical work day at Macquarie, as well as first-hand
+    insights on the application and interview process.
+  </sponsor>
+
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
+</email>
