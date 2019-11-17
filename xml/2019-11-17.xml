@@ -285,6 +285,48 @@
 
   <hr/>
 
+  <heading>Women Create - Coding Interview Workshop</heading>
+  <image src="https://i.imgur.com/WzAuUwS.png"/>
+  <event
+    startDate="2019-11-19T18:00:00+00:00"
+    endDate="2019-11-19T20:30:00+00:00"
+    location="Facebook, 1 Rathbone Square, London, W1T 1FB">
+    <text>
+      Hi there!
+
+      Come learn how to put your best foot forward at this Women Create - Crush Your Coding
+      Interview Workshop hosted by Facebook.
+
+      This presentation, delivered by one of Facebook’s Software Engineers will cover:
+
+      - How to walk through an algorithm problem,
+
+      - How to brainstorm solutions,
+
+      - How to discuss the problem with your interviewer,
+
+      - How to write (and test) code on a whiteboard
+
+      - Office Tour
+
+      Sign-up link: https://womencreate-codinginterviewwor.splashthat.com/
+
+      Visit this link to prepare:
+      https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook
+
+      We look forward to seeing you there!
+
+      The Facebook Team
+    </text>
+    <links>
+      <link href="https://womencreate-codinginterviewwor.splashthat.com/">
+        RSVP
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
   <heading>Liquidnet Interactive Session: Graduate Recruitment; Trading &amp; AI</heading>
   <image src="https://i.imgur.com/anyZi0q.jpg"/>
   <event
@@ -328,5 +370,10 @@
 
   <hr/>
 
-
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
 </email>
