@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/b13LgID.jpg"
+    alt="Stack of biscuits on a plate"
+    title="I can't think of an alt text for this one"/>
+
+  <hr/>
+
+  <text>
+    Welcome to another digest!
+
+    Last week we kicked off for our IC Hack 20 volunteer onboarding and we want to say "thank you"
+    to all passionate students who came - IC Hack is only possible because of you! If you have
+    missed the meeting but are still interested to help, you can catch the slides at
+    https://docsoc.co.uk/ichack20kickoffcatchup.
+
+    Over the next week, we have planned many academic and off-campus events if you are looking for
+    something to distract you from your coursework! We also have some sponsor events and notices, so
+    make sure you read till the end!
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>Imperial College iGEM team</heading>
+  <text>
+    This year, SynBIC (synthetic biology society at Imperial College), will be gathering an
+    interdisciplinary team of exceptional undergraduate students for the international synthetic
+    biology competition - iGEM. The 2020 Imperial undergraduate team is currently looking for people
+    with strong computing backgrounds until the 15th of November. This google form must be completed
+    to apply, and a CV must be submitted at the end of the form. Please note that the iGEM team will
+    not be accepting applicants on the first year of their degree.
+  </text>
+
+  <hr/>
+
+  <heading>Imperial Mathematics Competition</heading>
+  <text>
+    Challenge yourself with maths puzzles in the third edition of Imperial Mathematics Competition!
+    Round One of the annual contest will take place in late November, when contestants, from
+    universities across the UK, will be given 3 hours to solve 6 problems individually. The top
+    performers will be invited to Round Two (the final round) in Term 2.
+
+    Sign up [here](https://icmathscomp.org/signup/). You can have a look at [past papers
+    here](https://icmathscomp.org/pages/past-papers.html).
+
+    Students from all departments are welcomed, both undergraduate and one-year master's. Some of
+    the
+    problems on the papers may require knowledge from the first year of an undergraduate course in
+    Maths, much of which is covered in science and engineering courses as well. A separate team
+    competition will be run in Term 2, with details to be announced in January.
+
+    The deadline for signing up for the individual contest is **18th of November** and the
+    competition will take place on **Sunday 24th November 9:30 - 12:30** in Huxley.
+  </text>
+
+  <hr/>
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>RESCHEDULED: Reading Group by Sophia Drossopoulou</heading>
+  <image src="https://i.imgur.com/Yx1VN94.jpg"/>
+  <event
+    startDate="2019-11-19T13:00:00+00:00"
+    endDate="2019-11-19T13:30:00+00:00"
+    location="Huxley 217">
+    <text>
+      **Please note this event has been rescheduled to the 19th of November. We apologize for the
+      inconvenience.**
+
+      Come and join us at our bi-weekly Reading Groups. This time we have Sophia Drossopoulou who
+      will talk about her research "Holistic specifications for robust code". This talk is aimed at
+      penultimate/4th year undergraduate as well as postgraduate students.
+
+      Abstract
+      Functional specifications of program components describe what the code can do — the sufficient
+      conditions to invoke the component’s operations: a client who supplies arguments meeting that
+      operation’s preconditions can invoke it, and obtain the associated effect. While
+      specifications of sufficient conditions may be enough to reason about complete, unchanging
+      programs, they cannot support reasoning about components that interact with external
+      components of possibly unknown provenance. In this open world setting, ensuring that your
+      component is robust even when executing with buggy or malicious external code is critical.
+      Holistic specifications — as their name implies — are concerned with the overall behaviour of
+      a component, in all possible interleavings of calls to the component’s operations with those
+      of the external code. Thus, holistic specifications are concerned with sufficient conditions,
+      i.e. what is enough to cause some effect, as well as with necessary conditions, i.e. what are
+      the conditions without which an effect will not happen. By adopting holistic specification
+      techniques, programmers can explicitly define what their components should not do, making it
+      easier to write robust and reliable programs.
+
+      In this work we argue for the need for such holistic specifications, propose a language
+      Chainmail for writing specifications, give a formal semantics, and discuss several examples
+      from the literature.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/437009023668599/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>How to build your website with VueJS (Advanced)</heading>
+  <image src="https://i.imgur.com/UUmbQOk.jpg"/>
+  <event
+    startDate="2019-11-21T18:00:00+00:00"
+    endDate="2019-11-21T19:30:00+00:00"
+    location="Huxley 145">
+    <text>
+      DoCSoc presents the second workshop on Web Development: "How to build your website"! Come and
+      learn more advanced content on web development! Learn you to use your first javascript
+      framework (VueJS) using components and animations to make your website look amazing!
+
+      This event is for everyone interested in learning javascript frameworks or expanding your
+      knowladge by adding Vue to your toolset. Creating your own responsive and good looking website
+      is a great thing to do or know how to do for your your career and future.
+
+      This event will be catered with free pizza and soft drinks as usual! Please press GOING to
+      help us gauge our food ordering requirements. If you have any specific dietary requirements,
+      please let us know a few days beforehand by emailing docsoc@imperial.ac.uk
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to participate. Computing,
+      JMC, and EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2498682180458862/">Facebook</link>
+      <link href="https://www.eventbrite.co.uk/e/docsoc-goes-mini-golf-tickets-81620853169?fbclid=IwAR0cxwGJ1c6YFT5pXupva78EJmBHmOZmJ8oNUOIerYXHEUeEPHyffltna94">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Ed Tech Hackday</heading>
+  <image src="https://i.imgur.com/D0rw30s.jpg"/>
+  <event
+    startDate="2019-11-23T11:00:00+00:00"
+    endDate="2019-11-23T17:00:00+00:00"
+    location="Huxley 342">
+    <text>
+      Join DoC on Saturday 23rd for a one day Hackathon to learn how your education tools
+      (Materials, eMarking and more) are made.
+
+      Please RSVP here: https://forms.gle/foZwZKEN6XVrNVr68
+
+      Learn how real webapps work, chalenge yourselves to contibute to these open sourse projects
+      with new and amazing ideas, and win the prize for the best contribution, OR show us your web
+      apps knowledge by creating a whole new webapp that will help the EdTech ecosystem!
+
+      Lunch will be provided on the day, so let us know if you plan to attend by sellecting "going"
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/494024571188237/">Facebook</link>
+      <link href="https://docs.google.com/forms/d/e/1FAIpQLSdQaMWltx44IvT1WfalwPYN-u5oFRRiI9u5Q70IuuHrjftGSQ/viewform">
+        RSVP
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Faces of Engineering</heading>
+  <image src="https://i.imgur.com/fZC4bYL.jpg"/>
+  <event
+    startDate="2019-11-28T18:00:00+00:00"
+    endDate="2019-11-28T21:00:00+00:00"
+    location="City and Guilds College Union CGCU">
+    <text>
+      JFaces of Engineering is CGCU's annual engineering diversity event, bringing together
+      students, industry professionals, and engineers from all walks of life. Over the past few
+      years, we have had the privilege of hosting companies like Google, Microsoft, and P&G, among
+      others.
+
+      This year, we are please to announce that we have confirmed the attendance of Bloomberg,
+      American Express, and Qualcomm, with more companies expected to attend! Do be sure to come
+      down and get a chance to meet the panelists and understand more about different types of
+      engineering professions.
+
+      This year, we are renaming the event "Faces of Engineering"; with Imperial being one of the
+      world's most diverse universities, we at the CGCU are continuously striving to fully engage
+      staff, students, and the community. We warmly welcome people of all cultures, languages, and
+      backgrounds to this event and hope to see a wonderful turnout!
+
+      Details on the location will be confirmed shortly, but in the mean time do sign up to the
+      event using the link below. There will be a catered networking session after the panel
+      discussion too!
+
+      Thank you and we look forward to seeing you!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/456177365252525/">Facebook</link>
+    </links>
+  </event>
+
+  <text>## Off-Campus Events</text>
+
+  <hr/>
+
+  <heading>DoCSoc Goes Ice Skating</heading>
+  <image src="https://imgur.com/7ppWfty"/>
+  <event
+    startDate="2019-11-19T19:00:00+00:00"
+    endDate="2019-11-19T20:00:00+00:00"
+    location="Natural History Museum Ice Rink">
+    <text>
+      Get out your scarf and gloves, and join us at the Natural History Museum for an ice skating
+      spectacular on Tuesday 19th November.
+
+      DoCSoc will be heavily subsidising tickets to just £4.50! We only have a limited number of
+      tickets for this session, so make sure to try and get one.
+
+      The ice skating starts at 7pm, so we will be meeting at 6:30pm at the entrance of the Ice
+      Skating Rink - stay tuned for more updates about this.
+
+      TICKETS WILL BE RELEASED ON THURSDAY (14TH NOVEMBER) AT 1PM ON EVENTBRITE. With this please go
+      to the Imperial College Union Shop to purchase your ticket, you have a 2 hour window in order
+      to confirm your purchase! YOU CAN ONLY BUY A UNION SHOP TICKET IF YOU HAVE AN EVENTBRITE
+      PLACEHOLDER TICKET.
+
+      We hope to see you there!
+
+      --------------------------------------------------------------
+      You must be a member of DoCSoc by Tuesday 13th November in order to be admitted. Computing,
+      JMC, and EIE students are automatically members of DoCSoc. Membership is £30.
+
+      Find out more: http://docsoc.co.uk/join
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/433582897554833/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>DoCSoc goes Mini Golfing</heading>
+  <image src="https://i.imgur.com/gsNmYlN.jpg"/>
+  <event
+    startDate="2019-11-20T15:00:00+00:00"
+    endDate="2019-11-20T19:00:00+00:00"
+    location="Puttshack (White City)">
+    <text>
+      Drop your keyboards and pick up your putters, because DoCSoc is going Mini Golf and we want
+      you join in the fun with us!
+
+      DoCSoc will be heavily subsidising tickets to just £6.00! We only have a limited number of
+      tickets for this event, so make sure to try and get one.
+
+      The event starts at 3pm at Puttshack White City! - stay tuned for more updates about this.
+
+      TICKETS WILL BE RELEASED ON FRIDAY (15TH NOVEMBER) AT 1PM ON EVENTBRITE. With this please go
+      to the Imperial College Union Shop to purchase your ticket, you have a 2 hour window in order
+      to confirm your purchase! YOU CAN ONLY BUY A UNION SHOP TICKET IF YOU HAVE AN EVENTBRITE
+      PLACEHOLDER TICKET.
+
+      We hope to see you there!
+
+      --------------------------------------------------------------
+      You must be a member of DoCSoc by Tuesday 13th November in order to be admitted. Computing,
+      JMC, and EIE students are automatically members of DoCSoc. Membership is £30.
+
+      Find out more: http://docsoc.co.uk/join
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2498682180458862/">Facebook</link>
+      <link href="https://www.eventbrite.co.uk/e/docsoc-goes-mini-golf-tickets-81620853169?fbclid=IwAR0cxwGJ1c6YFT5pXupva78EJmBHmOZmJ8oNUOIerYXHEUeEPHyffltna94">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## External Events</text>
+
+  <hr/>
+
+  <heading>Liquidnet Interactive Session: Graduate Recruitment; Trading &amp; AI</heading>
+  <image src="https://i.imgur.com/anyZi0q.jpg"/>
+  <event
+    startDate="2019-11-25T19:00:00+00:00"
+    endDate="2019-11-25T21:30:00+00:00"
+    location="Liquidnet Offices, 24 Floor, Broadgate Tower, Primrose St, London EC2A 2EW">
+    <text>
+      Join Liquidnet for pizza and prosecco followed by a talk at their offices, 24 floors up in the
+      heart of the City of London. It's a great way to network and learn more about the company,
+      while
+      having fun!
+
+      Check out the event information below and RSVP **for free** in
+      [Eventbrite](https://www.eventbrite.co.uk/e/liquidnet-interactive-session-graduate-recruitment-trading-ai-tickets-80036171343).
+
+      _Please note this event is 18+ only._
+
+      ---
+
+      Traders in financial markets perform tasks that require them to absorb large amounts of data
+      in limited time and make rapid decisions. Time is money and sub-optimal performance can cost
+      firms hundreds of millions of dollars a year. Liquidnet augments the human expert with a
+      variety of technologies, from anomaly detection pattern recognition algorithms to natural
+      language generation and visualizations.
+
+      **Join Liquidnet Chief Data Scientist Tom Doris, PhD.** to discuss challenges in adoption and
+      adherence of new technologies by human experts, deconstruct the methods that were effective in
+      overcoming the obstacles, and review similarities across other industries.
+
+      There will be an opportunity to network with members of Tom's Technology team, our Recruitment
+      Team and Product Team once the interactive session has ended.
+
+      Refreshments will be served.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/liquidnet-interactive-session-graduate-recruitment-trading-ai-tickets-80036171343">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+
+</email>
