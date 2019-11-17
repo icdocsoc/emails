@@ -66,7 +66,7 @@
 
   <hr/>
 
-  <heading>RESCHEDULED: Reading Group by Sophia Drossopoulou</heading>
+  <heading>Reading Group by Sophia Drossopoulou</heading>
   <image src="https://i.imgur.com/Yx1VN94.jpg"/>
   <event
     startDate="2019-11-19T13:00:00+00:00"
@@ -119,7 +119,7 @@
       framework (VueJS) using components and animations to make your website look amazing!
 
       This event is for everyone interested in learning javascript frameworks or expanding your
-      knowladge by adding Vue to your toolset. Creating your own responsive and good looking website
+      knowledge by adding Vue to your toolset. Creating your own responsive and good looking website
       is a great thing to do or know how to do for your your career and future.
 
       This event will be catered with free pizza and soft drinks as usual! Please press GOING to
@@ -133,10 +133,7 @@
       docsoc.co.uk/join.
     </text>
     <links>
-      <link href="https://www.facebook.com/events/2498682180458862/">Facebook</link>
-      <link href="https://www.eventbrite.co.uk/e/docsoc-goes-mini-golf-tickets-81620853169?fbclid=IwAR0cxwGJ1c6YFT5pXupva78EJmBHmOZmJ8oNUOIerYXHEUeEPHyffltna94">
-        Eventbrite
-      </link>
+      <link href="https://www.facebook.com/events/406180276936052/">Facebook</link>
     </links>
   </event>
 
@@ -154,11 +151,11 @@
 
       Please RSVP here: https://forms.gle/foZwZKEN6XVrNVr68
 
-      Learn how real webapps work, chalenge yourselves to contibute to these open sourse projects
+      Learn how real webapps work, challenge yourselves to contribute to these open source projects
       with new and amazing ideas, and win the prize for the best contribution, OR show us your web
       apps knowledge by creating a whole new webapp that will help the EdTech ecosystem!
 
-      Lunch will be provided on the day, so let us know if you plan to attend by sellecting "going"
+      Lunch will be provided on the day, so let us know if you plan to attend by selecting "going"
     </text>
     <links>
       <link href="https://www.facebook.com/events/494024571188237/">Facebook</link>
@@ -179,7 +176,7 @@
     <text>
       JFaces of Engineering is CGCU's annual engineering diversity event, bringing together
       students, industry professionals, and engineers from all walks of life. Over the past few
-      years, we have had the privilege of hosting companies like Google, Microsoft, and P&G, among
+      years, we have had the privilege of hosting companies like Google, Microsoft, and P&amp;G, among
       others.
 
       This year, we are please to announce that we have confirmed the attendance of Bloomberg,
@@ -203,47 +200,13 @@
     </links>
   </event>
 
+  <hr/>
+
   <text>## Off-Campus Events</text>
 
   <hr/>
 
-  <heading>DoCSoc Goes Ice Skating</heading>
-  <image src="https://imgur.com/7ppWfty"/>
-  <event
-    startDate="2019-11-19T19:00:00+00:00"
-    endDate="2019-11-19T20:00:00+00:00"
-    location="Natural History Museum Ice Rink">
-    <text>
-      Get out your scarf and gloves, and join us at the Natural History Museum for an ice skating
-      spectacular on Tuesday 19th November.
-
-      DoCSoc will be heavily subsidising tickets to just £4.50! We only have a limited number of
-      tickets for this session, so make sure to try and get one.
-
-      The ice skating starts at 7pm, so we will be meeting at 6:30pm at the entrance of the Ice
-      Skating Rink - stay tuned for more updates about this.
-
-      TICKETS WILL BE RELEASED ON THURSDAY (14TH NOVEMBER) AT 1PM ON EVENTBRITE. With this please go
-      to the Imperial College Union Shop to purchase your ticket, you have a 2 hour window in order
-      to confirm your purchase! YOU CAN ONLY BUY A UNION SHOP TICKET IF YOU HAVE AN EVENTBRITE
-      PLACEHOLDER TICKET.
-
-      We hope to see you there!
-
-      --------------------------------------------------------------
-      You must be a member of DoCSoc by Tuesday 13th November in order to be admitted. Computing,
-      JMC, and EIE students are automatically members of DoCSoc. Membership is £30.
-
-      Find out more: http://docsoc.co.uk/join
-    </text>
-    <links>
-      <link href="https://www.facebook.com/events/433582897554833/">Facebook</link>
-    </links>
-  </event>
-
-  <hr/>
-
-  <heading>DoCSoc goes Mini Golfing</heading>
+  <heading>Tickets on sale! DoCSoc goes Mini Golfing</heading>
   <image src="https://i.imgur.com/gsNmYlN.jpg"/>
   <event
     startDate="2019-11-20T15:00:00+00:00"
@@ -260,8 +223,8 @@
 
       TICKETS WILL BE RELEASED ON FRIDAY (15TH NOVEMBER) AT 1PM ON EVENTBRITE. With this please go
       to the Imperial College Union Shop to purchase your ticket, you have a 2 hour window in order
-      to confirm your purchase! YOU CAN ONLY BUY A UNION SHOP TICKET IF YOU HAVE AN EVENTBRITE
-      PLACEHOLDER TICKET.
+      to confirm your purchase! YOU CAN ONLY BUY A UNION SHOP TICKET IF YOU HAVE AN [EVENTBRITE
+      PLACEHOLDER TICKET](https://www.eventbrite.co.uk/e/docsoc-goes-mini-golf-tickets-81620853169?fbclid=IwAR0cxwGJ1c6YFT5pXupva78EJmBHmOZmJ8oNUOIerYXHEUeEPHyffltna94).
 
       We hope to see you there!
 
@@ -327,12 +290,81 @@
 
   <hr/>
 
+  <heading>LSEG WIN Breakfast Session: LCH Debunking the Derivative World</heading>
+  <image src="https://docsoc.co.uk/img/sponsors/lseg_logo.png"/>
+  <event
+    startDate="2019-11-22T08:30:00+00:00"
+    endDate="2019-11-22T11:00:00+00:00"
+    location=" 10 Paternoster Row, London EC4M 7LS">
+    <text>
+      LSEG is at heart of the UK’s financial industry and is home to one of the oldest stock
+      exchanges in the world. The Women Inspired Network harnesses’ the power and reputation of this
+      renowned organisation to inspire, educate and pave the way for the next generation of
+      graduates.
+
+      This session will focus on the role that LCH has to play as a systematically important
+      component of Global financial market infrastructure, and the contribution that the Group has
+      to financial market innovation and evolution.
+
+      If you are interested in attending please email
+      [docsoc@imperial.ac.uk](mailto:docsoc@imperial.ac.uk) with your forename and surname. See
+      attached pdf for more information.
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>Entrepreneur First London: November Open Office</heading>
+  <image src="https://i.imgur.com/mwcE4ck.jpg"/>
+  <event
+    startDate="2019-11-25T18:00:00+00:00"
+    endDate="2019-11-25T19:30:00+00:00"
+    location="Entrepreneur First, Lincoln Building, The Biscuit Factory, Drummond Road, London,
+    SE16 4DG">
+    <text>
+      Hear from one of Entrepreneur First's cofounders and meet the EF team on Monday 25th November
+      2019
+
+      Over drinks and snacks, we'll be having conversations about:
+
+      + Why entrepreneurship is the career path to scale your ambition
+      + What we look for in future founders
+      + Applying to EF &amp; the admissions process
+      + What the programme looks like in detail
+
+      WHEN: Monday 25th November 2019 from 6.00-7.30pm
+      WHERE: The Entrepreneur First Office, Block L
+
+
+      We look forward to helping you found the future.
+
+      Applications are now open **for the London April cohort**.
+
+      You can apply at joinef.com
+
+      ---
+
+      About Entrepreneur First: We fund exceptional individuals to build their own companies at a
+      very early stage. We were recently backed by Reid Hoffman, founder of LinkedIn, who lead a
+      $12m investment in Entrepreneur First, alongside Lakestar, and the founders of Google DeepMind.
+
+      Read more: https://techcrunch.com/2017/09/11/ef-greylock/
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/entrepreneur-first-london-november-open-office-tickets-80217732397">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
   <heading>Liquidnet Interactive Session: Graduate Recruitment; Trading &amp; AI</heading>
   <image src="https://i.imgur.com/anyZi0q.jpg"/>
   <event
-    startDate="2019-11-25T19:00:00+00:00"
-    endDate="2019-11-25T21:30:00+00:00"
-    location="Liquidnet Offices, 24 Floor, Broadgate Tower, Primrose St, London EC2A 2EW">
+  startDate="2019-11-25T19:00:00+00:00"
+  endDate="2019-11-25T21:30:00+00:00"
+  location="Liquidnet Offices, 24 Floor, Broadgate Tower, Primrose St, London EC2A 2EW">
     <text>
       Join Liquidnet for pizza and prosecco followed by a talk at their offices, 24 floors up in the
       heart of the City of London. It's a great way to network and learn more about the company,
@@ -369,6 +401,72 @@
   </event>
 
   <hr/>
+
+  <text> ## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>StarLeaf Student and Graduate Roles Now Live!</heading>
+  <sponsor company="starleaf">
+    StarLeaf have now launched their new [Careers Hub](https://jobs.starleaf.com/) and their 2020 student and graduate roles.
+
+    **Graduate roles**\
+    So, you are in your final year at Uni and you find yourself here, looking for a job that you
+    will start nearly a year away! Well, we salute you. The last thing you need during your exams
+    next year is to have interviews to worry about, even worse, countless calls from recruiters
+    telling you about an “exciting new opportunity.”
+
+    We are not hanging about either. We are interviewing people right now to start with us in 2020.
+    It’s a win win, we get to hire the smartest people and you get to secure yourself an awesome job
+    and sit back and relax over the festive break.
+
+    Check out our opportunities and get in touch with us now to find out some more and ask any
+    questions you may have.
+
+    **Intern roles**\
+    StarLeaf are currently looking for 2020 Interns to join our software engineering teams. They
+    will be attending a lot of careers fairs between now and the end of the year, so please do pop
+    by and say hello.
+
+    https://www.starleaf.com/careers/students-and-graduates/ - Showcase of Life at StarLeaf as a
+    student or graduate and hear from the Humans of StarLeaf.
+
+    **Opportunities**
+
+    [Product Team Graduate](https://www.starleaf.com/careers/jobs/job/580CF18AC2-product-team-graduate/) – Watford\
+    [Graduate Cloud Ops Engineer](https://www.starleaf.com/careers/jobs/job/5788C13092-graduate-cloud-operations-engineer/) - Watford\
+    [Graduate Software Engineer 2020 intake](https://www.starleaf.com/careers/jobs/job/42D5BFD4BA-graduate-software-engineer-2020-intake/) – Watford\
+    [Software Engineer Intern 2020 intake](https://www.starleaf.com/careers/jobs/job/90395F60A1-software-engineer-intern-2020-intake/) - Watford\
+    [Graduate Software Engineer 2020 intake](https://www.starleaf.com/careers/jobs/job/8B350E9DB8-graduate-software-engineer-2020-intake/) – Cambridge\
+    [Software Engineer Intern 2020 intake](https://www.starleaf.com/careers/jobs/job/696FB8624B-software-engineer-intern-2020-intake/) - Cambridge\
+    [Graduate Solutions Consultant](https://www.starleaf.com/careers/jobs/job/9C0B8D382D-graduate-solutions-consultant/) – London
+  </sponsor>
+
+  <hr/>
+
+  <heading>FinTech internships at London Stock Exchange Group</heading>
+  <sponsor company="lseg">
+    We are looking for motivated students with a real interest in technology and financial markets
+    to join our 2020 nine-week Summer Internship Programme.
+
+    From Artificial Intelligence to Blockchain, Machine Learning to high-speed trading platforms,
+    being a technologist at London Stock Exchange Group (LSEG) means being part of an exciting team
+    that’s shaping the fast-changing future of the global financial services markets.
+
+    Our technology internship programme offers you unique exposure to a wide variety of leading
+    technical, analytical and project management career path opportunities. You could find yourself
+    working on cyber security, introducing leading cutting-edge software or helping to implement
+    Robotic Process Automation and much more.
+
+    As well as the formal induction training and two four week rotations across our business we
+    offer a range of other development programmes within our friendly and supportive workplace
+    environment.
+
+    Whichever way you look at it, this is an incredible platform from which to launch your career.
+
+    Learn more today: lseg.com/graduates
+  </sponsor>
+
 
   <sign
     name="Radostin Petrov"
