@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/v8AVmr9.jpg"
+    alt="Stack of purple cookies"
+    title="This is what Thanos would look like if he was a cookie."/>
+
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    The past week week was another fun week, with ice skating by the
+    Natural History Museum and a mini golf session at Puttshack.
+
+    In the coming week, we have another ice skating event, as well as bar night for your
+    entertainment. Later in the week will be CGCU's Faces of Engineering - a joint diversity panel
+    with speakers from Bloomberg and American Express. Also, Liquidnet have an open
+    office on Monday, involving casual networking drinks open to all DoCSoc
+    members, so if you're looking for a relaxed evening in the City of London,
+    this would be a good opportunity to take. Read on for more information!
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>Conf42 - Chaos Engineering Conference - Special DoCSoc Tickets</heading>
+  <event
+    startDate="2020-01-23T08:00:00+00:00"
+    endDate="2020-01-24T16:30:00+00:00"
+    location="1a Oxendon St, London SW1Y 4EE">
+    <text>
+      Learn how companies such as Netflix and PagerDuty intentionally break their systems at scale
+      to build more resilient, scalable systems.
+      Conf42 (https://conf42.com) is giving away heavily discounted tickets to DoCSoc members and
+      Imperial College students. Conf42 will take place on 23rd January 2020 at The Comedy Store in
+      Soho, with a day of talks from industry leaders in chaos engineering, followed by networking
+      drinks at The Comedy Pub.
+      The following special tickets are available for all Imperial College students (bring your
+      friends!):
+      all students can purchase a conference ticket for a heavily discounted price of £39 (standard
+      price £339);
+      students from underrepresented groups in technology who are unable to attend without financial
+      assistance can apply for free tickets. (DoCSoc is also able to subsidise the cost of travel
+      for attendees who are eligible for this category.)
+      To obtain a special ticket, email docsoc@imperial.ac.uk.
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>LGBT Leaders STEM - Careers Conference at Amazon Headquarters</heading>
+  <text>
+    PinkNews is the world's most-read LGBT+ publication, reaching nearly 32 million unique users
+    each month. We organise a series of events called LGBT Leaders, which are now the UK's largest
+    careers conferences for LGBT+ undergraduates. Through these events, we aim to encourage LGBT+
+    students to meet role models, explore their career options, and feel comfortable being openly
+    LGBT+ wherever they choose to work.
+
+    This year we are launching the first **LGBT Leaders STEM**, taking place on the **15th of
+    February
+    2020 at Amazon headquarters** in London. We will be running a variety of workshops covering
+    topics
+    such as being LGBT+ in the workplace, allyship, and women in STEM. We have the [complete
+    agenda](http://lgbtleaders.co.uk/lgbt-leaders-stem/agenda/)
+    available to view on the LGBT Leaders website.
+
+    The conference will feature sessions on coding, data analysis, fintech, engineering and AI, as
+    well as sessions on trans allyship in tech and the role of diversity in AI. Students will hear
+    from sponsors such as Amazon, LinkedIn, the Financial Times and many others.
+
+    **Please find a link to our quick application process
+    [here](http://lgbtleaders.co.uk/lgbt-leaders-stem/apply-now/).
+    We look forward to seeing you there!**
+
+    If you have any questions, do not hesitate to contact ana@pinknews.co.uk.
+  </text>
+
+  <hr/>
+
+  <heading>Create the DoC Banner Competition!</heading>
+  <text>
+    Take a chance in winning a £20/£10 Amazon voucher and get a better banner for our department!
+
+    Did you know that our department uses this banner below at all its public events? It looks quite
+    outdated, right? That is why we decided to partner with the department to have the competition
+    of creating a better DoC banner! All you need to do is design a banner that follows all the
+    requirements below and submit your design here! The winner will get a £20 Amazon voucher, while
+    the runner-ups will get £10 Amazon vouchers.
+
+    [Click here to enter the competition!](https://forms.gle/cZP52Fx97N8JdN9t6)
+
+    Additional credit will be given to banners with photos which represent our diverse student body.
+    DoCSoc is giving permission for photos on our Facebook page from our events to be used for this
+    competiton. Looking for inspiration? You can find a small number of examples
+    [here](https://drive.google.com/folderview?id=1-XnBsc4xeBePap9JlROgjHFGasRJY_x4).
+
+    **The deadline: 1st December 2019**
+  </text>
+
+  <hr/>
+
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>Reading Groups by Prof Lomuscio and Piyawat Lertvittayakumjorn</heading>
+  <image src="https://i.imgur.com/1AFstgC.jpg"/>
+  <event
+    startDate="2019-11-25T18:00:00+00:00"
+    endDate="2020-11-25T19:00:00+00:00"
+    location="Huxley 140">
+    <text>
+      Join us at our bi-weekly reading groups where researchers come and talk about their current
+      work to expose current undergraduate students to research! These talks are open to everyone!
+
+      Session 1 by Prof Alessio Lomuscio: 6-6.30 pm
+
+      **Title**\
+      Towards verifying neural autonomous systems
+
+      **Abstract**\
+      Forthcoming autonomous and robotic systems, including autonomous vehicles, are expected to
+      benefit from recent advances in machine learning. Yet, by their own nature, machine learning
+      methods are known to be fragile and difficult to understand.
+
+      How can we give safety guarantees for a system in which some of the components, whether
+      perception systems or controllers, are driven by neural networks? What guarantees should these
+      be? In this talk I will report some initial steps taken in our Verification of Autonomous
+      Systems research group at DoC towards answering these questions.
+
+      I will introduce the concept of a Neural Agent-Environment system, as a closed-loop system
+      composed of an agent executing a feed forward or a recurrent neural network interacting with
+      an environment. I will then define a number of verification problems, report their
+      computational complexity and present a method for solving them. I will then move on to discuss
+      the topic of verification of CNN-based perception systems. In this context, I will present a
+      notion of transformational robustness and present a technique for establishing this property
+      in classifiers.
+
+      The talk will report joint work with M. Akintunde, A. Kevorchian, P. Kouvaros, L. Maganti, and
+      E. Pirovano
+
+      Session 2 by Piyawat Lertvittayakumjorn: 6.30-7 pm
+
+      **Title**\
+      Investigating and mitigating infamous weaknesses of deep natural language processing
+
+      **Abstract**\
+      In the last ten years, we have seen several (black-box) deep learning models being proposed
+      and achieving state-of-the-art performance in various natural language processing (NLP) tasks.
+      In spite of the promising evaluation scores based on standard metrics and benchmarks, deep
+      learning has some undesirable weaknesses which hinder its adoption in real-world applications.
+      These include issues of bias, consistency, and reliability. Consequently, to build user trust
+      and ensure that the models are working reasonably, many researchers have proposed explanation
+      methods to make deep learning models less opaque so that the users can investigate the model
+      behaviours and mitigate the problems found. In this talk, I will discuss (i) some infamous
+      weaknesses of advanced deep NLP models (ii) explanation methods used to understand the model
+      behaviours and (iii) examples of techniques to handle or fix the detected problems.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/435177127380276/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>End Of Decade Bar Night</heading>
+  <image src="https://i.imgur.com/WO2BJ62.jpg"/>
+  <event
+    startDate="2019-11-25T19:00:00+00:00"
+    endDate="2020-11-25T23:00:00+00:00"
+    location="Metric">
+    <text>
+      This term is coming to an end, so as the decade... It's time to relax and celebrate with your
+      friends. We bring you: End Of Decade Bar Night!
+
+      Drink tokens will be available throughout the night for FREE to all DoCSoc members.
+
+      We may decide to head to Belushi's after the event; if this is the case, DoCSoc often buys
+      attendees a round of drinks, so if you're unable to come to the bar night, bear in mind there
+      is still a chance members will go out after!
+
+      ----------------------
+
+      You must be a member of DoCSoc by Friday 18th October in order to be admitted. Computing, JMC,
+      and EIE students are automatically members of DoCSoc. Membership is £30. Strictly 18+ only -
+      we will be checking IDs.
+
+      Please send an email to us at docsoc@ic.ac.uk if you intend to bring a non-Imperial plus one.
+      Any Imperial plus-ones must have purchased membership, otherwise they will be denied entry.
+
+      Our full barnight policy is linked here: http://docsoc.co.uk/barnightpolicy
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1046701555662020/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Postgraduate Drinks 2</heading>
+  <image src="https://i.imgur.com/QvXD1Mg.jpg"/>
+  <event
+    startDate="2019-11-26T18:30:00+00:00"
+    endDate="2020-11-26T21:30:00+00:00"
+    location="Eastside Bars">
+    <text>
+      The time has come for the second DoCSoc Postgraduate bar night!
+
+      Come along to grab some free drinks and to chat to our sponsors: for this night we will host
+      Stake Zero Ventures and EF (Entrepreneur First), who are especially interested in our
+      postgraduate members (you!). As usual, two drink tokens will be given upon entry for FREE to
+      all DoCSoc postgraduate members.
+
+      Please note, that only DoCSoc postgraduate members will be admitted into the event - this
+      includes MSc, MRes, and PhD students.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/779622592458039/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>DoCSoc Goes Ice Skating 2</heading>
+  <image src="https://i.imgur.com/NjYZD9l.jpg"/>
+  <event
+    startDate="2019-11-27T18:00:00+00:00"
+    endDate="2020-11-27T19:00:00+00:00"
+    location="Natural History Museum">
+    <text>
+      Missed out on the last skating session due to work constraints? Have no fear because have a
+      Second Session fresh out the oven, or should I say, the freezer just for you!!! ⛄️
+
+      Get out your scarf and gloves, and join us at the Natural History Museum for an ice skating
+      spectacular on Wednesday 27th November.
+
+      DoCSoc will be heavily subsidising tickets to just £4.50! We only have a limited number of
+      tickets for this session, so make sure to try and get one.
+
+      The ice skating starts at 6pm, so we will be meeting at 5:30pm at the entrance of the Ice
+      Skating Rink - stay tuned for more updates about this.
+
+      TICKETS WILL BE RELEASED ON THURSDAY (21TH NOVEMBER) AT 1PM ON EVENTBRITE. With this please go
+      to the Imperial College Union Shop to purchase your ticket, you have a 2 hour window in order
+      to confirm your purchase! YOU CAN ONLY BUY A UNION SHOP TICKET IF YOU HAVE AN EVENTBRITE
+      PLACEHOLDER TICKET.
+
+      We hope to see you there!
+
+      --------------------------------------------------------------
+      You must be a member of DoCSoc by Tuesday 13th November in order to be admitted. Computing,
+      JMC, and EIE students are automatically members of DoCSoc. Membership is £30.
+
+      Find out more: http://docsoc.co.uk/join
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/519626528617172/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Faces of Engineering</heading>
+  <image src="https://i.imgur.com/fZC4bYL.jpg"/>
+  <event
+    startDate="2019-11-28T18:00:00+00:00"
+    endDate="2019-11-28T21:00:00+00:00"
+    location="CAGB 200">
+    <text>
+      Faces of Engineering is CGCU's annual engineering diversity event, bringing together students,
+      industry professionals, and engineers from all walks of life. Over the past few years, we have
+      had the privilege of hosting companies like Google, Microsoft, and P&amp;G, among others.
+
+      This year, we are please to announce that we have confirmed the attendance of Bloomberg,
+      American Express, Qualcomm, Shell and Cisco with more companies expected to attend! Do be sure
+      to come down and get a chance to meet the panellists and understand more about different types
+      of engineering professions.
+
+      This year, we are renaming the event "Faces of Engineering"; with Imperial being one of the
+      world's most diverse universities, we at the CGCU are continuously striving to fully engage
+      staff, students, and the community. We warmly welcome people of all cultures, languages, and
+      backgrounds to this event and hope to see a wonderful turnout!
+
+      The event will be held in CAGB200, but in the mean time do sign up to the event using the link
+      below so that we can make appropriate provisions for numbers. There will be a catered
+      networking session after the panel discussion too (free pizza wooo)!
+
+      We look forward to seeing you all there!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/456177365252525/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## External Events</text>
+
+  <hr/>
+
+  <heading>Entrepreneur First London: November Open Office</heading>
+  <image src="https://i.imgur.com/mwcE4ck.jpg"/>
+  <event
+    startDate="2019-11-25T18:00:00+00:00"
+    endDate="2019-11-25T19:30:00+00:00"
+    location="Entrepreneur First, Lincoln Building, The Biscuit Factory, Drummond Road, London,
+    SE16 4DG">
+    <text>
+      Hear from one of Entrepreneur First's cofounders and meet the EF team on Monday 25th November
+      2019
+
+      Over drinks and snacks, we'll be having conversations about:
+
+      + Why entrepreneurship is the career path to scale your ambition
+      + What we look for in future founders
+      + Applying to EF &amp; the admissions process
+      + What the programme looks like in detail
+
+      WHEN: Monday 25th November 2019 from 6.00-7.30pm
+      WHERE: The Entrepreneur First Office, Block L
+
+
+      We look forward to helping you found the future.
+
+      Applications are now open **for the London April cohort**.
+
+      You can apply at joinef.com
+
+      ---
+
+      About Entrepreneur First: We fund exceptional individuals to build their own companies at a
+      very early stage. We were recently backed by Reid Hoffman, founder of LinkedIn, who lead a
+      $12m investment in Entrepreneur First, alongside Lakestar, and the founders of Google
+      DeepMind.
+
+      Read more: https://techcrunch.com/2017/09/11/ef-greylock/
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/entrepreneur-first-london-november-open-office-tickets-80217732397">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Liquidnet Interactive Session: Graduate Recruitment; Trading &amp; AI</heading>
+  <image src="https://i.imgur.com/anyZi0q.jpg"/>
+  <event
+    startDate="2019-11-25T19:00:00+00:00"
+    endDate="2019-11-25T21:30:00+00:00"
+    location="Liquidnet Offices, 24 Floor, Broadgate Tower, Primrose St, London EC2A 2EW">
+    <text>
+      Join Liquidnet for pizza and prosecco followed by a talk at their offices, 24 floors up in the
+      heart of the City of London. It's a great way to network and learn more about the company,
+      while
+      having fun!
+
+      Check out the event information below and RSVP **for free** in
+      [Eventbrite](https://www.eventbrite.co.uk/e/liquidnet-interactive-session-graduate-recruitment-trading-ai-tickets-80036171343).
+
+      _Please note this event is 18+ only._
+
+      ---
+
+      Traders in financial markets perform tasks that require them to absorb large amounts of data
+      in limited time and make rapid decisions. Time is money and sub-optimal performance can cost
+      firms hundreds of millions of dollars a year. Liquidnet augments the human expert with a
+      variety of technologies, from anomaly detection pattern recognition algorithms to natural
+      language generation and visualizations.
+
+      **Join Liquidnet Chief Data Scientist Tom Doris, PhD.** to discuss challenges in adoption and
+      adherence of new technologies by human experts, deconstruct the methods that were effective in
+      overcoming the obstacles, and review similarities across other industries.
+
+      There will be an opportunity to network with members of Tom's Technology team, our Recruitment
+      Team and Product Team once the interactive session has ended.
+
+      Refreshments will be served.
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/liquidnet-interactive-session-graduate-recruitment-trading-ai-tickets-80036171343">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text> ## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Jane Street - Spring Insight Programme - SPiN</heading>
+  <image src="https://i.imgur.com/E270kzP.png"/>
+  <text>
+    Spring Insight Programme (SPiN) is a new three-day programme hosted by Jane Street. Participants
+    will learn about the real world ways we use math, computer science and probability concepts in
+    the work we do. We’ll also provide an in-depth look at the different roles that exist within our
+    firm. Participants will hear from and interact with full timers to learn how they transitioned
+    from studying STEM subjects at university to a career at Jane Street. In addition, there will be
+    a few social events which will provide another great opportunity to speak with Jane Street
+    employees and the other students attending the event.
+
+    Selected students will arrive in London the evening of Tuesday 14th April and will depart the
+    evening of Friday 17th April. Jane Street will provide all travel to and from London,
+    accommodation at a hotel near the office, and of course, plenty of food and drinks throughout
+    the event.
+
+    **[APPLY HERE](https://www.janestreet.com/apply-spin/?utm_campaign=spin-2020)**
+
+    **Sign-ups will close on Sunday 5th January at 11:59pm.** Selected applicants will be notified
+    after the 6th January regarding your status.
+
+    Questions? Please don't hesitate to email [work@janestreet.com](mailto:work@janestreet.com). We
+    look forward to meeting you!
+
+    ---
+
+    Jane Street is a quantitative trading firm that uses innovative technology, a scientific
+    approach, and a deep understanding of markets to guide our business, working out of offices in
+    New York, London, Amsterdam and Hong Kong. Founded in 2000, Jane Street employs over 1000
+    people. We are always recruiting top students and the environment at Jane Street is open,
+    informal, intellectual and fun. The dress code is casual, the kitchen is stocked and discussions
+    are always lively. Teaching and learning are central activities through classes, mentoring and
+    discussion.
+  </text>
+
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
+
+</email>
