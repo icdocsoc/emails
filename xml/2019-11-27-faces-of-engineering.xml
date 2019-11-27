@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="Faces of Engineering - Tomorrow at 6pm!"
+  logos="false"
+  agenda="false">
+  <text>
+    Are you interested in how engineering professionals got to the position they are in? Thinking
+    about what the culture is like in big companies in industry?
+
+    We invite you to CGCU's annual event Faces of Engineering! Come and meet representatives from
+    Bloomberg, American Express, Qualcomm, Shell and Cisco, who will talk about their careers,
+    diversity in the workplace and much more!
+
+    The session will start at **6pm tomorrow in CAGB 200**. There will also be a session after the
+    panel with free food and drinks.
+  </text>
+
+  <hr/>
+
+  <heading>Faces of Engineering</heading>
+  <image src="https://i.imgur.com/fZC4bYL.jpg"/>
+  <event
+    startDate="2019-11-28T18:00:00+00:00"
+    endDate="2019-11-28T21:00:00+00:00"
+    location="CAGB 200">
+    <text>
+      Faces of Engineering is CGCU's annual engineering diversity event, bringing together students,
+      industry professionals, and engineers from all walks of life. Over the past few years, we have
+      had the privilege of hosting companies like Google, Microsoft, and P&amp;G, among others.
+
+      This year, we are please to announce that we have confirmed the attendance of Bloomberg,
+      American Express, Qualcomm, Shell and Cisco with more companies expected to attend! Do be sure
+      to come down and get a chance to meet the panellists and understand more about different types
+      of engineering professions.
+
+      This year, we are renaming the event "Faces of Engineering"; with Imperial being one of the
+      world's most diverse universities, we at the CGCU are continuously striving to fully engage
+      staff, students, and the community. We warmly welcome people of all cultures, languages, and
+      backgrounds to this event and hope to see a wonderful turnout!
+
+      The event will be held in CAGB200, but in the mean time do sign up to the event using the link
+      below so that we can make appropriate provisions for numbers. There will be a catered
+      networking session after the panel discussion too (free pizza wooo)!
+
+      We look forward to seeing you all there!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/456177365252525/">Facebook</link>
+    </links>
+  </event>
+</email>
