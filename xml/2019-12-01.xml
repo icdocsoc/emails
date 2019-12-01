@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/NwTWnqP.jpg"
+    alt="Stack of biscuits on a plate"
+    title="Oddly satisfying"/>
+
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    We hope you enjoyed our Faces of Engineering panel last week, as well as our End of Decade Bar
+    Night and (for postgraduates) the Postgraduate Drinks. Thank you to those of you attending the
+    off-campus events held by our sponsors Liquidnet and Entrepreneur First, we hope you found them
+    useful and fun.
+
+    As the Department of Computing goes into December exams (or in the case of
+    second years, their final week of Pintos), the next week will be quieter.
+    Despite the short digest, we have some exciting things to announce,
+    including an open Union debate about the planned halls rent increase. There will also be our
+    annual Christmas party and long-awaited UROP 101 talk, so read on for more information!
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>Halls Rent Debate</heading>
+  <image src="https://i.imgur.com/GXGejqV.jpg"/>
+  <event
+    startDate="2019-12-03T19:00:00+00:00"
+    endDate="2019-12-03T20:00:00+00:00"
+    location="Read Lecture Theatre, Sherfield Level 5">
+    <text>
+      Have your say over the price of rent in halls.
+
+      SIGN UP HERE: https://www.imperialcollegeunion.org/whats-on/event/7503
+
+      The College and the Union negotiate over the price of rent in halls periodically, and this
+      year we have a real opportunity to shape what this will look like. We're holding a special
+      meeting of Union Council to decide on the best way to move forward.
+
+      The plan is for the President and Deputy President Welfare to present the information they
+      have and invite questions and contributions from the floor, and then for elected student reps
+      from across the College to take a vote on the best way to move forward.
+
+      Please join us and make your voice heard!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/783256598770880/">Facebook</link>
+      <link href="https://www.imperialcollegeunion.org/whats-on/event/7503">RSVP</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Imperial Careers Service and JobsLive Events</heading>
+  <image src="https://i.imgur.com/tFXEIeD.png"/>
+  <text>
+    Are you an undergraduate still looking for an internship over the summer? Or maybe a
+    graduating student looking for employment? With internship deadlines fast approaching, you're
+    not too late to start applying with the help of Imperial Careers Service!
+
+    From CV/cover letter workshops, mock interviews, to Employer Led sessions (past events include
+    events run by Airbus, HSBC, Nestle and KPMG), there is a wealth of events available on JobsLive
+    to help you get started with your internship/job pursuit.
+
+    Make sure to follow Careers Service on social media to stay updated with events announcements,
+    as well as different competitions they run (for a chance to win a prize!):
+    [Facebook](https://facebook.com/imperialcollegecareers)
+    [Twitter](https://twitter.com/imperialcareers)
+    [Instagram](https://www.instagram.com/ic_careers)
+  </text>
+
+  <hr/>
+
+  <heading>Conf42 - Chaos Engineering Conference - Special DoCSoc Tickets</heading>
+  <event
+    startDate="2020-01-23T08:00:00+00:00"
+    endDate="2020-01-24T16:30:00+00:00"
+    location="1a Oxendon St, London SW1Y 4EE">
+    <text>
+      Learn how companies such as Netflix and PagerDuty intentionally break their systems at scale
+      to build more resilient, scalable systems.
+      Conf42 (https://conf42.com) is giving away heavily discounted tickets to DoCSoc members and
+      Imperial College students. Conf42 will take place on 23rd January 2020 at The Comedy Store in
+      Soho, with a day of talks from industry leaders in chaos engineering, followed by networking
+      drinks at The Comedy Pub.
+      The following special tickets are available for all Imperial College students (bring your
+      friends!):
+      all students can purchase a conference ticket for a heavily discounted price of £39 (standard
+      price £339);
+      students from underrepresented groups in technology who are unable to attend without financial
+      assistance can apply for free tickets. (DoCSoc is also able to subsidise the cost of travel
+      for attendees who are eligible for this category.)
+      To obtain a special ticket, email docsoc@imperial.ac.uk.
+    </text>
+  </event>
+
+  <hr/>
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>DoCSoc Christmas Party</heading>
+  <image src="https://i.imgur.com/4GFqCv2.jpg"/>
+  <event
+    startDate="2019-12-03T18:00:00+00:00"
+    endDate="2019-12-03T20:00:00+00:00"
+    location="Huxley 342">
+    <text>
+      Come put on your Santa hat and Christmas jumper, and join us for a night of festive fun!
+      There'll be mince pies, Christmassy snacks, mulled wine, hot chocolate, and more. We'll also
+      be playing some games, so come get into the holiday spirit with us at the end of a busy term
+      or have one final party before your exams!
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to attend. Computing, JMC, and
+      EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/566830340747253/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>UROP 101</heading>
+  <image src="https://i.imgur.com/mxAQAd9.png"/>
+  <event
+    startDate="2019-12-06T13:00:00+00:00"
+    endDate="2019-12-06T14:00:00+00:00"
+    location="Huxley 145">
+    <text>
+      Thinking of how to enjoy your summer and learn new technologies? Then join us at UROP 101 talk
+      where you will get to know all essential information about Undergraduate Research
+      Opportunities Programme. The speaker of the talk will be Paul Kelly who manages the scheme.
+
+      _______
+
+      You must be a member of DoCSoc on the day of the event in order to attend. Computing, JMC, and
+      EIE students are automatically DoCSoc members. Membership can be purchased for £30 at
+      docsoc.co.uk/join.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2192846977676102/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## External Events</text>
+
+  <hr/>
+
+  <heading>Future of Blockchain Algorand Workshop</heading>
+  <image src="https://i.imgur.com/0HOfBFA.png"/>
+  <event
+    startDate="2019-12-03T17:00:00+00:00"
+    endDate="2019-12-03T20:00:00+00:00"
+    location="KCL South East Wing">
+    <text>
+      Join us for a technical deep-dive into Algorand with one of their core developers.
+
+      This is a must-attend event for those building on Algorand in Future of Blockchain or
+      considering doing so!
+
+      If you don't know already, Future of Blockchain is a 3 month competition for developers and
+      entrepreneurs to build a project. Late registrations are still open via
+      www.futureofblockchain.co.uk.
+
+      We'll be covering:
+      - Technical overview of Algorand
+      - Algorand new features
+      - How to build an app on Algorand
+      - Top tips on how to win a prize on Algorand!
+      - Pizza and beer
+
+      Please note it would be helpful to bring a laptop!
+
+      There are travel grants of available for those travelling from Cambridge or Oxford! Email
+      Anthony if you need one - anthony@stakezero.com.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/772118853306920/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Citadel &amp; Citadel Securities Internships and Graduate Positions</heading>
+  <sponsor company="citadel">
+    **Citadel** is a leading investor in the world’s financial markets. For over a quarter of a
+    century,
+    we have sought to deliver industry-leading investment returns to clients including corporate
+    pensions, endowments, foundations, public institutions, and sovereign wealth funds.
+
+    **Citadel Securities** is an award-winning global market maker that helps meet the liquidity
+    needs
+    of asset managers, banks, broker-dealers, hedge funds, government agencies, and public pension
+    programs.
+
+    Applications open for both internships and graduate roles for the following positions:
+    - Investment &amp; Trading
+    - Quantitative Strategies
+    - Software Engineering
+
+    Apply via our websites citadel.com &amp; citadelsecurities.com
+  </sponsor>
+
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
+
+</email>
