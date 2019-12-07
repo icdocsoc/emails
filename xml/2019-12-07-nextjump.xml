@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="Talk, Pizza and Drinks at Next Jump's New Office -- Next Jump Technology Open House"
+  logos="false"
+  agenda="false">
+
+  <text>**Join Next Jump for a talk, with pizza and drinks, at their new office next Thursday. Only
+    thirty spaces available!**</text>
+
+  <hr/>
+
+  <heading>Next Jump Technology Open House
+  </heading>
+  <image src="https://i.imgur.com/vrZYwM7.jpg"/>
+  <event
+    startDate="2019-12-12T18:30:00+00:00"
+    endDate="2019-12-12T20:30:00+00:00"
+    location="91 Waterloo Road, London, SE1 8RT, United Kingdom">
+    <text>
+      Come and visit our new office just outside of Waterloo Station!
+
+      Our Head of Engineering, James, will be giving a talk about the awesome tech we use to run our
+      e-commerce site that annually brings in $3 billion dollars of sales.
+
+      Fun fact: Our platform serves over half a million users at peak during Black Friday week.
+
+      Afterwards, we'll have some time for you to meet and chat with the amazing NxJers over free
+      pizza and drinks.
+      Can't wait to see you there!
+
+      [**RSVP here -- tickets
+      required!**](https://www.eventbrite.com/e/next-jump-technology-open-house-tickets-84780417511)
+    </text>
+    <links>
+      <link href="https://www.eventbrite.com/e/next-jump-technology-open-house-tickets-84780417511">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+</email>
