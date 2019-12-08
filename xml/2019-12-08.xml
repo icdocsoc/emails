@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/N5zo1QB.jpg"
+    alt="A selection of very festive biscuits"
+    title="A festive selection of biscuits with Christmas around the corner!"/>
+
+  <hr/>
+
+  <text>
+    Welcome to the last week of term (and the last digest for a while)!
+
+    Congratulations to everyone on completing yet another term! No doubt an exciting term
+    with over 30 events ranging from sponsor events to fun off-campus activities! Thank you all for
+    attending and we hope that we have made your time here more enjoyable. Of course,
+    we will back next term to bring you many more events, including the upcoming IC Hack 20!
+
+    If you're a second year, congratulations on finishing Pintos! It's time to
+    have some well-deserved rest. If you're a third or fourth year with the next
+    week being the final hurdle of the term, we wish you good luck with your exams!
+
+    Now for the last time this calendar year, let's dig into the digest!
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>IC Hack 20 Organisers</heading>
+  <text>
+    Speaking of IC Hack, we are currently in the midst of organizing it bigger and better than ever,
+    targeting more than 400 attendees.
+    With help needed in Logistics, Hacker Experience, Sponsorship, Marketing
+    and more, IC Hack 20 is an opportunity to go beyond the standard role of a
+    volunteer and become a _core organiser_ of a major hackathon.\
+    We organized a volunteer onboarding meeting earlier this term and you can find all of the
+    information from it at https://docsoc.co.uk/ichack20kickoffcatchup.\
+    Make sure to join the [DoCSoc: Operations](https://docsoc.co.uk/volunteer) Facebook group to
+    keep yourself updated and you can also learn more about organising IC Hack
+    [here](https://www.facebook.com/groups/1509850436007222/2621692211489700/).
+  </text>
+
+  <hr/>
+
+  <heading>Pintos Glasses</heading>
+  <text>
+    As is tradition, all Pintos survivors will be getting a special pint glass. We will be
+    organizing a collection in the upcoming week. Details will be released soon™ so stay tuned!
+  </text>
+
+  <hr/>
+
+  <heading>Conf42 - Chaos Engineering Conference - Special DoCSoc Tickets</heading>
+  <event
+    startDate="2020-01-23T08:00:00+00:00"
+    endDate="2020-01-24T16:30:00+00:00"
+    location="1a Oxendon St, London SW1Y 4EE">
+    <text>
+      Learn how companies such as Netflix and PagerDuty intentionally break their systems at scale
+      to build more resilient, scalable systems.
+      Conf42 (https://conf42.com) is giving away heavily discounted tickets to DoCSoc members and
+      Imperial College students. Conf42 will take place on 23rd January 2020 at The Comedy Store in
+      Soho, with a day of talks from industry leaders in chaos engineering, followed by networking
+      drinks at The Comedy Pub.
+      The following special tickets are available for all Imperial College students (bring your
+      friends!):
+      all students can purchase a conference ticket for a **heavily discounted price of £19**
+      (standard
+      price £339);
+      students from underrepresented groups in technology who are unable to attend without financial
+      assistance can apply for free tickets. (DoCSoc is also able to subsidise the cost of travel
+      for attendees who are eligible for this category.)
+      To obtain a special ticket, email docsoc@imperial.ac.uk.
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>Imperial Careers Service and JobsLive Events</heading>
+  <image src="https://i.imgur.com/tFXEIeD.png"/>
+  <text>
+    Are you an undergraduate still looking for an internship over the summer? Or maybe a
+    graduating student looking for employment? With internship deadlines fast approaching, you're
+    not too late to start applying with the help of Imperial Careers Service!
+
+    From CV/cover letter workshops, mock interviews, to Employer Led sessions (past events include
+    events run by Airbus, HSBC, Nestle and KPMG), there is a wealth of events available on JobsLive
+    to help you get started with your internship/job pursuit.
+
+    Make sure to follow Careers Service on social media to stay updated with events announcements,
+    as well as different competitions they run (for a chance to win a prize!):
+    [Facebook](https://facebook.com/imperialcollegecareers)
+    [Twitter](https://twitter.com/imperialcareers)
+    [Instagram](https://www.instagram.com/ic_careers)
+  </text>
+
+  <hr/>
+
+  <text>## External Events</text>
+
+  <hr/>
+
+  <heading>Next Jump Technology Open House
+  </heading>
+  <image src="https://i.imgur.com/vrZYwM7.jpg"/>
+  <event
+    startDate="2019-12-12T18:30:00+00:00"
+    endDate="2019-12-12T20:30:00+00:00"
+    location="91 Waterloo Road, London, SE1 8RT, United Kingdom">
+    <text>
+      Come and visit our new office just outside of Waterloo Station!
+
+      Our Head of Engineering, James, will be giving a talk about the awesome tech we use to run our
+      e-commerce site that annually brings in $3 billion dollars of sales.
+
+      Fun fact: Our platform serves over half a million users at peak during Black Friday week.
+
+      Afterwards, we'll have some time for you to meet and chat with the amazing NxJers over free
+      pizza and drinks.
+      Can't wait to see you there!
+
+      [**RSVP here -- tickets
+      required!**](https://www.eventbrite.com/e/next-jump-technology-open-house-tickets-84780417511)
+    </text>
+    <links>
+      <link href="https://www.eventbrite.com/e/next-jump-technology-open-house-tickets-84780417511">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Citadel &amp; Citadel Securities Internships and Graduate Positions</heading>
+  <sponsor company="citadel">
+    **Citadel** is a leading investor in the world’s financial markets. For over a quarter of a
+    century,
+    we have sought to deliver industry-leading investment returns to clients including corporate
+    pensions, endowments, foundations, public institutions, and sovereign wealth funds.
+
+    **Citadel Securities** is an award-winning global market maker that helps meet the liquidity
+    needs
+    of asset managers, banks, broker-dealers, hedge funds, government agencies, and public pension
+    programs.
+
+    Applications open for both internships and graduate roles for the following positions:
+    - Investment &amp; Trading
+    - Quantitative Strategies
+    - Software Engineering
+
+    Apply via our websites citadel.com &amp; citadelsecurities.com
+  </sponsor>
+
+  <hr/>
+
+  <heading>Jane Street - Spring Insight Programme - SPiN</heading>
+  <image src="https://i.imgur.com/E270kzP.png"/>
+  <text>
+    Spring Insight Programme (SPiN) is a new three-day programme hosted by Jane Street. Participants
+    will learn about the real world ways we use math, computer science and probability concepts in
+    the work we do. We’ll also provide an in-depth look at the different roles that exist within our
+    firm. Participants will hear from and interact with full timers to learn how they transitioned
+    from studying STEM subjects at university to a career at Jane Street. In addition, there will be
+    a few social events which will provide another great opportunity to speak with Jane Street
+    employees and the other students attending the event.
+
+    Selected students will arrive in London the evening of Tuesday 14th April and will depart the
+    evening of Friday 17th April. Jane Street will provide all travel to and from London,
+    accommodation at a hotel near the office, and of course, plenty of food and drinks throughout
+    the event.
+
+    **[APPLY HERE](https://www.janestreet.com/apply-spin/?utm_campaign=spin-2020)**
+
+    **Sign-ups will close on Sunday 5th January at 11:59pm.** Selected applicants will be notified
+    after the 6th January regarding your status.
+
+    Questions? Please don't hesitate to email [work@janestreet.com](mailto:work@janestreet.com). We
+    look forward to meeting you!
+  </text>
+
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
+
+</email>
