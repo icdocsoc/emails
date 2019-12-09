@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="Entrepreneur First Women's Office Hours"
+  logos="false"
+  agenda="false">
+
+  <text>
+    Hi everyone,
+
+    Entrepreneur First have reached out to us with this awesome opportunity for everyone
+    interested in entrepreneurship. If you're thinking of transferring your skills or background in
+    academia to the world of startups, then join EF in their offices for a mentoring session,
+    followed by drinks!
+
+    Tickets can be found here: https://ef-women-openoffice.eventbrite.co.uk.
+  </text>
+
+  <hr/>
+
+  <heading>Entrepreneur First Women's Office Hours
+  </heading>
+  <image src="https://i.imgur.com/8YasGVe.jpg"/>
+  <event
+    startDate="2019-12-11T17:45:00+00:00"
+    endDate="2019-12-11T20:00:00+00:00"
+    location="Entrepreneur First, Lincoln Block, The Biscuit Factory, Drummond Road, London, SE16 4DG">
+    <text>
+      Entrepreneur First is hosting office hours for women seeking advice on their careers or
+      startup journey.
+
+      Join us for a one-to-one mentoring session with one of our team members and a chance to grab a
+      drink with other women considering taking the plunge into entrepreneurship. This will be an
+      opportunity to discuss entrepreneurial ambitions and goals, get career advice and learn about
+      the EF program.
+
+      Whether you are considering moving from academia to the start-up world, you're thinking about
+      quitting your day job to start your own thing or you're simply curious about the opportunity,
+      if you've got ambition we want to speak to you.
+
+      Sign up to the event and we will send you a link to book in your one-to-one session.
+
+      ---
+
+      About Entrepreneur First: We fund exceptional individuals to build their own companies at a
+      very early stage. We were recently backed by Reid Hoffman, founder of LinkedIn, who lead a
+      $12m investment in Entrepreneur First, alongside Lakestar, and the founders of Google
+      DeepMind.
+
+      Read more: https://techcrunch.com/2017/09/11/ef-greylock/
+    </text>
+    <links>
+      <link href="https://www.eventbrite.co.uk/e/entrepreneur-first-womens-office-hours-tickets-83953458053">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+</email>
