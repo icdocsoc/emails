@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+    <image
+            width="90"
+            src="https://i.imgur.com/WZJa6LG.jpg"
+            alt="Container of Danish butter cookies"
+            title="Happy new term!?"/>
+
+    <hr/>
+
+    <text>
+        Welcome back to another term!
+
+        Hope all of you got a well-deserved rest and enjoyed the holiday season. This term, in addition to our social
+        events and bar nights, DoCSoc will be organising our yearly flagship events, mainly IC Hack 20 and Revel.
+        Tickets for IC Hack 20 will be **going live on Friday the 10th of Jan at 1:30 pm**, so make sure to stay updated
+        over our social media channels (especially Facebook). As always, all of our announcements will be sent out in
+        our weekly digest, so make sure to read on!
+    </text>
+
+    <hr/>
+
+    <text>## General Notices</text>
+
+    <hr/>
+
+    <heading>DoCSoc Merch Update</heading>
+    <text>
+        DoCSoc merch will go on sales soon via the IC Union website. As usual, there will be the hoodies and with “Class
+        of 2020” printed for our leavers. In addition, there will be some new merch with limited quantities going on
+        sale. We will announce the merch sales in a separate email when it is released on the union website! DoCSoc will
+        be sponsoring the merch as always. So stay tuned!
+    </text>
+
+    <hr/>
+
+    <heading>IC Hack 20 Meme Sticker Competition</heading>
+    <image src="https://i.imgur.com/AJWYtkd.png"/>
+    <text>
+        33 days count down to IC Hack 20, are you ready!! This year, we’ll be introducing the “IC Hack 20 Meme Sticker
+        Competition”! We will select one winning entry for this competition. The winning entry will then be printed and
+        distributed during the hackathon. Winner will receive a guaranteed ticket to the hackathon! Here’s the link to
+        the submission form: https://forms.gle/KcqqZySepSyzSX7NA
+
+        There is no limit on the entries submitted. You can always come back and submit more. We will consider all the
+        entries you have submitted. Please submit your entry in pdf, jpg or png files. The deadline will be on 25th
+        January.
+
+        Entry condition:
+        - “IC HACK 20" shown on the entry
+        - Keep the size of the file under 100mb
+
+        [**Please check out and utilise all the relevant files in this folder, including a template of the
+        entry.**](https://drive.google.com/drive/folders/1dEg6SBlSoy-kbYQAddYe3EIMmKoOZ-lS?usp=sharing)
+    </text>
+
+    <hr/>
+
+    <heading>Conf42 - Chaos Engineering Conference - Special DoCSoc Tickets</heading>
+    <event
+            startDate="2020-01-23T08:00:00+00:00"
+            endDate="2020-01-24T16:30:00+00:00"
+            location="1a Oxendon St, London SW1Y 4EE">
+        <text>
+            Learn how companies such as Netflix and PagerDuty intentionally break their systems at scale
+            to build more resilient, scalable systems.
+            Conf42 (https://conf42.com) is giving away heavily discounted tickets to DoCSoc members and
+            Imperial College students. Conf42 will take place on 23rd January 2020 at The Comedy Store in
+            Soho, with a day of talks from industry leaders in chaos engineering, followed by networking
+            drinks at The Comedy Pub.
+            The following special tickets are available for all Imperial College students (bring your
+            friends!):
+            all students can purchase a conference ticket for a **heavily discounted price of £19**
+            (standard
+            price £339);
+            students from underrepresented groups in technology who are unable to attend without financial
+            assistance can apply for free tickets. (DoCSoc is also able to subsidise the cost of travel
+            for attendees who are eligible for this category.)
+            To obtain a special ticket, email docsoc@imperial.ac.uk.
+        </text>
+    </event>
+
+    <hr/>
+
+    <text>## On-Campus Events</text>
+
+    <hr/>
+
+    <heading>IC Hack 20 - First Ticket Batch Release</heading>
+    <image src="https://i.imgur.com/eky2mzj.jpg"/>
+    <event startDate="2020-02-08T10:00:00+00:00"
+           endDate="2019-02-09T17:00:00+00:00"
+           location="Imperial College London">
+        <text>
+            Kick off the new decade right.
+            Are you ready for IC Hack 20?
+
+            The largest student-run hackathon in the UK returns to Imperial College better than ever before. Running for
+            its
+            9th consecutive year, we’re bringing over 400 of the UK's most creative and talented students together for
+            24
+            hours of learning, building, fun, and networking on the weekend of 8-9th February 2020. Come create
+            something
+            cool!
+
+            IC Hack 20 will be hosted on Imperial College London's South Kensington campus. Students from all
+            universities
+            can attend!
+
+            The **first batch of tickets** will be released on the **10th of January at 1:30pm GMT**!
+            Tickets sell out in seconds, so don't miss out! Did we mention it is completely free?
+        </text>
+        <links>
+            <link href="https://ichack20.eventbrite.com">Tickets (Eventbrite)</link>
+            <link href="https://www.facebook.com/events/415614812680196/">Facebook</link>
+            <link href="https://ichack.org/">Website</link>
+        </links>
+    </event>
+
+
+    <sign
+            name="Radostin Petrov"
+            role="DoCSoc Secretary '19/20"
+            facebook="radostin.petrov99">
+        Until next time,
+    </sign>
+</email>
