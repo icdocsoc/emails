@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+    <image
+            width="55"
+            src="https://i.imgur.com/VsDtOCH.jpgl"
+            alt="Chocolate chip cookie"
+            title=""/>
+
+    <hr/>
+
+    <text>
+        Hi everyone!
+
+        Preparations for IC Hack 20 are in full speed as the first batch of tickets released this Friday sold out in
+        less than 20 seconds! For those of you who did not manage to secure a ticket the **second batch of tickets**
+        will be released on the **17th of January at 1:30pm GMT**!
+
+        Although working hard on organizing IC Hack 20, we will keep organizing our social events as promised. This
+        Tuesday we will be holding a Pub Quiz night with Next Jump! For more information on what's ahead, make sure to
+        follow our [social media channels](https://www.facebook.com/ICDoCSoc/) and read on!
+    </text>
+
+    <hr/>
+
+    <text>## General Notices</text>
+
+    <hr/>
+
+    <heading>Pintos Glasses Collection</heading>
+    <text>
+        If you're a second year and have still not collected your Pintos glass, collections will be kept on an ad hoc
+        basis rather than certain times. The easiest way to grab yours will be to contact a member of committee email us
+        at docsoc@ic.ac.uk.
+    </text>
+
+    <hr/>
+
+    <heading>DSI Online Competition for Insurance Pricing</heading>
+    <text>
+        We at the Data Science Institute, in collaboration with the Data Science Society, have organised an online
+        competition on car insurance pricing.
+
+        You will be using real-world data, on an industry task where ML and stats are used everyday!
+        The competition winner is rewarded with a £50 amazon vouchers, while runners up will receive £30 and £20 pound
+        vouchers respectively.
+
+        **How to join:**\
+        Join and design your best model (Python or R) to predict which drivers are at risk of having an accident, and
+        compete for profit against others in a large-scale virtual insurance market.
+
+        The competition sign-up is open now and will remain open until the end of the competition on Sunday 12th of
+        January 2020, you are free to join at any point.
+        Visit http://bit.ly/pricing-game-signup-2019 to sign up, after which you will receive more information and your
+        starter pack.
+    </text>
+
+    <hr/>
+
+    <text>## On-Campus Events</text>
+
+    <hr/>
+
+    <heading>DoCSoc Pub Quiz with Next Jump</heading>
+    <image src="https://i.imgur.com/CjiCMmy.jpg"/>
+    <event
+            startDate="2020-01-14T19:00:00+00:00"
+            endDate="2020-01-14T23:00:00+00:00"
+            location="Metric">
+        <text>
+            Come for a Pub Quiz with our sponsor Next Jump!
+            ---
+
+            You must be a member of DoCSoc by Tuesday 14th January in order to be admitted. Computing, JMC, and EIE
+            students are automatically members of DoCSoc. Membership is £30. Strictly 18+ only - we will be checking
+            IDs.
+
+            Please send an email to us at docsoc@ic.ac.uk if you intend to bring a non-Imperial plus one. Any Imperial
+            plus-ones must have purchased membership, otherwise they will be denied entry.
+
+            Our full barnight policy is linked here: http://docsoc.co.uk/barnightpolicy
+
+            Find out more: http://docsoc.co.uk/join
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/1686278001524698/">Facebook</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>IC Hack 20 General Meeting</heading>
+    <image src="https://i.imgur.com/M1IMK8l.png"/>
+    <event
+            startDate="2020-01-16T18:00:00+00:00"
+            endDate="2020-01-16T20:00:00+00:00"
+            location="Huxley 217/218">
+        <text>
+            Interested in organising the biggest student-run hackathon in the UK? Join us for the first General Meeting
+            for the IC Hack 20 organisation committee this Thursday!
+
+            We will be discussing progress updates from the 4 main teams - Finance, Logistics, Branding and Hacker
+            Experience, as well as bringing all volunteers on track with the organisation. New to volunteering? Don't
+            worry, we welcome everybody who is passionate about being part of one of the biggest event on the Imperial
+            College campus! For more details check https://docsoc.co.uk/ichack20kickoffcatchup.
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/487749155451794/">Facebook</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>IC Hack 20 - Second Ticket Batch Release</heading>
+    <image src="https://i.imgur.com/eky2mzj.jpg"/>
+    <event startDate="2020-02-08T10:00:00+00:00"
+           endDate="2020-02-09T17:00:00+00:00"
+           location="Imperial College London">
+        <text>
+            Kick off the new decade right.
+            Are you ready for IC Hack 20?
+
+            The largest student-run hackathon in the UK returns to Imperial College better than ever before. Running for
+            its
+            9th consecutive year, we’re bringing over 400 of the UK's most creative and talented students together for
+            24
+            hours of learning, building, fun, and networking on the weekend of 8-9th February 2020. Come create
+            something
+            cool!
+
+            IC Hack 20 will be hosted on Imperial College London's South Kensington campus. Students from all
+            universities
+            can attend!
+
+            The **second batch of tickets** will be released on the **17th of January at 1:30pm GMT**!
+            Tickets sell out in seconds, so don't miss out! Did we mention it is completely free?
+        </text>
+        <links>
+            <link href="https://ichack20.eventbrite.com">Tickets (Eventbrite)</link>
+            <link href="https://www.facebook.com/events/415614812680196/">Facebook</link>
+            <link href="https://ichack.org/">Website</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <text>## Sponsor Notices</text>
+
+    <hr/>
+
+    <heading>Facebook – Hack-a-project 2020</heading>
+    <sponsor company="facebook">
+        Facebook is launching their 6th run of **Hack-a-project**! Consider it an extended hackathon
+        with learning and mentoring attached to it!
+
+        This is a programme kicking off in Feb 2020, designed for 1st years of a three year degree and
+        2nd years of a fourth year degree, looking to apply for a Software Engineering internship with
+        Facebook.
+
+        Selected students will come to the Facebook office, once a week in the evening to focus on
+        understanding the whole development cycle, and build a project. Each session will consist of a
+        talk, and practical applications with group mentoring support. Food will also be provided!
+
+        In addition, we will be sharing tips on “how to crush your coding interview”, and also do a mock
+        interview with you, where feedback will be provided to help you improve.
+
+        **If interested in applying please follow the link below. You only need your CV to apply. All
+        applications must be made by the 17th of Jan.**
+
+
+        https://hack-a-project-spring-2020.splashthat.com/
+
+    </sponsor>
+
+    <hr/>
+
+    <heading>Palantir Women in Technology Sponsorship</heading>
+    <sponsor company="palantir">
+        We launched the Palantir Women in Technology Scholarship in 2010 to celebrate and support women who are
+        beginning careers in technology. We hope to encourage women to pursue computer science, engineering, and
+        technical studies, and to become leaders in these fields.
+
+        This year, 10 scholarship recipients will be chosen and invited to visit our London office for a full-day,
+        all-expenses paid developmental workshop. Programming will include professional development sessions, breakouts
+        with our engineers, and some fun social activities! All recipients are awarded grants of £5,500 to support their
+        education.
+
+        **The Women in Technology Scholarship (Europe) is open to students who:**
+        - Are active, full-time undergraduate or Master's students enrolled in an accredited European college/university
+        during the academic years that the scholarship is awarded, i.e., you must be enrolled in both the current
+        (2019-20) and upcoming (2020-21) academic years
+        - Are majoring in or plan to major in Science, Technology, Engineering or Math (STEM) fields
+        - Identify as women
+        - Have not been recipients in the past
+
+        **To apply, please submit the following:**
+        - [The Women in Technology Scholarship (Europe)
+        Application](https://www.palantir.com/build/files/2020_Women_in_Technology_EU.docx) (Please download, complete
+        and save as a PDF file.)
+        - A copy of your CV
+        - A copy of your transcripts (unofficial transcripts are acceptable)
+
+        **[Apply here!](https://jobs.lever.co/palantir/2dce1c15-faca-4e91-a8aa-0c2c6a259d77)**
+
+        **The 2020 application period is now open. The deadline to apply is Sunday 5 April 2020 at 11:59PM PST.**
+    </sponsor>
+
+    <sign
+            name="Radostin Petrov"
+            role="DoCSoc Secretary '19/20"
+            facebook="radostin.petrov99">
+        Until next time,
+    </sign>
+</email>
