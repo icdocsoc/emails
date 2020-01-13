@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+        title="DoCSoc Pub Quiz with Next Jump"
+        logos="false"
+        agenda="false">
+
+    <sponsor company="next_jump">
+        \
+        **Come enjoy a Pub Quiz Night with Next Jumpers!**
+
+        As a company, we love playing games and get especially competitive when we play against each other. So, we
+        thought, why not bring some of that fun to DoCSoc. It will be an awesome evening for drinks, games and to test
+        you on your general knowledge!
+
+        We even have a small prize in store for the winning group. So, get your teams ready and we hope to see you
+        there!
+
+
+        **Next Jump is Hiring!**
+
+        Should you be looking for more than just a fun evening, we are actually hiring! We offer full-time roles to
+        graduates, as well as 3, 6, and 12-month internships to penultimate year students.
+
+        If you want your application fast-tracked, please submit to the link below by midnight 18th January. We will
+        invite you to a phone interview in the coming week; and should you be successful, you’ll be asked to join our
+        Super Saturday (assessment centre) on 29th February.
+
+        Simply go to these links to submit your CV and join
+        - Graduate Class 2020:
+        https://nextjump.applytojob.com/apply/UWulrrsRCG/Software-Engineer-Web-Applications?source=Imperial+Pre+Pub+Quiz
+        - Intern Class 2020:
+        https://nextjump.applytojob.com/apply/wYfZzpCivx/Software-Engineer-Web-Applications-Internship?source=Imperial+Pre+Pub+Quiz
+
+        "replace me with sign off"
+
+        "replace me with nextjump"
+    </sponsor>
+
+    <hr/>
+
+    <heading>DoCSoc Pub Quiz with Next Jump</heading>
+    <image src="https://i.imgur.com/CjiCMmy.jpg"/>
+    <event
+            startDate="2020-01-14T19:00:00+00:00"
+            endDate="2020-01-14T23:00:00+00:00"
+            location="Metric">
+        <text>
+            You must be a member of DoCSoc by Tuesday 14th January in order to be admitted. Computing, JMC, and EIE
+            students are automatically members of DoCSoc. Membership is £30. Strictly 18+ only - we will be checking
+            IDs.
+
+            Please send an email to us at docsoc@ic.ac.uk if you intend to bring a non-Imperial plus one. Any Imperial
+            plus-ones must have purchased membership, otherwise they will be denied entry.
+
+            Our full barnight policy is linked here: http://docsoc.co.uk/barnightpolicy
+
+            Find out more: http://docsoc.co.uk/join
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/1686278001524698/">Facebook</link>
+        </links>
+    </event>
+</email>
