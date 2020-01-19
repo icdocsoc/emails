@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+    <image
+            width="70"
+            src="https://i.imgur.com/sDUoHX0.jpg"
+            alt="Oreos"
+            title=""/>
+
+    <hr/>
+
+    <text>
+        Hope you all have settled into second term now and are excited for what's to follow. Our second batch of IC
+        Hack 20 tickets sold out this Friday in a record 15 seconds! So, congratulations to all of you who were able to
+        secure a ticket, we can promise you that this year's IC Hack will be more exciting than ever!
+
+        Our committee is working hard on IC Hack 20 and if you did not manage to get a ticket, we will be holding a
+        Volunteers' Briefing for everyone wanting to participate in the biggest event on our campus! For more
+        information, read on!
+    </text>
+
+    <hr/>
+
+    <text>## On-Campus Events</text>
+
+    <hr/>
+
+    <heading>IC Hack 20 Volunteers' Briefing</heading>
+    <image src="https://i.imgur.com/M1IMK8l.png"/>
+    <event
+            startDate="2020-01-21T18:00:00+00:00"
+            endDate="2020-01-21T19:00:00+00:00"
+            location="Huxley 311">
+        <text>
+            Come find out about volunteering opportunities at IC Hack, so you can enjoy all the fun of the hackathon
+            without the stress of hacking!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/487749155451794/">Facebook</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <text>## External Events</text>
+
+    <hr/>
+
+    <heading>Drinks and Pizza at the Amex Office</heading>
+    <image width="50" src="https://i.imgur.com/B3If7Cr.png"/>
+    <event
+            startDate="2020-01-22T15:00:00+00:00"
+            endDate="2020-01-22T17:30:00+00:00"
+            location="WeWork,
+            123 Buckingham Palace Road,
+            Victoria,
+            London, SW1W 9SH">
+        <text>
+            Are you a Student looking for a fun way to spend your summer,
+            gain experience and meet some fantastic people?
+
+            Here at American Express we have a number of opportunities for
+            you to come and join our teams for a 10 week Summer internship.
+
+            We’re looking for problem solvers who can drive results through
+            precise analysis and programming methodologies. Individuals with
+            a strong intellectual curiosity and a passion for innovation. Team
+            players who can transform their ideas into working solutions.
+
+            To find out more we would love to invite you to come and
+            connect with our graduates.
+
+            **RSVP by 20.01.20** at ask.campus.emea@aexp.com.
+        </text>
+    </event>
+
+    <hr/>
+
+    <text>## Sponsor Notices</text>
+
+    <hr/>
+
+    <heading>Bank of America | GIS Summer Analyst Programme - Chester</heading>
+    <sponsor company="baml">
+        Are you interested in a career in **cyber security**? Join our **Global Information Security** (GIS) team – a
+        group of
+        cyber security problem solvers thriving in an inclusive workplace. Start your career in an environment that
+        creates opportunities for employees to grow, recognizes and rewards performance, and supports employees’
+        all-around wellness.
+
+        Our **Summer Analyst programme** is designed to offer you a broad and exciting experience of work as a full time
+        Technology Analyst. During the summer, you will be **placed within one team** and have the opportunity to
+        participate in the **real delivery** of **technology security solutions**.
+
+        Your training and development is our top priority, with **extensive formal training** offered at the start of
+        the programme in addition to on the job support, educational speaker events and mentorship throughout.
+
+        As a Summer Analyst, you will be a member of the GIS team, providing you with the opportunity to be part of a
+        world-class information security workforce. Our teams cover all aspects of Information Security including cyber
+        forensics and we look forward to finding the right opportunity for you.
+
+
+        **To apply for our GIS Summer Analyst Programme (Chester) please click
+        [here](https://bankcampuscareers.tal.net/vx/brand-5/candidate/so/pm/1/pl/1/opp/4324-EMEA-Chester-Global-Technology-Summer-Analyst-Programme-Global-Information-Security/en-GB)**.
+
+        **Application Deadline 9th February 2020**
+    </sponsor>
+
+    <hr/>
+
+    <heading>Citadel &amp; Citadel Securities Internships and Graduate Positions</heading>
+    <sponsor company="citadel">
+        **Citadel** is a leading investor in the world’s financial markets. For over a quarter of a
+        century,
+        we have sought to deliver industry-leading investment returns to clients including corporate
+        pensions, endowments, foundations, public institutions, and sovereign wealth funds.
+
+        **Citadel Securities** is an award-winning global market maker that helps meet the liquidity
+        needs
+        of asset managers, banks, broker-dealers, hedge funds, government agencies, and public pension
+        programs.
+
+        Applications open for both internships and graduate roles for the following positions:
+        - Investment &amp; Trading
+        - Quantitative Strategies
+        - Software Engineering
+
+        Apply via our websites citadel.com &amp; citadelsecurities.com
+    </sponsor>
+
+    <sign
+            name="Radostin Petrov"
+            role="DoCSoc Secretary '19/20"
+            facebook="radostin.petrov99">
+        Until next time,
+    </sign>
+
+</email>
