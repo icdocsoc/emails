@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+    <image
+            width="80"
+            src="https://i.imgur.com/b1XOyFL.jpg"
+            alt="A plate of fortune cookies"
+            title="Happy Lunar New Year!"/>
+
+    <hr/>
+
+    <text>
+        Hi everyone!
+
+        As our committee is working hard to organise IC Hack 20, we hope all of you are excited for the long-awaited
+        hackathon! If you did not manage to secure a ticket for IC Hack 20 but want to part of the experience, becoming
+        a volunteer is always an option! You will not only be part of the magic on the day of IC Hack, but will also be
+        a contributor to the largest student-run hackathon in the UK!
+
+        Over the next few weeks, we'll be also be starting our *free* Python workshops, both for beginners and
+        intermediates (open to non-members too), as well as our Google Hash Code Hub. Read on for more details!
+    </text>
+
+    <hr/>
+
+    <text>## General Notices</text>
+
+    <hr/>
+
+    <heading>DoCSoc EGM - Social Events Coordinator By-Elections</heading>
+    <text>
+        By-Elections for the Social Events Coordinator positions will take place on **Tuesday 28th January from 6:05pm
+        in Huxley 311.** Voting will be done by paper ballot and the evening will being straight with voting, followed
+        by announcement of results.\
+        Requirements are as follows:
+        - Only DoCSoc members may vote.
+        - **Please bring your college ID card** or a reasonable form of identification where you can be verified as a
+        DoCSoc member.
+        - Arrive promptly as voting can close as early as 6:20pm. It only takes a few minutes to vote.
+
+
+        **For candidates and manifestos, refer to the email sent earlier this week.**
+    </text>
+
+    <hr/>
+
+    <heading>Imperial College Speakers Open House</heading>
+    <text>
+        Imperial College Speakers Club is a student-led organisation based at Imperial College London that helps people
+        of all ages and backgrounds improve their public speaking skills.
+
+        If you are interested in developing your public speaking skills, IC Speakers Club will be holding an Chinese New
+        Year Open House event on **Thursday January 30th at 6:15 pm at room 121 of the Sir Alexander Fleming Building**.
+        This even is open to students from other universities as well as the general public.
+
+        RSVP here: https://www.eventbrite.com/e/year-of-the-rat-toastmasters-open-house-tickets-91179467241
+
+        For more information check out the [Facebook Event](https://www.facebook.com/events/201095877599790/).
+    </text>
+
+    <hr/>
+
+    <text>## On-Campus Events</text>
+
+    <hr/>
+
+    <heading>IC Hack 20 General Meeting</heading>
+    <image src="https://i.imgur.com/M1IMK8l.png"/>
+    <event
+            startDate="2020-01-27T18:00:00+00:00"
+            endDate="2020-01-27T20:00:00+00:00"
+            location="Huxley 217/218">
+        <text>
+            Interested in organising the biggest student-run hackathon in the UK? Join us for our General Meeting for
+            the IC Hack 20 organisation committee this Monday!
+
+            We will be discussing progress updates from the 4 main teams - Finance, Logistics, Branding and Hacker
+            Experience, as well as bringing all volunteers on track with the organisation. New to volunteering? Don't
+            worry, we welcome everybody who is passionate about being part of one of the biggest event on the Imperial
+            College campus! For more details check https://docsoc.co.uk/ichack20kickoffcatchup.
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/597032490872421/">Facebook</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>DoCSoc Education: Python for Beginners</heading>
+    <image src="https://i.imgur.com/bVYZaq8.jpg"/>
+    <event
+            startDate="2020-01-30T18:00:00+00:00"
+            endDate="2020-01-30T20:00:00+00:00"
+            location="Huxley 144">
+        <text>
+            Want to know how to code but have no idea where to start?
+            Tried to learn on your own but not really made any progress?
+
+            Whether you've dabbled in programming before, or you barely know what a computer is, DoCSoc (Department of
+            Computing Society) is once again running a course for you!
+
+            After our highly successful (and award-winning!) series last year, we'll be repeating our beginners coding
+            course starting Thursday, 30th January.
+
+            This year the course is open to everyone! Just make sure to grab a ticket on Eventbrite to ensure you have
+            pizza at the event! Let us know about any dietary requirements by emailing us at docsoc@ic.ac.uk.
+
+            If you think you're not a beginner, you might be interested in our intermediate course:
+            https://www.facebook.com/events/471162783560184/. This course is for people who have an understanding of
+            basic programming concepts (either from Python, or other languages i.e. R, Matlab, etc), and will focus more
+            on actual real-world usages of Python. If you're not sure if you fit into this category, feel free to PM us!
+
+            Don't worry if you can't come to a few sessions, we will be posting all the material on the event page!
+
+            Any questions at all please leave them below, and we hope to see you at the first lecture on Thursday, in
+            Huxley 144.
+
+            [**We'd also appreciate if you filled out this
+            form.**](https://docs.google.com/forms/d/e/1FAIpQLScwCB8knQrcKfNZs7jkIRahL5muCifxJ_7Eu2CA9QxAo7HYHQ/viewform)
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/209172486886394/">Facebook</link>
+            <link href="https://www.eventbrite.co.uk/e/python-for-beginners-tickets-91132322229">Eventbrite</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>DoCSoc Education: Intermediate Python</heading>
+    <image src="https://i.imgur.com/6tHNN4g.jpg"/>
+    <event
+            startDate="2020-02-10T18:00:00+00:00"
+            endDate="2020-02-10T20:00:00+00:00"
+            location="Huxley 340">
+        <text>
+            For those of you who have dabbled a little bit in programming before (Python or not) and want to learn more,
+            DoCSoc is holding a free, 5-week course on intermediate Python!
+
+            We expect you to know the basics of programming already - functions, conditionals, loops, basic data
+            structures and types, etc, either from Python or other languages.
+
+            We will cover a range of topics, such as object-oriented programming, good software engineering design, as
+            well as applications of Python in statistics, sciences, machine learning/data science, and building web
+            applications.
+
+            The course will focus on enabling you to understand the underlying logic and thinking process of
+            programming, in order for you to become self-sufficient in your own learning and future development.
+
+            This event will be catered, but make sure to grab a ticket on Eventbrite to secure a couple of slices for
+            yourself!
+
+            Don't worry if you can't come to a few sessions, we will be posting all the material on the event page!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/471162783560184/">Facebook</link>
+            <link href="https://www.eventbrite.co.uk/e/intermediate-python-tickets-91166384109">Eventbrite</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Google Hashcode Imperial College London Hub</heading>
+    <image src="https://i.imgur.com/6rBfuEh.jpg"/>
+    <event
+            startDate="2020-02-20T17:30:00+00:00"
+            endDate="2020-02-20T21:30:00+00:00"
+            location="Huxley 221, 217, 218">
+        <text>
+            Hash Code is a team programming competition, organized by Google, for students and professionals around the
+            world. You pick your team and programming language and we pick an engineering problem for you to solve. Join
+            us at the Imperial College London Hub for the Online Qualification Round. Top teams will then be invited to
+            a Google office for the Final Round.
+
+            Sign up here: https://g.co/hashcode
+            Remember to sellect Imperial College London Hub after you apply
+
+            There are only 100 slots for our hub, so make sure you sign up as soon as possible
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/216819712683436/">Facebook</link>
+            <link href="https://codingcompetitions.withgoogle.com/hashcode/">Register</link>
+        </links>
+    </event>
+
+    <sign
+            name="Radostin Petrov"
+            role="DoCSoc Secretary '19/20"
+            facebook="radostin.petrov99">
+        Until next time,
+    </sign>
+
+
+</email>

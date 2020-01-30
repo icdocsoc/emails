@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+        title="DoCSoc breakfast! Sponsored by Next Jump"
+        logos="false"
+        agenda="false">
+    <text>
+        Come along for a **free** breakfast with us this Friday 24th Jan! Start the day off right with some feasty
+        pastries and hot drinks. Generously sponsored by NextJumpers who will be there for a laid-back mingle in a nice
+        setting.
+    </text>
+
+    <hr/>
+
+    <heading>DoCSoc breakfast! Sponsored by Next Jump</heading>
+    <image src="https://i.imgur.com/w7fyWdo.jpg"/>
+    <event
+            startDate="2020-01-24T09:00:00+00:00"
+            endDate="2020-01-24T10:45:00+00:00"
+            location="Huxley 217/218">
+        <text>
+            Finish your week off with one of DoCSoc's free breakfasts - generously sponsored by Next Jump! Come along to
+            Huxley 217/218 any time between 9am-10:45am to enjoy a great pre-lecture breakfast with other DoCSoc'ers. So
+            come on over, have a snack and meet with engineers from Next Jump!
+
+            If you have any specific dietary requirements, please let us know a few days beforehand!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/790142531463224/">Facebook</link>
+        </links>
+    </event>
+</email>
