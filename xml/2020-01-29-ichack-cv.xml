@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  agenda="false"
+  logos="false">
+
+  <image
+    src="https://i.imgur.com/EmoUOrl.jpg"
+    title="IC Hack 20 Important Reminder"/>
+
+  <hr/>
+
+  <text>
+    Hi there,
+
+    Congratulations on securing your tickets to **IC Hack 20 Powered by Cisco**! IC Hack is back
+    bigger than ever this year with over 450 expected attendees!
+
+    In order for your hackathon weekend, to go flawless we are sending this email with **important
+    attendee information**, so please take your time to go through its contents.
+  </text>
+
+  <hr/>
+
+  <text>
+    ## CV Upload
+
+    IC Hack 20 is a great opportunity for you to meet recruiters and engineers from our sponsoring
+    companies in person.
+
+    As our sponsors are looking to recruit students from the event for various roles, we recommend
+    you upload your CV using [this
+    form](https://docs.google.com/forms/d/e/1FAIpQLSd5uKv6g3juHYFCkZTTcNna0pchFdfiaSpFTg3suiVmwhxPjQ/viewform).\
+    Deadline for CV submission is **this Friday 31st January**!
+  </text>
+
+
+  <hr/>
+
+  <text>
+    ## Equipment Requests
+
+    If you require any specific hardware 🛠 for your hack, please email us with your specifications
+    and we'll get back to you on how we can help your hack. Deadline for this is **Friday 31st
+    January**, as we will require time to order any special parts.
+  </text>
+
+  <hr/>
+
+  <text>
+    ## What to Bring
+
+    On the day, be sure to have your Eventbrite ticket ready (either digital or
+    printed - up to you!) and a **valid form of Government ID** (driving license
+    or passport). Please note you must be **over 18** on the day of the event to attend.
+  </text>
+
+  <hr/>
+
+  <text>
+    ## Ticket Cancellations
+
+    If you find you are unable to attend, we kindly ask you to cancel your ticket [via
+    Eventbrite](https://www.eventbrite.co.uk/mytickets/)
+    or by [emailing us](mailto:ichack@ic.ac.uk) as soon as possible so your space can be
+    released. Please note that tickets are **non-transferable**.
+  </text>
+
+  <hr/>
+
+  <text>
+    That is for now, but we will be releasing more information as we get closer to the event (Slack
+    workspace details coming soon).
+    Make sure that you have submitted your CV and any hardware requirements you may have by this
+    Friday!
+
+    If you have any questions, please don't hesitate to let us know by emailing
+    ichack@ic.ac.uk
+
+    We look forward to seeing you at IC Hack 20!
+
+    _- The IC Hack 20 team_
+  </text>
+
+</email>
