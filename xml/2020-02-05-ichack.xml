@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email agenda="false" logos="false">
+
+    <image
+            src="https://i.imgur.com/fatHtoV.jpg"
+            title="IC Hack 20 is only three days away!"/>
+
+    <hr/>
+
+    <text>
+        **IC Hack 20 Powered by Cisco** is only a few days away! We hope you are just as excited as we are because this
+        year
+        IC Hack is bigger than ever!
+
+        This email contains some **key information** for you to go through before arriving on our campus on Saturday,
+        so make sure to read through it carefully!
+    </text>
+
+    <hr/>
+
+    <text>
+        ## Join Our Slack!
+
+        Join our Slack team using [this
+        link](https://join.slack.com/t/ichack20/shared_invite/enQtOTIyNDc0MjY4Mjc3LTkxZGI5ZjljYTUxZmQwOGI0ODQzZDg3MWU1NDcwNjEzYzEwMTNiMjNhZGNkYTc3M2JjODNmNDA0M2NmMDBiMWI).
+        We use the Slack team to **make important announcements** (on the *#announcements* channel)
+        and you can use the team to talk to organisers, sponsors and fellow hackers. We also maintain a
+        *#team-forming* channel for those of you searching for teammates.
+
+        Keep an eye on our sponsor (*#sp-[sponsor]*) channels to find out more about them and take
+        part in their challenges.
+        Make sure you **join the team before the weekend** so you don't miss any important
+        information.
+    </text>
+
+    <hr/>
+
+    <text>
+        ## What to Bring
+
+        On the day, be sure to have your Eventbrite ticket ready (you can find a link to download your tickets at the end
+        of the email) and a valid
+        form of Government ID (driving license or passport). Please note **you must be over 18** on the day of the event
+        to attend.
+
+        Also don't forget to bring chargers for your devices (including your phone and
+        laptop) to keep them powered on overnight. Bringing some warm clothes is also encouraged, as it gets chilly
+        overnight!
+    </text>
+
+    <hr/>
+
+    <text>
+        ## Ticket Cancellations
+
+        If you find you are unable to attend, we kindly ask you to cancel your ticket [via
+        Eventbrite](https://www.eventbrite.co.uk/mytickets/) or by emailing us
+        as soon as possible so your space can be released. Please note that tickets are **non-transferable**.
+    </text>
+
+
+    <hr/>
+
+    <text>
+        ## Getting There
+
+        IC Hack is hosted at **Imperial College South Kensington Campus**. The registration
+        will take place at the **main entrance** on Exhibition Road, SW7 2BX. The best way
+        to reach the venue is via tube to South Kensington Station (District, Circle and
+        Piccadilly lines), then either walking up the subway (exiting at the end of the
+        subway and turning left) or up Exhibition Road.
+
+        Alternatively, you can take buses **9, 23, 52, 70, 452**, which stop opposite the
+        Royal Albert Hall. The Imperial College main entrance is then a short, five-minute
+        walk south from there. There are limited car parking spaces nearby, so we
+        recommend using public transport.
+
+        **Registration starts from 10:00am**. Please **do not be late** as the Opening Ceremony
+        starts at 10:45am! (Don't forget a form of ID!)
+
+        Below is a [map of the campus](https://i.imgur.com/DUNIT32.png) and of all the rooms where IC Hack will be
+        hosted. A physical copy of this will be inside the lanyard booklet given to you at the event.
+    </text>
+
+    <image src="https://i.imgur.com/DUNIT32.png"
+           width="80"/>
+
+    <hr/>
+
+    <text>
+        ## 2019-nCov Guidance
+
+        We would like to reassure all attendees that we have worked with the College extensively to ensure that those
+        are attending are safe in all aspects. As part of this, we are monitoring the coronavirus outbreak and attendees
+        should feel reassured that the risk to individuals in the UK is low.
+
+        However, following College restrictions and Public Health England advice, those who have returned from Wuhan or
+        Hubei Province in the last 14 days are asked to stay home and not to attend the event. Please contact us if you
+        are in this situation and we will work with you to mediate this. There are no other advisories in place at the
+        time of writing. Further information can be found on the [Imperial College
+        website](http://www.imperial.ac.uk/alerts/).
+
+        As an overnight hackathon in a closed environment, we do ask that attendees maintain a high standard of hygiene
+        and to stay home if you are feeling unwell regardless of this outbreak. For further queries about this, please
+        don't hesitate to email us.
+    </text>
+
+    <hr/>
+
+    <text>
+        Finally, make sure to check out our website at ichack.org. There you can find the full schedule for the event
+        as well as links to our [Twitter](https://twitter.com/ICHackUK) and
+        [Facebook](https://www.facebook.com/events/415614812680196/) pages.
+
+        If you have any questions, please don't hesitate to let us know by emailing
+        ichack@ic.ac.uk.
+
+        We look forward to seeing you at IC Hack 20!
+
+        _- The IC Hack 20 team_
+    </text>
+
+</email>
