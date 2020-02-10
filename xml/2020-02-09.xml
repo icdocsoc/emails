@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+    <image
+            width="80"
+            src="https://i.imgur.com/10yQfIX.jpg"
+            alt="Chocolate chip cookies"
+            title="I am tired and feeling unoriginal in terms of biscuits"/>
+
+    <hr/>
+
+    <text>
+        What a weekend has it been at IC Hack 20 these last 48 hours! The biggest IC Hack ever, all thanks to our
+        wonderful sponsors. We hope all of you who participated had just as much fun as we had organizing it.
+
+        Next week will be relatively quiet, as we take a well-deserved break to recover and to be back track for
+        more amazing events. Also, February has only begun and we have two more hackathons in collab. On top for that we
+        are excited to announce this year's edition of our traditional black tie event - Revel!\
+        More information coming below, so read on!
+    </text>
+
+    <hr/>
+
+    <text>## On-Campus Events</text>
+
+    <hr/>
+
+    <heading>DoCSoc Education: Intermediate Python</heading>
+    <image src="https://i.imgur.com/6tHNN4g.jpg"/>
+    <event
+            startDate="2020-02-10T18:00:00+00:00"
+            endDate="2020-02-10T20:00:00+00:00"
+            location="Huxley 340">
+        <text>
+            For those of you who have dabbled a little bit in programming before (Python or not) and want to learn more,
+            DoCSoc is holding a free, 5-week course on intermediate Python!
+
+            We expect you to know the basics of programming already - functions, conditionals, loops, basic data
+            structures and types, etc, either from Python or other languages.
+
+            We will cover a range of topics, such as object-oriented programming, good software engineering design, as
+            well as applications of Python in statistics, sciences, machine learning/data science, and building web
+            applications.
+
+            The course will focus on enabling you to understand the underlying logic and thinking process of
+            programming, in order for you to become self-sufficient in your own learning and future development.
+
+            This event will be catered, but make sure to grab a ticket on Eventbrite to secure a couple of slices for
+            yourself!
+
+            Don't worry if you can't come to a few sessions, we will be posting all the material on the event page!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/471162783560184/">Facebook</link>
+            <link href="https://www.eventbrite.co.uk/e/intermediate-python-tickets-91166384109">Eventbrite</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>DoCSoc Education: Python for Beginners</heading>
+    <image src="https://i.imgur.com/bVYZaq8.jpg"/>
+    <event
+            startDate="2020-02-13T18:00:00+00:00"
+            endDate="2020-02-13T20:00:00+00:00"
+            location="Huxley 340">
+        <text>
+            Want to know how to code but have no idea where to start?
+            Tried to learn on your own but not really made any progress?
+
+            Whether you've dabbled in programming before, or you barely know what a computer is, DoCSoc (Department of
+            Computing Society) is once again running a course for you!
+
+            After our highly successful (and award-winning!) series last year, we'll be repeating our beginners coding
+            course starting Thursday, 30th January.
+
+            This year the course is open to everyone! Just make sure to grab a ticket on Eventbrite to ensure you have
+            pizza at the event! Let us know about any dietary requirements by emailing us at docsoc@ic.ac.uk.
+
+            If you think you're not a beginner, you might be interested in our intermediate course:
+            https://www.facebook.com/events/471162783560184/. This course is for people who have an understanding of
+            basic programming concepts (either from Python, or other languages i.e. R, Matlab, etc), and will focus more
+            on actual real-world usages of Python. If you're not sure if you fit into this category, feel free to PM us!
+
+            Don't worry if you can't come to a few sessions, we will be posting all the material on the event page!
+
+            Any questions at all please leave them below, and we hope to see you at the first lecture on Thursday, in
+            Huxley 144.
+
+            [**We'd also appreciate if you filled out this
+            form.**](https://docs.google.com/forms/d/e/1FAIpQLScwCB8knQrcKfNZs7jkIRahL5muCifxJ_7Eu2CA9QxAo7HYHQ/viewform)
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/209172486886394/">Facebook</link>
+            <link href="https://www.eventbrite.co.uk/e/python-for-beginners-tickets-91132322229">Eventbrite</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Raspberry Pi Workshops</heading>
+    <image src="https://i.imgur.com/97B3YPK.jpg"/>
+    <event
+            startDate="2020-02-18T13:00:00+00:00"
+            endDate="2020-02-18T14:00:00+00:00"
+            location="Huxley 308">
+        <text>
+            Have you ever wanted to know more about a Raspberry Pi? Or are you a first year Computing student whose
+            summer project will closely involve the Raspberry Pi? Then come join us at our new 4-week Raspberry Pi
+            course where you will get to learn what this small computer is capable of!
+
+            We will introduce the Pi, its architecture and do multiple demos for VNC Connections, Python + Assembly
+            programming and coding a tiny bootloader!
+
+            These workshops are open to everyone!
+            Make sure to grab your Eventbrite ticket to get free pizza!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/1442439432589537/">Facebook</link>
+            <link href="https://www.eventbrite.co.uk/e/raspberry-pi-workshops-tickets-91677775695">Eventbrite</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Google Hashcode Imperial College London Hub</heading>
+    <image src="https://i.imgur.com/6rBfuEh.jpg"/>
+    <event
+            startDate="2020-02-20T17:30:00+00:00"
+            endDate="2020-02-20T21:30:00+00:00"
+            location="Huxley 221, 217, 218">
+        <text>
+            Hash Code is a team programming competition, organized by Google, for students and professionals around the
+            world. You pick your team and programming language and we pick an engineering problem for you to solve. Join
+            us at the Imperial College London Hub for the Online Qualification Round. Top teams will then be invited to
+            a Google office for the Final Round.
+
+            Sign up here: https://g.co/hashcode
+            Remember to select Imperial College London Hub after you apply
+
+            There are only 100 slots for our hub, so make sure you sign up as soon as possible
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/216819712683436/">Facebook</link>
+            <link href="https://codingcompetitions.withgoogle.com/hashcode/">Register</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Ed Tech Hackday</heading>
+    <image src="https://i.imgur.com/mAbsEAn.jpg"/>
+    <event
+            startDate="2020-02-22T11:00:00+00:00"
+            endDate="2020-02-22T17:00:00+00:00"
+            location="TBA">
+        <text>
+            Join DoC on Saturday 22nd February for a one day Hackathon to help design and develop to your education
+            tools (Materials, eMarking and more)
+
+            This is an excellent occasion for people interested in working on the Edtech platforms with us over the
+            summer to start exploring the code and make a first contribution
+
+            Please RSVP here: https://forms.gle/foZwZKEN6XVrNVr68
+
+            Lunch will be provided on the day, so let us know if you plan to attend by selecting "Going" and filling in
+            the form above!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/194418778361279/">Facebook</link>
+            <link href="https://docs.google.com/forms/d/e/1FAIpQLSdQaMWltx44IvT1WfalwPYN-u5oFRRiI9u5Q70IuuHrjftGSQ/viewform">
+                RSVP
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>IC HealthHack 2020: Second Ticket Release</heading>
+    <image src="https://i.imgur.com/QcuKsfS.jpg"/>
+    <event
+            startDate="2020-02-29T09:00:00+00:00"
+            endDate="2020-03-01T17:00:00+00:00"
+            location="Imperial College London">
+        <text>
+            The Department of Computing Society (DoCSoc), Bioengineering Society, ICSM Coding Society and MedTech
+            Society proudly present the IC HealthHack 2020!
+
+            We are back with HealthHack 20 bigger and better than ever!
+            Combining skills in bioengineering, computer science, and medicine, HealthHack will bring together talented
+            students to tackle the most current medical challenges through technology.
+            This year, we are focusing on Medical Education as our overarching theme.
+            Over the weekend of 29th February - 1st March 2020, teams will bring their awesome ideas to life and develop
+            solutions to real-life health education challenges.
+
+            Save the date and follow the event page for more details, including sponsors and schedule announcements.
+
+            Website: https://ichealthhack.org/
+
+            **Ticket release date: 13th Feb**
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/2630916247137813/">Facebook</link>
+            <link href="https://ichealthhack.org/">Website</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <text>## External Events</text>
+
+    <hr/>
+
+    <heading>Roaring Revel: First Batch Tickets Released</heading>
+    <image src="https://i.imgur.com/hlkVgkp.jpg"/>
+    <event
+            startDate="2020-02-12T13:30:00+00:00"
+            endDate="2020-02-12T13:30:00+00:00"
+            location="Quaglino's
+                      16 Bury Street
+                      London, SW1Y 6AJ">
+        <text>
+            This event is for 18+ only.
+
+            A little party never killed nobody, so join RCSU and DoCSoc for an extravagant night of glitz, glam and a
+            party fit for the 20's - here's to Roaring Revel!
+
+            From Spanish rooftop bars to Parisian themed halls, we're now taking you back in time to the Prohibition
+            era. Our chosen gin mill, Quaglino's, is decorated to the taste of the period and has a history as rich as
+            the location of St James's.
+
+            The evening will start with a cocktail reception with further drinks served later as the night progresses.
+            We will also be serving canapés and providing entertainment throughout the evening. So wear your ritziest
+            garms and get ready to party like it's the 20's!
+
+            Ticket prices:
+
+            DoCSoc: £28
+
+            RCSU: £35
+
+            **First batch releases on 12th February: 1:30pm!**
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/2205576013084814/">Facebook</link>
+            <link href="https://www.eventbrite.co.uk/e/roaring-revel-docsoc-tickets-92928960021">Eventbrite</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <text>## Sponsor Notices</text>
+
+    <hr/>
+
+    <heading>Bloomberg Industrial Placement &amp; Graduate Positions</heading>
+    <sponsor company="bloomberg">
+        Bloomberg's applications for the [Industrial
+        Placements](https://careers.bloomberg.com/job/detail/76941) and [Graduate
+        Positions](https://careers.bloomberg.com/job/detail/76939) are open.
+
+        Bloomberg's diverse community of engineers take on some of the world’s most interesting and important technical
+        challenges. We develop impactful solutions to complex, real-world problems. With new systems being rolled out
+        daily, we make an immediate impact on global markets and we look for the best software engineers to build them.
+    </sponsor>
+
+    <sign
+            name="Radostin Petrov"
+            role="DoCSoc Secretary '19/20"
+            facebook="radostin.petrov99">
+        Until next time,
+    </sign>
+
+</email>
