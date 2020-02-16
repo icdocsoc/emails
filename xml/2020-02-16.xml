@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+    <image
+            width="80"
+            src="https://i.imgur.com/OULgDJZ.jpg"
+            alt="Heart-shaped biscuits"
+            title="Happy Valentine's Day/Week"/>
+
+    <hr/>
+
+    <text>
+        Hi everyone,
+
+        Now that we have settled well into second term, we hope you're all coping with your coursework. Although, we
+        kept it silent this week (post IC Hack rest), we are coming back with more events than ever for you!\
+        Besides, the hackathons and workshops that we run in February, we added some social events for next week, so you
+        can take a moment to relax from all the universitycd ..
+        work. Reading groups are also back! Also, we will be selling
+        our second batch of tickets for Revel (first batch sold out in less than 15 seconds!) on **Monday 17th at
+        1:30**.
+
+        Read on for more information!
+    </text>
+
+    <hr/>
+
+    <text>## General Notices</text>
+
+    <hr/>
+
+    <heading>Run for DoCSoc's 2020/21 Committee</heading>
+    <text>
+        **Leadership Elections 2020** are now open and nominations are now open for
+        DoCSoc's 2020/21 committee. Nominations will run **until 12:00 on Friday 28th
+        February**.
+
+        We will be running a short presentation this Thursday detailing the responsibilities of every role and other
+        information you
+        should know when running for a committee position(details below). We strongly recommend you attend the event, if
+        you are planning on standing for a role within DoCSoc.
+
+        If you have any questions, please feel free to reach out to us at docsoc@imperial.ac.uk
+        or get in touch with a current committee member!
+    </text>
+
+    <hr/>
+
+    <heading>Leon x DesSoc Hackathon</heading>
+    <image src="https://i.imgur.com/6aozzku.jpg"/>
+    <event
+            startDate="2020-02-22T09:00:00+00:00"
+            endDate="2020-02-24T18:00:00+00:00"
+            location="Leon HQ, Southward">
+        <text>
+            Join the us on Saturday 22nd and Sunday the 23rd of February for an exciting weekend of hacking and hands-on
+            prototyping. All teams will present their work at an event in the evening on Monday the 24th of February to
+            the Leon CEO and team. The event welcomes all students enthusiastic about sustainability, future
+            technologies (including robotics) and UX/UI design and engineering.
+
+            This event is sponsored by Leon and will be hosted at their HQ in Southwark.
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/181059803232259/">Facebook</link>
+            <link href="https://www.eventbrite.co.uk/e/leon-x-imperial-desing-engineering-society-hackathon-2020-tickets-94873197287">
+                Eventbrite
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <text>## On-Campus Events</text>
+
+    <hr/>
+
+    <heading>Games Night with G-Research</heading>
+    <image src="https://i.imgur.com/nXAzT11.jpg"/>
+    <event
+            startDate="2020-02-17T18:30:00+00:00"
+            endDate="2020-02-17T20:30:00+00:00"
+            location="EE Building 407A/B">
+        <text>
+            Please click GOING if you're likely to attend so we can order enough pizza 🍕🍕🍕
+
+            ---
+
+            Ever wondered what is it like to work at G-Research, or what G-Research does anyway? Come to our casual
+            Games
+            Night on Monday 17th February to play some of our favourite board games and have a chat. We are hiring and
+            would
+            love to answer any question/worry that you have when it comes to applying. We also love to just have a fun
+            time
+            with you too.
+
+            Free pizzas and drinks are available. Be sure to beat our Head of Engineering on his favourite board games!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/495821034458700/">Facebook</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Raspberry Pi Workshops</heading>
+    <image src="https://i.imgur.com/97B3YPK.jpg"/>
+    <event
+            startDate="2020-02-18T13:00:00+00:00"
+            endDate="2020-02-18T14:00:00+00:00"
+            location="Huxley 308">
+        <text>
+            Have you ever wanted to know more about a Raspberry Pi? Or are you a first year Computing student whose
+            summer project will closely involve the Raspberry Pi? Then come join us at our new 4-week Raspberry Pi
+            course where you will get to learn what this small computer is capable of!
+
+            We will introduce the Pi, its architecture and do multiple demos for VNC Connections, Python + Assembly
+            programming and coding a tiny bootloader!
+
+            These workshops are open to everyone!
+            Make sure to grab your Eventbrite ticket to get free pizza!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/1442439432589537/">Facebook</link>
+            <link href="https://www.eventbrite.co.uk/e/raspberry-pi-workshops-tickets-91677775695">Eventbrite</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Reading Groups by Prof Abbas Edalat and Antonio Rago
+    </heading>
+    <image src="https://i.imgur.com/Kw6OlOQ.jpg"/>
+    <event
+            startDate="2020-02-19T13:00:00+00:00"
+            endDate="2020-02-19T14:00:00+00:00"
+            location="Huxley 145">
+        <text>
+            Reading groups are back this term! Reading groups are sessions where researchers come and talk about their
+            current work to expose current undergraduate students to research! These talks are open to everyone!
+
+            Session 1 by Prof Abbas Edalat at 1-1.30 pm
+            Title
+            Algorithmic Human Development: What is it and why do we need it now?
+
+            Abstract
+            In the face of our current existential problems and challenges, I
+            will argue by making a comparison with the origin of AI that we
+            now actually need to develop algorithms to enhance emotional and social intelligence and creativity in the
+            human
+            individual. These non-invasive protocols would be based on neuroplasticity and long term potentiation and
+            represent an interactive play between two internal agents: the emotion-driven Child and the thought-driven
+            Adult
+            equipped with an action programme. The protocols aim at neural retraining for optimal redevelopment and
+            emotion
+            self-regulation in the individual regarded as a biological cybernetic system with the targeted goals of
+            becoming
+            (i) compassionate, (ii) cheerful and (iii) creative. Our proposed framework, named Self-attachment, has
+            parallels with Machine Learning as it employs the the basic paradigms of "rebooting", "substitution",
+            "iteration" and "prior updating"
+            in the human individual. I will give the results of a pilot project
+            on the subject and describe two Bayesian computational brain models for it: one based on Hebbian artificial
+            neural networks and one on the Free Energy Principle. I will finally argue that learning to laugh, in
+            particular
+            to laugh at oneself, is the number one learning task in our age and present novel protocols, based on
+            logical
+            theories of laughter, to explain how this learning can be acquired.
+
+            Session 2 by Antonio Rago at 1.30-2 pm
+            Title
+            Argumentation as a Framework for Conversational AI
+
+            Abstract
+            As AI becomes ever more ubiquitous in our everyday lives, its ability to explain to and interact with humans
+            is
+            evolving into a critical research area. The explanation of a result, e.g. a prediction or a recommendation,
+            in a
+            way which allows a user to anthropomorphise a system is, therefore, a pivotal functionality in a user’s
+            experience. We show how argumentative abstractions underpinning AI methods can provide the structural
+            scaffolding for conversational explanations. We illustrate how the dialectical reasoning and conflict
+            management
+            capabilities of argumentation empower conversational repertoires in two different settings, recommender
+            systems
+            and automated review aggregation. We then demonstrate how the resulting explanations may be equipped with
+            feedback mechanisms that guarantee that the system’s accuracy will improve with time or may simply be
+            designed
+            to induce trust in and provide transparency to users.
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/790582004759283/">Facebook</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>So you want to run for DoCSoc Committee?</heading>
+    <image src="https://i.imgur.com/7GD7thB.jpg"/>
+    <event
+            startDate="2020-02-20T13:00:00+00:00"
+            endDate="2020-02-20T14:00:00+00:00"
+            location="Huxley 217/218">
+        <text>
+            Thinking of running for DoCSoc committee in this year's Leadership Elections? Come along to this talk,
+            presented by current members of the committee, where we'll be detailing what exactly goes into DoCSoc and
+            what each role entails.
+
+            Read more about the Leadership Elections here:
+            https://www.imperialcollegeunion.org/your-union/leadership-elections-2020
+
+            Nominate yourself here: https://vote.union.ic.ac.uk/
+
+            Don't forget to read the Candidates' Pack &amp; Election Rules:
+            https://www.imperialcollegeunion.org/information-for-candidates#Candidates%20Pack. Breaking election rules
+            can result in disqualification.
+
+            See you there!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/119451139488700/">Facebook</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Google Hashcode Imperial College London Hub</heading>
+    <image src="https://i.imgur.com/6rBfuEh.jpg"/>
+    <event
+            startDate="2020-02-20T17:30:00+00:00"
+            endDate="2020-02-20T21:30:00+00:00"
+            location="Huxley 221, 217, 218">
+        <text>
+            Hash Code is a team programming competition, organized by Google, for students and professionals around the
+            world. You pick your team and programming language and we pick an engineering problem for you to solve. Join
+            us at the Imperial College London Hub for the Online Qualification Round. Top teams will then be invited to
+            a Google office for the Final Round.
+
+            Sign up here: https://g.co/hashcode
+            Remember to select Imperial College London Hub after you apply
+
+            There are only 100 slots for our hub, so make sure you sign up as soon as possible
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/216819712683436/">Facebook</link>
+            <link href="https://codingcompetitions.withgoogle.com/hashcode/">Register</link>
+        </links>
+    </event>
+
+    <hr/>
+
+
+    <heading>The Valentine's Bar Night</heading>
+    <image src="https://i.imgur.com/OeRjs8p.jpg"/>
+    <event
+            startDate="2020-02-20T19:00:00+00:00"
+            endDate="2020-02-20T23:00:00+00:00"
+            location="Metric">
+        <text>
+            You've made it halfway through term - come celebrate with us at the Valentine's Bar Night! Whether you've
+            been bitten by the love bug or you're living life carefree, everyone's welcome for some free drinks.
+
+            Drinks tokens will be given upon entry for FREE to DoCSoc members. Tokens are valid for both alcoholic and
+            non-alcoholic drinks. We have the right to refuse tokens to members at our discretion.
+
+            You are entitled to bring one non-Imperial plus one. ID must be shown at entry to prove this. You must stay
+            with your plus one at all times and they will not be given any drinks tokens. Imperial plus ones must be
+            DoCSoc members in order to attend.
+
+            We may decide to head to Belushi's after the event; if this is the case, DoCSoc often buys attendees a round
+            of drinks, so if you're unable to come to the bar night, bear in mind there is still a chance members will
+            go out after!
+
+            ----------------------
+
+            You must be a member of DoCSoc before Saturday 15th February in order to be admitted. Computing, JMC, and
+            EIE students are automatically members of DoCSoc. Membership is £30. Strictly 18+ only - we will be checking
+            IDs.
+
+            Please send an email to us at docsoc@ic.ac.uk if you intend to bring a non-Imperial plus one. Any Imperial
+            plus-ones must have purchased membership, otherwise they will be denied entry.
+
+            Our full barnight policy is linked here: http://docsoc.co.uk/barnightpolicy
+
+            Find out more: http://docsoc.co.uk/join
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/2656351507943000/">Facebook</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Ed Tech Hackday</heading>
+    <image src="https://i.imgur.com/mAbsEAn.jpg"/>
+    <event
+            startDate="2020-02-22T11:00:00+00:00"
+            endDate="2020-02-22T17:00:00+00:00"
+            location="TBA">
+        <text>
+            Join DoC on Saturday 22nd February for a one day Hackathon to help design and develop to your education
+            tools (Materials, eMarking and more)
+
+            This is an excellent occasion for people interested in working on the Edtech platforms with us over the
+            summer to start exploring the code and make a first contribution
+
+            Please RSVP here: https://forms.gle/foZwZKEN6XVrNVr68
+
+            Lunch will be provided on the day, so let us know if you plan to attend by selecting "Going" and filling in
+            the form above!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/194418778361279/">Facebook</link>
+            <link href="https://docs.google.com/forms/d/e/1FAIpQLSdQaMWltx44IvT1WfalwPYN-u5oFRRiI9u5Q70IuuHrjftGSQ/viewform">
+                RSVP
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>IC HealthHack 2020</heading>
+    <image src="https://i.imgur.com/QcuKsfS.jpg"/>
+    <event
+            startDate="2020-02-29T09:00:00+00:00"
+            endDate="2020-03-01T17:00:00+00:00"
+            location="Imperial College London">
+        <text>
+            The Department of Computing Society (DoCSoc), Bioengineering Society, ICSM Coding Society and MedTech
+            Society proudly present the IC HealthHack 2020!
+
+            We are back with HealthHack 20 bigger and better than ever!
+            Combining skills in bioengineering, computer science, and medicine, HealthHack will bring together talented
+            students to tackle the most current medical challenges through technology.
+            This year, we are focusing on Medical Education as our overarching theme.
+            Over the weekend of 29th February - 1st March 2020, teams will bring their awesome ideas to life and develop
+            solutions to real-life health education challenges.
+
+            Save the date and follow the event page for more details, including sponsors and schedule announcements.
+
+            Website: https://ichealthhack.org/
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/2630916247137813/">Facebook</link>
+            <link href="https://ichealthhack.org/">Website</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Roaring Revel: Second Batch of Tickets</heading>
+    <image src="https://i.imgur.com/hlkVgkp.jpg"/>
+    <event
+            startDate="2020-03-02T19:00:00+00:00"
+            endDate="2020-03-03T01:00:00+00:00"
+            location="Quaglino's
+                      16 Bury Street
+                      London, SW1Y 6AJ">
+        <text>
+            **This event is for 18+ only.**
+
+            A little party never killed nobody, so join RCSU and DoCSoc for an extravagant night of glitz, glam and a
+            party fit for the 20's - here's to Roaring Revel!
+
+            From Spanish rooftop bars to Parisian themed halls, we're now taking you back in time to the Prohibition
+            era. Our chosen gin mill, Quaglino's, is decorated to the taste of the period and has a history as rich as
+            the location of St James's.
+
+            The evening will start with a cocktail reception with further drinks served later as the night progresses.
+            We will also be serving canapés and providing entertainment throughout the evening. So wear your ritziest
+            garms and get ready to party like it's the 20's!
+
+            Ticket prices:
+
+            DoCSoc: £28
+
+            RCSU: £35
+
+            **Second batch releases on 17th February: 1:30pm!**
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/2205576013084814/">Facebook</link>
+            <link href="https://www.eventbrite.co.uk/e/roaring-revel-docsoc-tickets-92928960021">Eventbrite</link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <text>## Sponsor Notices</text>
+
+    <hr/>
+
+    <heading>Next Jump is hiring – Deadline next week!</heading>
+    <image src="https://i.imgur.com/BjhQGZD.png"/>
+    <sponsor company="next_jump">
+        **Who are we?**\
+        Next Jump is a global tech company with an award-winning culture. We help to transform companies from all
+        sectors (Finance, Tech, Military) to build high performing teams; and our E-commerce platform is used by 70% of
+        the Fortune 1000 (including Facebook, Bloomberg and the BBC) making $2B in sales a year. Over the last 12
+        months, our core and social businesses have been growing rapidly. We are looking for developers who want to
+        design, build and market amazing mobile apps and web platforms - built with React Native, Go, PHP, Vue.js, AWS
+        and more - to our 3 million UK customers from their first day on the job.
+
+        The deadline for our Spring Super Saturday is **Friday, 21st February** - catch our interest and we'll chat to
+        you,
+        send you a coding test and invite you to our Super Saturday assessment day on the 29th Feb 2020.
+
+        We are looking to fill the vacancies in our Intern Class 2020 as well as Graduate Class 2020.
+
+        **Apply Now!**
+        If you are looking for a 'not-your-typical graduate job/internship', then Next Jump's the place for you!
+        - Graduate Class 2020:
+        https://nextjump.applytojob.com/apply/UWulrrsRCG/Software-Engineer-Web-Applications
+        - Intern Class 2020:
+        https://nextjump.applytojob.com/apply/wYfZzpCivx/Software-Engineer-Web-Applications-Internship
+    </sponsor>
+
+
+    <hr/>
+
+    <heading>Bloomberg Industrial Placement &amp; Graduate Positions</heading>
+    <sponsor company="bloomberg">
+        Bloomberg's applications for the [Industrial
+        Placements](https://careers.bloomberg.com/job/detail/76941) and [Graduate
+        Positions](https://careers.bloomberg.com/job/detail/76939) are open.
+
+        Bloomberg's diverse community of engineers take on some of the world’s most interesting and important technical
+        challenges. We develop impactful solutions to complex, real-world problems. With new systems being rolled out
+        daily, we make an immediate impact on global markets and we look for the best software engineers to build them.
+    </sponsor>
+
+    <sign
+            name="Radostin Petrov"
+            role="DoCSoc Secretary '19/20"
+            facebook="radostin.petrov99">
+        Until next time,
+    </sign>
+
+</email>
