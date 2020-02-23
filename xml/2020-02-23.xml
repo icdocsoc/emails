@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+  <image
+    width="80"
+    src="https://i.imgur.com/TE1451i.jpg?1"
+    alt="Macaroons"
+    title="Today was sunny although a bit windy!"/>
+
+  <hr/>
+
+  <text>
+
+    Last week of February is here! We had a quite eventful week full of Python and Raspberry Pi
+    workshops alongside our Committee Elections talk, HashCode Hub, and Valentine's bar night all
+    taking place last Thursday! We have more events in the coming weeks, as next week IC HealthHack
+    and Revel (two of our biggest events) will take place. There are also **a number of Revel
+    tickets
+    still up for grabs**, but more on this and other news in this digest!
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>Leadership Elections Nominations close this Friday!</heading>
+  <text>
+    Leadership Elections 2020 are just around the corner and nominations for all positions,
+    including DoCSoc committee roles close this **Friday 28th February at 12:00PM**.
+
+    We have written a **detailed blog post** which includes the responsibilities for
+    every role and other information you should know when running for a committee position.
+    If you are looking to run for a DoCSoc committee position, we strongly recommend
+    you read this.
+
+    Read the blog post here: https://docsoc.co.uk/articles/2020-02-19-election-positions/
+
+    If you have any questions, please feel free to reach out to us at docsoc@imperial.ac.uk
+    or get in touch with a current committee member!
+  </text>
+
+  <hr/>
+
+  <text>## On-Campus Events</text>
+
+  <hr/>
+
+  <heading>Raspberry Pi Workshops</heading>
+  <image src="https://i.imgur.com/97B3YPK.jpg"/>
+  <event
+    startDate="2020-02-25T13:00:00+00:00"
+    endDate="2020-02-25T14:00:00+00:00"
+    location="Huxley 308">
+    <text>
+      Have you ever wanted to know more about a Raspberry Pi? Or are you a first year Computing
+      student whose
+      summer project will closely involve the Raspberry Pi? Then come join us at our new 4-week
+      Raspberry Pi
+      course where you will get to learn what this small computer is capable of!
+
+      We will introduce the Pi, its architecture and do multiple demos for VNC Connections, Python +
+      Assembly
+      programming and coding a tiny bootloader!
+
+      These workshops are open to everyone!
+      Make sure to grab your Eventbrite ticket to get free pizza!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1442439432589537/">Facebook</link>
+      <link href="https://www.eventbrite.co.uk/e/raspberry-pi-workshops-tickets-91677775695">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Human Centred Design for Early Stage Start Ups</heading>
+  <image src="https://i.imgur.com/9YLZ8OS.jpg"/>
+  <event
+    startDate="2020-02-25T18:15:00+00:00"
+    endDate="2020-02-25T19:00:00+00:00"
+    location="Huxley 311">
+    <text>
+      Human Centred Design is an essential product design methodology driving innovation in software
+      companies including start-ups.
+
+      Come join us in this talk where will see how Human Centred Design methods are used to develop
+      new product innovations with a case study of Samsung Electronics Product Innovation Team.
+
+      This talk will be given by Lucas Braunschvig, an Imperial Alumni who has worked as a
+      Innovation Manager at Samsung Electronics for over four years and has recently founded an
+      early stage start-up called Stroll Hunt.
+
+      Lucas will also give a talk about how he used Lean Start-up methods to validate his accidental
+      start-up idea: The case study of Strollhunt.
+
+      This talk is open to everyone! Just make sure to grab a ticket on Eventbrite to ensure you
+      have pizza at the event! Let us know about any dietary requirements by emailing us at
+      docsoc@ic.ac.uk.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2680575425355259/">Facebook</link>
+      <link href="https://www.eventbrite.co.uk/e/human-centred-design-for-early-stage-start-ups-tickets-95454185037">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>IC HealthHack 2020</heading>
+  <image src="https://i.imgur.com/QcuKsfS.jpg"/>
+  <event
+    startDate="2020-02-29T09:00:00+00:00"
+    endDate="2020-03-01T17:00:00+00:00"
+    location="Imperial College London">
+    <text>
+      The Department of Computing Society (DoCSoc), Bioengineering Society, ICSM Coding Society and
+      MedTech
+      Society proudly present the IC HealthHack 2020!
+
+      We are back with HealthHack 20 bigger and better than ever!
+      Combining skills in bioengineering, computer science, and medicine, HealthHack will bring
+      together talented
+      students to tackle the most current medical challenges through technology.
+      This year, we are focusing on Medical Education as our overarching theme.
+      Over the weekend of 29th February - 1st March 2020, teams will bring their awesome ideas to
+      life and develop
+      solutions to real-life health education challenges.
+
+      Save the date and follow the event page for more details, including sponsors and schedule
+      announcements.
+
+      Website: https://ichealthhack.org/
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2630916247137813/">Facebook</link>
+      <link href="https://ichealthhack.org/">Website</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Roaring Revel: Limited Number of Tickets Left!</heading>
+  <image src="https://i.imgur.com/hlkVgkp.jpg"/>
+  <event
+    startDate="2020-03-02T19:00:00+00:00"
+    endDate="2020-03-03T01:00:00+00:00"
+    location="Quaglino's
+                      16 Bury Street
+                      London, SW1Y 6AJ">
+    <text>
+      We hope you are ready for this year's edition of our glamorous black-tie event Roaring
+      Revel! We had a great demand for tickets with our first batch selling out in less than 15
+      seconds! If you did not manage to secure a ticket, we are delighted to announce a **final
+      batch
+      of limited tickets for DoCSoc members at £28**.
+
+      To grab yours go to:
+      https://www.eventbrite.co.uk/e/roaring-revel-docsoc-tickets-92928960021 and once you've
+      registered with Eventbrite navigate to the [Union website to purchase the
+      tickets](https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products/30339/revel-late-release-ticket).
+
+      Note that you may purchase a +1 ticket for anyone for any Imperial or non-Imperial student
+      (except RCSU members must buy RCSU tickets and DoCSoc members must buy DoCSoc tickets), but
+      tickets are limited to two per member. These last few tickets are limited, so make sure to
+      secure them soon!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2205576013084814/">Facebook</link>
+      <link href="https://www.eventbrite.co.uk/e/roaring-revel-docsoc-tickets-92928960021">
+        Eventbrite
+      </link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>International Women's Day Conference</heading>
+  <image src="https://i.imgur.com/5HuoxdH.png"/>
+  <event
+    startDate="2020-03-11T12:00:00+00:00"
+    endDate="2020-03-11T18:00:00+00:00"
+    location="Huxley 308">
+    <text>
+      In honour of International Women’s Day, WiC will be celebrating by hosting a half-day
+      conference at Imperial College London on the 11th of March. Join us to hear from STEM leaders
+      across industry and academia about their career journeys followed by a panel on how
+      discrimination can be tackled to make the tech industry a more welcoming place for minorities.
+
+      PhDs+Postdocs are also invited to a CV+Interview lunchtime workshop run by Faculty.ai in room
+      218. Workshop is aimed at those preparing the transition post-PhD to industry and/or
+      consulting.
+
+
+      Agenda:
+      - 12:00-13:15 CV+Interview lunchtime workshop in Huxley 218 (PhDs and Postdocs only, lunch
+      provided)
+      - 13:15-15:30 Speakers from academia, industry and consulting in Huxley LT 308 (with
+      tea/coffee
+      break)
+      - 15:30 - 16:45 Panel discussion on Positive Discrimination for Equality in STEM in Huxley LT
+      308
+      - 16:45 - 18:00 Drinks+canapes
+
+      Confirmed speakers:
+      - Julie McCann, Professor of Computer Systems, Imperial College London
+      - Katerina Daminova, Strategy at Yobota
+
+      More speakers TBA
+
+
+      **If you plan on attending, please sign up here: https://forms.gle/y9ACTxTpRX6YiYKs8**
+
+      All genders welcome!
+    </text>
+    <links>
+      <link href="https://forms.gle/y9ACTxTpRX6YiYKs8">RSVP</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Next Jump is hiring – Deadline this SUNDAY!</heading>
+  <image src="https://i.imgur.com/BjhQGZD.png"/>
+  <sponsor company="next_jump">
+    \
+    **Next Jump is hiring – Deadline this SUNDAY!**
+
+    5 Fun facts about Next Jump:
+    - Our technology impacts 10 million users everyday
+    - 70% of the Fortune 1000 companies use our technology
+    - We record $3 billion in sales every single year
+    - Our Intern Class 2019 worked on core infrastructure of our hugely-popular Cinema App
+    - All our full-time employees travel to America twice a year for parties
+
+    **Who are we?**\
+    You might have known us from ICHack, Breakfast or Bar Night, Next Jump is a global tech company
+    with an award-winning culture. We help to transform companies from all sectors (Finance, Tech,
+    Military) to build high performing teams; and our E-commerce platform is used by 70% of the
+    Fortune 1000 (including Facebook, Bloomberg and the BBC) making $2B in sales a year. Over the
+    last 12 months, our core and social businesses have been growing rapidly. We are looking for
+    developers who want to design, build and market amazing mobile apps and web platforms - built
+    with React Native, Go, PHP, Vue.js, AWS and more - to our 3 million UK customers from their
+    first day on the job.
+
+    The deadline for our Spring Super Saturday is **Sunday, 23rd February** - catch our interest and
+    we'll chat to you, send you a coding test and invite you to our Super Saturday assessment day on
+    the 29th Feb 2020.
+
+    We are looking to fill the vacancies in our Intern Class 2020 as well as Graduate Class 2020.
+
+    **Apply Now!**
+
+    If you are looking for a 'not-your-typical graduate job/internship', then Next Jump's the place
+    for you!
+    - Graduate Class 2020:
+    https://nextjump.applytojob.com/apply/UWulrrsRCG/Software-Engineer-Web-Applications?source=Imperial+Blast
+    - Intern Class 2020:
+    https://nextjump.applytojob.com/apply/wYfZzpCivx/Software-Engineer-Web-Applications-Internship?source=Imperial+Blast
+  </sponsor>
+
+  <hr/>
+
+  <heading>TheDataOpen - Citadel Spring Datathon</heading>
+  <sponsor company="citadel">
+    **Explore. Build. Win.**
+
+    The Data Open brings together the best minds
+    in mathematics, engineering, science, and
+    technology to collaborate and compete using
+    the world’s most important data sets.
+
+    [Sign Up Now - Limited spots available!](http://thedataopen.com/)
+
+    You can win $25000 in cash prizes and the winning team gains an automatic entry into the final
+    Data Open competition.
+
+    _Check out the attached PDF for more information._
+  </sponsor>
+
+  <hr/>
+
+  <heading>Citadel &amp; Citadel Securities Internships and Graduate Positions</heading>
+  <sponsor company="citadel">
+    **Citadel** is a leading investor in the world’s financial markets. For over a quarter of a
+    century,
+    we have sought to deliver industry-leading investment returns to clients including corporate
+    pensions, endowments, foundations, public institutions, and sovereign wealth funds.
+
+    **Citadel Securities** is an award-winning global market maker that helps meet the liquidity
+    needs
+    of asset managers, banks, broker-dealers, hedge funds, government agencies, and public pension
+    programs.
+
+    Applications open for both internships and graduate roles for the following positions:
+    - Investment &amp; Trading
+    - Quantitative Strategies
+    - Software Engineering
+
+    Apply via our websites citadel.com &amp; citadelsecurities.com
+  </sponsor>
+
+  <hr/>
+
+  <heading>WiTT at Jane Street</heading>
+  <sponsor company="jane_street">
+    \
+    **We are excited to host our sixth year of WiTT at Jane Street!
+    Will you be there?**
+
+    Women in Trading and Technology (WiTT) is a three-day programme designed for women in their
+    penultimate year of university as of autumn 2020. Participants will have an exclusive
+    opportunity to explore careers within our firm and attend one of two educational programmes:
+    quantitative trading and software engineering.
+
+    Both programmes feature interactive classes and activities during the day, and evening social
+    events to speak with Jane Street employees and other women attending the event in a more casual
+    setting.
+
+    The quantitative trading programme focuses on mathematical and financial topics—such as
+    probability, market structure, and arbitrage—through a combination of short classroom lectures,
+    group games, and mock trading sessions. There is a curriculum of core subjects with flexibility
+    to explore alternative areas of interest, and plenty of opportunities for close interaction with
+    our traders.
+
+    The software engineering programme focuses on the fundamentals of building electronic trading
+    systems, OCaml, and the library and tools we use in our everyday work at Jane Street.
+    Participants will put these tools to use by writing the back end and UI for a computer game,
+    along with a program that trades on a simulated stock exchange. These activities involve a
+    combination of classroom lectures, group games and exercises, and one-on-one mentorship.
+
+    Selected students will arrive in London on the evening of Sunday, 20 September and will depart
+    the evening of Wednesday, 23 September. Jane Street will provide all travel to and from London,
+    accommodation at a hotel near the office, and of course, plenty of food and drinks throughout
+    the event.
+
+    Jane Street is a quantitative trading firm that uses innovative technology, a scientific
+    approach, and a deep understanding of markets to guide our business. Founded in 2000, Jane
+    Street employs more than 1,100 people with offices in New York, London, Amsterdam, and Hong
+    Kong. We are always on the lookout for great new people to join our team.
+
+    The environment at Jane Street is open, informal, intellectual, and fun. The dress code is
+    casual, the kitchen is stocked, and discussions are always lively. Teaching and learning are
+    central activities through classes, mentoring, and discussion.
+
+    Selected students will arrive in London on the evening of Sunday, 20 September and will depart
+    the evening of Wednesday, 23 September. Jane Street will provide all travel to and from London,
+    accommodation at a hotel near the office, and of course, plenty of food and drinks throughout
+    the event.
+
+    **Apply here: https://janestreet.com/apply-witt**
+
+    **Who: Women in their second year of study in Autumn 2020\
+    When: 20th - 23rd September 2020\
+    Deadline to apply: Sunday, 5th July 2020 at 11.59pm BST**
+  </sponsor>
+
+  <sign
+    name="Radostin Petrov"
+    role="DoCSoc Secretary '19/20"
+    facebook="radostin.petrov99">
+    Until next time,
+  </sign>
+</email>
