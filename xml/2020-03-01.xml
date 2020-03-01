@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+    <image
+            alt="Stack of digestives"
+            src="https://i.imgur.com/JqBty0t.jpg"
+            title="Did you know: The term 'Digest' comes from the word 'Digestives' relating to the biscuits we put at the at start of every email!"
+            width="80"/>
+
+    <text>
+        Hi everyone,
+
+        After a long weekend of co-running IC HealthHack 2020, we are saying
+        farewell to our Hackathon February. We hope everyone who attended
+        HealthHack
+        (and all other hackathons we ran this month) enjoyed themselves and
+        hopefully learned something useful and practical.
+
+        Speaking of learning, we are in the final weeks of our Python and
+        Raspberry
+        Pi workshops. Certainly a successful term for DoCSoc Education, we hope
+        that
+        you found the courses useful (and we would love to hear feedback!).
+
+        Next week, we will be holding Revel - our annual black-tie event! One
+        last
+        party before we all settle down into the exam season, Revel will not
+        disappoint, being held in Quaglino's this year and also featuring the
+        popular DJ Antics! Prepare your fancy outfits and bring your party
+        attitude
+        this Monday!
+
+        More notices to follow below!
+    </text>
+
+    <hr/>
+
+    <text>## General Notices</text>
+
+    <hr/>
+
+    <heading>The Hello World Hack: Looking for volunteers!</heading>
+    <text>
+        Want to improve your leadership and communication skills by helping to
+        run
+        coding activities and talks that will inspire the next generation of
+        young
+        women?
+
+        Hello World Hack is a hackathon hosted by Imperial’s Computing and Maths
+        Departments that aims to introduce girls in Years 3 to 5 (ages 7-10) to
+        computer science and show them what can be achieved by learning to code!
+
+        We’re looking for female volunteers from any STEM discipline to help
+        host
+        this EXCITING and INTERACTIVE event on Tuesday 24th March 2020
+
+        **If you would like to get involved or find out more, please email Dr
+        Jackie
+        Bell (Jaclyn.bell@imperial.ac.uk) by 5pm on Thursday 12th March 2020**
+
+        _See attached PDF for more information._
+    </text>
+
+    <hr/>
+
+    <text>## On-Campus Events</text>
+
+    <hr/>
+
+    <heading>Roaring Revel</heading>
+    <image src="https://i.imgur.com/hlkVgkp.jpg"/>
+    <event
+            startDate="2020-03-02T19:00:00+00:00"
+            endDate="2020-03-03T01:00:00+00:00"
+            location="Quaglino's
+                      16 Bury Street
+                      London, SW1Y 6AJ">
+        <text>
+            **This event is for 18+ only.**
+
+            A little party never killed nobody, so join RCSU and DoCSoc for an
+            extravagant night of glitz, glam and a
+            party fit for the 20's - here's to Roaring Revel!
+
+            From Spanish rooftop bars to Parisian themed halls, we're now taking
+            you back in time to the Prohibition
+            era. Our chosen gin mill, Quaglino's, is decorated to the taste of
+            the period and has a history as rich as
+            the location of St James's.
+
+            The evening will start with a cocktail reception with further drinks
+            served later as the night progresses.
+            We will also be serving canapés and providing entertainment
+            throughout the evening. So wear your ritziest
+            garms and get ready to party like it's the 20's!
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/2205576013084814/">
+                Facebook
+            </link>
+        </links>
+    </event>
+
+
+    <hr/>
+
+    <heading>DoCSoc goes to Ballie Ballerson</heading>
+    <image src="https://i.imgur.com/V81LGZ2.jpg"/>
+    <event
+            startDate="2020-03-04T18:30:00+00:00"
+            endDate="2020-03-04T21:30:00+00:00"
+            location="53-54 Berwick St,
+     London,
+     W1F 8SP">
+        <text>
+            Take a break from all the deadlines and revision and come have some
+            fun with DoCSoc at Ballie Ballerson
+            Soho!!
+
+            DoCSoc will be heavily subsidising tickets to just £6.00! We only
+            have a limited number of tickets for this
+            event, so make sure to try and get one.
+
+            Each ticket include a welcome prosecco drink, a cocktail, a whole
+            pizza and 3 hours access to the ball pits
+            at Ballie Ballerson Soho! We will meet outside the venue at 6:30.
+
+            We hope to see you there!
+
+            --------------------------------------------------------------
+            You must be a member of DoCSoc by Tuesday 25th November in order to
+            be admitted. Computing, JMC, and EIE
+            students are automatically members of DoCSoc. Membership is £30.
+
+            Find out more: http://docsoc.co.uk/join
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/282553589377804/">
+                Facebook
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>DoCSoc: Meet the Candidates!</heading>
+    <image src="https://i.imgur.com/GakkYTh.png"/>
+    <event
+            startDate="2020-03-05T13:00:00+00:00"
+            endDate="2020-03-05T14:00:00+00:00"
+            location="Huxley 311">
+        <text>
+            Committee nominations have closed on Friday 28th February and now
+            it's time to Meet the Candidates!
+
+            Join us in Huxley 311 from 1pm on Thursday 5th March to meet the
+            candidates running for all of the positions in DoCSoc.
+
+            This is your chance to ask any questions you may have, and hear more
+            about what each candidate is campaigning for! Candidates for DoCSoc
+            and Dep Reps will all be present.
+
+            Candidates for contested positions: Please turn up and prepare a 1
+            minute speech on why you think you'd be good for the position. After
+            each pitch, up to 2 questions will be asked from the audience.
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/625014798334906/">
+                Facebook
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>Women in Gaming Panel</heading>
+    <image src="https://i.imgur.com/ciyfOQu.jpg"/>
+    <event
+            startDate="2020-03-10T18:30:00+00:00"
+            endDate="2020-03-10T19:30:00+00:00"
+            location="Blackett LT 1">
+
+        <text>
+            We would like to invite you to the women in gaming panel, where we
+            will try to increase the visibility and representation of women in
+            gaming.
+
+            The panel will be an hour long, including a 10-15 min Q&amp;A with
+            the
+            panelists, followed by an informal networking session with a catered
+            reception.
+
+            The panel will take place on Tuesday 10th March at 6:30pm in
+            Blackett LT1, located on Imperial's South Kensington Campus.
+
+            This event is part of Women's History Month at Imperial College
+            London and is open to everyone! Just make sure to grab a ticket on
+            Eventbrite to ensure you have food at the event! Let us know about
+            any dietary requirements by emailing us at docsoc@ic.ac.uk.
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/520737038579661/">
+                Facebook
+            </link>
+            <link href="https://www.eventbrite.co.uk/e/women-in-gaming-panel-tickets-96475766615/">
+                Eventbrite
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>International Women's Day Conference 2020</heading>
+    <image src="https://i.imgur.com/jUs6CvK.jpg"/>
+    <event
+            startDate="2020-03-11T12:00:00+00:00"
+            endDate="2020-03-11T18:00:00+00:00"
+            location="Huxley 308">
+        <text>
+            In honour of International Women’s Day, WiC are excited to announce
+            a half-day conference at Imperial College London on the 11th of
+            March. Join us to hear from STEM leaders across industry and
+            academia about their career journeys followed by a panel on how
+            discrimination can be tackled to make the tech industry a more
+            welcoming place for minorities.
+            Open to all!
+            Graduate students are also invited to a CV+Interview lunchtime
+            workshop run by Faculty.ai in room 218. Workshop is aimed at those
+            preparing the transition from academia to industry and/or
+            consulting.
+
+            Confirmed speakers:
+            Katerina Daminova, Business Strategy at Yobota
+            Professor Nigar Hashimzade, Director of Research, Department of
+            Economics and Finance, Brunel
+            Professor Julie McCann, Head of Adaptive Emergent Systems
+            Engineering (AESE) group, Imperial
+            Becky Plummer, Team Leader, Software Infrastructure, Bloomberg
+            Sepi Chakaveh, CEO/Founder of Pixsellar
+            Christina Franzeskides, COO of Comind
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/195198955050488/">
+                Facebook
+            </link>
+            <link href="https://www.eventbrite.co.uk/e/iwdc2020-in-conversation-with-tech-leaders-in-academia-and-industry-tickets-96877941531/">
+                Eventbrite
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <text>## Sponsor Notices</text>
+
+    <hr/>
+
+    <heading>TheDataOpen - Citadel Spring Datathon</heading>
+    <sponsor company="citadel">
+        **Explore. Build. Win.**
+
+        The Data Open brings together the best minds
+        in mathematics, engineering, science, and
+        technology to collaborate and compete using
+        the world’s most important data sets.
+
+        [Sign Up Now - Limited spots available!](http://thedataopen.com/)
+
+        You can win $25000 in cash prizes and the winning team gains an
+        automatic entry into the final
+        Data Open competition.
+
+        _Check out the attached PDF for more information._
+    </sponsor>
+
+    <hr/>
+
+    <heading>WiTT at Jane Street</heading>
+    <sponsor company="jane_street">
+        \
+        **We are excited to host our sixth year of WiTT at Jane Street!
+        Will you be there?**
+
+        Women in Trading and Technology (WiTT) is a three-day programme designed
+        for women in their
+        penultimate year of university as of autumn 2020. Participants will have
+        an exclusive
+        opportunity to explore careers within our firm and attend one of two
+        educational programmes:
+        quantitative trading and software engineering.
+
+        Both programmes feature interactive classes and activities during the
+        day, and evening social
+        events to speak with Jane Street employees and other women attending the
+        event in a more casual
+        setting.
+
+        The quantitative trading programme focuses on mathematical and financial
+        topics—such as
+        probability, market structure, and arbitrage—through a combination of
+        short classroom lectures,
+        group games, and mock trading sessions. There is a curriculum of core
+        subjects with flexibility
+        to explore alternative areas of interest, and plenty of opportunities
+        for close interaction with
+        our traders.
+
+        The software engineering programme focuses on the fundamentals of
+        building electronic trading
+        systems, OCaml, and the library and tools we use in our everyday work at
+        Jane Street.
+        Participants will put these tools to use by writing the back end and UI
+        for a computer game,
+        along with a program that trades on a simulated stock exchange. These
+        activities involve a
+        combination of classroom lectures, group games and exercises, and
+        one-on-one mentorship.
+
+        Selected students will arrive in London on the evening of Sunday, 20
+        September and will depart
+        the evening of Wednesday, 23 September. Jane Street will provide all
+        travel to and from London,
+        accommodation at a hotel near the office, and of course, plenty of food
+        and drinks throughout
+        the event.
+
+        Jane Street is a quantitative trading firm that uses innovative
+        technology, a scientific
+        approach, and a deep understanding of markets to guide our business.
+        Founded in 2000, Jane
+        Street employs more than 1,100 people with offices in New York, London,
+        Amsterdam, and Hong
+        Kong. We are always on the lookout for great new people to join our
+        team.
+
+        The environment at Jane Street is open, informal, intellectual, and fun.
+        The dress code is
+        casual, the kitchen is stocked, and discussions are always lively.
+        Teaching and learning are
+        central activities through classes, mentoring, and discussion.
+
+        Selected students will arrive in London on the evening of Sunday, 20
+        September and will depart
+        the evening of Wednesday, 23 September. Jane Street will provide all
+        travel to and from London,
+        accommodation at a hotel near the office, and of course, plenty of food
+        and drinks throughout
+        the event.
+
+        **Apply here: https://janestreet.com/apply-witt**
+
+        **Who: Women in their second year of study in Autumn 2020\
+        When: 20th - 23rd September 2020\
+        Deadline to apply: Sunday, 5th July 2020 at 11.59pm BST**
+    </sponsor>
+    <sign
+            name="Radostin Petrov"
+            role="DoCSoc Secretary '19/20"
+            facebook="radostin.petrov99">
+        Until next time,
+    </sign>
+</email>
