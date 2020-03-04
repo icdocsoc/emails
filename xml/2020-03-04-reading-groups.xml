@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+        title="Final Reading Group this FRIDAY - An Introduction to WebAssembly (WASM)"
+        agenda="false"
+        logos="false">
+    <text>
+        Hey everyone,
+
+        After a very successful year of holding Reading Groups, time has come
+        for the final one, carried out by Philippa Gardner and Conrad Watt. The
+        topic will be "An Introduction to WebAssembly" and we kindly invite you
+        to **Huxley 218 this Friday at 1PM**.
+    </text>
+
+    <hr/>
+
+    <heading>Reading Group by Philippa Gardner and Conrad Watt</heading>
+    <image src="https://i.imgur.com/1pBf70A.jpg"/>
+    <event
+            startDate="2020-03-06T13:00:00+00:00"
+            endDate="2020-03-06T14:00:00+00:00"
+            location="Huxley 218">
+        <text>
+            An Introduction to WebAssembly
+
+            WebAssembly (Wasm) is a stack-based, statically typed byte code
+            language. It is the first new language to be natively supported on
+            the Web in nearly 25 years, following JavaScript. Interestingly, the
+            Wasm standard is written as a small-step operational semantics
+            (remember your Models of Computation course!) with changes and
+            extensions only permitted if they are formalised. Two of the key
+            people formalising the Wasm standard are Andreas Rossberg, one of
+            the originators of Wasm, and Conrad Watt, a current PhD student at
+            Cambridge and a former Imperial student, who has done a mechanised
+            specification of Wasm in Isabelle/HOL.
+
+            For this Reading Group, please read the main paper on Wasm:
+            https://bit.ly/2PERozu
+
+            Bringing the Web up to Speed with WebAssembly, PLDI’17, written by
+            people at Google (including Rossberg, now at DFINITY), Mozilla,
+            Microsoft and Apple.
+
+            We will give the historical context of the paper, lead a discussion
+            on Wasm, and describe current and possible future roles of formal
+            (even mechanised) specification of language standards.
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/550401265593745/">
+                Facebook
+            </link>
+        </links>
+    </event>
+</email>
