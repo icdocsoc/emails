@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+    <image
+            width="80"
+            src="https://i.imgur.com/25DNbII.jpg"
+            alt="Stack of biscuits next to tea"
+            title="Happy Women's Day!"/>
+
+    <hr/>
+
+    <text>
+        Hi everyone,
+
+        Last week we hosted our annual event Revel with a massive success and we
+        hope you all enjoyed yourselves! As we're getting closer to the end of
+        term we are reflecting back on the many great events we had this year
+        and certainly these past few months were full a lot of fun and
+        organisation. On this note, IC Hack 20 photos are now out and for
+        everybody who seeks
+        a bit of nostalgia, here's the link:
+        https://www.flickr.com/photos/paulmonishbalaji/sets/72157713388564356/
+
+        That being said, next week will be quieter as third and fourth years
+        begin their revision weeks and Leadership Election voting opens.
+        However, we will be celebrating International Women's Day and Women's
+        History Month with two very interesting panels on Tuesday and Wednesday.
+        Also, we are announcing DoCSoc merch, which is now available for
+        purchase on the Union Store!
+
+        Let's get right into the digest for more information!
+    </text>
+
+    <hr/>
+
+    <text>## General Notices</text>
+
+    <hr/>
+
+    <heading>DoCSoc Merch on Sale Now!</heading>
+    <image src="https://i.imgur.com/d34WXUe.png"/>
+    <text>
+        DoCSoc merch on sale now!
+
+        [**Click here to purchase your DoCSoc branded hoodies and cardholders
+        from
+        the Union
+        Store!**](https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products)
+
+        The collection period will be in the summer term. We will also hold
+        multiple collection sessions to accommodate for students on placement.
+        Keep an eye on the Union Store, as there might be more merch going on
+        sale soon! 👀
+    </text>
+
+    <hr/>
+
+    <heading>Vote in the Leadership Elections!</heading>
+    <image src="https://i.imgur.com/20evoQL.png"/>
+    <text>
+        It's that time of year again where you get endlessly pestered by people
+        asking
+        for you to vote for them. That's right - it's time to vote for next
+        year's
+        DoCSoc committee and wider Imperial College Union roles.
+
+        Voting opens tomorrow, Monday 9th March and closes on Thursday 12th
+        March.
+        Be sure to check out candidates' manifestos
+        [here](https://www.imperialcollegeunion.org/your-union/leadership-elections-2020/manifestos/a-to-z)
+        and vote by going to https://vote.union.ic.ac.uk/!
+    </text>
+
+    <hr/>
+
+    <heading>IC Student Careers - How to Make an Impact</heading>
+    <image src="https://i.imgur.com/Xaxhd8C.png"/>
+    <event startDate="2020-03-10T18:45:00+00:00"
+           endDate="2020-03-10T21:00:00+00:00"
+           location="ICBS Lecture Theatre 300">
+        <text>
+            With the modern world obsessed with the pursuit of productivity many
+            students of our generation are left little time before they graduate
+            to ask themselves… what makes meaningful work?
+
+            This is one of the greatest debates of the modern workforce.
+
+            At the end of the student chapter, for some even since the
+            beginning, many graduates are pressured into entering industries
+            that do not reside within their interests but rather for their
+            security and welfare on the job market.
+
+            Here at the Hack for Humanity Initiative (H4Hi) we believe that
+            meaningful work and ultimately, satisfaction stems from the success
+            in creating a positive impact on society that we live in.
+
+            However, each industry has an impact on the society we live in. From
+            finance to engineering, to NGO's the type of impact each industry
+            and sector produces is unique and the greatest impact within sectors
+            is mostly unpronounced and unknown to those that are not in that
+            industry.
+
+            The event we are hosting is an evening talk with leading
+            professionals from various industries on how their industry is
+            creating a positive impact on society and how they got there.
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/807853799624329/">
+                Facebook
+            </link>
+            <link href="https://www.eventbrite.co.uk/e/how-to-make-an-impact-tickets-96858104197">
+                Eventbrite
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <text>## On-Campus Events</text>
+
+    <hr/>
+
+    <heading>Women in Gaming Panel</heading>
+    <image src="https://i.imgur.com/ciyfOQu.jpg"/>
+    <event
+            startDate="2020-03-10T18:30:00+00:00"
+            endDate="2020-03-10T19:30:00+00:00"
+            location="Blackett LT 1">
+        <text>
+            We would like to invite you to the women in gaming panel, where we
+            will try to increase the visibility and representation of women in
+            gaming.
+
+            The panel will be an hour long, including a 10-15 min Q&amp;A with
+            the
+            panelists, followed by an informal networking session with a catered
+            reception.
+
+            The panel will take place on Tuesday 10th March at 6:30pm in
+            Blackett LT1, located on Imperial's South Kensington Campus.
+
+            This event is part of Women's History Month at Imperial College
+            London and is open to everyone! Just make sure to grab a ticket on
+            Eventbrite to ensure you have food at the event! Let us know about
+            any dietary requirements by emailing us at docsoc@ic.ac.uk.
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/520737038579661/">
+                Facebook
+            </link>
+            <link href="https://www.eventbrite.co.uk/e/women-in-gaming-panel-tickets-96475766615/">
+                Eventbrite
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <heading>In Conversation with Tech Leaders Across Academia and Industry
+    </heading>
+    <image src="https://i.imgur.com/jUs6CvK.jpg"/>
+    <event
+            startDate="2020-03-11T12:00:00+00:00"
+            endDate="2020-03-11T18:00:00+00:00"
+            location="Huxley 308">
+        <text>
+            In honour of International Women’s Day, WiC are excited to announce
+            a half-day conference at Imperial College London on the 11th of
+            March. Join us to hear from STEM leaders across industry and
+            academia about their career journeys followed by a panel on how
+            discrimination can be tackled to make the tech industry a more
+            welcoming place for minorities.
+            Open to all!
+            Graduate students are also invited to a CV+Interview lunchtime
+            workshop run by Faculty.ai in room 218. Workshop is aimed at those
+            preparing the transition from academia to industry and/or
+            consulting.
+
+            Speaker Bios
+            ---------------------------------------------------------------
+
+            Professor Julie McCann, Head of Adaptive Emergent Systems
+            Engineering (AESE) group, Imperial College London
+
+            Julie A. McCann is a Professor in Computer Systems at Imperial
+            College. Her research centres on highly decentralized and
+            self-organizing scalable algorithms for wireless sensing networks.
+            or cyber-physical systems. She leads the Adaptive Emergent Systems
+            Engineering Research Group and Directed the Intel Collaborative
+            Research Institute for Sustainable Cities, and is currently working
+            with IBM, CISCO and others on substantive smart cities research. She
+            has received significant funding though national and international
+            bodies such as the UK’s EPSRC, NERC and EU 2020 funding and has a
+            number of her team housed in A* in Singapore working with I2R and
+            Singapore's HDB. Julie is an elected peer for the EPSRC. She has
+            actively served on, and chaired, many conference committees and is a
+            Fellow of the BCS and Charted Engineer.
+
+            Dr Sepi Chakaveh, CEO/Founder of Pixsellar
+
+            Dr. Sepideh (Sepi) Chakaveh, is a Senior Associate Tutor &amp;
+            Departmental Lecturer in Data Science &amp; Artificial Intelligence
+            at
+            the University of Oxford and the CEO &amp; Founder of Pixsellar
+            Technologies a Big Data Video Analytics Start-up company. Sepi holds
+            a BSc in Electronics &amp; Electrical Engineering and a PhD in
+            Astrophysics &amp; Space Sciences. Sepi has worked both in the UK
+            and
+            Germany as Senior Scientist/Academic at Imperial College London, Max
+            Planck Institute in Heidelberg, Fraunhofer Society &amp; the
+            University
+            of Southampton where she was the co-founder &amp; the former
+            Director of
+            Southampton Data Science Academy, the first UK online Data Science
+            academy. Sepi is a member of the Open Data Institute, associated
+            researcher of the Fraunhofer Society and was recently titled Persian
+            Woman in Tech Data Science Thought Leader at a ceremony in Google HQ
+            London as well as the winner of the FDM Everywoman in technology
+            Innovator Award 2020.
+
+            Katerina Daminova, Business Strategy at Yobota
+
+            After graduating from the London School of Economics, Ekaterina
+            began her career in capital markets, working on the trading floors
+            of Goldman Sachs, UBS and Leonteq. As an experienced cross-asset
+            sales person, she realised the drawbacks of legacy banking systems
+            and pioneered the distribution of automatic trading solutions and
+            was on the forefront of bringing crypto-backed structured products
+            to institutional investors. Discovering a passion for technology and
+            innovation, and armed with a unique skill set, she moved
+            enthusiastically into fintech. Currently she is working in a
+            business development and product management role at Yobota, a
+            fast-growing fintech startup. A passionate ambassador for female
+            empowerment in tech, Kat is an active member of Code First Girls,
+            and she spends her free time at hackathons, encouraging students to
+            also join the fintech movement.
+
+
+            Panel members
+            ---------------------------------------------------------------
+
+            Professor Nigar Hashimzade, Director of Research, Department of
+            Economics and Finance, Brunel
+
+            Becky Plummer, Team Leader, Software Infastructure, Bloomberg
+
+            Christina Franzeskides, COO of Comind
+        </text>
+        <links>
+            <link href="https://www.facebook.com/events/195198955050488/">
+                Facebook
+            </link>
+            <link href="https://www.eventbrite.co.uk/e/iwdc2020-in-conversation-with-tech-leaders-in-academia-and-industry-tickets-96877941531/">
+                Eventbrite
+            </link>
+        </links>
+    </event>
+
+    <hr/>
+
+    <text>## Sponsor Notices</text>
+
+    <hr/>
+
+    <heading>TheDataOpen - Citadel Spring Datathon</heading>
+    <sponsor company="citadel">
+        **Explore. Build. Win.**
+
+        The Data Open brings together the best minds
+        in mathematics, engineering, science, and
+        technology to collaborate and compete using
+        the world’s most important data sets.
+
+        [Sign Up Now - Limited spots available!](http://thedataopen.com/)
+
+        You can win $25000 in cash prizes and the winning team gains an
+        automatic entry into the final
+        Data Open competition.
+
+        _Check out the attached PDF for more information._
+    </sponsor>
+
+    <hr/>
+
+    <heading>WiTT at Jane Street</heading>
+    <sponsor company="jane_street">
+        \
+        **We are excited to host our sixth year of WiTT at Jane Street!
+        Will you be there?**
+
+        Women in Trading and Technology (WiTT) is a three-day programme designed
+        for women in their
+        penultimate year of university as of autumn 2020. Participants will have
+        an exclusive
+        opportunity to explore careers within our firm and attend one of two
+        educational programmes:
+        quantitative trading and software engineering.
+
+        Both programmes feature interactive classes and activities during the
+        day, and evening social
+        events to speak with Jane Street employees and other women attending the
+        event in a more casual
+        setting.
+
+        The quantitative trading programme focuses on mathematical and financial
+        topics—such as
+        probability, market structure, and arbitrage—through a combination of
+        short classroom lectures,
+        group games, and mock trading sessions. There is a curriculum of core
+        subjects with flexibility
+        to explore alternative areas of interest, and plenty of opportunities
+        for close interaction with
+        our traders.
+
+        The software engineering programme focuses on the fundamentals of
+        building electronic trading
+        systems, OCaml, and the library and tools we use in our everyday work at
+        Jane Street.
+        Participants will put these tools to use by writing the back end and UI
+        for a computer game,
+        along with a program that trades on a simulated stock exchange. These
+        activities involve a
+        combination of classroom lectures, group games and exercises, and
+        one-on-one mentorship.
+
+        Selected students will arrive in London on the evening of Sunday, 20
+        September and will depart
+        the evening of Wednesday, 23 September. Jane Street will provide all
+        travel to and from London,
+        accommodation at a hotel near the office, and of course, plenty of food
+        and drinks throughout
+        the event.
+
+        Jane Street is a quantitative trading firm that uses innovative
+        technology, a scientific
+        approach, and a deep understanding of markets to guide our business.
+        Founded in 2000, Jane
+        Street employs more than 1,100 people with offices in New York, London,
+        Amsterdam, and Hong
+        Kong. We are always on the lookout for great new people to join our
+        team.
+
+        The environment at Jane Street is open, informal, intellectual, and fun.
+        The dress code is
+        casual, the kitchen is stocked, and discussions are always lively.
+        Teaching and learning are
+        central activities through classes, mentoring, and discussion.
+
+        Selected students will arrive in London on the evening of Sunday, 20
+        September and will depart
+        the evening of Wednesday, 23 September. Jane Street will provide all
+        travel to and from London,
+        accommodation at a hotel near the office, and of course, plenty of food
+        and drinks throughout
+        the event.
+
+        **Apply here: https://janestreet.com/apply-witt**
+
+        **Who: Women in their second year of study in Autumn 2020\
+        When: 20th - 23rd September 2020\
+        Deadline to apply: Sunday, 5th July 2020 at 11.59pm BST**
+    </sponsor>
+
+    <sign
+            name="Radostin Petrov"
+            role="DoCSoc Secretary '19/20"
+            facebook="radostin.petrov99">
+        Until next time,
+    </sign>
+
+</email>
