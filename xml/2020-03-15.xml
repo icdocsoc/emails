@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+
+    <image
+            width="80"
+            src="https://i.imgur.com/3JyUS51.jpg"
+            alt="A mixture of biscuits in a plate"
+            title="If I could get all biscuits from the digests this year in here, I would!"/>
+
+    <hr/>
+
+    <text>
+        Hi everyone,
+
+        We hope all of you are well and safe. This week we hosted our last workshops and events for the term. Overall, a
+        very eventful three months, we organised some of the biggest and most successful editions of our flagship events
+        like IC Hack 20 and Roaring Revel!
+
+        We also elected our new committee this past week! We congratulate the new position-holders and are looking
+        forward to their step in for the next academic year!
+
+        As next week gives the start of the exam period for everybody, this digest will be short. But we still want to
+        wish you all good luck in taking your exams and give you some final announcements for this term.\
+        So for the last time in a while, let's dig into the digest!
+    </text>
+
+    <hr/>
+
+    <heading>Leadership Election Results</heading>
+    <image src="https://i.imgur.com/20evoQL.png"/>
+    <text>
+        Thanks to everyone who voted in the Leadership Elections 2020! We're excited to
+        announce that the DoCSoc Committee for 2019/20 is as follows:
+        - **President**: Rayan Hatout
+        - **Vice President:** Hilliam Tung
+        - **Treasurer:** Rosemary Ng
+        - **Secretary:** Stefan Radziuk
+        - **Webmaster:** Karan Obhrai
+        - **Marketing &amp; Publicity Officer:** Chloe Lau
+        - **Sponsor Liaisons and Industrial Events Coordinators:** Alexander Goncharov, Jackson Qiu
+        - **Social Events Coordinator:** Kriti Sapra
+        - **Events Officers:** Noor Sawhney, Vincent Wong
+        - **Postgraduate and Alumni Officer:** Iulia Ivana
+        - **Hackathons &amp; Large Events Coordinator:** Champion Pongpaew
+
+        Congratulations to those elected and thanks to everyone who put themselves
+        forward for these positions!
+
+        Detailed results can be found here: https://www.imperialcollegeunion.org/news/leadership-elections-2020-results
+
+        The following roles will opened for Summer By-Elections: **Academic Events Coordinator, GameDev Events
+        Coordinator, Events Officer**.
+    </text>
+
+    <hr/>
+
+    <heading>DoCSoc Merch on Sale Now!</heading>
+    <image src="https://i.imgur.com/d34WXUe.png"/>
+    <text>
+        DoCSoc merch on sale now!
+
+        [**Click here to purchase your DoCSoc branded hoodies and cardholders
+        from
+        the Union
+        Store!**](https://www.imperialcollegeunion.org/shop/club-society-project-products/computing-products)
+
+        The collection period will be in the summer term. We will also hold
+        multiple collection sessions to accommodate for students on placement.
+        Keep an eye on the Union Store, as there might be more merch going on
+        sale soon! 👀
+    </text>
+
+    <hr/>
+
+    <text>## Sponsor Notices</text>
+
+    <hr/>
+
+    <heading>TheDataOpen - Citadel Spring Datathon</heading>
+    <sponsor company="citadel">
+        **Explore. Build. Win.**
+
+        The Data Open brings together the best minds
+        in mathematics, engineering, science, and
+        technology to collaborate and compete using
+        the world’s most important data sets.
+
+        [Sign Up Now - Limited spots available!](http://thedataopen.com/)
+
+        You can win $25000 in cash prizes and the winning team gains an
+        automatic entry into the final
+        Data Open competition.
+
+        _Check out the attached PDF for more information._
+    </sponsor>
+
+    <hr/>
+
+    <heading>WiTT at Jane Street</heading>
+    <sponsor company="jane_street">
+        \
+        **We are excited to host our sixth year of WiTT at Jane Street!
+        Will you be there?**
+
+        Women in Trading and Technology (WiTT) is a three-day programme designed
+        for women in their
+        penultimate year of university as of autumn 2020. Participants will have
+        an exclusive
+        opportunity to explore careers within our firm and attend one of two
+        educational programmes:
+        quantitative trading and software engineering.
+
+        Both programmes feature interactive classes and activities during the
+        day, and evening social
+        events to speak with Jane Street employees and other women attending the
+        event in a more casual
+        setting.
+
+        The quantitative trading programme focuses on mathematical and financial
+        topics—such as
+        probability, market structure, and arbitrage—through a combination of
+        short classroom lectures,
+        group games, and mock trading sessions. There is a curriculum of core
+        subjects with flexibility
+        to explore alternative areas of interest, and plenty of opportunities
+        for close interaction with
+        our traders.
+
+        The software engineering programme focuses on the fundamentals of
+        building electronic trading
+        systems, OCaml, and the library and tools we use in our everyday work at
+        Jane Street.
+        Participants will put these tools to use by writing the back end and UI
+        for a computer game,
+        along with a program that trades on a simulated stock exchange. These
+        activities involve a
+        combination of classroom lectures, group games and exercises, and
+        one-on-one mentorship.
+
+        Selected students will arrive in London on the evening of Sunday, 20
+        September and will depart
+        the evening of Wednesday, 23 September. Jane Street will provide all
+        travel to and from London,
+        accommodation at a hotel near the office, and of course, plenty of food
+        and drinks throughout
+        the event.
+
+        Jane Street is a quantitative trading firm that uses innovative
+        technology, a scientific
+        approach, and a deep understanding of markets to guide our business.
+        Founded in 2000, Jane
+        Street employs more than 1,100 people with offices in New York, London,
+        Amsterdam, and Hong
+        Kong. We are always on the lookout for great new people to join our
+        team.
+
+        The environment at Jane Street is open, informal, intellectual, and fun.
+        The dress code is
+        casual, the kitchen is stocked, and discussions are always lively.
+        Teaching and learning are
+        central activities through classes, mentoring, and discussion.
+
+        Selected students will arrive in London on the evening of Sunday, 20
+        September and will depart
+        the evening of Wednesday, 23 September. Jane Street will provide all
+        travel to and from London,
+        accommodation at a hotel near the office, and of course, plenty of food
+        and drinks throughout
+        the event.
+
+        **Apply here: https://janestreet.com/apply-witt**
+
+        **Who: Women in their second year of study in Autumn 2020\
+        When: 20th - 23rd September 2020\
+        Deadline to apply: Sunday, 5th July 2020 at 11.59pm BST**
+    </sponsor>
+
+    <sign
+            name="Radostin Petrov"
+            role="DoCSoc Secretary '19/20"
+            facebook="radostin.petrov99">
+        Until next time,
+    </sign>
+
+
+</email>
