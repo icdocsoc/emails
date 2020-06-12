@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email
+  title="Spark University Blockchain Hackathon and Jane Street WiTT"
+  agenda="false"
+  logos="false">
+
+  <text>
+    Hi everyone,
+
+    Hope all is well with you!
+
+    As we are nearing the end of the year, we have some more notices from our sponsors about summer
+    and autumn opportunities.\
+    We will be on the lookout for any available opportunities and will update you, so stay tuned!
+  </text>
+
+  <hr/>
+
+  <heading>Spark University Blockchain Hackathon</heading>
+  <sponsor company="stakezero">
+    Hey Guys! This is message from StakeZero, a sponsor of DoC Soc:
+
+    If you're interested in blockchain, we'd like to invite you to take part in the Spark University
+    Blockchain hackathon. It gives students and researchers 8 weeks to build a project or answer a
+    technical challenge. Registration is open now!
+
+    There is over £25k in cash prizes. If you don’t have a team and want to be connected to
+    teammates, we will help during the first workshop!
+
+    **Find out more here https://summerspark.encode.club/**
+  </sponsor>
+
+  <hr/>
+
+  <heading>Jane Street Women in Trading and Technology Virtual Programme</heading>
+  <sponsor company="jane_street">
+    \
+    **For: Women in their penultimate year of study in Autumn 2020**\
+    **Dates: 21st - 23rd September 2020**
+
+    This year Jane Street will be holding their Women in Trading and Technology (WiTT) programme
+    online. This three-day programme is designed for women in their penultimate year of university
+    as of autumn 2020. Participants will have an exclusive opportunity to explore careers within our
+    firm and attend one of two educational programmes: quantitative trading and software
+    engineering.
+
+    The quantitative trading programme focuses on mathematical and financial topics—such as
+    probability, market structure, and arbitrage. Participants will learn how we approach trading
+    through classroom lectures, mentorship and activities.
+
+    The software engineering programme focuses on the fundamentals of building electronic trading
+    systems, OCaml, and the library and tools we use in our everyday work at Jane Street.
+    Participants will receive an in-depth look into the ways we use computer science within our firm
+    and learn the fundamentals of electronic trading systems and write a program that trades on a
+    simulated stock exchange.
+
+    Jane Street is a quantitative trading firm that uses innovative technology, a scientific
+    approach, and a deep understanding of markets to guide our business. Founded in 2000, Jane
+    Street employs more than 1,100 people with offices in New York, London, Amsterdam, and Hong
+    Kong. We are always on the lookout for great new people to join our team.
+
+    The environment at Jane Street is open, informal, intellectual, and fun. The dress code is
+    casual, the kitchen is stocked, and discussions are always lively. Teaching and learning are
+    central activities through classes, mentoring, and discussion.
+
+    **[Apply To WiTT](https://www.janestreet.com/apply-witt/)**
+
+  </sponsor>
+
+
+</email>
