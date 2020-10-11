@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/C2qH4qe.jpg"
+    alt="Chocolate chip biscuits and coffee grains"
+    title="A stack of biscuits, with one popped off the stack and bitten" />
+  <hr/>
+
+  <text>
+    Welcome to the second digest of the year!
+
+    We've got some great events prepared for you this week, including our
+    annual Sponsors' Exhibition!
+  </text>
+
+  <hr/>
+
+  <text>## General Notices</text>
+
+  <hr/>
+
+  <heading>Autumn Elections - Year Rep Nominations Open</heading>
+    <text>
+      Nominations in the Union Autumn elections are **NOW OPEN** and close at
+      **noon on Tuesday 13 October**!
+
+      It is an opportunity to make your voice heard within the College and the
+      Union.
+
+      Every year students vote for an Academic Year Representative and
+      Wellbeing Year Representative.
+
+      The Academic Year Representative receives and collates feedback from
+      their cohort, passing this information to the Departmental
+      Representatives or staff as appropriate. Academic Representatives have
+      made long-lasting improvements in many areas such as the content of
+      curricula, feedback quality and timeliness, exam timetables and formats,
+      and online learning resources.
+
+      Wellbeing Year Representatives are part of the Wellbeing Representation
+      Network, which aims to tackle issues such as stress and pressure, mental
+      health, the quality of personal tutoring, how students are supported to
+      be resilient and independent, transitioning back into study after time
+      off, and more. Wellbeing Representatives will work with College staff,
+      Welfare Officers, and Academic Representatives.
+
+      Year reps make **real change within the department**, with a place on
+      regular Staff Student Committee meetings, voicing their concerns to
+      teaching fellows and staff.
+
+      To nominate yourself and for more information on the mentioned and other
+      roles available, visit the Union's [Autumn Elections
+      page](https://www.imperialcollegeunion.org/news/autumn-elections-2020).
+    </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>Virtual Sponsors' Exhibition</heading>
+  <image src="https://i.imgur.com/oGrpzJK.png"/>
+  <event startDate="2020-10-14T13:00:00+01:00"
+    endDate="2020-10-14T16:00:00+01:00">
+    <text>
+      This year, our flagship Sponsors Exhibition that attracts over 500 students
+      each year has gone virtual, here on Hopin!
+
+      Whether you are looking for an internship or graduate role, or simply want
+      to know more about industry, we really recommend you come along and tune in
+      as it’s a great way to get in direct contact with recruiters and engineers
+      from highly regarded companies and should provide invaluable insight into
+      the recruitment process.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/730389634219857/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Mums and Dads Pub Quiz</heading>
+  <image src="https://i.imgur.com/ztSYkg2.png"/>
+  <event startDate="2020-10-12T15:00:00+01:00"
+    endDate="2020-10-12T17:00:00+01:00">
+    <text>
+      It's time for DoCSoc's Mum's and Dad's first meet up! Come along to meet
+      your families and engage in a competitive PUB QUIZ 🍻 with the other
+      families! This is a great opportunity for freshers to ask any questions
+      they might have and be introduced into DoC.
+
+      Keep an eye out for prizes for the top 3 teams!!
+
+      Links will be posted on Facebook closer to the time.
+
+      Mums and Dads parent? Be sure to turn up to this event to meet your children!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/2666493770267344/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Python 101</heading>
+  <image src="https://i.imgur.com/scdMdeq.jpg"/>
+  <event startDate="2020-10-20T16:00:00+01:00"
+    endDate="2020-10-20T18:00:00+01:00">
+  <text>
+    One of the key attributes DoCSoc hosts is the Python 101 Introductory
+    Workshop for not only DoC students, but all members of Imperial College
+    London. We invite everyone from any disciplines and level of education.
+    This will be a beginners level course for anyone who has very little to
+    none knowledge in Python. Please click "Going" on Facebook so we can
+    estimate the size of the interactive workshops.
+
+    Dates: every Tuesday 4-6pm GMT from Oct 20th to Nov 24th
+
+    Syllabus:
+
+    * Oct 20th - Introduction, variables, user I/O
+
+    * Oct 27th - Control Flow (if statements, for and while loops), lists and
+    list comprehension
+
+    * Nov 3rd - Error Handling, Imports, Functions, Recursion (?)
+
+    * Nov 10th - Advanced control flow (break, continue, pass), Data Structures
+    (Tuple, Dictionary, Set), Plotting data w/matplotlib
+
+    * Nov 17th - Assert, Classes with OOP, Lambdas
+
+    * Nov 24th - (extra session) Q&amp;A, Fundamentals of CS (theoretical, more for
+    1st year Computing)
+  </text>
+    <links>
+      <link href="https://www.facebook.com/events/276914916715070">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Netcraft – Applications of Computing in Industry Talk</heading>
+  <sponsor company="netcraft">
+    Netcraft will be giving an ACI talk on Tuesday about the final year project
+    of an ex-DoCSoc student made in partnership with Netcraft and now
+    integrated in our systems. Netcraft have found that criminal infrastructure
+    often purports to be located in jurisdictions with less effective legal
+    systems, uncooperative law enforcement or anonymous company registrations.
+    In reality, the infrastructure is often located in countries with good
+    Internet connectivity and reasonable legal systems, like the Netherlands.
+    In this talk, James will discuss the development of the system, its
+    deployment at Netcraft, and some of the engineering challenges which have
+    been overcome.
+
+    If you’re interested in a career with Netcraft or collaborating on a final year
+    project with us and want to find out more about what we do and how to
+    apply, please check out our recruitment brochure at:
+    https://www.netcraft.com/NetcraftRecruitmentBooklet.pdf
+  </sponsor>
+
+  <hr/>
+
+  <heading>Bloomberg Masterclass – A New Era Of Python Parsing</heading>
+  <sponsor company="bloomberg">
+    Date: Wednesday, 14 October 2020
+
+    Time: 15:00-16:00 London Time
+
+    Apply: via [Yello](tinyurl.com/y6jbwy6t)
+
+    The Parser was one of the first pieces that were created for Python and it
+    has served very efficiently for many years; but implementing new rules in
+    the language syntax is becoming more difficult or even impossible in some
+    cases.
+
+    In this talk, we will explain the problems with the old parser, how
+    the new parser works, what are its benefits, and what to expect from the
+    Python grammar in the future.
+  </sponsor>
+
+  <hr/>
+
+
+  <heading>Shape your world with Bank of America</heading>
+  <sponsor company="baml">
+    Technology touches everything we do and underpins each deal we make. In
+    fact, our mainframe environment is the third largest in the world. That
+    said, we don’t believe that there is a tech ‘type’. You don’t need finance
+    experience to join us and D&amp;I is at our core. Our Global Technology and
+    Operations (GT&amp;O) division gives our business the competitive edge to solve
+    business problems by delivering high quality and practical solutions.
+
+    Join our Meet the Technology Teams session to speak directly to members of
+    our Imperial Tech School Team. The event will provide an open forum where
+    you will have the opportunity to ask questions on a range of topics
+    including careers in Global Technology, how to apply and general working
+    life at Bank of America. Please come prepared with your questions to be
+    addressed at this session.
+
+    Register your interest
+    [here!](https://bankcampuscareers.tal.net/vx/lang-en-GB/candidate/postings/5855)
+
+    Let’s shape the world together
+
+    Date: 21st October, 2020
+
+    Time: 14:00 – 15:00 (GMT+1)
+  </sponsor>
+
+  <hr/>
+
+  <heading>London Stock Exchange Group Events and Opportunities</heading>
+  <sponsor company="lseg">
+    **London Stock Exchange Group – Grow your career at market speed.**
+
+    London Stock Exchange Group **(LSE.L)** has a long, prestigious heritage that
+    few organisations around the world can rival, dating back to 1698. Since
+    then, we have grown to become one of the world’s foremost financial market
+    infrastructure and capital markets groups, and a global leader in new
+    financial technology (FinTech). Headquartered in London, our geographic
+    footprint extends to more than 25 cities worldwide, and more than 60
+    nationalities are represented by our 5000-strong workforce.
+
+    We understand that this is a challenging and unprecedented time for
+    everyone, but our graduate and internship programmes –and the development
+    of new talent –remains critical to our future business success. As we
+    continue to expand and diversify, we are looking for the next generation of
+    talented, ambitious graduates to help us shape the future of LSEG. You will
+    get direct exposure to the exciting innovations happening within finance
+    and technology, putting your ideas and problem-solving skills to use and
+    helping to drive our growth.
+
+    _You can find more information about LSEG events and opportunities in pdfs
+    attached to this email._
+  </sponsor>
+
+  <hr/>
+
+  <heading>Jane Street Estimathons 2020!</heading>
+  <sponsor company="jane_street">
+    **What is an Estimathon?!**
+
+    The Estimathon is a team-based contest that combines trivia, game theory,
+    and mathematical thinking. Teams have 30 minutes to work on a set of 13
+    estimation problems, the winning team being the one with the best set of
+    estimates. Since debuting the Estimathon in 2013, Jane Street has run over
+    200 Estimathon contests.
+
+    The answer to each problem is a positive number. Your team will submit
+    intervals for each problem. Intervals may not contain negative numbers or
+    zero.
+
+    You may not use the internet, or your calculator/smartphone, or any other
+    type of external reference material.
+
+
+    **Scoring**
+
+    An interval is good if it contains the correct answer. After the 30 minutes
+    is over, the final score for your team will be:
+
+    ![(10 + sum of (floor of (max / min)) over good intervals) * 2 ^ (13 - # of
+    good intervals)](https://i.imgur.com/yAJFK2G.png)
+
+    That is, for every problem you get wrong (or leave blank), your score
+    doubles.
+
+    The winning team is the team with the LOWEST SCORE.
+
+    **Submitting intervals**
+
+    Every team can submit up to 18 total intervals. Submit your intervals at
+    any time throughout the contest.  There will be a scoreboard that will be
+    updated in real time based on the intervals that are being submitted.
+
+    **Re-submitting**
+
+    Given that each has 18 answers and that there are only 13 problems, it is
+    possible to submit intervals for a given problem more than once. If you do
+    this, only the last submission for any given problem is the one that will
+    count towards your final score. To put it another way: each submission
+    (right or wrong) overrides any previous submissions for a given problem.
+
+
+    If you could like to take part in one of our online Estimathons or
+    CEstimathons (where questions are based on the world of computing and
+    trivia) please visit our events page to register or click on the dates
+    below. You can register as a team of 3-5 or as an individual and we will
+    assign you a team on the day - please note that all team members are
+    required to register for the event.
+
+    **Dates:** [13th October
+    2020](https://docs.google.com/forms/d/e/1FAIpQLSclzmHOuHCg44bv2we3cKMImo161tsZmlxbMZmLBq-S7hiCZw/viewform?usp=sf_link)
+    (Estimathon), [27th October
+    2020](https://docs.google.com/forms/d/e/1FAIpQLSfMZvqD518v2cEfj8ITT2P8DppnX-V8KeLx7qVHrfC2zoKSjw/viewform?usp=sf_link)
+    (CEstimathon) and [11th November
+    2020](https://docs.google.com/forms/d/e/1FAIpQLSdByJvJPCXX9UM3dT_9jk3oaJfHa3nhaAIU4akqpclIPmNWOQ/viewform?usp=sf_link)
+    (Estimathon) \
+    **Time:** 18.00-19.00 BST
+  </sponsor>
+
+  <hr/>
+
+  <heading>Palantir Virtual Autumn Events</heading>
+  <sponsor company="palantir">
+    **[Palantir](https://www.palantir.com/students/)** will be hosting a series of
+    virtual events over the next few weeks to help students learn more about
+    Palantir’s work, opportunities and to prep for applying to open positions.
+    To sign-up, please register using **[this
+    link](https://fall2020eventsemea.splashthat.com/)** and the password
+    `20HobbitFallEMEA`. More info on the specific events below!
+
+    **Panel Q&amp;A: The Ins &amp; Outs of Palantir’s Interview Process:** Whether you’ve
+    already applied to Palantir or you are considering starting an application,
+    we invite you to join us a for a panel discussion where we demystify
+    Palantir’s interview process and provide tips on how you can prepare!
+    You’ll hear from interviewers, hiring managers, recruiters and engineers
+    who’ve all gone through our interview process and landed a gig at Palantir.
+    Attendees will walk away with tangible learnings that can be applied to
+    their own interviewing experiences this recruiting season. 
+
+    **Info Session: Palantir 101 + Product Demo** is an opportunity to learn more about
+    Palantir straight from the source. Government agencies, commercial
+    institutions, and non-profit organizations must wrangle an ever-growing
+    amount of data – raising important ethical questions for software companies
+    like Palantir that help these institutions harness data to advance their
+    missions. But because Palantir is not a consumer-facing company, it’s not
+    always easy to understand what we build and how our products are used.
+    Here’s your chance to learn more directly from our software engineers.
+    Engineers will share how their focus has shifted completely in the last 6
+    months to help in the fight against COVID-19 on a variety of different
+    fronts. We’ll be sharing demos of our products and answering questions
+    about Palantir and our engineering role.
+  </sponsor>
+
+  <sign name="Stefan Radziuk"
+  role="DoCSoc Secretary '20/21"
+  linkedin="stefanradziuk">
+  Until next time,
+  </sign>
+</email>
