@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Netcraft - Do It Yourself Takedowns for Fun &amp; Profit" agenda="false" logos="false">
+  <text>
+    Tomorrow, Netcraft will be running an interactive online workshop on Zoom.
+    Places are limited so make sure you register
+    [here](https://docs.google.com/forms/d/e/1FAIpQLSd48Cie0pAWXmDm8pprk4POcmV4r9T7b7CWCjrbWaNpOZf4yQ/viewform?usp=sf_link).
+
+    Netcraft takes down around 80 types of cybercrime for many of the world's largest companies.
+
+    In order to carry out these takedowns, we rely on someone, somewhere, doing
+    the right thing. And we hope that by contacting as many relevant people as
+    possible we will find that person and thereby curtail the attack.
+
+    In the vast majority of cases, this works. Netcraft has used this paradigm
+    to successfully complete well over a million takedowns against cybercrime
+    such as phishing, malicious JavaScript, advance fee frauds and conventional
+    Windows malware infrastructure.
+
+    In some cases, however, all of the relevant entities are criminals: the
+    site owner, the domain registrar, the hosting provider, and the DNS
+    provider.
+
+    ### So, who do you trust when everyone’s a crook?
+
+    Rationally, you would trust only yourself. Instead of asking others for
+    assistance you would look carefully at the attack to see what opportunities
+    there might be to stop it. If you don’t believe others will do it for you,
+    you do it yourself.
+
+    Some kinds of criminal tools, such as web shells, phishing kits and fake
+    shops, have kill switches as part and parcel of their functionality, and
+    these can be invoked. Then, like bona fide software developers, criminal
+    developers make mistakes. Our analysis of fake shop and phishing kits
+    uncovers unintentional functionality that provides the opportunity to stop
+    the attack by making use of bugs and vulnerabilities. Finally, there is no
+    honour amongst thieves. Criminal software developers frequently create
+    backdoors in their code, so that they can steal credentials stolen by their
+    customers. These back doors can be used too.
+
+    By employing HTTP requests which make use of these vulnerabilities, one can
+    seize the opportunity to immediately halt an attack, recover credentials,
+    and eliminate the criminal’s infrastructure.
+
+    Your challenge, after a short talk illustrating the concepts, is to compete
+    against your peers to research vulnerabilities in authentic criminal
+    software tools and kits, and then take down as much criminal-controlled
+    infrastructure as possible in the time available.
+
+    The team with the largest number of takedowns is the winner.
+
+    ### Do not try this at home against the live Internet
+
+    Within the UK, the Computer Misuse Act 1990 constrains the opportunity to
+    act on these vulnerabilities, and legislates against activities which may
+    be characterised as “hack back” or vigilante in nature.
+  </text>
+</email>
