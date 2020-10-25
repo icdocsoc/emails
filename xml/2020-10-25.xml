@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/tdLQTyC.jpg"
+    alt="Halloween biscuits next to an October 2020 calendar page"
+    title="Boo!" />
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    We hope you’ve had a great week and enjoyed our events!
+
+    In the upcoming week we're bringing you an Escape Room Night and exciting
+    events with our sponsors - G-Research and London Stock Exchange Group.
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+<heading>Escape Room Night</heading>
+<image src="https://i.imgur.com/zGquoy9.png"/>
+<event startDate="2020-10-26T18:00:00+00:00"
+  endDate="2020-10-26T19:00:00+00:00">
+<text>
+  Come and Join DoCSoc in the first ever ESCAPE ROOM NIGHT!! Come register as a
+  team and go head-to-head with other teams to escape FIRST! There will be two
+  types of Escape Rooms to chose from and winners might have some prizes coming
+  their way 👀
+
+  Each team is only allowed to have a maximum of 6 people! Make sure you
+  register your team before the event.
+
+  Event will take place on the DoCSoc Microsoft Teams Team. Register [here](https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB4BymOWFa9VFtQLZQgz9br9UMjJHRlpFOElFMk9OSFc3NFJQRTNKQ0g3WC4u).
+</text>
+<links>
+  <link href="https://www.facebook.com/events/494918434799292">Facebook</link>
+  <link href="https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB4BymOWFa9VFtQLZQgz9br9UMjJHRlpFOElFMk9OSFc3NFJQRTNKQ0g3WC4u">Registration Form</link>
+</links>
+</event>
+
+<hr/>
+
+<heading>G-Research Coding Challenge</heading>
+<image src="https://i.imgur.com/xC8DMPA.png"/>
+<event startDate="2020-10-27T18:00:00+00:00"
+  endDate="2020-10-27T20:00:00+00:00">
+<text>
+    Join us for the G-Research Coding Challenge, where you'll compete in teams
+    in a series ofprogressively more difficult software development challenges.
+
+    Tuesday 27th October, 6:00 - 8:00 pm (GMT)
+
+    Open to CompSci/Mathematics students in their penultimate or final years,
+    the event will have teams of 3-5 people competing to build a natural
+    language calculation engine (no prior NLP experience required). The
+    challenges will cover things like evaluation of arithmetic expressions to
+    unit conversions and equation solving.
+
+    To register, just fill out the form at
+    http://bit.ly/gr-coding-challenge-oct. Wewill allocate teams the week
+    before the event (or if you would like to join asa team with friends, just
+    let us know when you register).
+
+    Please note, you will need a fully charged laptop, a good
+    internet connection, Chrome or Safari, and headphones to take part.
+
+    Once you have registered you will receive a unique link to join the event
+    which you should use to log in by 5:45 pm (GMT), so that you can meet your
+    teammates and learn how to navigate the online event space.  More
+    information on the event will be emailed to you one day before.
+
+    Once the game is complete, you will have the opportunity to stay online
+    for some virtual networking where you can discuss the event and life at
+    G-Research with members of our team.
+
+    We'll be handing out prizes to the top three teams, with each member getting
+    an Amazon voucher (£50 for first, £25 forsecond, £10 for third).
+</text>
+<links>
+  <link href="https://www.facebook.com/events/353261152625880">Facebook</link>
+  <link href="http://bit.ly/gr-coding-challenge-oct">Registration Form</link>
+</links>
+</event>
+
+<hr/>
+
+<heading>DoCSoc x LSEG: My Journey to the London Stock Exchange Group</heading>
+<image src="https://i.imgur.com/VmY9JWY.png"/>
+<event startDate="2020-10-29T18:00:00+00:00"
+  endDate="2020-10-29T20:00:00+00:00">
+<text>
+  London Stock Exchange Group (LSEG) has a long, prestigious heritage that few
+  organisations can rival, dating back to 1698. Since then, we’ve grown to
+  become one of the world’s foremost financial market infrastructure and
+  capital markets groups. As a global leader in financial technology, LSEG
+  continues to play a pivotal role within the financial markets during these
+  challenging and unprecedented times.
+
+  Join Ziyou Zang, a Technology Graduate in Enterprise Cloud for a LSEG Virtual
+  Event with the Imperial College DoCSoc on 29th October from 6pm–8pm to find
+  out about Ziyou’s journey to LSEG. Ziyou recently graduated from Imperial
+  College in 2020 with a MSc in Computer Science. You’ll get the chance to put
+  your questions to Ziyou &amp; an Early Years Careers Lead as well as learning
+  more about how you can shape the future of LSEG through our technology spring
+  week, internship and graduate programmes.
+
+  Join Zoom Meeting:
+
+  https://lseg.zoom.us/j/88429687188?pwd=QUpWNU90WEpWT2dpNzlFeVlmbzNGQT09
+
+  Meeting ID: `884 2968 7188`
+
+  Passcode: `5KeeFk`
+</text>
+<links>
+  <link href="https://www.facebook.com/events/357754118974051">Facebook</link>
+  <link href="https://lseg.zoom.us/j/88429687188?pwd=QUpWNU90WEpWT2dpNzlFeVlmbzNGQT09">Zoom Meeting</link>
+</links>
+</event>
+
+<hr/>
+
+<heading>Python 101</heading>
+<image src="https://i.imgur.com/scdMdeq.jpg"/>
+<event startDate="2020-10-27T16:00:00+00:00"
+  endDate="2020-10-27T18:00:00+00:00">
+<text>
+  One of the key attributes DoCSoc hosts is the Python 101 Introductory
+  Workshop for not only DoC students, but all members of Imperial College
+  London. We invite everyone from any disciplines and level of education.
+  This will be a beginners level course for anyone who has very little to
+  none knowledge in Python. Please click "Going" on Facebook so we can
+  estimate the size of the interactive workshops.
+
+  Dates: every Tuesday 4-6pm GMT from Oct 20th to Nov 24th.
+
+  This week's lecture will be on control flow (if statements, for and while
+  loops), lists and list comprehensions.
+</text>
+<links>
+  <link href="https://www.facebook.com/events/276914916715070">Facebook</link>
+</links>
+  </event>
+
+<hr/>
+
+<text>## Sponsor Notices</text>
+
+<hr/>
+
+<heading>Graphcore - Poplar SDK 1.3 Released</heading>
+<sponsor company="graphcore">
+  **Poplar SDK 1.3 Released**
+
+  ![Poplar SDK 1.3
+  Released](https://www.graphcore.ai/hs-fs/hubfs/Graphcore%20releases%20Poplar%20SDK%201.3%20version.jpg)
+
+  We just released Poplar SDK 1.3 which includes multiple optimisations and new
+  features to help IPU developers run their ML models faster and more
+  efficiently. We also launched [version 2.1 of the PopVision™ Graph Analyser
+  Tool](https://www.graphcore.ai/posts/major-update-released-for-poplar-application-analysis-tool).
+
+  Read the blog [here](https://www.graphcore.ai/posts/graphcore-releases-new-poplar-sdk-1.3).
+</sponsor>
+
+<hr/>
+
+<heading>LSEG - WIN Breakfast Series</heading>
+<sponsor company="lseg">
+  **The history of London Stock Exchange Group (LSEG) can be traced all the way
+  back to 1698. The financial markets have evolved significantly since then,
+  and so too has the nature of our business. LSEG has grown to become one of
+  the world’s foremost financial markets infrastructure groups, and a globally
+  recognised leader in emerging financial technology, or FinTech.**
+
+  Join the LSEG Women’s Inspire Network (WIN) for a **series of interactive
+  sessions** that will give you a greater insight into our work at the centre
+  of financial markets. As well as hearing from senior leaders on specific
+  topics, you will have the opportunity to network with representatives within
+  LSEG and learn more about the opportunities that we offer.
+
+  SUSTAINABLE INVESTMENT 26 October, 09:30–10:30
+
+  TECHNOLOGY 27 October, 09:30–10:30
+
+  POST TRADE 29 October, 09:30–10:30
+
+  This unique opportunity to hear from and network with our WIN members is open
+  to students interested in applying to our graduate and intern programmes. To
+  register for these events click
+  [here](https://www2.lseg.com/WIN-breakfast-series); registration for each
+  event will close five days before the event.
+
+  To discover more about our programmes and to apply, visit
+  www.lseg.com/graduates.
+</sponsor>
+
+<hr/>
+
+<heading>Palantir’s Virtual Puzzlehunt</heading>
+<sponsor company="palantir">
+  Hello!
+
+  We invite you to participate in Palantir’s first Virtual Puzzlehunt happening
+  on Saturday 31 October. Registration is now open, please read on to learn
+  more about what puzzlehunt is and how you can participate!
+
+  Date: 31 October
+
+  Time: 1:00 PM London time
+
+  Website: https://palantirpuzzlehunt.com/foodforthought/
+
+  What is a puzzlehunt?
+
+  Think of a puzzlehunt as a treasure hunt where you need to solve a puzzle in
+  order to move on to the next location. Each puzzle usually solves to a single
+  word or short phrase and can range from your standard logic puzzles,
+  knowledge of idioms, to finding clues in a set of pictures.Teams of 4-6
+  people will go (virtually) from location to location competing against other
+  teams all around the world! The goal is to finish each puzzle in the
+  shortest amount of time possible. There will be a winning team for each
+  individual puzzle, and then a winning team of the entire puzzlehunt.
+
+
+  What should I know about the event?
+
+  The hunt will kick off at 1:00 PM London time. We will begin the event with a
+  brief kickoff where we’ll share an overview of the event, what to expect, and
+  how to request help throughout the hunt.If you have to join later than 1:00
+  PM London time, that is okay! Just note that there will only be live support
+  from 1:00-9:00 PM London time. The length of the hunt is about 8 hours, but
+  teams can skip certain puzzles if they’d like to shorten the event to about 4
+  hours instead. The hunt will be in English.
+
+  How do we sign up?
+
+  To register once you’ve assembled your gang of motley puzzle solvers, have
+  one person go to the website (palantirpuzzlehunt.com) and register a team
+  username and password which will be a shared login for everyone on the
+  team. You will need a hunt code to register. The hunt code is “ON YOUR
+  MARKS”. You can enter all your team members when you register the team or
+  login and add them afterwards. Registration will be closing on Friday, 29
+  October at 10:00 PM London time.
+
+  If you have any questions about the hunt or the registration process, send us
+  an email at foodforthought@palantir.com.
+
+  Thanks, and we hope to see you there!
+</sponsor>
+
+<hr/>
+
+<sign name="Stefan Radziuk"
+  role="DoCSoc Secretary '20/21"
+  linkedin="stefanradziuk">
+  Until next time,
+  </sign>
+</email>
