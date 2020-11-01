@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/pKxKShK.jpg"
+    alt="Making of Christmas gingerbread cookies"
+    title="We're past Halloween, it’s officialy Christmas season now" />
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    Just to give a quick recap, last week we hosted an Escape Room Night,
+    G-Research Coding Challenge and My Journey to LSEG. We hope you've enjoyed
+    all of the events!
+
+    We've got more fun and informative events for you this week, including
+    Thought Machine's Breakfast Show!
+
+    We are also looking for students who want to share their knowledge of the
+    software industry for an upcoming Industry Q&amp;A - sign up below!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <heading>Want to Share What You Know About the Software Industry?</heading>
+  <text>
+    DoCSoc is organising some Q&amp;As about the software industry
+    (internships, cvs, interviews, making yourself more employable) for 1st,
+    2nd years and MSc Students. We are looking for 3-5 3rd and 4th years or PhD
+    students with comprehensive experience that will answer whatever questions
+    the students may have (If you are an MSc with tons of experience that's
+    also completely fine!).
+
+    Fill out the [registration
+    form](https://forms.office.com/Pages/ResponsePage.aspx?id=B3WJK4zudUWDC0-CZ8PTB4BymOWFa9VFtQLZQgz9br9UNUNVWjgyRFpGS0Q0NEdIUFg5OThQNlJSRi4u)
+    if you're interested.
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>Thought Machine: The Breakfast Show</heading>
+  <image src="https://i.imgur.com/8CHH569.png"/>
+  <event startDate="2020-11-05T18:00:00+00:00"
+    endDate="2020-11-05T20:00:00+00:00">
+  <text>
+    Join Luke and Lorenzo from Thought Machine for a crazy night of fun and
+    madness. You'll be in with a chance of winning some mystery prizes - from
+    the wonderful to the downright weird. You can also hear about Thought
+    Machine, what it's like to work here and how we're making the world of
+    banking less terrible.
+  </text>
+  <links>
+    <link href="https://www.facebook.com/events/353476822388368">Facebook</link>
+  </links>
+</event>
+
+<heading>Python 101</heading>
+<image src="https://i.imgur.com/scdMdeq.jpg"/>
+<event startDate="2020-11-03T16:00:00+00:00"
+  endDate="2020-11-03T18:00:00+00:00">
+<text>
+  One of the key attributes DoCSoc hosts is the Python 101 Introductory
+  Workshop for not only DoC students, but all members of Imperial College
+  London. We invite everyone from any disciplines and level of education.
+  This will be a beginners level course for anyone who has very little to
+  none knowledge in Python. Please click "Going" on Facebook so we can
+  estimate the size of the interactive workshops.
+
+  Dates: every Tuesday 4-6pm GMT from Oct 20th to Nov 24th.
+
+  This week's lecture will be on error handling, imports, functions and
+  recursion.
+</text>
+<links>
+  <link href="https://www.facebook.com/events/276914916715070">Facebook</link>
+</links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Graphcore - Applications for our 2021 Graduate Intake are now open!</heading>
+  <sponsor company="graphcore">
+    As a Graduate at Graphcore, you will have the opportunity to work on
+    high-profile and meaningful projects from day one. You’ll enjoy on the job
+    experience as well as building your knowledge through a comprehensive and
+    tailored development plan.
+
+    We have some fantastic opportunities for graduates to join us across our
+    technical teams:
+
+    * Product Test &amp; Diagnostics - Graduate Product Test Engineer
+
+    * Customer Engineering - Graduate Customer Software Engineer
+
+    * Software Engineering - Graduate Software Engineer
+
+    * Silicon Engineering - Graduate Silicon Engineer
+
+    We recommend that you review all opportunities before submitting _one_
+    application for your preferred role
+
+    To submit your application please visit
+    https://www.graphcore.ai/early-careers.
+
+    We recommend you apply as soon as possible!
+
+    Good Luck!
+
+    Graphcore Early Careers Talent Acquisition Team
+
+    ### [Apply Now](https://www.graphcore.ai/e2t/tc/VVndVg1r1HLjW4bmntf6wWz-0W6y9Q694hMDVKN5l4bj_3p_9rV1-WJV7CgNTlN2shB1y5qhPRW6nMS5y8C79k1VJ1Fbq5DBcl6W47-p-z35WLwkW68BTfW7Pl_3pMS_-FLhtYW9W5bmj4d6bpHZKW3m5JnN1RGLLCW79xzTq68SMRFW6Xhv4669833JW7fycXr67FTRmW8J4tkm5znk31VSscN-5Y_RwXW1TyPh28QHPpWW2w5PF52GpmWKW8Kwfh02WfZYXW2Pz6SF2nSc82N8bd-bmfttBdW6BS5M71FkWlhW1WBR8j8_tbfsW3xF_fR9lm2K7W6QxgHg3FLJnCW6nS6sk4CYn5fVGkv4K1-N8B1W4_LMRR3C-12YW3PXH547wSPGj34LN1)
+  </sponsor>
+
+  <hr/>
+
+  <heading>Citadel &amp; Citadel Securities - Trading Simulation Challenge</heading>
+  <sponsor company="citadel">
+    Join Citadel &amp; Citadel Securities for our Trading Simulation Challenge,
+    where you will be able to apply your quantitative knowledge to provide an
+    automated solution to the role of a quantitative trader. We'll be hosting a
+    kickoff event on 5 November to meet our Traders and share pre-learning
+    materials for the simulation, ahead of the challenge itself taking place on
+    7 November.  Submit your applications online by simply sharing your CV
+    online - deadline is 3 November; however invites will be filled on a
+    rolling basis.
+
+    Please see the attached pdf for more details.
+  </sponsor>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+</sign>
+</email>
