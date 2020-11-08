@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/YkYegdq.jpg"
+    alt="Chocolate chip cookie on a blue plate"
+    title="Chocolate chip cookie on a blue plate" />
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    We hope you're ready for a week full of events!
+
+    Coming up we have a Meet Your Family Week, events with DRW and Nvidia, a
+    workshop with CrowdStrike, as well as a Software Industry Q&amp;A and a
+    DoCSoc Games' Night!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>Meet Your Family Week</heading>
+  <text>
+    With lockdown just having begun in England, we realise it is more important
+    than ever to stay connected to one another. That is why we have made this
+    week Meet Your Family Week! We encourage you to meet up with your DoCSoc
+    families and do an activity together such as play Among Us, virtual dinner
+    and drinks, play an escape room, or something completely different! If your
+    family still has not reached out to you, please email us and we will try
+    reallocate some parents and children.
+  </text>
+
+  <hr/>
+
+  <heading>Sponsors' Portal</heading>
+  <text>
+    Searching for internships or placements? Check out our Sponsors Portal,
+    where you can find out more details about our sponsors, read their blog
+    posts and see their open internship/placement positions. You can also
+    upload your CV and directly apply to our Gold and Silver tier sponsors!
+
+    You can access the portal at: https://portal.docsoc.co.uk/
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>DRW - Who We Are?</heading>
+  <image src="https://i.imgur.com/htkmpKf.png"/>
+  <event startDate="2020-11-09T18:00:00+00:00"
+    endDate="2020-11-09T19:00:00+00:00">
+    <text>
+      Join DRW as the head of their London office, Neil Dunn, will come in to
+      discuss how traders, software developers and researchers interact with
+      one another and what their day-to-day looks like. We’ll also have a
+      recruiter there to discuss the interview process.
+
+      DRW is a diversified trading firm with decades of experience bringing
+      sophisticated technology and exceptional people together to operate in
+      markets around the world and across many asset classes. We value autonomy
+      and the ability to quickly pivot to capture opportunities, and so we
+      operate using our own capital and trading at our own risk. Headquartered
+      in Chicago with offices in the U.S. and Canada as well as Europe and
+      Asia, we trade all the things you’d expect from a leading firm, including
+      Fixed Income, Equities, FX, Commodities and Energy. We also have
+      leveraged our expertise and technology to expand into three
+      non-traditional strategies: real estate, venture capital and
+      cryptoassets.
+
+      Phone one-tap:
+      US: +13126266799,,97938614413#,,1#,691795# or +16465588656,,97938614413#,,1#,691795#
+
+      Meeting URL: https://drw.zoom.us/j/97938614413?pwd=SGNwQkIwS1R5RnFqbm5nckRvMkNNQT09
+
+      Meeting ID: `979 3861 4413`
+
+      Password: `691795`
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/994825404333234/">Facebook</link>
+      <link href="https://drw.zoom.us/j/97938614413?pwd=SGNwQkIwS1R5RnFqbm5nckRvMkNNQT09">Zoom</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>CrowdStrike: Help! My University Has Been Hacked!</heading>
+  <image src="https://i.imgur.com/qxb0BwX.png"/>
+  <event startDate="2020-11-11T18:00:00+00:00"
+    endDate="2020-11-11T19:00:00+00:00">
+    <text>
+      Where did the hacker go? He must have RAN SOMEWHERE
+
+      Mission: Can you defend Imperial College London and its COVID-19 Vaccine
+      Top Secret Information or will it be stolen by the Bad Guys?
+
+      What’s Involved: Take part in a tabletop challenge with CrowdStrike experts
+      to see if you can save your university from the eventuality of being
+      hacked! With the guidance of our team, we’ll take you through a real-life
+      scenario and help lead an investigation to see if you can save the day and
+      restore Imperial College London back to a safe state of play.
+
+      Logistics: This workshop will run for 1hr 30 minutes. Each student will be
+      split into teams of 3-4 and entered into breakout rooms to discuss
+      plausible solutions, to the attack that is underway. You’ll then in return
+      hear from our experts to help pave the way for what we do next. We hope you
+      find a solution so your university isn’t left to ransom! Prizes will be
+      given to the best and most unique suggestions for saving your university!
+      We look forward to seeing you!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1158706514547871/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Software Industry Q&amp;A - Internships, CVs and the Pandemic</heading>
+  <image src="https://i.imgur.com/4pJn2CD.png"/>
+  <event startDate="2020-11-11T13:00:00+00:00"
+    endDate="2020-11-11T14:00:00+00:00">
+    <text>
+      Do you want to know about internships, how they changed during the
+      pandemic &amp; how to put up a stunning CV? Join us in this live Q&amp;A
+      Session about the Software Industry!
+
+      We have already prepared some standard pre-recorded material to bring you
+      up to speed here: https://tinyurl.com/DoCSocIndustry101
+
+      However, for any other questions you may have, we will bring together a
+      group of students ready to answer whatever questions you might have about
+      the industry!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/1261929284172897">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>DoCSoc Games' Night</heading>
+  <image src="https://i.imgur.com/nbT8O7b.png"/>
+  <event startDate="2020-11-12T18:00:00+00:00"
+    endDate="2020-11-12T20:00:00+00:00">
+    <text>
+      Come and Join DoCSoc in the first ever VIRTUAL GAMES NIGHT for EVERYONE!
+      Spend some time getting to meet new people, playing fun games and having
+      a relaxing evening. 🎮
+
+      Feel free to bring along your dinner and some drinks! By attending, you
+      will be entered into our prize draw for Deliveroo vouchers! 🍴🎉
+
+      Join our discord server here to participate on the day:
+      https://discord.gg/hc24ud6
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/394419125266076">Facebook</link>
+      <link href="https://discord.gg/hc24ud6">Discord</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Accelerating Scientific Discovery in Health &amp; Life Sciences</heading>
+  <image src="https://i.imgur.com/BVL0wj8.png"/>
+  <event startDate="2020-11-10T18:00:00+00:00"
+    endDate="2020-11-10T19:00:00+00:00">
+    <text>
+      In this talk Jonny Hancox, Senior Data Scientist from Nvidia’s Healthcare
+      team, will showcase the many tools and techniques that can be used to
+      reduce the time it takes to move from ideation to insight. Much of this
+      acceleration comes from the developments in hardware, but also the
+      algorithmic developments that these hardware innovations have unlocked.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/960675894341472/">Facebook</link>
+      <link href="www.eventbrite.co.uk/e/accelerating-scientific-discovery-in-health-life-sciences-tickets-128048114357">Eventbrite</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Python 101</heading>
+  <image src="https://i.imgur.com/scdMdeq.jpg"/>
+  <event startDate="2020-11-10T16:00:00+00:00"
+    endDate="2020-11-10T18:00:00+00:00">
+    <text>
+      One of the key attributes DoCSoc hosts is the Python 101 Introductory
+      Workshop for not only DoC students, but all members of Imperial College
+      London. We invite everyone from any disciplines and level of education.
+      This will be a beginners level course for anyone who has very little to
+      none knowledge in Python. Please click "Going" on Facebook so we can
+      estimate the size of the interactive workshops.
+
+      Dates: every Tuesday 4-6pm GMT from Oct 20th to Nov 24th.
+
+      This week's lecture will cover advanced control flow, data structures and
+      plotting data with matplotlib.
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/276914923381736">Facebook</link>
+    </links>
+  </event>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+</sign>
+</email>
