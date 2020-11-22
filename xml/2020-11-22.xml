@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/Gv1H80S.jpg"
+    alt="Biscuit dipped in milk"
+    title="Drowning"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    With only four weeks left until the end of the term, we're hoping you've
+    enjoyed last week's Golang and quantum computing talks.
+
+    This week, you'll have the opportunity to meet Arrival - a London-based
+    electric vehicle startup and hear from DoC Alumni in Industry!
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>Arrival - Who?</heading>
+  <image src="https://i.imgur.com/9fZzXmm.png"/>
+  <event startDate="2020-11-25T18:00:00+00:00"
+    endDate="2020-11-25T19:00:00+00:00">
+    <text>
+      Discover the product portfolio of LinkedIn's Hottest Startup of 2020.
+      Learn about Arrival’s innovative approach to the design and assembly of
+      electric vehicles and explore their unique culture and job opportunities.
+
+      Join Zoom Meeting
+      https://zoom.us/j/92289229602?pwd=Nzl4RlhpZ1h0QVdrTTQzOFIvTzJyUT09
+
+      Meeting ID: `922 8922 9602`
+
+      Passcode: `1UizEc`
+    </text>
+    <links>
+      <link href="https://fb.me/e/QnU1ssOO">Facebook</link>
+      <link href="https://zoom.us/j/92289229602?pwd=Nzl4RlhpZ1h0QVdrTTQzOFIvTzJyUT09">Zoom</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>CGCA x DoCSoc: Alumni in Industry Panel</heading>
+  <image src="https://i.imgur.com/5rC5ycp.png"/>
+  <event startDate="2020-11-26T18:30:00+00:00"
+    endDate="2020-11-26T19:30:00+00:00">
+    <text>
+      Interested in knowing more about our Alumni in Industry?
+
+      Join DoCSoc and CGCA for our DoC Alumni in Industry Panel, where we
+      invite some of our alumni to talk about their experiences since they
+      recieved their shiny degree certificates.
+
+      We will be revealing one panellist each day leading up to the event, so
+      make sure to click "Interested" or "Going" to see our updates!
+    </text>
+    <links>
+      <link href="https://fb.me/e/16ILPzFeT">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Python 101</heading>
+  <image src="https://i.imgur.com/scdMdeq.jpg"/>
+  <event startDate="2020-11-24T16:30:00+00:00"
+    endDate="2020-11-24T18:30:00+00:00">
+    <text>
+      One of the key attributes DoCSoc hosts is the Python 101 Introductory
+      Workshop for not only DoC students, but all members of Imperial College
+      London. We invite everyone from any disciplines and level of education.
+      This will be a beginners level course for anyone who has very little to
+      none knowledge in Python. Please click "Going" on Facebook so we can
+      estimate the size of the interactive workshops.
+
+      **This week's lecture will begin at 4:30 PM, half an hour later than usual.**
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/276914916715070">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Bank of America | Technology Summer Analyst (Chief Technology Organization) | Chester</heading>
+  <sponsor company="baml">
+    ![Header](https://i.imgur.com/83w6jjy.png)
+
+    ### Shape your world with Bank of America.
+
+    #### Technology Summer Analyst (Chief Technology Organization) | Chester
+
+    Our Summer Analyst program is designed to offer you a broad and exciting
+    experience of work as a full time CTO Analyst. During the summer you will
+    be placed within one team and have the opportunity to participate in real
+    delivery of technology solutions.
+
+    Your training and development is our top priority with extensive formal
+    training offered at the start of the program in addition to on the job
+    support, educational speaker events and mentorship throughout.
+
+    As a Summer Analyst, your key tasks and responsibilities may include but
+    are not limited to:
+
+    * Design infrastructure used by multiple lines of business, handling
+    billion dollars of transactions per day
+
+    * Take responsibility for deploying and supporting core infrastructure that
+    underpins the daily operations of the entire bank
+
+    * Support the design and implementation of our next generation data-centres
+
+    * Develop mobile solutions to enable our employees to work effectively in
+    geographically diverse locations
+
+    * Be responsible for global incident management and event management
+    processes
+
+    * Work with various platform teams and Business Technology Groups to help
+    build out automated processes
+
+    * Have exposure to the business management functions
+
+    [Apply
+    now!](https://bankcampuscareers.tal.net/vx/brand-0/candidate/so/pm/1/pl/1/opp/6073-EMEA-Chester-Global-Technology-Summer-Analyst-Programme-Technology-Infrastructure/en-GB)
+
+    **Application Closing Date**: 29th November, 2020
+  </sponsor>
+
+  <hr/>
+
+  <heading></heading>
+  <sponsor company="jane_street">
+    ![Header](https://i.imgur.com/A4arfkF.png)
+
+    This January, we are excited to host our fourth Jane Street Symposium.
+    We're inviting current and recent PhD students to spend two days learning
+    about the rich set of problems we face as a quantitative trading firm and
+    how we apply mathematical and computational techniques to solve them. The
+    program will consist of lectures by Jane Street researchers, short talks by
+    the symposium attendees, and an interactive workshop. Due to the COVID-19
+    pandemic, the program will be remote this year.
+
+    Applications will close on **December 1st at 11:59pm ET**.
+
+    If you have any questions, please don't hesitate to email
+    symposium@janestreet.com.
+
+    ## [APPLY](https://www.janestreet.com/apply-symposium/?utm_source=email&amp;utm_medium=email&amp;utm_campaign=symposium2021&amp;utm_term=symposium&amp;utm_content=registration)
+
+    #### About Jane Street
+
+    [Jane Street](https://www.janestreet.com/) is a research and
+    technology-based quantitative trading firm with over 1000 employees and
+    offices in New York, London, Hong Kong, and Amsterdam. We employ
+    mathematicians and scientists from top academic programs to create models
+    that allow us to trade billions of dollars around the world every day.
+  </sponsor>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+</sign>
+</email>
