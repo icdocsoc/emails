@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/ECKGZnS.jpg"
+    alt="Pumpkin pie slices on a wooden cutting board"
+    title="Happy Thanksgiving!"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    As we're wrapping up week eight of the term, we hope you've had a chance to
+    enjoy the last lecture of Python 101, a talk from the EV startup Arrival or
+    the CGCA x DoCSoc Alumni Panel!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>The Equality, Diversity and Culture Committee</heading>
+  <text>
+    Do you want to help encourage diversity and equality in Computing and
+    represent your view? The Equality, Diversity and Culture Committee (EDCC)
+    strive to continually maintain and improve equality and diversity amongst
+    staff and students. Their current objectives are:
+
+    No staff or student should be disadvantaged because of their gender,
+    ethnicity, sexual orientation, disability or any other protected
+    characteristics (Equality Act 2010).
+
+    * The Department should provide an inclusive environment for all staff and
+    students.
+
+    * The Department should strive for diversity of staff and students along
+    all dimensions.
+
+    * The EDCC welcomes anyone to come and attend their bi-termly meeting to
+    discuss such matters - all discussions are open!
+
+    If you feel you have experienced something you would like to discuss
+    however do not feel comfortable attending the meeting please do one or all
+    of the following:
+
+    * Talk to your year reps as they can discuss the issue for you.
+
+    * Submit anonymous feedback by form here:
+    https://edcc.doc.ic.ac.uk/contact/
+
+    * Email anonymously to doc-equality@imperial.ac.uk - the exchange will be
+      kept private
+  </text>
+
+  <hr/>
+
+  <heading>DoCSoc on LinkedIn</heading>
+  <text>
+    You can now find us on LinkedIn [**over here**](https://www.linkedin.com/company/docsoc/)!
+  </text>
+
+  <image width="90"
+    src="https://i.imgur.com/PEYeEhT.png"
+    alt="Find us on LinkedIn!"
+    title="Find us on LinkedIn!"/>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Origin - Growing Fintech Looking To Hire Graduate Product Managers &amp; Software Engineers</heading>
+  <sponsor company="origin">
+    ### ORIGIN IS HIRING SOFTWARE ENGINEERS AND PRODUCT MANAGERS
+
+    Origin’s software has transformed the debt capital markets, completely
+    streamlining the way companies and investment banks work together to raise
+    capital. Having launched just over 4 years ago, Origin is now used by over
+    20 investment banks and 90 borrowers in over 50 cities worldwide. Our
+    clients include some of the largest investment banks and borrowers
+    globally, including Barclays, Citi, and Telefonica. We have recently
+    secured our Series A funding round lead by Clearstream and the Luxembourg
+    Stock Exchange, and our CEO was named in the top 10 leaders transforming
+    finance in Europe by Business Insider.
+
+    At Origin, you’ll get to work with exciting modern technologies: Django to
+    write our backend services, Angular8 to create our web app, Kubernetes and
+    Docker to schedule and run our services, and AWS to run our infrastructure.
+
+    Origin is looking for smart and driven graduates to join our team as we
+    rapidly grow our product offering in the following roles:
+
+    **Graduate Product Manager 2021** - Your primary responsibility will be to
+    understand the nuanced customer requirements and translate those into an
+    outstanding user experience via well thought out user journeys and designs.
+
+    **Graduate Software Engineer 2020/2021** - You will be peer mentored,
+    trained and expected to rapidly develop your skillset. You will gain
+    exposure to both the backend and frontend and over time you'll choose which
+    one to specialize in.
+
+    Please apply below:
+
+    https://www.originmarkets.com/careers
+
+    We have a strong track-record in rapidly scaling up junior so be ready to
+    grow fast!
+  </sponsor>
+
+  <hr/>
+
+  <heading></heading>
+  <sponsor company="graphcore">
+    # Graphcore Research
+
+    ## 'Reinventing Accelerated Computing for AI' Simon Knowles guest lecture at SC20
+
+    ![Watch Simon's SC20 lecture](https://i.imgur.com/UmlAtQU.png)
+
+    Graphcore CTO &amp; co-founder, Simon Knowles gives fascinating insights
+    into how to train tomorrow's superhuman machine learning models
+    efficiently. Watch the video to hear more about the challenges of scaling
+    up AI and how we can solve them.
+
+    [Watch Simon's SC20
+    lecture](https://www.graphcore.ai/e2t/tc/MW87bfx78YVW1vc1Jj50bYYgW3kyKQV4jRQ0hN5BW0SV3p_b1V1-WJV7CgQrYVGZV-L1cWkBsW2BbyZQ727pGGW4XM2sH5mbTV0W2Y2mbd7hzZs0W3JbBj12KmrXRW4hTwkg3D3rBRW6xBt_v95G3C_W2TDpY_8PlJ28W8Nhc3z6j7fDpN3VqJD0vb1tHW7pG3wJ3rXZxnW94-Bb21x7lSdW5cgZ1b6gNzr6W4vHB5g4lK74nW2_dxxr64L-XRW5-gjQ61FMYpJW9gRVSG4Y-f7wW16vzSl78nWcnW8cDvdk2y2ZBRW19blFn4Z2NfLW3h3qVZ79pPJxN3g1CTHh82VKW6mj-y068ZlsMW7ydZZQ517R_fW5yl5cK5YDhmdV4p7jn86j4_qVsH8k55-znVsW92h9x88L1xhvW8r5srh7-FtvWV3D7bj85nV2r3phQ1)
+
+    ## GraphcoreRandom Bases Paper at NeurIPS 2020
+
+    ![Read the Random Bases blog](https://i.imgur.com/phNKDf9.png)
+
+    As machine learning models grow increasingly larger in size, exploring
+    novel ways to train supersize models faster and more efficiently is a high
+    priority for the whole AI community.
+
+    If you are registered for NeurIPS you can check out the talk on date /time
+    or read the full ArXiv paper
+    [here](https://www.graphcore.ai/e2t/tc/MW87bfx78YVW1vc1Jj50bYYgW3kyKQV4jRQ0hN5BW0RJ3p_8SV1-WJV7CgCqQW3Mz27d6FKmg2W2cTtWM8zNf9qW92CdvK4XLf6JW45ZZj11vDFzbW6pqBxX5JK0pgW5bzC8M8k6Tc-VtZb8j8p-Rg8W4Qf4wv8hBwkLW3cYQY_5ft7GZW6xWfM05jw0DmW5jqkBT8WlHxDN6wm_P4Q4LgHW2t7ygZ6LtKC0W9j1HV17_ryB6W97-8xj6NZRgBW498kN01ZR_3QW5sdHzv2VX9kLN3Ttj4dvhymqM6w2L3cK3DcVxjq8z47gbLrN4SzpQwdgrFzW8HPX4W74Z6wJ3c661).
+
+    [Read the Random Bases
+    blog](https://www.graphcore.ai/e2t/tc/MW87bfx78YVW1vc1Jj50bYYgW3kyKQV4jRQ0hN5BW0SV3p_b1V1-WJV7CgNx_W3lr8FF36pXd6V2Wj4S6LLVZ5W4FvhRh7cQXlTW4HrY0w5s4H3RW4wNSG124jrz6W60112g83-D-wVSjNR673yzltN7326cxTvn6DW6QKgj73qvJqMW4gVjgP6h8pTzW3Rq6854BrvxjW6g63628ng8P8W5jc5K61_BW7wW7cSwYn70LcVDW6Lrmct1MSpSzW5VT9qS1S8jspN5xtM2mMrNhSV819wN1x9F50M3HcLzz_sW9W7c1wKX48fDMqW5T9BPC5_KncQW813ytt3KBXNPW8kGP1_1f8_d6W2Tl4sp5nH_SGN8WnW56zlsW3W7lT6N81LjxSlW3VmqrS6j3NtFW6qK4654SjjrVW6JXffx1TVfWFN299BVjcK0Yp31Tm1)
+
+    ## GraphcoreFollow-the-leader Strategies using IPUs from Ford Motors AI
+    Labs
+
+    ![Watch the Random video walk](https://i.imgur.com/Z57DowT.png)
+
+    Check out the new paper from Ford about a follow-the-leader model using
+    IPUs to track pedestrian direction and speed. The model uses classifier and
+    regression DNNs with grouped convolutions to boost model performance and
+    reduce parameter count and compute latency.
+
+    Throughput is boosted by 3.5x for training the classifier and 7x for the
+    regression network.
+
+    Read the Ford paper on ArXiv
+    [here](https://www.graphcore.ai/e2t/tc/MW87bfx78YVW1vc1Jj50bYYgW3kyKQV4jRQ0hN5BW0RJ3p_8SV1-WJV7CgRVQN5SqxmC1vsTnW2pLXgL8JB0R0W1j22p27Mjx0SW9fVV207RJrMMW453tBC1_NS8HW6ZHD3K5GbNbVW86CtrT14WXm6W3lQN0S6gs2xbW4gzkCZ493-SlW83dWVV8gWqrwN4SHz5nrTSqHW6jV7Hq9lnKJTW1bvbbX8N4_-BN3v838dFTdjmW26Z18t88Y6FlVnZ7qP76BvRgW7HLd1w3Rl7JTN3-kKYVMr20JW7XZp7X1lB9nWW8zqgTy5JYP7kVVgj3l4bdZbgN6mlBqbTL5Fb34Xg1).
+
+    [Watch the Random video
+    walk](https://www.graphcore.ai/e2t/tc/MW87bfx78YVW1vc1Jj50bYYgW3kyKQV4jRQ0hN5BW0Sh3p_9rV1-WJV7CgJs-VLd9cB626qcTW5XRRwb12tSnSW3dx9wD3xSV20W7rDrP54KRg1TN2qXcMtLPrL7W5zS9dZ3-9j33N8qTvK6spyT3W3Y_Fpm8yLKwWW8qtK4B6QxlQPVRrZwq8dRBRDW4Rdgs_7w4r5SV-td4X79wZ1rW3xFYdK7S7jc3W3rv-507BQGs1W4pWdyP3vRqnYW58Bdnz5yBdbNW4SKWs24JHhVJW4RCPQZ4QM4kBW5f5RNd2dvhk6W53-Bg63QZb0xW6fSQxQ80vzCSW7Z6YTS7rkBpsW53wN7x3H0-7SW308fsk6Z4PZNW3WpYx13bPT6nW1-ZdfL62djrk3crK1)
+
+    ## GraphcoreGraphcore at NeurIPS 2020
+
+    ![Get started with IPUs](https://i.imgur.com/Vq4P8M7.png)
+
+    NeurIPS may be virtual this year, but Graphcore is still supporting the
+    wider AI community by sponsoring the event on 6-12 December. [Check out our
+    virtual booth sessions at
+    NeurIPS](https://www.graphcore.ai/e2t/tc/MW87bfx78YVW1vc1Jj50bYYgW3kyKQV4jRQ0hN5BW0Sh3p_9rV1-WJV7CgFvNW4VBX0W4l4ZGVW1_pD2x3-FHxmN1M6G2nmMyX0W7GtjPB99xYKsW3XV1jC7xPLPgW2cDvvV2d_b_PW8Rq2yC7MtlRXW85xmTM6Qp4ztN1p3jYZGTHmBW641scK8wVcTXVdkVvv7nJ42VW8Z5tDh1QQFG7W2BsK538XKf70W1YrkRh8WcQFmMNNv5hCHyqqW6z76QR1gJf_yW3w3m182vY7gWW5bR6ms2M2mgxW7fZ0-t4gpjb5Vmkbzr6t4yl5VNG8LN6ZTyhcV4g4LD496VMjW4-tvgp65SMW1W1lWB082pkz35W2lggWy2TDrYbW81HydJ5br0hB3kTj1)
+    to find out more about new approaches to machine intelligence with the
+    Graphcore Research team.
+
+    If you're AI Developer, check out our new [How-to
+      videos](https://www.graphcore.ai/e2t/tc/MW87bfx78YVW1vc1Jj50bYYgW3kyKQV4jRQ0hN5BW0Sh3p_9rV1-WJV7CgGxdVry6Gf7gZV33W3k7SXh3Y8R0JW4J3L2s1k84D-W7vMJzT5WmWMrW5zXkt98qxbbHW7zp1wv8lbRcZW5N0yVX23j1XJW7qNd288VJyqYW2-Yz2J3fchrTF8fWzP5v39NW6ccQFf5jxwwyN644J5Nb7j3HN2nm-ylZ7Vb4W59vPsS2ybfpkW27jMLr6H32hcW2g74Vl4KMjBhW8l7PMY8mWbJGW2sLrpJ890TwYW2d_DDJ1kGW5GW4tB7Q07XmsZsW1CvG_46zk-tBW5XCr9c2D0L-wN7HFVbXr_mDKN5dPScVhGGmBW7T-6Sp4wkddBW2KX8Dn4Q4DpG350h1)
+      in the Graphcore Resource page - Fundamentals of Bulk Synchronous
+      Parallel Execution &amp; Evaluating Batch Sizes for IPUs. Learn more
+    about the [Graphcore Poplar®
+    SDK](https://www.graphcore.ai/e2t/tc/MW87bfx78YVW1vc1Jj50bYYgW3kyKQV4jRQ0hN5BW0R_3p_97V1-WJV7CgYJ3W28V7744G22G7N2PTKy68RjYGW1TyfSP5W2Q1hW4vLp8b1rxRXdW1Qxpf_2-953yW1lHG_L88srGcW71t0F77vF8jtW8Y6WNk3Cg9DKW2dGhrZ15vslmW733nsK7L58nZW3P-Xml5_7jQRV5XvGw2cnQ_-W4qgKnT5THMZzW7b8Mhn4VpTTWW4M9xj11PSsQjW8ZYFPY5JwKYtW2b-TnF767l-cW3vw8Ql82DgyHW5tL21p653dGHW7Zw6zY40H3wsV25Ww91qm6tSW5VVSXF83XH4vW7jPQHQ9g2Wb1W2Stzc95WVssG3bCD1)
+    and get started programming IPU systems.
+
+    [Get started with
+    IPUs](https://www.graphcore.ai/e2t/tc/MW87bfx78YVW1vc1Jj50bYYgW3kyKQV4jRQ0hN5BW0R_3p_97V1-WJV7CgB-KW1FLg5v61CCw4W32tm_-8tP6QzW28DCdV7bGFwpN2qDRPCQnDVnW1TGzNL91kkVXW2tHmsJ1p-vV6N6fJxvc7b3ZkW26wwpJ96B2m-W3sSrQr4Rf8dNW7xhfN87KLmWjW83DbTY4tMb8_VtSwFv7cbNt8W7nck1V8vgdzcW6p79NV1R4fvJMvSYYmrHlldW4j_wpm5khCGLW8j2Lzs6LgCJRW6P7hZz1bGhGZW5Wmr3K1rjTF8W3RqVTV1k5xfpV8K0Gk77J2LxN6xl5F4wjWGQW1fsjWw6KggJXW4lBXYV6LvnHy311f1)
+  </sponsor>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
