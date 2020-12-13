@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/O85oVhT.png"
+    alt="Star-shaped gingerbreads on marble tabletop"
+    title="Only two weeks to go before you can focus on gingerbread baking full-time"/>
+  <hr/>
+
+  <text>
+    Hi everyone, hope you're doing well!
+
+    With only two weeks to go before the winter break, we're keeping this
+    week's digest short. Read on to hear from Women in Computing and StarLeaf.
+
+    Good luck to everyone sitting exams and submitting projects next week!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>Women in Computing</heading>
+  <image width="40"
+    src="https://i.imgur.com/dHHFMfV.png"
+    alt="Women in Computing"
+    title="Women in Computing"/>
+  <hr/>
+  <text>
+    Women in Computing is expanding to include events run for and by
+    undergraduate students of Computing and JMC. If you would like to get
+    involved as part of the committee, or simply have ideas of events you would
+    like to see and participate in, please don’t hesitate to reach out to Aydan
+    Gasimova (a.gasimova16@imperial.ac.uk). We look forward to hearing from
+    you!
+  </text>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>StarLeaf Industrial Placement</heading>
+  <sponsor company="starleaf">
+    ### Cloud R&amp;D Watford, England, United Kingdom
+
+    #### Description
+
+    We are interested in speaking with students from Imperial College London
+    that are looking for a place to complete their industrial placements in
+    2021. We can consider students looking for either four or 6-month
+    placements.
+
+    #### What you can expect
+
+    As an Intern in one of our software engineering groups, you will be
+    assigned an experienced software engineer as your mentor and be given a
+    desk within the group. We will identify a project suited to your level of
+    experience that will deliver a feature or a tool that is directly
+    applicable to our business. Your experience as an intern will be as close
+    as possible as a full-time member of our team. We are confident that this
+    experience will give you a valuable understanding of how a software
+    engineering team functions in a commercial environment.
+
+    Our software teams design and implement complex systems across a wide range
+    of technologies and programming languages, including C, C#, C++, Java,
+    Python, SQL, and Javascript. We make extensive use of continuous
+    integration and deployment methodologies based on tools such as Salt,
+    Jenkins, pytest, Catch, and homegrown automated system test frameworks. We
+    place emphasis on high quality, well-tested code and a quick turnaround
+    time for adding new features to our products. We believe that this is an
+    ideal environment for you to take your first steps in commercial software
+    engineering
+
+    ### You can find more details and apply by following [**this link**](https://apply.workable.com/starleaf/j/12FA12111C/)
+  </sponsor>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>

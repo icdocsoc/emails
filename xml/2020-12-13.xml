@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/Aid1imz.png"
+    alt="The making of gingerbreads"
+    title="Christmas: WIP"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    Read on to find out about the £5 Deliveroo vouchers we have coming up for
+    you, a form on CTF and some news from our sponsor Graphcore.
+
+    Good luck to everyone sitting exams next week!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>Free Deliveroo vouchers for all members!</heading>
+  <hr/>
+  <text>
+    We are fortunate enough to be partnering with Deliveroo to give £5 free
+    credit to all of our members on Deliveroo. Whether you’re catching up on
+    coursework, revising for exams or starting to prepare for the Christmas
+    break, you can take a break from work and order online.
+
+    You’ll receive a sign up link to claim for your free credit tomorrow
+    morning, starting from Monday 14th of December till Sunday 20th 23:59pm.
+  </text>
+
+  <hr/>
+
+  <heading>CTF</heading>
+  <hr/>
+  <text>
+    **TL;DR:** If you're interested in CTFs, then fill out the form at the end.
+
+    Have you ever heard about Capture the Flag, or CTF, competitions? No, I'm
+    not talking about CoD's game mode or the outdoor game... If not, then
+    you've been missing out! Now, you'll probably be asking "Well, what are
+    they?" I'm going to answer by quoting an excellent blog post:
+
+    "CTF (Capture The Flag) is a kind of information security competition that
+    challenges contestants to solve a variety of tasks ranging from a scavenger
+    hunt on wikipedia to basic programming exercises, to hacking your way into
+    a server to steal data. In these challenges, the contestant is usually
+    asked to find a specific piece of text that may be hidden on the server or
+    behind a webpage. This goal is called the flag, hence the name!"
+    (https://bit.ly/3ozLoqT)
+
+    If all these sound interesting, and they should!, then please spare a
+    minute to fill out the form provided below!
+
+    https://forms.gle/EmMt8mu9dUvgDgLq8
+  </text>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Graphcore News</heading>
+  <sponsor company="graphcore">
+    ![Graphcore](https://i.imgur.com/bdc44ri.png)
+
+    ## New AI Performance Standards with MK2 IPU Systems
+
+    Check out our [new performance
+    benchmarks](https://www.graphcore.ai/e2t/tc/VVQ1s7621RMNW1XRqh452N-CNW95j2m74knH7BN8_nRGc3p_97V1-WJV7CgNKnW62gX664y0dKhVQ9Y9T14Cw-8V8njgc4b_S8VW2h7qK_3YmrQ5N8Pz1Hym-XrZW5zJPSL2M2PZ3W8fXMfl1hVvzhW322r9Z26wls3W65gSV28Y5RYzW84G6-V24c0vGW20854G2hLVCBW20t_773pf2vqW3Y67V58LnSNrW5LBV7J6RLK-QW2rVlQk8pH5PQMXmg1HbnvqVW4-nkYD8sBqGQW7CRM1n7_Z_5mW35b_zn5lD7f-W4rPJPn5BPVTYW5dzwhc6bBHg5VDsmXT4dd5tgW1Yq7pg2_-bwRW3XrxtB5DNDp135s51)
+    for MK2 IPU-based machine intelligence systems. There are significant
+    performance improvements with the Graphcore IPU-M2000 across the board and
+    for some models orders of magnitude greater.
+
+    You can find the code on
+    [GitHub](https://www.graphcore.ai/e2t/tc/VVQ1s7621RMNW1XRqh452N-CNW95j2m74knH7BN8_nRGc3p_97V1-WJV7CgLC9W4NLMtQ4dH-HRW3mNd2s5K4rWWW4cFz5l8CWVlrN6FVhGfBVrHLW3LLqMX2FWypbV60JhF4C4JbcN5F2f7HQds4pW3c8MZc1Hp2t9W4dFsp18TrVQJW8sb6Ww4gwlqNW7yPGWQ2L7s3mW4nDxRP11sTh2N5mTZlTSvFgrW5MTlzH73SjP9W4r3nkx2JdTLpW60nt0p9c0RtDW8zf9rH3w3kPrN4CP_lYDyYC4W1VSvb3987zz6N9k04ZyLytxCMfLGsktD4-xW3wfrW98RPQfhW8Tq_776LfQ-WW3FKG2H1B4gNw3qbg1)
+    and more performance data in the results table on our website
+    [here](https://www.graphcore.ai/e2t/tc/VVQ1s7621RMNW1XRqh452N-CNW95j2m74knH7BN8_nRGc3p_97V1-WJV7CgPK2W46Zv9C12g-4RW2_GBBM6drt_WW3Pfmhw7bKtg_W7-z1K61j5rZ9W6FxM3y5Cm_LsW1nVSQV81HDsLW5tNP7D4n8g5vW6YJ-NB4jMfCGW6R82485WwNYkW53xyG88P_zggW2X4mPl54fznPW2tzGd27mcqK9Vw6Qt42jVYKzN6QpS4h9X1TqW8vj6d43FLqC_W7Kff304h33k1W6PNZTf7KmH33W4qsLVH1RDHmWN5j38ZdGspgdW2CnPNY6lPy10W6hBnGS19h7bZN1YY6C1bPwL1N3DhDvHlzHYMW7qtH-G6xTq_p3mpS1).
+
+    [Read the MK2 IPU benchmarks
+    blog](https://www.graphcore.ai/posts/graphcore-sets-new-ai-performance-standards-with-mk2-ipu-systems?utm_campaign=September%20Newsletter&amp;utm_medium=email&amp;_hsmi=102412626&amp;_hsenc=p2ANqtz-9t3-kzOSei6MzWNky64TjYJ8_TZBmEohym-hfvIn99lyF6fxRCIuF-wQG7aFCK7tbhJAT2K6iLpH6xqLpJ1_RZ7guqTahSMnJAMqp7zaQqvc7P3js&amp;utm_content=102412626&amp;utm_source=hs_email)
+
+    ## Introducing PyTorch for the IPU
+
+    Today we are introducing our first production release of  PyTorch for IPU -
+    [PopTorch](https://www.graphcore.ai/e2t/tc/VVQ1s7621RMNW1XRqh452N-CNW95j2m74knH7BN8_nRGc3p_97V1-WJV7CgXFyW7dGctr29vmvZW7h7Hs26T16ZXN7pc4hLx96v0VzgHNs7XWF16W3vT7SN1JjMfsN4WN_nLJQd_fV4CWDd8NDthSN7gQgx1lBT1JW5lvV5j8188TJW5_-tD71bcwytW1fLTQM5Sw4hcW2FmLnr5MWhF9W49BJJk6H44TYN6dGKkMZ1wC0W3gCf-85sG2t3W1qDPR35w59QYW2YclLd4rmqS7W1DGGBT7DymQ3W8nphrt7kG71NW6GMy9y6wZb3GW6SKP7d8g39ChW2txB4J3PPxR8W8TcK-R7VtV0PW1MKLjz277Kkd3f8w1), combining the performance of the Graphcore IPU-M2000 system and
+    the developer-ready accessibility of PyTorch as part of our new Poplar SDK
+    1.4.
+
+    This allows the fast-growing PyTorch developer community to make new
+    breakthroughs in machine intelligence with Graphcore  IPU systems, while
+    maintaining the dynamic PyTorch experience.
+
+    Check out our [Developer
+    portal](https://www.graphcore.ai/e2t/tc/VVQ1s7621RMNW1XRqh452N-CNW95j2m74knH7BN8_nRGc3p_97V1-WJV7CgS3DW4nmkSh5QYBmWW6Y1RXH5RBk6CW17-vrD85NhbzW6wk60557fdV_W6vxpF13Qf6LVW4tt46Y1QDjshW6cknFZ8QfQy3VZ8f-Q2ChdV0W4rS93P2pkzg4W52k6-55VPh5VW6zVy2B6ztklbW3B5K9W1Kc0PjW7RFHtx7RSR57N7CnWkMXFVCsW2z1gYf6cJHCjW6-CyJx5lRnmcV5t-kX3smq7YW4plKLs7x90p3W6pclFH60VD4CN7r7pJfNjrnyN2M9w7qcDdgVM5TVcBCz35vW19wcR18sZddJW42-K8p2-s-x532wQ1)
+    and
+    [GitHub](https://www.graphcore.ai/e2t/tc/VVQ1s7621RMNW1XRqh452N-CNW95j2m74knH7BN8_nRFX3p_8SV1-WJV7CgLbCW85THR18l0jr-N5M6fNFqJHMvW1yk3xH8Cdr9mW7WHr5F62BPJwW64GpD29bXP1CW1sMgtg19vfQsN18GprwpF_2PW4rR-j83yhXkCV6mDmw7jw4MgW3pk8j56s3rDDW2Z4wy_9d51d0W9cj0n88TJ2_0W7220cg3vM6vDW7RyZ6l61p43-MZf28Jp72kMN1z_dY4CzvtQW48G83p3_Wd__W6F7knq5G1vgLW88vMD57-80QCW2YqH5s5Q77cDW6f13hl8Sldn_N5x4yc3XRpWJ34fK1)
+    for new code examples, tutorials, docs and developer videos. Read our
+    [blog](https://www.graphcore.ai/e2t/tc/VVQ1s7621RMNW1XRqh452N-CNW95j2m74knH7BN8_nRGQ3p_9LV1-WJV7CgJ0HW2SMMRS6YhdVjW3X1wk04nGK9LV6RH8q41M7vbW2YhJTs2vB7cYW50P-Rv2P9Q4LW2K-Dmz77f1BbW1fPZRd7Yd7lFW4Y2zYd3r9rPRW1JLLGY3gX2X6V6-9n31WNfFQW4k70V01p6Q0XW8NpqWW25rG3gW2g6ncx4vSp2tVkxclF5dgvZNW58GHC05fhzywW14hYYK6YtjMxW5zzbZ_5_f0skW5T52Jf2jqDFQW4DYDz93mNBYkW108bdQ7Flc1jW2LSs031_PlZDVKsm5D3xVnw0W2Y0Tx27MHM0cW6_-ms23pZf9sW3DrFZ-5vSKkYW87qbmB2PMK3ZV-V_644SR2GkW5VnJ-S2Mjdr836XF1)
+    or check out our guest post on the
+    PyTorch blog below.
+
+    [Read the announcement on the PyTorch Medium
+    blog](https://medium.com/pytorch/graphcore-announces-production-release-of-pytorch-for-ipu-f1a846de1a2f)
+
+    ## Scaleable, Flexible, Powerful AI With IPU-POD
+
+    We're already taking orders and shipping IPU-M2000, IPU-POD16 and IPU-POD64
+    systems to customers via our global channel partners.
+
+    Find your local channel partner
+    [here](https://www.graphcore.ai/e2t/tc/VVQ1s7621RMNW1XRqh452N-CNW95j2m74knH7BN8_nRGc3p_97V1-WJV7CgYMwW2MTQqr12j9qMW39lDpM5nKr-nW4yZMhm34wz3sN8q36VmCzY0sW23GXVK3V6vTfW8hzwpR3bw7JYVvhXVt9lmfzLN1nBrLn9rTBVW2S-njq3S2KjfW6S--7Z8w8FC8F6Dn-rNdDqkW6yWt-f8zZQRpW6KpQqg4FhsDMW82rJ486_DcrxW5s_1WR31B0zLW12L_pp8B3fCRW1q2pS-6mdQzkW5zlHQ-2_2XX8W4pF55b6Qb6XdW6kqqLD7wd9NgW7zp_pC4L66NzW7zXXxh3q72tSVmfXcV6hPBTfVd0Dtz41JF3w3fcf10)
+    or speak to one of Graphcore's AI experts about building your own AI
+    datacenter of the future with scaleable IPU-POD systems.
+
+    [Buy
+    Now](https://www.graphcore.ai/getstarted?utm_campaign=September%20Newsletter&amp;utm_medium=email&amp;_hsmi=102412626&amp;_hsenc=p2ANqtz--YnIy8rDr1Mb2ZGo9jo7RTcjFj1AjMciyJLu5db1_UizOL0-7lmbfokkcAgTh2VV3V53hkneIoKWq_s_EMCn-11_lmckMaWBeuETtu8Jc0x3nIZcI&amp;utm_content=102412626&amp;utm_source=hs_email)
+  </sponsor>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
