@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/10wd0ks.png"
+    alt="Gingerbread figure on snow"
+    title="Enjoy the snow!"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    Welcome back to Imperial!
+
+    Hopefully you've managed to get up to speed in the first two weeks. Read on
+    below to get the latest updates about DoCSoc.
+  </text>
+
+  <hr/>
+  <text>## Announcements</text>
+  <hr/>
+
+  <heading>DoCSoc Constitution Update</heading>
+  <text>
+    Last week the DoCSoc Committee has ratified the following changes to the
+    society's constitution (with additions **in bold** and deletions ~~crossed out~~):
+
+  </text>
+  <hr/>
+  <text>
+
+    _Hackathons and Large Events Coordinator_ will become _Hackathons
+    Coordinator_ with updated job description:
+
+    “The Hackathons ~~and Large Events~~ Coordinator shall oversee
+    the long-term organisational planning of annually recurring
+    hackathons ~~not covered by the Social Events Coordinator,
+    focusing on~~ **such as** IC Hack and Health Hack. ~~(liaising
+    with the GameDev Events Coordinator), and providing additional
+    oversight to other large events, such as the Welcome Fair and
+    Sponsors’ Exhibition.~~”
+
+  </text>
+  <hr/>
+  <text>
+
+    _GameDev Events Coordinator_ will become _Software Development Coordinator_
+    with updated job description:
+
+    “The Software Development Coordinator shall oversee the activities and
+    events of the society related to **software and game development
+    initiatives,** including hardware loans to members, **CTF activities and
+    the DoCSoc Software Foundation.**”
+
+  </text>
+  <hr/>
+  <text>
+
+    _Vice President_ will get constitutional financial resposibility rights and
+    will get Welcome Fair and Sponsors’ Exhibition responsibilities with the
+    updated job description:
+
+    “The Vice President shall oversee the day to day operations of the society
+    **and assist the Treasurer in carrying out the financial duties of the
+    society, including, but not limited to, approving claims, purchase orders,
+    credit card requests and internal charges. They shall also lead the
+    organisation of large events, such as the Welcome Fair and Sponsors’
+    Exhibition**”
+  </text>
+
+  <hr/>
+
+  <heading>The Equality, Diversity and Culture Committee</heading>
+  <text>
+    Do you want to help encourage diversity and equality in Computing and
+    represent your view? The Equality, Diversity and Culture Committee (EDCC)
+    strive to continually maintain and improve equality and diversity amongst
+    staff and students. Their current objectives are:
+
+    No staff or student should be disadvantaged because of their gender,
+    ethnicity, sexual orientation, disability or any other protected
+    characteristics (Equality Act 2010).
+
+    * The Department should provide an inclusive environment for all staff and
+    students.
+
+    * The Department should strive for diversity of staff and students along
+    all dimensions.
+
+    * The EDCC welcomes anyone to come and attend their bi-termly meeting to
+    discuss such matters - all discussions are open!
+
+    If you feel you have experienced something you would like to discuss
+    however do not feel comfortable attending the meeting please do one or all
+    of the following:
+
+    * Talk to your year reps as they can discuss the issue for you.
+
+    * Submit anonymous feedback by form here:
+    https://edcc.doc.ic.ac.uk/contact/
+
+    * Email anonymously to doc-equality@imperial.ac.uk - the exchange will be
+      kept private
+  </text>
+
+  <hr/>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
