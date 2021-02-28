@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/jkTcJds.jpg"
+    alt="A pair of hands kneading cookie dough"
+    title="Digest Biscuit [WIP]"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    Hope you've had a great week!
+
+    Read on to find out more about:
+    * IC Hello World - an upcoming virtual beginners' hackathon!
+    * Bloomberg's Women in Tech Networking Event
+    * Jane Street's virtual employee panel
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>IC Hello World!</heading>
+  <image src="https://i.imgur.com/8YpgTTc.png"/>
+  <event startDate="2021-03-27T10:00:00+00:00"
+    endDate="2021-03-28T17:00:00+00:00">
+    <text>
+      IC Hello World is a virtual beginners' hackathon for Imperial College
+      London students!
+
+      More details to be announced soon on the
+      [https://ichelloworld.org/](ichelloworld.org website)!
+    </text>
+    <links>
+      <link href="https://ichelloworld.org/">Website</link>
+      <link href="https://www.facebook.com/events/741480723427740">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Bloomberg Women in Tech Networking Event</heading>
+  <sponsor company="bloomberg">
+    **Bloomberg Women in Tech Networking Event**
+
+    **Wednesday 3rd March 2021**
+
+    At Bloomberg We strive to create a working environment that values
+    difference, fosters inclusion and promotes collaboration. Our global
+    community of diverse engineers take on some of the world’s most interesting
+    and important technical challenges.
+
+    We are running a Bloomberg Women in tech networking event and workshop on
+    Wednesday 3rd March 2021.
+
+    What can you expect?
+
+    * The opportunity to network with our female engineers
+
+    * Get insights into how you can advance your career in tech whilst at
+    university
+
+    * Gain some tips on how you can apply and interview for a role in tech with
+    convenience
+
+    * Find out what we do at Bloomberg and what it is like to work in our
+    London office
+
+    * What does a successful software engineer look like at Bloomberg?
+
+
+    ### When is it?
+
+    Date: Wednesday 3rd March 2021
+    Time: 3:00 pm - 6:00 pm
+
+    ### How can I attend?
+
+    Register your details [here](https://tinyurl.com/y5q3gfap) and we will send
+    through a confirmation email with the joining details.
+
+    We can't wait to see you on the day!
+
+    Regards, The Bloomberg Engineering Recruitment Team
+  </sponsor>
+
+  <hr/>
+
+  <heading>Connect with Jane Street</heading>
+  <sponsor company="jane_street">
+    ![Poster](https://i.imgur.com/VQMW8sI.png)
+
+    ## Connect with Jane Street!
+
+    ### Friday 12th March @ 1:00pm - 2:00pm GMT
+
+    ### Event:
+    Virtual Employee Panel
+
+    ### Audience:
+    Self identifying women, transgender, and gender-expansive students
+
+    Interested in learning more about Jane Street and how we think? Join us for
+    this 60-minute virtual event!
+
+    We invite women, transgender, and gender-expansive people to join us and
+    meet Streeters on our employee panel. You will have an opportunity to learn
+    about the roles within our firm and how we solve challenges at Jane Street.
+    This event is for students at any point in their academic career from any
+    degree background.
+
+    Please sign up by **Wednesday 10th March** if you're interested in
+    attending.  We will confirm attendees and provide Zoom meeting details by
+    Thursday 11th March. We hope to see you there!
+
+    ## [Sign up](https://docs.google.com/forms/d/1leWoBnAD1lLEi3TTswgl4K4J6AwZZprr6Q9C12VSKjM/prefill)
+
+    **Want to check out Jane Street ahead of the event?** Visit our [Virtual
+    Info Booth](https://www.janestreet.com/join-jane-street/info-booth/).
+    Navigate to video content, Signals &amp; Threads podcast, office tours,
+    puzzles, and more!
+  </sponsor>
+
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
