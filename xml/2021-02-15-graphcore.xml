@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Graphcore Academic Programme &amp; New Research projects with IPU" agenda="false" logos="false">
+  <text>
+    ![](https://i.imgur.com/mig0sWK.png)
+
+    ## Introducing Our New Academic Programme
+
+    We’re excited to launch the Graphcore Academic Programme as
+    part of our commitment to let innovators make new
+    breakthroughs in AI research with IPUs.
+
+    [Apply now](https://www.graphcore.ai/e2t/tc/VVT-Ww9f1sYhW5hpyy45ZkrZbVJvnzy4mkQnJN4HzmfG3p_9rV1-WJV7CgPGZW85fMRy8t2NYdW1md5sP56p-B9W3HMG9s5WFSrVN3yjxb71xXLYW7xHf5c3YWv-TW7VYyy17w7vcyW2DjsWk1_RHWsW3fpz7r8ZMQgmW82pQpM7L9vfbW4mXC8q3w1bpnW2P_hPv5RmKpYW6B7cx23ZHCqJW5hT7Mn45XHPYW4DC2538p1lbHW5rbF3T4N2bW0W8v-b7412XZzDW4kRqPg4pByp-W2481bS7FmSZqW2mG3H98XKXfCN6zZWbTd0Mv3W7_W1yx7840yzW3kXhhg5sST6DW7RZ8CG3C8r7PW2G44jn1BRM-NW2TClpY2GC4S6W8y208-24JPFy3hvv1) to be considered for free access to our IPU compute
+    platform in the cloud. Applications and proposals will be
+    reviewed and considered on a rolling basis.
+
+    [Read the Academic Programme announcement](https://www.graphcore.ai/e2t/tc/VVT-Ww9f1sYhW5hpyy45ZkrZbVJvnzy4mkQnJN4Hzmgf3p_b1V1-WJV7CgXbcW4v7nsl95SLDYW3HDYXP8jK4KGW7xZCCJ8Q73TmVnkZ2r95mJnBW7hs6JH2QclBGW1g6JzL1hYDrBW1qPlMb1N8tVzW2FdjmR3Nn-QDVNzkyc7VkFKCMpV7txXLJm0W8YLrr45yLPQdV8-wqy4P1HpDN7hNK_4JMSxQW4cYQ6t1j3pl4N1Kp50lDFm_SW4Zqmry1wvbVJW68s6QF1-vfZDW6LZ6rh3DgjB1N7fMN-HhKL_cW7hl59R1sTdg9W17xfbL437NyQW5rTjPq8T_cM-N8gjtff_wwmvN6g3hQt_GcsgW5J1N5H2p1GwNW5M68Nb3gLrm7N8s9_XS1fWHPN1__DtDh3kJJW7kgXpF46D1lHW5MP6j82RK4dl3j6V1)
+
+    ![](https://i.imgur.com/d0Kgj9a.png)
+
+    ## UMass accelerates Covid-19 modelling with IPU
+
+    To tackle the pandemic effectively, it is important to
+    understand how infections spread in a population and how
+    different interventions can impact the spread. Researchers
+    from the University of Massachusetts (UMass) Amherst,
+    Facebook and Graphcore have published a new paper
+    demonstrating how important COVID-19 analysis using
+    Approximate Bayesian Computation can be massively accelerated
+    with IPU processors.
+
+    Read the full paper [here](https://www.graphcore.ai/e2t/tc/VVT-Ww9f1sYhW5hpyy45ZkrZbVJvnzy4mkQnJN4HzmfG3p_9rV1-WJV7CgCSwW1Rpfby29-2NnVWpfn63wQTY9N2PJF7GzpY9kW7nfxYy2Wbq_hW78P6fb22dnrTW1n5_c26btxGRW6Lh_q58y0YMGW2Z3w7R4pytBjW3rQsRz8SsvN6V2Q6q23xNq3-W1L8CGw2ZxyK_N5xqHWgf6C2GV3q9CD4tQC-qN6hL0yFmLMVqW7RMCcT1B5XRcW7JN3b61GF3n8W3fD_Kb5-JH6jW4lB_sl22SpxlW7XXNh387NHhLW3XjlfQ7H_Yt6W3dFThy3jq11RW76p9Jc2vZG8VW3Fyq4v22s_-mW8YShw-7jqCwRW3tt6rn7vs2S5W4zL61w2pmkqq3fg31).
+
+    [Watch the UMass presentation from ICRC 2020](https://www.graphcore.ai/e2t/tc/VVT-Ww9f1sYhW5hpyy45ZkrZbVJvnzy4mkQnJN4HzmfG3p_9rV1-WJV7CgPVgN18PG4kmzfH3Ml3-FcKLL33W3s-mM84VsHrpW4Gyt3H2P18ZlN1Y_2YPKT197W7qb0XD2mGPByW4JRKP_4XT9sDW706-cd8r75nRW3tgbdG15VC2LW2N_hd-6LpxtmW1Rsvnk1PjRj-W2D9xcD8GjBkWW92xg4K8kZ2TGW63bgBk7Z83lZW95Hlb_60vb1WV8XKS_5WY2kgW2-BB0394Q5VDW7FJx1X8-F5FQN3DsDMPzNpTHW2G9vWD5gyHy1W3WZGJM4kyMFNW1drkqz1K7ht_W3405_W4lWjy7W546bHr8_GKlXW34KG1v2ZyNFpW3Mb34m73Bd2931Hx1)
+
+    ![](https://i.imgur.com/tAnKwq4.png)
+
+    ## UC Berkeley &amp; Graphcore Research: Parallel Training of Deep Networks with Local Updates
+
+    Model Parallelism suffers from high communication costs and
+    poor utilization while Data and Pipeline Parallelism
+    introduce a tradeoff between consistency and utilization. In
+    this paper, a team of researchers from Google Research, UC
+    Berkeley &amp; Graphcore Research investigate how to continue
+    scaling compute efficiently beyond the point of diminishing
+    returns for large batches through local parallelism.
+
+    Read the full ArXiv paper [here](https://www.graphcore.ai/e2t/tc/VVT-Ww9f1sYhW5hpyy45ZkrZbVJvnzy4mkQnJN4Hzmf33p_8SV1-WJV7CgGp6W22h2yv2Kb9_qW6lTPZ05cnZQxVl4BpM1zF0C4N6njc7cpc8_BW5tTK5G4RG1hyW9j5FPx8LVlfGW61mMcn2mzyXxW28sXlM62zM-SW8K5VMM3MjSnSW1ywC3n99zcYPN4F8H5TvxS_kW3V3Kw569XM3ZW9jbxlD4CNMxHW36L0vh6HVHYQVptw3V1nWTJ4W6m_QHY8z6sDwW8SbGw22_2L4FW4NZ3dq8l3MTxVRG0Z06DvttjW6v0hzR6Wl0jLW8XT2HD5Gs_PwW6mj6s04gjG5L2h61).
+
+    [Read more Research Papers](https://www.graphcore.ai/e2t/tc/VVT-Ww9f1sYhW5hpyy45ZkrZbVJvnzy4mkQnJN4Hzmfm3p_97V1-WJV7CgMYyW5t7xwV8mTfXdVJrxT457vYp2W1_y3N79ljrVKW5m-mmd8mDktSW2qT6nj7gD_qyW1hnjPB19yj2SW73VcCn3x-yZ-W16HK801TZ6fWW69Kf6j8YgZNCW6Q1bZ648kv5tW53fj754BTvprW5Fd3wM75MlKPW2CpMGW28FZvSW8JlQ_V832Y-cW4cLtc61jtJHyW6cPWnS4ryBWFW45vFSD7FMkVHW3qC-pN5M6p39W7n1sks1z5lHrW4F89gb37l_zVW2B7yCH2l1CBPW1P4blQ4XGYNmW7p7BVw6nqpcgVFZGHh8zcxb535lR1)
+
+    ![](https://i.imgur.com/AouLrdW.png)
+
+    ## Graphcore Research Directions in 2021
+
+    Our Director of Research, Carlo Luschi, explains Graphcore's
+    research priorities and objectives for 2021, including
+    sparsity, boosting training efficiency and new methods for
+    parallel training.
+
+    [Read the Research blog]()
+  </text>
+</email>

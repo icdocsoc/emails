@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/mnKzNFN.jpg"
+    alt="A heart-shaped waffle on a blurry background"
+    title="Happy Valentine's Day!"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    Hope you're doing well!
+
+    In this week's digest you'll find updates about the Women's Panel and the
+    EDCC as well as info about our Research Q&amp;A and Freshers' Games Night.
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>Women's Panel</heading>
+  <text>
+    Thursday 18th February – 18:00 – 19:30 (GMT)
+
+    Meet inspirational women ready tell you about how they carved their unique
+    career paths and who’ll be available to answer your questions. This event
+    is hosted on MS Teams and will include brief introductions followed by a
+    chat-show style discussion and questions submitted by the audience.
+
+    Our inspiring female speakers include panelists from:
+
+    * Institution of Civil Engineers
+
+    * Facebook
+
+    * Imperial College London
+
+    The event is organised by the Careers Service and will be co-hosted by Pria
+    Pretheshan, ICU Gender Equality Officer.
+
+    Booking is required via JobsLive to receive the join link, book here -
+    https://imperial.targetconnect.net/leap/event.html?id=15509&amp;service=Careers+Service
+  </text>
+
+  <hr/>
+
+  <heading>The Equality, Diversity and Culture Committee</heading>
+  <text>
+    Do you want to help encourage diversity and equality in Computing and
+    represent your view? The Equality, Diversity and Culture Committee (EDCC)
+    strive to continually maintain and improve equality and diversity amongst
+    staff and students. Their current objectives are:
+
+    No staff or student should be disadvantaged because of their gender,
+    ethnicity, sexual orientation, disability or any other protected
+    characteristics (Equality Act 2010).
+
+    * The Department should provide an inclusive environment for all staff and
+    students.
+
+    * The Department should strive for diversity of staff and students along
+    all dimensions.
+
+    * The EDCC welcomes anyone to come and attend their bi-termly meeting to
+    discuss such matters - all discussions are open!
+
+    If you feel you have experienced something you would like to discuss
+    however do not feel comfortable attending the meeting please do one or all
+    of the following:
+
+    * Talk to your year reps as they can discuss the issue for you.
+
+    * Submit anonymous feedback by form here:
+    https://edcc.doc.ic.ac.uk/contact/
+
+    * Email anonymously to doc-equality@imperial.ac.uk - the exchange will be
+      kept private
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>To Research or Not To Research?</heading>
+  <image src="https://i.imgur.com/HPrGer4.png"/>
+  <event startDate="2021-02-17T15:00:00+00:00"
+    endDate="2021-02-17T16:00:00+00:00">
+    <text>
+      This is the question!
+
+      Have you thought about doing a PhD and/or going into academia but you’re
+      a bit uncertain what this is going to be like?
+
+      We’ll be hosting Q&amp;A panel between academics and people that have a
+      lot of experience in the industry (Robert Chatley, Paul Kelly and many
+      others) answering your questions about a research career. Be that in
+      academia or private companies, this type of career choice usually comes
+      along with a lot of stereotypes and myths so we’re here to break it for
+      you!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/870217897099937">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <heading>Freshers' Games Night</heading>
+  <image src="https://i.imgur.com/FW5f3kQ.png"/>
+  <event startDate="2021-02-17T18:00:00+00:00"
+    endDate="2021-02-17T20:00:00+00:00">
+    <text>
+      We'll be hosting a games night for all 1st years next Wednesday on
+      Discord!
+    </text>
+    <links>
+      <link href="https://discord.gg/hc24ud6">Discord</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
