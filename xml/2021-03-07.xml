@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/dLrsu4d.jpg"
+    alt="Peanut Butter Biscuits"
+    title="Your weekly digest, best enjoyed with some quality PB!"/>
+  <hr/>
+
+  <text>
+    Hi everyone, hope you're doing well!
+
+    IC Hello World, our introductory hackathon, is coming up soon and the first
+    batch of tickets is going to be released tomorrow at 1pm! Read on to find
+    out how to get yours!
+
+    With International Women's Day just around the corner, below you can find
+    out about events taking place during Women at Imperial Week 2021.
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>IC Hello World!</heading>
+  <image src="https://i.imgur.com/4sna7QA.png"/>
+  <text>
+    ### Want to get a chance to participate in our introductory hackathon IC Hello World?
+
+    Remember to get your tickets at our Eventbrite on Monday 1pm GMT!
+
+    ➡️ [**Get tickets here!**](https://www.eventbrite.co.uk/e/ic-hello-world-tickets-143461698803?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=escb&amp;utm-source=cp&amp;utm-term=listing)
+
+    This is a great chance for you to join your first hackathon (virtually), we
+    welcome everyone of any background from Imperial!
+  </text>
+
+  <hr/>
+
+  <heading>Women at Imperial Week 2021</heading>
+  <image src="https://i.imgur.com/H5muSit.png"/>
+  <text>
+    Women at Imperial is an annual event that takes place around International
+    Women’s Day (8 March). Over the course of a week we celebrate female staff
+    and students at Imperial, past and present, and raise awareness of the
+    support available in College for women.
+
+    You can find more details about the upcoming events
+    [**here**](https://www.imperial.ac.uk/equality/activities/women-at-imperial/).
+  </text>
+
+  <hr/>
+
+  <heading>WiC - Create and deploy your online CV</heading>
+  <image src="https://i.imgur.com/7KUOF8d.png"/>
+  <text>
+    In this increasingly online world, personal webpages have become key to
+    showcase one’s qualifications and knowledge.
+
+    Women in Computing is inviting everyone to take part in this event to learn
+    how to create your own personal website using GitHub pages or Wix - for you
+    to choose.
+
+    The structure of the event is as follows:
+    * Intro: 15 minutes
+    * Website building: 50 minutes - where you will have time to build your own website
+    * Showcase: 15 minutes - where volunteers will present their final product!
+
+    Women highly encouraged to take part!
+
+    The session will be facilitated by:
+    * Hanne Hoitzing - Cyber Security Data Scientist, Imperial Ph.D. alumna
+    * Aydan Gasimova - Imperial College London
+    * Guadalupe Gonzalez - Imperial College London
+
+    Please register
+    [here](https://www.eventbrite.co.uk/e/build-your-online-cv-tickets-144660157425).
+
+    Event in partnership with the Imperial College Developer Student Clubs -
+    [DSC webpage](https://dsc.community.dev/imperial-college-london/).
+  </text>
+
+  <hr/>
+
+  <heading>WiC - What can your voice reveal about you</heading>
+  <image src="https://i.imgur.com/tZDiS4L.png"/>
+  <text>
+    Voice recognition systems have a wide use within businesses, in the medical
+    field, and even in your home! Although speech technologies are commonly
+    used to transcribe speech samples to text, each individual’s voice can be
+    analyzed to reveal their emotional state, their gender, their accent, and
+    even underlying medical conditions.
+
+    What to know more? In this session, we’ll see how speech signals work, and
+    move on to Python code to see how they can be used to infer personal
+    attributes. We’ll also try some machine learning techniques that help hide
+    those revealing features.
+
+    If you ever wondered how speech processing works in practice, join Dominika
+    on Friday 12th March
+
+    Dominika Woszczyk is a 2nd Year PhD student at Imperial College working on
+    security for voice services at Apss Lab, supervised by Dr. Soteris
+    Demetriou. She completed her MSc at the University of Southampton in
+    Artificial Intelligence and her BSc in Data Science at Maastricht
+    University, The Netherlands. Her interests lie in speech processing,
+    Natural Language Understanding, and applying it to the real world, as well
+    as entrepreneurship.
+    https://dominikawoszczyk.com
+
+    Please register
+    [here](https://www.eventbrite.co.uk/e/what-your-voice-can-reveal-about-you-tickets-144472638551).
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>DoCSoc x WiC - Diversity in Industry</heading>
+  <image src="https://i.imgur.com/pCw17IV.png"/>
+  <event startDate="2021-03-10T15:00:00+00:00"
+    endDate="2021-03-10T16:00:00+00:00">
+    <text>
+      As part of the Women @ Imperial series.
+
+      DoCSoc, partnered with Women in Computing (WiC) is delighted to invite
+      you for a Panel session, which consists of questions around Diversity in
+      the Software Engineering and Financial industries, alongside a Q&amp;A
+      session.
+
+      We also invite you to send us questions to ask at the session (the form
+      will close on Tuesday at 6pm): https://forms.gle/GjsfZGNMPReAMDxV8
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/267756571396069">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Optiver - Technology Insights Days</heading>
+  <sponsor company="optiver">
+    ![Poster](https://i.imgur.com/6pMEkAh.png)
+
+    The Optiver Technology Insights days are a fantastic chance to discover
+    where your skills and interests can find a home at one of the world’s
+    leading tech driven market-making firms. During the 2-day experience,
+    you’ll get a clear understanding of what we do and how we do it in an
+    ultra-high-performance environment. You’ll also get to speak directly with
+    our engineers and traders and learn more about their journeys. We also have
+    multiple interactive activities planned that’ll give you hands-on
+    experience, including the chance to create algorithm in order to trade on
+    our very own simulated trading platform Optibook.
+
+    Please note:
+
+    * In order to be eligible to apply you need to be a first-year student
+    (graduating in 2023)
+
+    * The virtual event will take place on the 8th and 9th April 2021
+
+    * Please apply as soon as possible by submitting your CV and cover letter.
+    Our recruiters will reach out to you regarding the next steps
+
+    * Please note that applications without cover letter will not be taken into
+    consideration
+
+
+    You can find more details and apply
+    [**here**](https://www.optiver.com/working-at-optiver/career-opportunities/2935264/)
+  </sponsor>
+
+  <hr/>
+
+  <heading>Connect with Jane Street</heading>
+  <sponsor company="jane_street">
+    ![Poster](https://i.imgur.com/VQMW8sI.png)
+
+    ## Connect with Jane Street!
+
+    ### Friday 12th March @ 1:00pm - 2:00pm GMT
+
+    ### Event:
+    Virtual Employee Panel
+
+    ### Audience:
+    Self identifying women, transgender, and gender-expansive students
+
+    Interested in learning more about Jane Street and how we think? Join us for
+    this 60-minute virtual event!
+
+    We invite women, transgender, and gender-expansive people to join us and
+    meet Streeters on our employee panel. You will have an opportunity to learn
+    about the roles within our firm and how we solve challenges at Jane Street.
+    This event is for students at any point in their academic career from any
+    degree background.
+
+    Please sign up by **Wednesday 10th March** if you're interested in
+    attending.  We will confirm attendees and provide Zoom meeting details by
+    Thursday 11th March. We hope to see you there!
+
+    ## [Sign up](https://forms.gle/JcNUiX5nXRz6cpnz9)
+
+    **Want to check out Jane Street ahead of the event?** Visit our [Virtual
+    Info Booth](https://www.janestreet.com/join-jane-street/info-booth/).
+    Navigate to video content, Signals &amp; Threads podcast, office tours,
+    puzzles, and more!
+  </sponsor>
+
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
