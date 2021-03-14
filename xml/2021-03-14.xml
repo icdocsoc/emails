@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/ev1Wz98.jpg"
+    alt="A pie being sliced"
+    title="We're in the midpoint between NYE and Tau Day already!"/>
+  <hr/>
+
+  <text>
+    Hi everyone, hope you're well!
+
+    There's an exciting week ahead of us:
+      * the second batch of IC Hello World tickets is releasing tomorrow at 1pm
+      * Union Elections voting opens tomorrow at 9am
+
+    Good luck to everyone starting exams next week!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>IC Hello World!</heading>
+  <image src="https://i.imgur.com/4sna7QA.png"/>
+  <text>
+    ### Want to get a chance to participate in our introductory hackathon IC Hello World?
+
+    The second batch of tickets will go live at our Eventbrite on Monday 1pm GMT!
+
+    ➡️ [**Get tickets here!**](https://www.eventbrite.co.uk/e/ic-hello-world-tickets-143461698803?utm-medium=discovery&amp;utm-campaign=social&amp;utm-content=attendeeshare&amp;aff=escb&amp;utm-source=cp&amp;utm-term=listing)
+
+    This is a great chance for you to join your first hackathon (virtually), we
+    welcome everyone of any background from Imperial!
+
+    More details at www.ichelloworld.org
+  </text>
+
+  <hr/>
+
+  <heading>Leadership Elections 2021</heading>
+  <image src="https://i.imgur.com/hlHKjHO.png"/>
+  <text>
+    Leadership Elections Voting opens at 9:00 on Monday, 15 March.
+
+    You can find all manifestos (including DoCSoc Committee candidates'!) [over
+    here](https://vote.union.ic.ac.uk/manifestos).
+  </text>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
