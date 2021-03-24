@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/J1l814I.jpg"
+    alt="Churros served in a newspaper"
+    title="Curly biscuits?"/>
+  <hr/>
+
+  <text>
+    Hi everyone, hope you're doing well!
+
+    As we're entering the last week of the term, we're looking for 3rd/4th year
+    undergraduates and postgraduates to become mentors at our upcoming
+    hackathon - IC Hello World. You can find some more details and the sign up
+    link below.
+
+    Read on to find out about upcoming events by American Express, Optiver and
+    Bloomberg!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>IC Hello World - mentors wanted!</heading>
+  <image src="https://i.imgur.com/a4iAhvN.png"/>
+  <text>
+    ### Are you a coding wiz? Willing to exchange some help for some introductory hackers for some free food?
+
+    [Sign up here](https://forms.office.com/r/esNJL3v3dp) to be a mentor at IC
+    Hello World! We welcome 3rd, 4th, and postgrad students to help out!
+
+    All mentors will receive a £20 Deliveroo or Amazon voucher. The sign up
+    form will close Monday at noon.
+
+    We will be hosting our first meeting next Wednesday at 2pm and will go
+    through the logistics throughout the event.
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>DoCSoc x AmEx - PowerPoint Karaoke</heading>
+  <image src="https://i.imgur.com/mLsulC4.png"/>
+  <event startDate="2021-03-24T16:00:00+00:00"
+    endDate="2021-03-24T18:00:00+00:00">
+    <text>
+      Join American Express and DoCSoc for an amazing night!
+
+      You might ask - what is PowerPoint Karaoke?
+
+      Well, PowerPoint-Karaoke (also known as Battle Decks) is a game with very
+      simple rules:
+
+      The presenter gets on stage and must convincingly present a deck of
+      PowerPoint slides he has never seen before.
+
+      The main purpose is to have as much fun as possible.
+
+      No preparations required – but come over and have fun!
+    </text>
+    <links>
+      <link href="https://www.facebook.com/events/742440589804882/">Facebook</link>
+    </links>
+  </event>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>Clash of the solvers</heading>
+  <sponsor company="optiver">
+    The exciting world of electronic trading is a problem solver’s paradise.
+    Optiver, one of the world’s leading global market makers, will be hosting a
+    remote coding challenge for University students. Get ready for Clash Of The
+    Solvers!
+
+    This is an excellent opportunity to test your coding skills under pressure.
+    Using your knowledge of Python, you’ll develop a trading algorithm and put
+    it to work against the other competing teams on Optiver’s proprietary
+    simulated trading exchange: Optibook. You’ll get to experience what modern
+    trading is really like and get a taste of the complex problems our traders
+    and engineers face every day. The members of the top performing teams will
+    be awarded with some great prizes!
+
+    Our mission is to constantly improve financial markets across the globe. We
+    do this with a team of some of the brightest minds around. They collaborate
+    every day to push technological and analytical possibility. Your future
+    could be among them as a graduate trader or software engineer.
+
+    The event details are as follows: Date – Thursday 15 April 2021 Venue –
+    Virtual Meeting via Zoom
+
+    To apply for a place at the coding challenge click on below button.
+
+    We look forward to welcoming you and seeing you perform.
+
+    [**Sign up now**](https://www.optiver.com/clash-of-the-solvers/)
+  </sponsor>
+
+  <hr/>
+
+  <heading>Join us for Bloomberg's Engineering Expo!</heading>
+  <sponsor company="bloomberg">
+    At Bloomberg, we strive to create a working environment that values
+    difference, fosters inclusion and promotes collaboration. Our global
+    community of diverse engineers take on some of the world’s most interesting
+    and important technical challenges.
+
+    We are running a Bloomberg Engineering Expo and workshop on Wednesday, 24 March 2021.
+
+    ### What to expect?
+
+    * Find out what we do at Bloomberg and what it is like to work in our
+    London office
+
+    * See how the Bloomberg Terminal works
+
+    * Meet our interns and graduates
+
+    * Gain tips on how you can apply and interview for a role in tech with
+    convenience
+
+    * Take part in Bpuzzled challenge - Bpuzzled is a puzzle competition
+    created by Bloomberg engineers, where teams use problem solving, creative
+    thinking, and teamwork to solve challenging and intricate puzzles
+
+    ### When is it?
+
+    Date: Wednesday, 24 March 2021
+
+    [**Register here**](https://tinyurl.com/yc9caj2k)
+
+    Feel free to join any of the sessions:
+
+    * 11:00am - 12:00pm London, UK time | Intro into BB and Terminal Demo
+
+    * 12:05pm : 13:05pm London, UK time | Meet Our Interns &amp; Grads - Panel Discussion
+
+    * 16:00pm - 17:00pm London, UK time | Technical Interview Workshop
+
+    * 17:00pm - 18:00pm London, UK time | Bpuzzled Challenge
+  </sponsor>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
