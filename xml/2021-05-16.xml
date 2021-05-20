@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/7JMDf3l.png"
+    alt="A stroopwafel sitting in a teacup"
+    title="A cupful of waffles"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    Hope everyone's exams went well and you've had some time to relax!
+
+    In this week's digest you can find out about:
+    * potential campus meetups for freshers and final year students
+    * Women In Science Mentoring Scheme
+    * Cocktail Masterclass Date Change
+    * a Software in Biotech talk hosted by DoCSoc and SynBIC
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>First and Final Year Campus Meetups</heading>
+  <text>
+    We are hoping to host campus meetups for first and final year students once
+    the social distancing restrictions are lifted.
+
+    If you are interested in attending, please fill out the relevant form to
+    help us plan the event:
+    * First Year: https://forms.office.com/r/6N2uL0ixzx
+    * Final Year: https://forms.office.com/r/2v8zGEJTcX
+  </text>
+
+  <hr/>
+
+  <heading>WiC – Women In Science Mentoring Scheme</heading>
+  <image src="https://i.imgur.com/3u1cMp8.png"/>
+  <text>
+    We are really excited to join the new Women In Science Mentoring Scheme, in
+    collaboration with Women in Science societies from the Universities of
+    Bristol, Cambridge, East Anglia, Glasgow, Warwick and York!
+
+    There are 3 tiers in the program:
+
+    1\) The mentoring of postgraduates by postdocs
+
+    2\) The mentoring of undergraduates by postgraduates
+
+    3\) The mentoring of female and non-binary students in years 10-13/S4-6 by
+    undergraduates
+
+    To be eligible as a mentor or mentee, you must be a self-identifying female
+    or non-binary student or academic at the University of Bristol, Cambridge,
+    East Anglia, Glasgow, York, or Warwick or Imperial College London, or be a
+    self-identifying female or non-binary student in years 10-13/S4-6.
+
+    Whether you are in need of some advice or want to help other people, this
+    scheme has an option for you! Pairings will be made in mid-June.
+
+    Check out this link for more information and to sign up:
+    https://lnkd.in/dZSHJm4
+  </text>
+
+  <hr/>
+
+  <heading>DoCSoc Cocktail Masterclass Date Change</heading>
+  <text>
+    Just a reminder that due to unforeseen circumstances, we've had to push the
+    cocktail masterclass to Saturday 22nd of May at 6pm.
+
+    Sorry for any inconvenience, we hope you can still join us then! If you can
+    no longer make it please [get in touch with us](mailto:docsoc@ic.ac.uk).
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>Industry Talk: Software in Biotech</heading>
+  <image src="https://i.imgur.com/MRd2qKY.png"/>
+  <event startDate="2021-05-25T17:00:00+01:00"
+    endDate="2021-05-25T18:30:00+01:00">
+  <text>
+    Biotech companies are reaching unprecedented heights of innovation by
+    embracing software, machine learning, and robotics in every part of their
+    work. From genetic engineering and drug discovery to autonomous labs, there
+    is a growing need for software engineers in the life sciences. Join us for
+    an exciting industry talk co-hosted by Imperial College DoCSoc and SynBIC
+    to hear from leaders in the field about how software engineers are making
+    an impact and what the future will look like.
+
+    Speakers:
+    * Yaoyu Yang - Principal Software Engineer, Ginkgo Bioworks
+    * Zeoy Herm - Senior Scientis, Ryffin
+    * Daniel O'Donovan - AI Technical Lead, Healx
+
+    You can register on Hopin [here](https://hopin.com/events/software-in-biotech).
+  </text>
+  <links>
+    <link href="https://www.facebook.com/events/2918344491770968/">Facebook</link>
+  </links>
+</event>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
