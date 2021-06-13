@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/KoQ8VGB.jpg"
+    alt="A stack of sesame crackers"
+    title="Crisp"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    As we're approaching the end of '20/21, this week's digest brings you info
+    on the DoC Summer Term Wellbeing Survey, WiC's list of awards and
+    opportunities and G-Research's Women in Finance event for PhD students.
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>Summer Term Wellbeing Survey</heading>
+  <text>
+    Filling out this survey about your mental health and wellbeing this term
+    will help your representatives and DoC address any issues.
+
+    https://bit.ly/2TOxMOf
+  </text>
+
+  <hr/>
+
+  <heading>Women in Computing – awards and opportunities</heading>
+  <text>
+    In search of various opportunities in the past year, two DoC girls (Christy
+    Chan [EIE III, WiC] and Chloe Lau [Computing II, DoCSoc]) have compiled a
+    list of awards, opportunities and mentorships for female, non-binary and/or
+    ethnic minority students here:
+    https://docs.google.com/spreadsheets/d/1eR953pIvhC4ZXbDwlOygmBXQUcfRdm7KTSSlK8OmD1o/edit
+
+    If you are interested in contributing to the list please contact
+    christy.chan18@imperial.ac.uk or chloe.lau19@imperial.ac.uk.
+  </text>
+
+  <hr/>
+
+  <text>## Sponsor Notices</text>
+
+  <hr/>
+
+  <heading>G-Research – Women in Quant Finance – August 2021</heading>
+  <sponsor company="g_research">
+    G-Research is committed to growing the range of voices and perspectives
+    within our industry. We are therefore excited to announce the continuation
+    of our Women’s Engagement Programme with our latest Women in Quant Finance
+    event. After two very successful events in Europe and North America, our
+    next event will be focused on the UK.
+
+    This event will include a range of introductory and technical talks, as
+    well as collaborative skills courses and interview prep sessions. Our goal
+    is to give women studying for a PhD the chance to learn more about working
+    in quantitative research in finance, while providing them with the chance
+    to build a network of their peers.
+
+    The event will be held at our offices in Central London, with an
+    introductory dinner on Sunday 22 August, followed by a day of talks and
+    workshops from 09:30 to 18:00 on Monday 23 August.
+
+    The main day will feature a mix of activities, including:
+
+    * A talk by one of our quant researchers, focused on the financial industry
+    * A panel discussion and Q&amp;A session
+    * An interactive case study, giving you the chance to get hands-on with the type of work we do
+    * A drinks and networking session
+    * A games night
+
+    If you are selected to take part in the event, we will cover your
+    accommodation (including the night of the 23rd), food, and travel expenses.
+    You will also be guaranteed an interview with G-Research (for either an
+    internship or permanent position).
+
+    More information about the event and application process can be found on
+    our website
+    [here](https://www.gresearch.co.uk/article/women-in-quant-finance-august-2021/).
+  </sponsor>
+
+  <sign name="Stefan Radziuk"
+    role="DoCSoc Secretary '20/21"
+    linkedin="stefanradziuk">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
