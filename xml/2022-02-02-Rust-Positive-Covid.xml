@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="[URGENT] Notification of Positive COVID-19 case at the Rust 101 Lecture" agenda="false" logos="false">
+  <text>
+    Hi all,
+
+    We are writing to let you know that one attendee of yesterday's Rust 101 Lecture at HXLY 311 tested positive for COVID-19. They were present for most of the event and they were seated in one of the last rows on the left side (lecturer's point of view).
+
+    Please take regular tests in the next few days and let us know if you or anyone else who attended tests positive. You can collect free LFD test kits from [various points](https://www.imperial.ac.uk/about/covid-19/testing-scheme/lfd-collect/) either on Campus or in Halls, including the College Main Entrance.
+
+    Stay safe everyone!
+  </text>
+</email>

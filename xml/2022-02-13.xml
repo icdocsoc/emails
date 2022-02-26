@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/363dsmp.jpg"
+    alt="Even worse cookies"
+    title="Even worse cookies"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    We hope all is going well with the term so far! This week we have a couple of exciting announcements to make so keep reading to find out more!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>[**2nd and 3rd years**] - Pintos Glasses Collection</heading>
+  <text>
+    We are thrilled to announce that after 2 years of plain Pintos pain, we can once again distribute our **Pintos Survivor glasses** - and they might come along with a small surprise!
+
+    Pop by rooms **217/218** in Huxley on **Tuesday** the 15th between **1 pm and 3 pm** to grab yours! 
+  </text>
+
+  <hr/>
+
+  <heading>[**1st and 2nd years**] - Freshers' Swag Bag Collection</heading>
+  <text>
+    We are very excited to announce that after 2 years of no DoCSoc(ks), we can once again distribute our **Freshers' Swag Bags**!
+
+    Pop by rooms **217/218** in Huxley on **Thursday** the 17th between **9 am and 12 pm** to grab yours!
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <heading>Rust 101 Lecture Series - 3rd (and last) Lecture</heading>
+  <image src="https://i.imgur.com/gNbu6Kl.jpg"/>
+  <event startDate="2022-02-15T18:00:00"
+    endDate="2022-02-15T20:00:00">
+  <text>
+    Do you hate segfaults? Do you hate C/C++? Do you hate having segfaults in C/C++? Then you’ll want to join us in Huxley 311 to take a first look at Rust - an upcoming systems language developed by Mozilla and used by Google, Microsoft, Facebook, NPM, Figma, Dropbox, the Linux Kernel (the full list is very long).
+    
+    In this lecture series, we will be exploring the Rust language and its major features, how Rust delivers safe and fast performance as a guarantee, and why Rust is quickly becoming a replacement to C and C++.
+  </text>
+  <links>
+    <link href="https://www.facebook.com/events/336078548380309/">Facebook</link>
+  </links>
+</event>
+
+<hr/>
+
+  <heading>Reading Group - Alexandros Lattas: Towards Photorealistic Human Avatars – From Scanning to Inference</heading>
+  <image src="https://i.imgur.com/andgiRu.jpg"/>
+  <event startDate="2022-02-16T18:00:00"
+    endDate="2022-02-16T19:00:00">
+  <text>
+    **Abstract:**
+    
+    Over the last years, many face analysis tasks have accomplished astounding performance, with applications including face generation and 3D face reconstruction from a single "in-the-wild" image. Nevertheless, the challenging task of reconstructing photorealistic human faces from arbitrary images remains an open research problem. By combining resources from the Computer Graphics, Computer Vision and Machine Learning, we are exploring how realistic human avatars can be captured, reconstructed, and animated.
+    
+    In this talk, we will cover the Light Stage systems and their use as a facial geometry and reflectance apparatus that can create vast datasets of photorealistic meshes and textures and powerful models that can be created using them. Such datasets can be used to create statistical models of facial geometry and appearance that can be fit to “in-the-wild” images. Deep Generative Learning models can also be trained to capture the non-linearities and high-frequency details in facial reflectance. Finally, differentiable rendering methods can be used to optimize such models and fit them to subjects with increased reconstructed detail. These advances enable the fast and seamless reconstruction of human avatars and bring us a step closer to a convincing digital world.
+
+    **Profile:**
+    
+    Alexandros Lattas is a PhD Candidate at the Department of Computing, Imperial College London and a Researcher in Computer Vision at Huawei R&amp;D. He holds an MSc in Advanced Computing from Imperial College London and was previously a Computer Vision Scientist at Facesoft. Alexandros has published in top venues such as CVPR, ECCV and TPAMI. 
+  </text>
+  <links>
+    <link href="https://www.facebook.com/events/687478912420418/">Facebook</link>
+  </links>
+</event>
+
+ <hr/>
+
+  <text>## This week's joke</text>
+
+  <hr/>
+
+  <heading>Valentine's Day at DoC</heading>
+  <text>
+   Oh my precious love \
+   So beautiful you are \
+   You remind me of a dove \
+   I keep you safe in a jar
+
+   Valentine's day is the day \
+   I'll take you up for a date \
+   So you can finally escape the grey \
+   That this world meant to be your fate
+
+
+   \*Proceeds to run *‘sudo apt update’*\*
+  </text>
+
+  <sign name="Panayiotis Gavriil (He/Him)"
+    role="DoCSoc Secretary '21/22"
+    linkedin="panayiotisgavriil">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>

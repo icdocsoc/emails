@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest">
+  <image width="90"
+    src="https://i.imgur.com/KoQ8VGB.jpg"
+    alt="A stack of sesame crackers"
+    title="Crisp"/>
+  <hr/>
+
+  <text>
+    Hi everyone!
+
+    We hope you've had a smooth first week of term. IC Hack 22 is getting closer and with that, we have a couple of announcements to make. 
+    
+    Keep reading to find out more!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>IC Hack 22 Second Ticket Release</heading>
+  <text>
+    We are excited to announce that the second batch of tickets for IC Hack 22 will be going live on Friday the 21st of Jan at 1:30 pm, and based on the previous release, you'll have less than 10 seconds to claim one. You can find more info about IC Hack [here](https://www.facebook.com/events/453958873035077).
+  </text>
+
+  <hr/>
+
+  <heading>IC Hack 22 Volunteers</heading>
+  <text>
+    Didn't get a chance to snatch an IC Hack ticket, or you just don't feel like hacking but want to be involved in IC Hack 22? 
+    
+    Then fear not, because DoCSoc is looking for on-the-day volunteers.
+    
+    More info can be found [here](https://www.facebook.com/events/962689311000324).
+  </text>
+
+  <hr/>
+
+  <text>## This week's joke</text>
+
+  <hr/>
+
+  <heading>ICC Hack 22</heading>
+  <text>
+    Do you need to wear glasses and often find yourself in a disadvantageous position compared to your peers because you simply can't read the code? 
+    
+    Then worry not, because we're introducing ICC Hack 22 just for you.
+
+    More info will follow soon!
+
+    Yours truly,
+    
+    I Can't C Hack 22 organizers
+
+    P.S. C# will be banned from this edition of IC Hack. We also expect that you can't program in C.
+  </text>
+
+  <sign name="Panayiotis Gavriil (He/Him)"
+    role="DoCSoc Secretary '21/22"
+    linkedin="panayiotisgavriil">
+    Until next time,
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
