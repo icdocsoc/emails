@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Summer Picnic" agenda="true" logos="false">
+  <text>
+  Hi everyone!
+
+  See below for details of our first event of the year - the DoCSoc Summer Picnic!
+  
+  Aidan (he/him) - DoCSoc Secretary '24/25
+  </text>
+  <image src="../../Summer_Picnic.png"/>
+  <event startDate="2024-09-14T15:00:00"
+    endDate="2024-09-14T18:00:00">
+    <text>
+      Catch up with friends at the DoCSoc Summer Picnic, our first event of the year! ☀️🍕🍩
+
+      Savor pizza, doughnuts, and great company at our DoCSoc Summer Picnic! 🍕🍩☀️ Join us for an afternoon in the Prince's Gardens (next to the Southside and Eastside halls) with plenty of food and drink! Event is free to attend to all DoCSoc members.
+
+      We'll make sure you're catered for - but can only guarantee this if you register in advance on TicketTailor, and as early as possible.
+    </text>
+    <links>
+      <link href="https://app.tickettailor.com/events/docsoc/1387630/r/mailshot">Get Tickets Here!</link>
+    </links>
+  </event>
+</email>
