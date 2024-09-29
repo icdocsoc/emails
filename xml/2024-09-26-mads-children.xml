@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Mums and Dads Signup" agenda="false" logos="false">
+  <!-- <image width="90"
+    src="Image-URL"
+    alt="Alt-text"
+    title="Title"/>
+  <hr/> -->
+
+  <text>
+    Hi everyone!
+
+    Congratulations on getting into Imperial! We hope you're settling into your halls and are looking forward to freshers week.
+    
+    As mentioned in my email earlier, we'd like to invite you to take part in DoCSoc Mums and Dads.
+
+  </text>
+
+  <hr/>
+
+  <text>
+
+    Every year DoCSoc members can become the "adoptive children" of 
+    two 'parents' from upper years and form a family. It is not only a great 
+    way to settle into university life, 
+    but for everyone to make some friends and enjoy some events 
+    together. Each family will also get a termly budget that they can 
+    decide how to spend themselves.
+
+    You can sign to be a DoCSoc family member here: https://family.docsoc.co.uk/
+
+    The event where you'll meet your family will be on the 9th of October
+    but we need you to sign up soon so we can match you up with your 'parents'!
+
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
