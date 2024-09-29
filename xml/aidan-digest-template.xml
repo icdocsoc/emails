@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest" agenda="false" logos="false">
+  <!-- <image width="90"
+    src="Image-URL"
+    alt="Alt-text"
+    title="Title"/>
+  <hr/> -->
+
+  <text>
+    Hi everyone!
+
+    <!-- Greeting here -->
+
+    In this week's digest you can find out about:
+    <!-- * list here -->
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <!-- <heading>Announcement title</heading> -->
+  <text>
+    <!-- Announcement info -->
+  </text>
+
+  <hr/>
+
+  <text>## Upcoming Events</text>
+
+  <hr/>
+
+  <text>## Events</text>
+
+  <hr/>
+
+<event>
+  <!-- <heading>Event title</heading> -->
+  <text>
+    <!-- Event info -->
+    <!-- You can register on Eventbrite [here](Eventbrite link). -->
+  </text>
+</event>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
