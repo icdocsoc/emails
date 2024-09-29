@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Welcome to DoCSoc!" agenda="false" logos="false">
+  <!-- <image width="90"
+    src="Image-URL"
+    alt="Alt-text"
+    title="Title"/>
+  <hr/> -->
+
+  <heading>Welcome to the Department of Computing!</heading>
+
+  <text>
+    Whether you are a new first year or a returning
+    student, this is your first weekly digest of the year.
+    This is an intro to who we are, what we do, what you can expect from us and some info about freshers events.
+  </text>
+
+  <hr/>
+
+  <heading>What is DoCSoc?</heading>
+  <text>
+    We are one of the most active
+    societies at Imperial College with £200,000/yr to spend and weekly social, academic and sponsor events. Our aim is to bring together
+    all students in the Computing community, as well as provide students with
+    amazing opportunities from our sponsors!
+    As a student in the Department of Computing, you get automatic membership of DoCSoc and free access to all of our sponsors, events and free goodies.
+  </text>
+
+  <hr/>
+
+  <heading>Who are we?</heading>
+  <text>
+    Your DoCSoc committee are elected by you at the end of each year and do all the work running DoCSoc. This year they are:
+    - **President**: Hashir Majeed
+    - **Vice President**: Kishan Sambhi
+    - **Treasurer**: Adi Prabs
+    - **Hackathons Coordinator**: Tanvi Rana
+    - **Secretary**: Aidan Madge
+    - **Academic Events Coordinator**: Angad Kalra
+    - **Sponsors' Liaisons and Industrial Events Coordinators**: Prabhas Vedagiri, Adithya Narayanan
+    - **Marketing &amp; Publicity Officers**: Kevin Wang, Anna Votin
+    - **Social Events Coordinator**: Marilyn Biju
+    - **Events Officers**: Royce Chan, Callum Firth, Shivit Kapoor, Serene Liu
+    - **Software Development Coordinator**: Charles Calzia
+    - **Postgraduate Officer**: Prabhas Vedagiri
+    - **Webmasters**: Nishant Jalan, Jay Abussaud
+    
+    If you want to get in contact with us about problems or with suggestions please email us at
+    [docsoc@imperial.ac.uk](mailto:docsoc@imperial.ac.uk).
+
+    You will also be supported by your departmental representatives (dep reps)
+    who are responsible for representing the student body (you!) to the
+    department. This year they are:
+
+    - **Computing** – Academic : Prabhas Vedagiri
+    [(email)](mailto:prabhas.vedagiri22@imperial.ac.uk)
+    - **Computing** – Wellbeing: Adi Prabs
+    [(email)](mailto:aditya.prabakaran23@imperial.ac.uk)
+    - **JMC** – Academic: Daichi Kahtava
+    [(email)](mailto:daichi.kahtava22@imperial.ac.uk)
+    - **JMC** – Wellbeing: DaHyeon Lee
+    [(email)](mailto:chris.lee22@imperial.ac.uk)
+    - **EIE** – Academic: Daniel Coroama
+    [(email)](mailto:daniel.coroama21@imperial.ac.uk)
+    - **EIE** – Wellbeing: Danial Dehghan
+    [(email)](mailto:danial.dehghan22@imperial.ac.uk)
+
+    If you have any academic or wellbeing related queries, your dep reps are
+    the people you can talk to.
+    You'll be able to run for and elect your year reps soon too, in the autumn elections!
+  </text>
+
+  <hr/>
+
+  <heading>What do we do?</heading>
+
+  <text>
+    We at DoCSoc are very passionate about our annual events. Here's what
+    to expect:
+
+    - **Talks and workshops** - DoCSoc runs many engaging and interactive talks
+    and workshops together with our sponsors, usually in the evenings after
+    lectures. (Don't confuse these
+    with the Department's Applications of Computing in Industry talks.) You can
+    expect announcements of these next week.
+
+    - **Sponsors' Exhibition** - One of our biggest events, where you can meet
+    our sponsors and interact with them in a friendly
+    atmosphere. More details coming soon!
+
+    - **IC Hack** - Imperial College's flagship hackathon is one of our biggest
+    and most successful events and is the largest student run hackathon in the UK! For 24 hours
+    we take over the campus to create the most amazing hacking atmosphere for
+    our attendees, while running mini-events and workshops like karaoke, a treasure hunt, bingo and a barnight! Lots of
+    coding, prizes, food and fun is guaranteed! Check out last year's montage
+    [here](https://www.youtube.com/watch?v=CCASs8BVKGA).
+
+    - **Barnights** - Twice a term we'll host a barnight at the Union bar with free (yes, free!)
+    drinks and a great atmosphere to relax and socialise with your friends.    
+
+    Throughout the year we also host a wide range of social events (like pub
+    quizzes, games nights, pottery, ice skating) and academic events. Do you have suggestions for
+    events? We're always looking for feedback so feel free to email us with
+    anything you have in mind!
+  </text>
+
+  <hr/>
+
+  <heading>What's happening next?</heading>
+  <text>
+  If you're a new first year look forward to our welcome talks
+  and the traditional 'Feed the Freshers' event. You'll also see another
+  email from me soon, where you can sign up for DoCSoc Mums and Dads! 
+
+  Look out for our first weekly digest next weekend where we'll announce
+  our first events and the DoCSoc Sponsors Exhibition, plus the Freshers Merch and first
+  Mums and Dads event.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>
