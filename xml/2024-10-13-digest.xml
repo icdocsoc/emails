@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+  <!-- <image width="90"
+    src="Image-URL"
+    alt="Alt-text"
+    title="Title"/>
+  <hr/> -->
+
+  <text>
+    Hi everyone!
+
+    Welcome to our second week of DoCSoc events! We're having a great time in this new term and we hope you are too.
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>Recruiting Design Volunteers for ICHack 25</heading>
+  <text>
+    
+    Come volunteer at Europe's largest student-run hackathon! After some excellent design work last year, we're looking for 2-6 long-term volunteers for the ICHack 25 Design team.
+
+    From £10,000s in merchandise, to swag, posters, video graphics, the website or social media posts, IC Hack is an opportunity to contribute your design skills to one of Imperial's largest events.
+
+    We're not just looking for graphics designers - last year we made videos in After Effects and Premiere, designed 3D printed cubes for hackers, and worked on the IC Hack website. We'll fund anything you want to make - the sky is the limit!
+
+    If you're intersted, sign up [here](https://forms.gle/TQpRzPDgPjZmtWzx9)!
+  </text>
+  
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <heading>The Trade Desk Sponsor Event</heading>
+  <event startDate="2024-10-15T18:00:00"
+    endDate="2024-10-08T20:00:00"
+    location="Huxley 311">
+    <text>
+      Come along to meet one of this year's DoCSoc sponsors, The Trade Desk, learn about what they do and find out about the opportunties they have available.
+
+      You can register [here](https://buytickets.at/docsoc/1431088/r/mailshot).
+    </text>
+  </event>
+  <image src="https://imgur.com/miuwzJa.jpg"></image>
+ 
+  <hr/>
+
+  <heading>Pottery Painting</heading>
+  <event startDate="2024-10-16T15:00:00"
+    endDate="2024-10-09T16:45:00"
+    location="Fulham Pottery Cafe">
+    <text>
+      Come along and relax with Pottery Painting. Our first social event of the term!
+      No experience is necessary. All paints and brushes will be provided at the event - come along to make great gifts for yourself or your friends and family! Tickets only cost £6.50, and allows you to paint a variety of items such as Mugs, Bowls, Christmas decorations and much more. Pottery will be able to be collected 7-10 days after painting - we will finalise a collection date after the event has taken place.
+      Limited tickets available [here](https://www.imperialcollegeunion.org/shop/csp/computing/docsoc-goes-pottery-painting-0)
+    </text>
+  </event>
+  <image src="https://imgur.com/5DS903J.jpg"></image>
+
+  <hr/>
+
+  <heading>Five Rings Sponsor Event</heading>
+  <event startDate="2024-10-17T18:00:00"
+    endDate="2024-10-17T20:00:00"
+    location="Huxley 311">
+    <text>
+      Come along to meet one of this year's DoCSoc sponsors, Five Rings, learn about what they do and find out about the opportunties they have available. They've flown over some of their team and brought merch witht them!
+
+      You can register [here](https://job-boards.greenhouse.io/fiveringsevents/jobs/4171489008?gh_src=e1372ae48us).
+    </text>
+  </event>
+  <image src="https://imgur.com/t9egmSr.jpg"></image>
+
+  <hr/>
+
+  <heading>DoCSoc x The Lion King</heading>
+  <event startDate="2024-10-25T19:30:00"
+    endDate="2024-10-25T23:00:00"
+    location="Lyceum Theatre, WC2E 7RQ">
+    <text>
+      Come join us as we watch The Lion King at the Lyceum Theatre! Tickets will be subsidised to £18 (down from £80!).
+
+      Be sure to grab tickets [here](https://buytickets.at/docsoc/1430167/r/mailshot) when we release them on Friday 18th October at 18:00! We expect them to go quickly so be ready!
+
+      Disneys award-winning musical The Lion King explodes with glorious colours, stunning effects and enchanting music. It follows the powerful story of Simba as he journeys from wide-eyed cub to his destined role as King of the Pridelands.
+    </text>
+  </event>
+
+  <hr/>
+
+  <text>## Student Society/Project/Event Showcase</text>
+
+  <text>
+    Every week or so we'll be showcasing a cool student society, project or event. Please email us if you want your cool society/project/event to be featured!
+  </text>
+
+  <hr/>
+
+  <heading>Imperial Hackathon Community</heading>
+  <text>
+    Hey everyone! 👋
+
+    We're so excited to announce the launch of Imperial's very own Hackathon Community! 🎉 Whether you're an experienced coder or just getting started, this is the place for you. We're all about building awesome projects, tackling real-world challenges, and just having a great time together! 💡💻
+
+    💥 What's in it for you?
+
+    Exclusive access to the best hackathons out there
+    Opportunities to team up with fellow Imperial students
+    Tons of fun as we build cool things and take on new challenges! 🛠️
+
+    If you're interested, click [here](https://discord.gg/DsTXTCyYZe) to join and be part of this exciting new community! Let's make Imperial the go-to place for amazing hacks! 🙌
+
+    Happy hacking, and see you soon! 🚀
+
+    Cheers,
+    Tom 
+  </text>
+  
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="false" logos="false">
+  <!-- <image width="90"
+    src="Image-URL"
+    alt="Alt-text"
+    title="Title"/>
+  <hr/> -->
+
+  <text>
+    Hi everyone!
+
+    <!-- Greeting here -->
+    We hope you all had a great fresher's week! 
+    Whatever you're learning or working on next week, we've got a load of great events lined up for you!
+  </text>
+
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <event startDate="2024-10-08T18:00:00"
+    endDate="2024-10-08T20:00:00"
+    location="Clore Lecture Theatre (Huxley)">
+    <text>
+      ## PDT Partners - Information and Q&amp;A Session
+      
+      Come along to meet one of this years sponsors, PDT Partners, learn about what they do and find out about the opportunties they have available.
+
+      You can register [here](https://app.tickettailor.com/events/docsoc/1421924/r/mailshot).
+    </text>
+  </event>
+  <image src="https://i.imgur.com/kNBUItr.jpg"></image>
+ 
+  <hr/>
+
+  <event startDate="2024-10-09T12:00:00"
+    endDate="2024-10-09T15:00:00"
+    location="Huxley 340 &amp; Huxley 341/342">
+    <text>
+      ## DoCSoc Mums and Dads
+      
+      If you've signed up to be a child or a parent, come along on Wednseday to meet your family and get some free pizza.
+
+      Parents' sign-up is now closed but if you're a fresher you can sign up [here](family.docsoc.com), get in quickly as sign-ups will close Monday at 5pm.
+    </text>
+  </event>
+  <image src="https://imgur.com/9NP78Pq.jpg"></image>
+
+  <hr/>
+
+  <event startDate="2024-10-09T14:00:00"
+    endDate="2024-10-09T17:00:00"
+    location="The Great Hall">
+    <text>
+      ## Sponsors Exhibition
+      
+      Join us to meet some of the biggest names in tech, finance and more, at one of our biggest events of the year! 
+      
+      All our Gold and Silver Sponsors will be in attendance, including 
+      Arctic Lake, 
+      Marshall Wace, 
+      Angstrom, 
+      DRW, 
+      PDT Partners, 
+      QRT, 
+      G-Research, 
+      incident.io, 
+      Optiver, 
+      The Trade Desk, 
+      Jump Trading, 
+      Netcraft and
+      Ocado.
+
+      Make sure to bring your student ID or other evidence to show you're a member of DoCSoc.
+    </text>
+  </event>
+  <image src="https://imgur.com/rEAd0aa.jpg"></image>
+
+  <hr/>
+
+  <event startDate="2024-10-10T18:00:00"
+    endDate="2024-10-10T20:00:00"
+    location="Huxley 311">
+    <text>
+      ## Internships 101
+      
+      Come along to this Q&amp;A to find out about the world of internships. Learn about applications, what happens and the opportunities you can get.
+      
+      You can register [here](https://app.tickettailor.com/events/docsoc/1421929/r/mailshot).
+    </text>
+  </event>
+  <image src="https://imgur.com/tDfXwuu.jpg"></image>
+
+  <hr/>
+
+  <event startDate="2024-10-11T17:45:00"
+    endDate="2024-10-13T18:30:00"
+    location="EEE 505 (Robotics Soc Lab)">
+    <text>
+      ## The Terrible Ideas Hackathon
+
+      DoCSoc is happy to announce we are sponsoring the Imperial edition of the Terrible Ideas Hackathon!
+      Come along to a chill hackathon with the goal to create the most terrible, awful, brilliant ideas you can think of! From robot-driven tattoo guns and soleless Jandals to vegemite flavoured fudge and the world's most professionally bad D&amp;D module, join us in a celebration of failure, creativity, and stupid, terrible decisions.
+      
+      You can sign up and learn more [here](https://terriblehack.com/events/london).
+    </text>
+  </event>
+  <image src="https://imgur.com/PzffG56.jpg"></image>
+
+  <hr/>
+
+  <text>## From Our Sponsors</text>
+
+  <hr/>
+
+  <event startDate="2024-10-09T17:00:00"
+    endDate="2024-10-09T20:00:00"
+    location="PDT Partners, Yarnwicke, 119-121 Cannon Street, London, EC4N 5AT">
+    <text>
+      ## PDT Sponsors Exhibition Afterparty
+
+      Join PDT partners for an informal meet and greet to get to know folks from our engineering team in a more casual setting and check out our office.
+      
+      You can sign up [here](https://pdtpartners.co1.qualtrics.com/jfe/form/SV_bJX5cqmVPKARArQ).
+    </text>
+  </event>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Postgrad mixer!" agenda="false" logos="false">
+  <!-- <image width="90"
+    src="Image-URL"
+    alt="Alt-text"
+    title="Title"/>
+  <hr/> -->
+
+  <text>
+    Hi everyone!
+
+    Tomorrow (Thursday 3rd) DoCSoc will be hosting a postgraduate student mixer in Huxley 311, 6pm-8pm.
+    This mixer is the perfect opportunity to meet your fellow students, and begin this exciting new chapter over board games, laughter and delicious food!
+    We hope to see lots of people there!
+
+    Please sign up here: https://buytickets.at/docsoc/1413987/r/outlook
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+</email>

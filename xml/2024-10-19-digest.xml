@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    Welcome back to yet another week at Imperial! As usual we've got a great lineup of events for you, including a merch drop and our first barnight of the term!
+  </text>
+
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/hsXejaq.jpg"></image>
+  <heading>Netcraft Workshop and Barnight!</heading>
+  <event startDate="2024-10-22T18:00:00"
+    endDate="2024-10-22T22:30:00"
+    location="Clore Lecture Theatre (Huxley)">
+    <text>
+      ## DIY Takedowns: Disrupting Cybercrime with Netcraft
+
+      Netcraft is hosting a deep dive workshop on leveraging vulnerabilities in criminal websites to effectively disrupt cybercriminals activities. This session delves into the advanced techniques and real-world scenarios where vulnerabilities can be exploited to counter phishing schemes, fake online stores, and other digital threats. As a leader in the field, Netcraft analyses over 10 million URLs daily and executes a cybercrime takedown every 15 seconds. However, as cybercriminals continuously evolve their tactics, it’s crucial to stay ahead by understanding their infrastructure.
+
+      The "DIY Takedowns" workshop offers an insight into what cybercrime disruption would look like if white-hat hacking was legal. Participants will be tasked with identifying and exploiting vulnerabilities in criminal websites using the source code of real phishing kits that Netcraft has discovered over the years.
+
+      After a short tutorial that introduces and demonstrates these key concepts, you will spend an hour actively taking down criminal websites. Points will be awarded for each successful takedown and the duration these sites remain offline. Throughout the challenge, Netcraft staff will be on hand to provide guidance and support, ensuring you gain practical, hands-on experience in safeguarding the digital world.
+
+    Sign up [here](https://forms.office.com/e/LBEjRerj8B)!
+
+      Please bring your laptop with you to the workshop and install the following software in advance:
+      PuTTY [here](https://www.putty.org/), or an SSH client of your choosing.
+
+      ## Barnight
+
+      At 18:00, we'll head to metric at the union for our first barnight of the term, sponsored by Netcraft! Come along for a chance to network with Netcraft employees over free drinks. Make sure to attend the workshop to get your drink tokens.
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>The Trade Desk Sponsor Event</heading>
+  <event startDate="2024-10-24T18:00:00"
+    endDate="2024-10-24T20:00:00"
+    location="Huxley 311">
+    <text>
+      Come along to meet one of this year's DoCSoc sponsors, The Trade Desk, learn about what they do and find out about the opportunties they have available.
+
+      You can register [here](https://buytickets.at/docsoc/1439323/r/mailshot).
+    </text>
+  </event>
+  <image src="https://imgur.com/qKTCxfA.jpg"></image>
+
+  <hr/>
+
+  <heading>ICHack Long-term Volunteer Information Session</heading>
+  <event startDate="2024-10-28T18:00:00"
+    endDate="2024-10-28T19:00:00"
+    location="TBC - Check next week's digest!">
+    <text>
+      IT BEGINS! Want to help organise an event with more than 550 participants, that takes over the whole campus next February? One of Imperial's largest, most complex events? The one event to rule them all?
+
+      Monday 28th starts the organisation for ICHack 2025, the UK's largest student-ran hackathon. No matter what your skills or talents - we have a team for you:
+
+      Great at making merchandise and graphics designs? Join our Branding team! [(signups already open!)](https://forms.gle/TQpRzPDgPjZmtWzx9)
+      Like food? Entertainment? Bar nights? Join our Hacker Experience team!
+      And finally, want to boss all of those people around? Join our Logistics team!
+
+      Find out more about all the roles you can help with, and how you can join us, Monday 28th - no event signup required.
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>Halloween Treasure Hunt</heading>
+  <event startDate="2024-10-30T15:00:00"
+    endDate="2024-10-30T19:00:00"
+    location="London">
+    <text>
+      Join us for a Halloween-themed treasure hunt around London with puzzles, boba and pizza! 
+      
+      Follow clues throughout the city, with interactive text messages and calls, hands-on puzzles for you to solve and a prize for every successful player.
+      
+      You can compete in groups of 3-6, we recommend coming along with your DoCSoc families!
+
+      Tickets coming soon this week...
+    </text>
+  </event>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>Freshers and Summer Merch SALE and Collection Slots</heading>
+  <hr/>
+  <text>
+    ## Freshers Merch
+    
+    All first years get a free bag of DoCSoc merch! Come along to one of the time slots below to get your haul.
+    
+    ## Summer Merch Drop SALE and Collections
+    
+    We still have unsold merch from our summer merch drop last year! 
+    
+    You can purchase it on the union shop from *Wednesday 23rd* and collect it during one of the time slots below!
+
+    If you ordered merch from our summer drop last year and haven't collected it, you can also grab it then.
+
+    ## Collection Slots
+
+    - Monday 21st Oct 4:15-6pm, Huxley 315
+    - Tuesday 22nd Oct 4:15-6pm, Huxley 315
+    - Friday 25th Oct 2pm-3:45pm, Huxley 218
+    - Monday 28th Oct 4:15pm-6pm, Huxley 315
+    - Thursday 31st Oct, 3:15pm-4:45pm, Huxley 315
+    - Monday 4th Nov, 4:15pm-6pm, Huxley 315
+    - Friday 8th Nov, 2:30pm-5pm, Huxley 218
+  </text>
+  
+  <hr/>
+
+  <text>## Society/Project/Event Showcase</text>
+
+  <text>
+    Every week or so we'll be showcasing a cool society, project or event. Please email us if you want your society/project/event to be featured!
+  </text>
+
+  <hr/>
+
+  <heading>WIMP (Warwick-Imperial Maths Conference) Autumn 24-25</heading>
+  <text>
+    WIMP, the greatest maths conference to grace the halls of both Warwick and Imperial, is back in full force. Session 1 which takes place at Warwick is on Saturday the 23rd of November from 9am to 6pm and we want as many of you to participate as possible. 
+
+    The day will consist of a speech from our keynote speaker, the celebrated Keith Martin Ball, followed by a choice of ten talks throughout the day offered by a combination of Warwick and Imperial student mathematicians. Topics can range from function spaces and logic to quantum mechanics and tropical geometry. 
+
+    Travel is kindly being organised by the maths department and all you need to do to secure your spot on the coach is to deliver a payment of £10 cash to the UG Maths Office and register here: https://forms.office.com/e/snr4Gcn8LD
+
+    Lunch will also be provided as part of the event.
+  </text>
+  <image src="https://imgur.com/OEKwMjB.jpg"></image>
+  
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

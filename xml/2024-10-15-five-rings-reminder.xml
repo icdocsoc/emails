@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Five Rings Event Reminder!" agenda="false" logos="false">
+
+  <text>
+    Hi everyone!
+
+    Just a quick reminder to sign up for the Five Rings Sponsor Event happening on Thursday. This should be great fun, with their team flying in from New York with lots of merch!
+  </text>
+
+    <event startDate="2024-10-17T18:00:00"
+    endDate="2024-10-17T20:00:00"
+    location="Huxley 311">
+      <text>
+        Want to dive into the world of proprietary trading? Five Rings, a leading firm in the industry, is hosting a sponsor event in collaboration with DoCSoc.
+
+        Come and learn about how technology plays a key role in global markets. Meet industry professionals and explore career opportunities with Five Rings.
+
+        Sign up [here](https://grnh.se/e1372ae48us)
+      </text>
+    </event>
+  <image src="https://imgur.com/t9egmSr.jpg"></image>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>
