@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<email title="Weekly Digest" agenda="false" logos="false">
-  <!-- <image width="90"
-    src="Image-URL"
-    alt="Alt-text"
-    title="Title"/>
-  <hr/> -->
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
 
   <text>
     Hi everyone!
 
-    <!-- Greeting here -->
-
-    In this week's digest you can find out about:
-    <!-- * list here -->
+    Introduction here
   </text>
 
   <hr/>
@@ -21,28 +13,42 @@
 
   <hr/>
 
-  <!-- <heading>Announcement title</heading> -->
+  <heading>Announcement Title</heading>
   <text>
-    <!-- Announcement info -->
+    Announcement here
+  </text>
+  
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="image url here"></image>
+  <heading>Event Name Here</heading>
+  <event startDate="2024-10-15T18:00:00"
+    endDate="2024-10-08T20:00:00"
+    location="Huxley 311">
+    <text>
+      Description here
+    </text>
+  </event>
+
+  <hr/>
+
+  <text>## Student Society/Project/Event Showcase</text>
+
+  <text>
+    Every week or so we'll be showcasing a cool student society, project or event. Please email us if you want your cool society/project/event to be featured!
   </text>
 
   <hr/>
 
-  <text>## Upcoming Events</text>
-
-  <hr/>
-
-  <text>## Events</text>
-
-  <hr/>
-
-<event>
-  <!-- <heading>Event title</heading> -->
+  <heading>Project Name</heading>
   <text>
-    <!-- Event info -->
-    <!-- You can register on Eventbrite [here](Eventbrite link). -->
+    Project info here
   </text>
-</event>
+  
 
   <sign name="Aidan Madge"
     role="DoCSoc Secretary '24/25">
@@ -50,4 +56,5 @@
   <text>
     ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
   </text>
+
 </email>
