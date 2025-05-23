@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    We're back into the swing of things now... Look forward to a week of events and free food. Also,
+    think about running for committee next year! Self-nominations are open on [eVoting](https://vote.union.ic.ac.uk/elections.php) until the 28th of February.
+  </text>
+  
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/Jc3a1e3.jpg"></image>
+  <heading>Committee Elections Info Session</heading>
+  <event startDate="2025-02-18T18:00:00"
+    endDate="2025-02-18T19:00:00"
+    location="Huxley Clore LT">
+    <text>
+      Thinking of running for DoCSoc committee in this year's Leadership Elections? 
+      Come along to this talk, where 
+      we'll be detailing what exactly goes into DoCSoc and what each role entails.
+      
+      Read more about the Leadership Elections [here](https://www.imperialcollegeunion.org/representation/elections/leadership-elections-2025).
+      
+      Nominate yourself [here](https://vote.union.ic.ac.uk/)!
+      
+      ...and don't forget to read the Candidates' Pack [here](https://cdn.sanity.io/files/k7lmfnyj/production/a6bd7419e02594c303aede8590bcd15ac28d2422.pdf).
+
+      A couple things to highlight:
+
+      • Nominations close 28th February
+      
+      • No campaigning before 12:30 Thursday 6th March
+      
+      • You can only use channels made specifically for campaigning (no personal instagrams made before campaigning, mass emails or messages in the year group chats)
+      
+      • Please don't run for multiple roles. If you get multiple then you end up denying DoCSoc 1 or more committee members.
+      
+      Please remember that breaking election rules can result in disqualification.
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/KUkVpfV.jpg"></image>
+  <heading>G-Research Coding Challenge</heading>
+  <event startDate="2025-02-20T18:00:00"
+    endDate="2025-02-20T21:30:00"
+    location="Huxley 311">
+    <text>
+      Discover G-Research and the world of Quantitative Finance by taking part in
+      our fun, interactive coding challenge. Play for fun, or bring your competitive
+      spirit for the chance to win prizes! As well as the challenge you'll have the
+      chance to network with our engineers and recruiters over pizza.
+
+      Please note; the workshop is a challenge that can be enjoyed solo, or in teams
+      of up to three.
+
+      Sign up [here](http://qrco.de/DocSoc25).
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/AZVKQ2L.png"></image>
+  <heading>DoCSoc Deepdive - Domain Semantics of Programming Languages</heading>
+  <event startDate="2025-02-20T13:00:00"
+    endDate="2025-02-20T13:45:00"
+    location="Huxley 308">
+    <text>
+      We're bringing back the DoCSoc deepdives, with a talk from Alyssa Renata on the denotional
+      semantics of programming languages using domain theory.
+
+      In order to reason about programming languages, we use mathematical models. In particular, this talk will motivate and introduce the theory of domains, which are mathematical structures with strong properties for the modelling of programming languages. While mathematical models of programming languages today often use more complicated structures, domain theory is of historical importance for introducing many of the ideas we still use today. Come along to find out how domain theory shapes the way we understand programming languages!
+
+      Come for an interesting talk and some free lunch!
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/RASmiwQ.jpg"></image>
+  <heading>Bloomberg Women in Tech x Tech Lab Opportunity</heading>
+  <event startDate="2025-04-08T09:00:00"
+  endDate="2025-04-11T17:00:00"
+  location="Hybrid/Bloomberg Office">
+    <text>
+      Bloomberg are currently looking for participants for their Bloomberg Women in Tech X Tech Lab program on April 8th-11th.
+
+      This is a hybrid event focused on exposing Black female aspiring software engineers to our technical interviews and collaborative culture. Participants will receive interview prep and mock interviews in advance of the event. The four day on-site event will provide participants with the opportunity to work 1:1 with Bloomberg Engineers to build an open-source portfolio manager using python.
+
+      Upon completion of the event participants will be enrolled in a 1:1 mentorship program with one of our experienced engineers. 
+
+      **If interested please sign up [here](https://bloomberg.avature.net/su/cd88a7544ed47e9d) by tomorrow, 18th February**.
+    </text>
+  </event>
+
+  <hr/>
+  
+  <text>## DoCSoc Event Feedback Survey</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

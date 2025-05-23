@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Week Announcement" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    We're excited to announce DoCSoc week! Next week we'll have an event on every day, including the returns of musicals and pottery painting! We hope you all enjoy.
+  </text>
+
+  <hr/>
+  
+  <image src="https://imgur.com/sEYGnNf.jpg"></image>
+
+  <hr/>
+
+  <heading>Board Game Night</heading>
+  <event startDate="2025-02-24T18:00:00"
+    endDate="2025-02-24T20:00:00"
+    location="Huxley 308">
+    <text>
+      Come join DoCSoc along with some Board Games this Monday to relax with your fellow students. We have a variety of games available. Light snacks and drink will be available midway through for attendees
+
+      Please ensure you reserve your ticket beforehand so we can make sure to get enough food and games for everyone, let us know any game request you may have too!
+
+      Sign up [here](https://tickets.docsoc.co.uk/events/docsoc/1599741/r/mailshot)
+    </text>
+  </event>
+  
+  <hr/>
+
+  <heading>DoCSoc x SideQuest</heading>
+  <event startDate="2025-02-25T18:30:00"
+    endDate="2025-02-25T22:15:00"
+    location="SideQuest Charing Cross">
+    <text>
+      Always wanted to go to a PC gaming cafe? This is your chance!
+
+      We have tickets available at a subsidised price of £5 for 1h 45m. Be sure to grab yours early, as we have only a limited number available!
+
+      Come join DoCSoc at SideQuest Gaming Cafe Charing Cross on the evening of Tuesday 25th February. We have booked out both 6x Squad Rooms and 4x Squad Rooms for you guys to enjoy playing a variety of PC games either by yourself or with a group of friends. 
+
+      Tickets release Thursday 20th Feb at 13:00 [here](https://tickets.docsoc.co.uk/events/docsoc/1597608/r/mailshot). The £5 ticket covers 1 PC over 1 time slot. You are welcome to play over both time slots if you purchase 2 tickets for £10, and you are also welcome to bring extras without tickets to share a PC over the timeslot. The time slots we have are 18:30-20:15 and 20:30-22:15, (or 18:30-22:15 if you purchase both). We recommend arriving early to make the most of the time-frame.
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>DoCSoc x WiC Pottery Painting</heading>
+  <event startDate="2025-02-26T15:00:00"
+    endDate="2025-02-26T16:45:00"
+    location="Fulham Pottery Cafe">
+    <text>
+      Come along with DoCSoc and WiC to relax with some Pottery Painting. Starting on Wednesday 26th February at Fulham Pottery Cafe from 15:00 - 16:45.
+
+      No experience is necessary. All paints and brushes will be provided at the event - come along to make great gifts for yourself or your friends and family!
+
+      Tickets only cost £8, and allows you to paint a variety of items such as Mugs, Bowls,  Easter decorations and much more. Pottery will be able to be collected 7-10 days after painting - we will finalise a collection date after the event has taken place.
+
+      Tickets release Friday 21th Feb at 15:00 on [here](https://tickets.docsoc.co.uk/events/docsoc/1597612/r/mailshot).
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>DoCSoc x Wicked</heading>
+  <event startDate="2025-02-27T19:30:00"
+    endDate="2025-02-27T22:00:00"
+    location="Apollo Victoria Theatre, SW17 1LG">
+    <text>
+      Always wanted to go to a musical? This is your (fourth) chance!
+
+      We have tickets available at a subsidised price of £22 to the Wicked Musical. Be sure to grab yours early, as we have only a limited number available!
+
+      Description from the website:
+      When Dorothy famously triumphed over the Wicked Witch of the West, we only ever heard one side of the story. Gregory Maguire's acclaimed 1995 novel, 'Wicked: The Life and Times of the Wicked Witch of the West', re-imagines the Land of Oz, creating a parallel universe to the familiar story written by L. Frank Baum and first published as 'The Wonderful Wizard of Oz' in 1900.
+
+      Tickets release [here](https://tickets.docsoc.co.uk/events/docsoc/1597613/r/mailshot) Friday 21st February at 13:00. 
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>Movie Night</heading>
+  <event startDate="2025-02-28T18:00:00"
+    endDate="2025-02-28T20:00:00"
+    location="Huxley 308">
+    <text>
+      Come join DoCSoc this Friday evening to relax with fellow students watching a film of your choice!
+
+      Please ensure you reserve your ticket beforehand so we can make sure to order enough food for everyone! Food will only be given to attendees of the event. Please also put any film suggestions you may want us to have :)
+
+      Sign up [here](https://tickets.docsoc.co.uk/events/docsoc/1599740/r/mailshot)
+    </text>
+  </event>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

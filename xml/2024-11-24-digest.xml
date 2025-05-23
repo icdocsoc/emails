@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+  <text>
+    Hi everyone!
+
+    Introduction here
+  </text>
+  
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/AoXETiT.png"></image>
+  <heading>QRT Sponsor Event</heading>
+  <event startDate="2024-11-26T18:00:00"
+    endDate="2024-11-26T20:00:00"
+    location="Huxley Clore">
+    <text>
+      Come along to meet one of this year's DoCSoc sponsors, QRT. There will be free merch, and as always, pizza.
+
+      Qube Research &amp; Technologies (QRT) is a global investment manager where we deploy a diverse range of investment strategies across geographies, asset classes and time frames. Combining data, research, technology and trading expertise has shaped QRT’s collaborative mindset which enables us to solve the most complex challenges. QRT’s culture of innovation continuously drives our ambition to deliver high quality returns for our investors.
+
+      Sign up [here](https://www.tickettailor.com/events/docsoc/1481456/r/mailshot).
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/8dGlp9T.png"></image>
+  <heading>Barnight</heading>
+  <event startDate="2024-11-28T19:00:00"
+    endDate="2024-11-28T23:00:00"
+    location="Metric (Beit)">
+    <text>
+      🍻 Join DoCSoc for Bar Night! 🍻
+
+      Enjoy an evening of fun, with free food, and drinks! 🥂🍕 
+
+      Make sure to grab your FREE ticket [here](https://buytickets.at/docsoc/1480002/r/mailshot)
+
+      Strictly 18+ only - IDs checked on entry
+
+      You must be a member of DoCSoc by Thursday, 23rd May in order to be admitted
+      Each DoCSoc member is entitled to bring a maximum of 1 non-Imperial non-DoCSoc member as a plus one. Any Imperial plus ones must have purchased DoCSoc membership, otherwise, they will be denied entry.
+      If you intend to bring a non-Imperial plus one, please, send us an email before the event at docsoc@ic.ac.uk.
+      Our full barnight policy can be found [here](http://docsoc.co.uk/barnightpolicy).
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/6UnR3hA.png"></image>
+  <heading>DoCSoc goes Winter Wonderland</heading>
+  <event startDate="2024-12-04T16:00:00"
+    endDate="2024-12-04T21:30:00"
+    location="Hyde Park Winter Wonderland">
+    <text>
+      Ever wanted to go to winter wonderland? We've got 40 places for you to come and enjoy £55 of wintery rides and food.
+
+      Come and enjoy the Munic Looping, Aeronaut Starflyer, Giant Wheel and the Wide maus XXL Coaster. After that you'll get a choice of the Jolly Hog Food Package or Bottomless Pizza.
+
+      Tickets will be released [here](https://buytickets.at/docsoc/1481915/r/mailshot) Wednesday 27th November at 13:00.
+    </text>
+  </event>
+
+  <hr/>
+
+  <text>## Messages from our sponsors</text>
+
+  <heading>Data @ Bloomberg Internships and Graduate Roles</heading>
+  <text>
+    Bloomberg is recruiting Data Management Professionals!
+
+    The Bloomberg Data department is responsible for acquiring, interpreting and delivering data insights to our clients. The Data teams work collaboratively to collect, analyze, model and publish the data which is the backbone of our iconic Bloomberg Terminal - the data ultimately feeding and moving the financial markets.
+
+    The role:
+
+    Our Data Management Professionals use technical skills to acquire, validate, store, protect, and model comprehensive financial data which is accessible to our clients across various Bloomberg platforms.
+
+    Click [here](https://bloomberg.avature.net/su/c410a28a7c663ed0) if you are graduating in 2025 to apply for a full-time role.
+    Click [here](https://bloomberg.avature.net/su/c94dee65740a2dde) if you are graduating in 2026 to apply for an internship role.
+  </text>
+
+  <hr/>
+
+  <text>## Student Society/Project/Event Showcase</text>
+
+  <text>
+    Every week or so we'll be showcasing a cool student society, project or event. Please email us if you want your cool society/project/event to be featured!
+  </text>
+
+  <hr/>
+
+  <image src="https://imgur.com/jU0mUaV.png"></image>
+  <heading>[ensemble]</heading>
+  <event startDate="2024-12-01T12:00:00"
+    endDate="2024-12-01T19:00:00"
+    location="Entrepreneur First, Shoreditch, E2 8JF">
+    <text>
+      We're hosting a meetup for makers from across the UK! Come to see passion projects ranging from video games to apps, blogs, music, creative writing and artworks.
+
+      [ensemble] is a full day dedicated to showing off cool projects people have been working on throughout the term at our different groups [craft], [scale down] and [orchard] (from Imperial, Cambridge and Oxford, respectively). We're co-working clubs, spaces and communities where people work on what they've been meaning to but haven't found the time nor space to do in the midst of life. Come for inspiration and to spark your own passions again.
+
+      We're being hosted by Entrepreneur First at their offices in Shoreditch. Sign up [here](https://lu.ma/80g8dsqw) before space constraints kick in! (rumours say lunch and dinner are provided).
+    </text>
+  </event>
+
+  <hr/>
+  
+  <text>## DoCSoc Event Feedback Survey</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private, we only ask for your shortcode so that if needed, we can contact you for further feedback.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

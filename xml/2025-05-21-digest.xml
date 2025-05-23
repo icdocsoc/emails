@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    Exams are finally over! Or almost over for some people ... 
+
+    And so we bring you ... drumroll please ... the DoCSoc Holiday!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>The Trade Desk Exclusive Insight Day!</heading>
+  <text>
+    The Trade Desk are hosting an insight day exclusive to DoCSoc on the 19th June. Come along for a workshop, a live platform demo, and an office tour. Afterwards, network with current interns, software engineers and data science over drinks and nibbles.
+
+    Sign up [here](https://app7.greenhouse.io/e/gvsbbs)!
+  </text>
+
+  <hr/>
+
+  <text>## The Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/6CKrwcg.jpg"></image>
+  <heading>DoCSoc Holiday</heading>
+  <event startDate="2025-06-14T15:00:00"
+    endDate="2025-06-17T10:00:00"
+    location="Rome">
+    <text>
+      Secure your ticket on our annual trip! Releases Thursday 22nd May at 13:00.
+
+      Sign up [here](https://tickets.docsoc.co.uk/events/docsoc/1704368/r/whatsapp).
+
+      Price - £111 (includes accomodation and breakfast)
+
+      Please make sure to read all the information in the event description on Ticket Tailor before you purchase a ticket!
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/7NYU42q.jpg"></image>
+  <heading>End of Exams Barnight</heading>
+  <event startDate="2024-05-22T19:00:00"
+    endDate="2024-05-22T22:30:00"
+    location="Metric">
+    <text>
+      Congratulations, we made it! 🎉 With exam season coming to an end, we're bringing you a well-deserved, good old DoCSoc bar night, free drinks and all (if you sign up [here](https://tickets.docsoc.co.uk/events/docsoc/1708275/r/whatsapp)).
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>Help Shape DoCSoc</heading>
+  <text>
+    We would love to get some feedback on some of our upcoming events we have planned for the summer term, please fill in your details here if you want to be contacted to help shape and give feedback on potential event ideas :)
+
+    Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdfnNaNpLS6UCS5seB90T-3NcO-3xKYteD6-nJn7BZ9NZ2j3g/viewform?usp=dialog).
+  </text>
+
+  <hr/>
+  
+  <text># DoCSoc Event Feedback Survey (Recently updated!)</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://docs.google.com/forms/d/e/1FAIpQLSdC-21RmEP_KGDbCF7UjKbcAAYdxd4IBLhCTB9-9xfgiUy2_w/viewform?usp=sf_link)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    Welcome to the last digest of the term! I'd like to take this moment to wish you all a Merry Christmas, I hope you're all enjoying our Christmas decorations in labs. Good luck to everyone sitting exams this week. And to all of you with exams in January ... we're so sorry. Nonetheless make sure to have a relaxing Christmas break, you all deserve it!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/AOuxRQJ.jpg"></image>
+  <heading>DoCSoc Advent of Code</heading>
+  <text>    
+    Exciting news! Advent of Code has kicked off, and we've set up a DoCSoc leaderboard for some friendly competition.
+
+    Advent of code is a coding competition featuring a daily challenge for 30 days, with questions similar to those you would find on platforms like HackerRank.
+
+    To join DoCSoc's leaderboard, go to adventofcode.com and enter the code:
+
+    "2298315-a7afa1f4".
+
+    There will be prizes in January for the ones at the top of the leaderboard 🎁🥇
+
+    Happy coding!
+  </text>
+  
+  <hr/>
+
+  <heading>Save The Date - DoCSoc New Year's Party!</heading>
+  <text>
+    We're excited to announce the DoCSoc New Year's Party/Barnight!
+
+    This will be 10th of January, 2025, 8pm onwards. 
+    
+    More details to follow soon... but make sure to block out your calendar!
+  </text>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/YNsuxQx.jpg"></image>
+  <heading>Breakfast</heading>
+  <event startDate="2024-12-09T08:30:00"
+    endDate="2024-12-09T11:30:00"
+    location="Huxley L3 Foyer">
+    <text>
+      Stop by to grab some food before exams or lectures in Huxley foyer, this time in collaboration with WiC!
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/kP8vSrQ.jpg"></image>
+  <heading>Puttshack</heading>
+  <event startDate="2024-12-10T18:00:00"
+    endDate="2024-12-10T20:00:00"
+    location="Puttshack Westfield W12 7HB">
+    <text>
+      Come along for a round of mini-golf with DoCSoc! We've booked out a round of mini-golf for you to enjoy with your friends!
+
+      Tickets at £5pp, sign up [here](https://buytickets.at/docsoc/1490026/r/mailshot).
+    </text>
+  </event>
+
+  <hr/>
+  
+  <text>## DoCSoc Event Feedback Survey</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

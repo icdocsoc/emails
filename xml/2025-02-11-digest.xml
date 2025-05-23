@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    It's been a little bit of a break since the last digest... we've been busy catching up on work since IC Hack 25. It was a lot of work but a great success, we hope you all enjoyed it! 
+  </text>
+
+  <hr/>
+
+  <image src="https://imgur.com/1QWyMR8.jpg"></image>
+  <heading>Valentine's Barnight</heading>
+  <event startDate="2025-02-14T19:30:00"
+    endDate="2025-02-15T01:00:00"
+    location="Simmon's Bar, WC2B 6PP">
+    <text>
+      No Valentine's day plans? Then DoCSoc has you covered!
+
+      What's a better place to spend Valentines day than with DoCSoc at the amazing Simmons Holborn. Catch up and socialise with your friends at our best free barnight of the term so far! Don't forget to bring your partners as plus 1's are allowed too, so make sure to get a ticket for them too!
+
+      By getting a ticket below, you will receive up to 4 drink tokens throughout the night, perhaps even more if you are nice to committee! These can be spent on a variety of drinks including 2x drinks if you order during happy hour (until 21:00).
+
+      We look forward to seeing you there! Make sure to bring a Government Issued ID, as this event is 18+ only!
+
+      Make sure to reserve a ticket [here](https://tickets.docsoc.co.uk/events/docsoc/1585966/r/mailshot) to receive your drink tokens on the night!
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/Jc3a1e3.jpg"></image>
+  <heading>Committee Elections Info Session</heading>
+  <event startDate="2025-02-18T18:00:00"
+    endDate="2025-02-18T19:00:00"
+    location="Huxley Clore LT">
+    <text>
+      Thinking of running for DoCSoc committee in this year's Leadership Elections? 
+      Come along to this talk, where 
+      we'll be detailing what exactly goes into DoCSoc and what each role entails.
+      
+      Read more about the Leadership Elections [here](https://www.imperialcollegeunion.org/representation/elections/leadership-elections-2025).
+      
+      Nominate yourself [here](https://vote.union.ic.ac.uk/)!
+      
+      ...and don't forget to read the Candidates' Pack [here](https://cdn.sanity.io/files/k7lmfnyj/production/a6bd7419e02594c303aede8590bcd15ac28d2422.pdf).
+
+      A couple things to highlight:
+
+      • Nominations close 28th February
+      
+      • No campaigning before 12:30 Thursday 6th March
+      
+      • You can only use channels made specifically for campaigning (no personal instagrams made before campaigning, mass emails or messages in the year group chats)
+      
+      • Please don't run for multiple roles. If you get multiple then you end up denying DoCSoc 1 or more committee members.
+      
+      Please remember that breaking election rules can result in disqualification.
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/1oD4iUe.jpg"></image>
+  <heading>IC Hack 25 Montage</heading>
+  <text>    
+    Thank you to everyone who came to IC Hack 25! We hope you had a great time, we certainly did. Check out the montage [here](https://www.youtube.com/watch?v=d86Ga8phqD8).
+  </text>
+
+  <hr/>
+
+  <text>## Student Society/Project/Event Showcase</text>
+
+  <text>
+    Every week or so we'll be showcasing a cool student society, project or event. Please email us if you want your cool society/project/event to be featured!
+  </text>
+
+  <hr/>
+
+  <heading>Webmaster wanted for Felix!</heading>
+  <text>
+    Felix, Imperial's student-run newspaper is look for a web developer to work on the front-end of their website.
+
+    They'd be working with ghost.cms, it's a good opportunity to work on projects like an analytics engine, puzzles dashboard and integration of social media.
+
+    If you're interested, please contact the Felix Editor-in-Chief, Mohammad at [felix@imperial.ac.uk](mailto:felix@imperial.ac.uk).
+  </text>
+
+  <hr/>
+  
+  <text>## DoCSoc Event Feedback Survey</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

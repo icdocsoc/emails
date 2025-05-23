@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    I would write a nice message here if I didn't have an exam tomorrow :)
+  </text>
+
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/jfip6OD.jpg"></image>
+  <heading>DoCSoc Discussions - Are We Heading Towards Doomsday?</heading>
+  <event startDate="2025-05-08T13:00:00"
+    endDate="2025-05-08T13:30:00"
+    location="Huxley 311">
+    <text>
+      Interested about the hidden climate impact of your ChatGPT queries? As part of the first student led DoCSoc Discussions AI + ML MSc Student Nathan Bailey will be presenting a lunchtime talk tilted: The Carbon Footprint of LLMs — A Disaster in Waiting? Nathan will explore the rising research into carbon emissions associated with training and deploying LLM models. Attendees will gain a deeper understanding of the environmental costs associated with LLM and potential avenues for mitigation.
+
+      Sign up [here](https://tickets.docsoc.co.uk/events/docsoc/1692249)
+
+      Interested in presenting something amazing you've made or anything cool you've researched? Reach out to docsoc@ic.ac.uk so we can sort something out!
+
+
+    </text>
+  </event>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/0WdhmRw.jpg"></image>
+  <heading>DoCSoc Goes to Rome!</heading>
+  <text>    
+    Save the date, as DoCSoc's annual holiday is back! Join us in Rome from 14th - 17th June. Keep an eye out on our socials for more info shortly and tickets details.
+  </text>
+
+  <hr/>
+
+  <heading>Other Save the Dates...</heading>
+  <text>
+    We have lots of fun and exciting events planned for after exams. So make sure to keep up to date on our socials, as more details will be revealed soon, however in the meantime...
+
+    - 26th May - Make sure to grab your suits &amp; dresses as we have another black tie event, in collaboration with another secret society!
+
+    - 6th June - Make sure to dress to impress, as we have a special barnight that you wont want to miss!  
+  </text>
+  
+  <hr/>
+
+  <heading>DoCSoc Labs Kitchenette</heading>
+  <text>
+    We will be cleaning and reorganising the labs kitchen over the weekend, so please make sure to remove all personal items from the fridge and cupboard space by this Friday 9th May. You are welcome to return them after Monday 12th May once we have cleaned and restocked the space :)
+
+    Also as a note, please make sure to keep the kitchen clean and tidy when using the coffee machine and other appliances, it is a shared space and is the students responsibility to ensure that everything is left in a clean and safe state. Make sure to not leave items rotting in the fridge, and clean up any spills after yourself
+
+    If you have any questions then please send us an email!
+  </text>
+
+  <hr/>
+
+  <heading>Help Shape DoCSoc</heading>
+  <text>
+    We would love to get some feedback on some of our upcoming events we have planned for the summer term, please fill in your details here if you want to be contacted to help shape and give feedback on potential event ideas :)
+
+    Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdfnNaNpLS6UCS5seB90T-3NcO-3xKYteD6-nJn7BZ9NZ2j3g/viewform?usp=dialog).
+  </text>
+
+  <hr/>
+
+  <heading>Boat Party Photos</heading>
+  <text>
+    We have got the photos from the CGCU x DoCSoc Boat Party back. Please view them here:
+
+    - [Photos by @alekziol](https://photos.app.goo.gl/3cjt4EgkQQaobFjWA)
+    - [Selfie Mirror](https://photos.app.goo.gl/vkAMBZr3i4tRDXua8)
+  </text>
+
+  <hr/>
+  
+  <text># DoCSoc Event Feedback Survey (Newly updated!)</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://docs.google.com/forms/d/e/1FAIpQLSdC-21RmEP_KGDbCF7UjKbcAAYdxd4IBLhCTB9-9xfgiUy2_w/viewform?usp=sf_link)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

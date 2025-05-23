@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Weekly Digest" agenda="true" logos="false">
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/BNuGeh7.jpg"></image>
+  <heading>Barnight</heading>
+  <event startDate="2025-03-03T19:00:00"
+    endDate="2025-03-03T22:30:00"
+    location="Metric">
+    <text>
+      Free drinks in our last barnight of the term! Come to hang out and relax with your friends.
+    
+      Sign up [here](https://tickets.docsoc.co.uk/events/docsoc/1612453/r/mailshot) to guarantee your drinks tokens.
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/LQwLzpx.jpg"></image>
+  <heading>London Scala Talks x DoCSoc</heading>
+  <event startDate="2025-03-06T18:00:00"
+    endDate="2025-03-06T21:00:00"
+    location="Huxley 308">
+    <text>
+      We're hosting the London Scala User Group's Scala Talks, in collaboration with The Trade Desk!
+
+      Sign up [here](https://tickets.docsoc.co.uk/events/docsoc/1613194/r/mailshot).
+
+      ## Talks:
+
+      Rory Graves: A Life in Scala
+
+      Software development is full of competing demands—speed, reliability, scalability, flexibility, and affordability. Everyone wants all of them, and they want them now. But building software that delivers on all these fronts is much harder than it seems.
+      Having used Scala as his primary language since 2010 and being deeply involved in its community, Rory has seen how different programming paradigms, tools, and mental models shape software development. This talk will explore key lessons from his career—how to think about software and software careers, the trade-offs of different paradigms and abstraction levels, and why for him Scala hits the sweet spot for building robust, scalable systems easily. Along the way, we will discuss real-world insights on tools, best practices, and how to navigate the ever-changing landscape of software engineering.
+      Whether you're considering Scala for your future projects or simply thinking about the next steps in your career, this talk will give you perspectives that go beyond the code.
+
+      Noel Welsh: Designing with Duality
+
+      How can we systematically design software? One way is to use dualities, which allows us to connect implementation techniques, such as FP and OO (otherwise known as data and codata), as different instantiations of the same underlying model. In this talk, we'll explore duality as a design strategy for interpreters, and show that four different approaches to writing an interpreter inner loop fall out as applications of duality. This allows us to pick the implementation that best suits our needs, and makes creating software less a matter of inspiration and more the application of a consistent and repeatable process.
+
+      ## Schedule:
+
+      - 18:00 - 18:40: Arrival/Socialising
+      - 18:40 - 19:20: Rory Graves: A Life in Scala
+      - 19:20 - 19:50: Break
+      - 19:50 - 20:30: Noel Welsh: Designing with Duality
+      - 20:30 - 21:00: Socialising
+      - 21:00 - Pub afterwards
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/5NSYjGs.jpg"></image>
+  <heading>DoCSoc x CGCU Boat Party</heading>
+  <event startDate="2025-02-07T18:30:00"
+    endDate="2025-03-07T21:00:00"
+    location="Festival Pier, SE1 8XZ">
+    <text>
+      Back again for its third year! The CGCU &amp; DoCSoc are proud to present the return of our prestigious collaborative event - the CGCU x DoCSoc Boat Party! Set sail for an unforgettable night of fun, music, and celebration with fellow Engineers - this is one event you won't want to miss!
+
+      Tickets are £30, with late release Monday 03/03/25 @ 14:00.
+
+      4 drinks tokens and 9x finger food items per person. Black tie dress code.
+
+      Sign up [here](https://cgcu.docsoc.co.uk/events/docsocxcgcu/1605439/r/docsocmailshot).
+    </text>
+  </event>
+
+  <hr/>
+
+  <text>## Student Society/Project/Event Showcases</text>
+
+  <text>
+    Every week or so we'll be showcasing a cool student society, project or event. Please email us if you want your cool society/project/event to be featured!
+  </text>
+
+  <hr/>
+
+  <image src="https://imgur.com/Iubjxbo.jpg"></image>
+  <heading>LGBTQ+ in Computing x IC Robotics Event</heading>
+  <event startDate="2025-02-03T17:00:00"
+    endDate="2025-03-03T19:00:00"
+    location="Robotics Lab - EEE 505">
+    <text>
+      🌈🐾 3D Animals Workshop - Flag-Themed Fun! 🐾🌈
+
+      Join us for an evening of creativity and community! 🎨✨
+      LGBTQ+ in Computing are teaming up with IC Robotics for an LGBTQ+ History Month special - come make flag-themed 3D animals! 🏳️‍🌈🐉
+
+      Drop in anytime - come late, leave early, it's all chill!
+
+      Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSd4Z1eOTVYh6KHr6mDjTiKuPV5MiZpy8zu4fkzLM256p-LeTQ/viewform?usp=dialog) so we know how much to print.
+
+      🍪 Light snacks will be provided!
+      🎉 All skill levels welcome - no prior experience needed!
+
+      See you there! 💖
+    </text>
+  </event>
+
+  <hr/>
+
+  <heading>CGCU Week</heading>
+  <text>
+    Hi everyone,
+
+    City and Guilds Week is here, and it's time to show which engineering department reigns supreme! CGCU is hosting an Inter-Departmental Sports Event, and we need YOU to represent Computing.
+
+    ## Sports:
+
+    - Tug of War - 5th March, 17:00-18:00, Queen's Lawn
+    - Football - 8th March, 12:00-16:20, Imperial Sports Ground, Harlington
+
+    - Rugby - 9th March, 12:00-16:20, Imperial Sports Ground, Harlington
+
+    This is your chance to compete, connect, and bring glory to your department. Whether you're a seasoned player, or just up for some fun, everyone's welcome.
+
+    ## How to join:
+
+    Sign up here: https://forms.office.com/e/01ScdJULhJ.
+
+    Want to play multiple sports? Fill out the form again for each one.
+
+    ## What to bring:
+
+    Your own water bottle (we'll provide snacks, food, and non-alcoholic drinks),
+    team spirit and energy!
+
+    ## Travel Information:
+
+    For Harlington, you can either make your own way or join the group travel organised by CGCU:
+
+    ### 8th March (Football):
+
+    - South Kensington Station (Piccadilly Line Westbound): Meet at 11:00 AM
+    - Hammersmith Station (Piccadilly Line Westbound): Meet at 11:15 AM
+
+    ### 9th March (Rugby):
+
+    - South Kensington Station (Piccadilly Line Westbound): Meet at 11:00 AM
+    - Hammersmith Station (Piccadilly Line Westbound): Meet at 11:15 AM
+    
+    PS: We're looking for a Rugby Referee! If you're keen, your travel and food costs will be covered.
+  </text>
+
+  <hr/>
+  
+  <text>## DoCSoc Event Feedback Survey</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

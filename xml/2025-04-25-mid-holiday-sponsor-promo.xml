@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="Some Opportunities" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    We hope you've all had a chance to take a break in the holiday, despite all the exams. We're here to give you some info on some opportunities from our sponsors and Ukrainian Soc.
+  </text>
+
+  <hr/>
+
+  <heading>Anthropic - Claude for Student Builders</heading>
+  <text>
+    Sign up to be a student builder with Anthropic and get access to Claude API credits!
+
+    You can sign up [here](https://www.anthropic.com/contact-sales/for-student-builders).
+  </text>
+
+  <hr/>
+
+  <heading>TPP Graduate Software Developer Role</heading>
+  <text>    
+    No coding experience required.
+
+    We're looking for bright and geeky graduates to join our Software Developer team. No experience is required, and many of our successful applicants have never programmed before. If you think logically and enjoy problem solving, then you have the potential to become a great developer.
+
+    A career at TPP will challenge you every day. In your first few weeks you will be solving real-world problems as you help to develop software used by healthcare professionals and patients across the world.
+
+    You'll be part of an agile development team, working on one of the largest real-time databases in the world. You'll work on a wide variety of projects, ranging from AI assisting clinicians with early diagnosis of cancer to an iOS app helping patients manage their diabetes.
+
+    Developers at TPP are involved in the full software cycle, and work closely with all teams across the company to scope out new projects and design, develop and deploy our products.
+
+    To apply, please visit https://tpp-careers.com/roles/graduate-software-developer/
+  </text>
+
+  <hr/>
+
+  <heading>Ukrainian Soc AI Conference</heading>
+  <text>
+    Hello everyone! Hope you're having a wonderful and productive Easter break! 
+
+    Tired of revising or simply miss our incredible events? You're in luck!
+
+    Join a USUx@Imperial UA mini conference on AI and innovation on Saturday 26 of April at 13:30 - 18:00 at Imperial College London 🤖
+
+    AI is no longer just a buzzword — it's reshaping global power, transforming how we govern, and redefining how we fight wars. From digital sovereignty to ethical policymaking, the decisions we make around AI today will shape society for decades to come.🌍
+
+    That's why we are bringing together world-class experts, policymakers, and innovators for a student-led conference tackling the most urgent questions in AI, governance, and security. 
+
+    Panel 1: AI, Cybersecurity &amp; the Future of Warfare will analyze how AI being used in disinformation and cognitive warfare? Featuring case studies from Sviatoslav Hnizdovskyi, CEO of OpenMinds, and insights into AI's strategic role in global conflict. 🔭
+
+    Panel 2: AI in Governance, Business &amp; the Public Sector will answer questions such as
+    Can AI build smarter, more responsive governments — or does it risk centralising power and bias? What does ethical innovation look like in practice?
+    With Andrew Grill (Ex IBM Partner), Tetiana Revun (Google DeepMind), and Dr. Dorottya Sallai (LSE) answering those questions. 🔬
+
+    The conference will be wrapped up with a networking session to connect with researchers, students, and professionals building the future of AI 
+
+    Registration link: https://www.usu.global/usu-imperial-college-london-ai-conference-2025
+
+    See you there!💙💛
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

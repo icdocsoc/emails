@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    Welcome to an unusually short digest (and early!). We're ramping up to IC Hack now so our normal events are slowing down. Don't forget to try for a ticket in Monday's ticket release!
+  </text>
+
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/Lbrf3rq.jpg"></image>
+  <heading>Bloomberg Bpuzzled</heading>
+  <event startDate="2025-01-16T18:00:00"
+    endDate="2025-01-16T21:30:00"
+    location="Huxley 311">
+    <text>
+      Bloomberg is bringing Bpuzzled to Imperial for another year!
+
+      Join us to take part in this fun challenge.
+
+      What is Bpuzzled?
+
+      Bpuzzled is a competition where teams of up to four use creativity and teamwork to
+      solve logic puzzles themed to cities around the world.
+
+      Sign up [here](https://bloomberg.avature.net/events/EventDetail?jobId=9399#).
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/xSWdAN5.jpg"></image>
+  <heading>IC Hack 25 - Ticket Release Monday!</heading>
+  <event startDate="2025-02-01T10:00:00"
+    endDate="2025-02-02T18:00:00"
+    location="South Kensington Campus">
+    <text>
+      Ticket release on the [IC Hack website](https://ichack.org/), Monday 16:30.
+
+      Get ready for
+      an entire weekend of free merch, food, and hacking...
+
+      IC Hack is Europe's largest student-run hackathon, with 700 attendees,
+      including 500 hackers and 150 volunteers. We're partnering with
+      some of the biggest names in tech to bring you this event with
+      lots of sponsors on site to help you with your projects and give
+      you career opportunities.
+
+      If you've not been to a hackathon before, here's the lowdown:
+      you'll work in a team of up to 6 people to build a project from
+      scratch in 24 hours. It's a great opportunity to learn new
+      skills, meet new people, and have a lot of fun. We'll have
+      tech talks, hot meals, snacks and lots of fun activities to
+      keep you going through the night.
+
+      And all of this happens on the South Kensington campus! We
+      manage to get Sherfield kept open all night long...
+
+      Keep an eye on our [instagram](https://www.instagram.com/ichackuk/), [website](https://ichack.org/)
+      and of course these emails for more information. If you'd like
+      a taste of the event, check out our 
+      [2024 montage](https://www.youtube.com/watch?v=CCASs8BVKGA) and 
+      the other videos on the 
+      [DoCSoc YouTube channel](https://www.youtube.com/@ICDoCSoc).
+
+      We can't wait to see you there!
+    </text>
+  </event>
+
+  <hr/>
+  
+  <text>## DoCSoc Event Feedback Survey</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

@@ -9,23 +9,24 @@
 
   <hr/>
 
-  <text>## Announcements</text>
-
-  <hr/>
-
-  <heading>Announcement</heading>
-  <text>    
-    Announcemnt here
-  </text>
-  
-  <hr/>
-
   <text>## This Week's Events</text>
 
   <hr/>
 
   <image src="link.jpg"></image>
-  <heading>Event</heading>
+  <heading>IC Hack Hacker Briefing</heading>
+  <event startDate="2024-12-06T19:00:00"
+    endDate="2024-12-06T21:00:00"
+    location="Place">
+    <text>
+      Description
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/bSpLnKr.jpg"></image>
+  <heading>IC Hack</heading>
   <event startDate="2024-12-06T19:00:00"
     endDate="2024-12-06T21:00:00"
     location="Place">
@@ -45,28 +46,18 @@
   <hr/>
 
   <image src="link.jpg"></image>
-  <image src="link.jpg"></image>
   <heading>Name</heading>
   <text>
     Description
   </text>
 
   <hr/>
-
-  <heading>Help Shape DoCSoc</heading>
-  <text>
-    We would love to get some feedback on some of our upcoming events we have planned for the summer term, please fill in your details here if you want to be contacted to help shape and give feedback on potential event ideas :)
-
-    Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdfnNaNpLS6UCS5seB90T-3NcO-3xKYteD6-nJn7BZ9NZ2j3g/viewform?usp=dialog).
-  </text>
-
-  <hr/>
   
-  <text># DoCSoc Event Feedback Survey (Recently updated!)</text>
+  <text>## DoCSoc Event Feedback Survey</text>
   <text>
     This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
     
-    Please find the link [here](https://docs.google.com/forms/d/e/1FAIpQLSdC-21RmEP_KGDbCF7UjKbcAAYdxd4IBLhCTB9-9xfgiUy2_w/viewform?usp=sf_link)
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
 
     Individual survey results will be kept private.
   </text>

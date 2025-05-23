@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    Welcome to an absolutely on time, not at all delayed, weekly digest. Like many of you, we've been a bit swamped with coursework and midterms this week. Hopefully next week's digest ends up on time!
+
+    In the meantime; food, laser tag and drinks ahead! Enjoy.
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>Feedback Survey</heading>
+  <text>
+    This is our first mid-termly DoCSoc event survey. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private, we only ask for your shortcode so that if needed, we can contact you for further feedback. Please feel free to reach out for any questions or to give more feedback. Looking forward to seeing you at future events!
+
+    To note - this link will be kept at the bottom of future digests, please feel free to fill out whenever or just ping us an email.
+  </text>
+  
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/AHyd7rr.png"></image>
+  <heading>Breakfast</heading>
+  <event startDate="2024-11-21T08:30:00"
+    endDate="2024-11-21T10:00:00"
+    location="Huxley Level 3 Foyer">
+    <text>
+      We've got another breakfast event this week! Come along for some free food and a chat.
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/BSZ0Auh.png"></image>
+  <heading>Laser Tag</heading>
+  <event startDate="2024-11-27T17:00:00"
+    endDate="2024-11-27T19:00:00"
+    location="Laser Quest Greenwich">
+    <text>
+      Ultimate Laser Tag Tournament at Laser Quest Greenwich! Always wanted to experience an epic laser tag battle? Here's your chance! We've secured a private hire session at Laser Quest Greenwich for an action-packed tournament. Join us for 2 hours of non-stop laser tag action with exclusive access to the entire venue. 
+
+      What's included:
+
+      - Tournament-style laser tag games
+      - Soft drinks and pizza
+      - Trophy and prize for the winning team
+      
+      Ticket Release: Wednesday 20th November 13:00
+
+      Sign up [here](https://buytickets.at/docsoc/1475284/r/mailshot)
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/8dGlp9T.png"></image>
+  <heading>Barnight</heading>
+  <event startDate="2024-11-28T19:00:00"
+    endDate="2024-11-28T23:00:00"
+    location="Metric (Beit)">
+    <text>
+      Free drinks and snacks to round off the term! Come to hang out and relax with your friends.
+    </text>
+  </event>
+  
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

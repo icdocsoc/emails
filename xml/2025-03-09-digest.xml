@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>CSP Elections</heading>
+  <text>
+    We're entering that time again... As of tomorrow 9am the polls will open and you'll get to elect your next officers for DoCSoc, the union and all the other CSPs out there!
+
+    Make sure to vote in every election you're able to, and make your opinion heard. Voting closes Thursday 2pm.
+
+    You can vote and see manifestoes [here](https://vote.union.ic.ac.uk/)!
+
+    From this point on, we kindly ask for no campaigning at DoCSoc events. Good luck everyone!
+  </text>
+
+  <hr/>
+
+  <heading>Bloomberg Intenrships</heading>
+  <text>    
+    Bloomberg are recruiting for Summer Intenrships and Placements:
+
+    Bloomberg software engineers develop impactful solutions to complex, real-world problems. This is no different for our interns. Engineering interns take ownership of their projects under the mentorship of full-time software engineers. We are looking for top computer science students who are passionate about technology and eager to learn in our high energy, fast-paced environment.
+ 
+    As an intern, you'll become an expert on the Bloomberg Terminal and gain a deeper understanding of technology and finance. In addition to your projects, you'll participate in coding challenges, attend tech talks and network with other interns.
+
+    Sign up [here](https://bloomberg.avature.net/su/311c9e01353686c8) for internships and [here](https://bloomberg.avature.net/su/cab31c279b1af0f8) for placements.
+  </text>
+
+  <hr/>
+
+  <heading>JetBrains Intenrships</heading>
+  <text>
+    JetBrains are recruiting for Summer Intenrships:
+
+    JetBrains is now accepting applications for internships in 2025!
+
+    We invite university students and recent graduates to apply for our wide range of paid onsite and remote internships in countries where we have R&amp;D offices.
+    
+    Work on real projects in IntelliJ IDEA, RustRover, Kotlin, and other JetBrains IDEs with top professionals and gain hands-on experience.
+    
+    Apply by April 7, 2025! Create a profile, specify your university, pick up to five projects, complete the test tasks, and land a potential offer!
+    
+    More information can be found at internship.jetbrains.com
+    
+    You are welcome to contact us at internship@jetbrains.com with any questions or concerns!
+
+    Join our student discord at https://discord.com/invite/pRjZKJsja5
+  </text>
+
+  <hr/>
+
+  <heading>Labs Coffee Machine is BACK!</heading>
+  <text>
+    The coffee machine in the labs kitchen is back! The machine uses classic Nespresso pods, please bring and buy these, although we may leave a few free ones out on DoCSoc.
+
+    Please clean up if you spill coffee and use the machines and pods responsibly. Any misuse of the machine will lead to it being removed again.
+  </text>
+  
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <heading>WiC x DoCSoc Breakfast</heading>
+  <event startDate="2025-03-10T08:30:00"
+    endDate="2025-03-10T11:30:00"
+    location="Huxley Level 3 Foyer">
+    <text>
+      Come join us tomorrow morning for some free breakfast and a chat!
+
+      Please note we are not allowing elections campaigning at DoCSoc events.
+    </text>
+  </event>
+
+  <hr/>
+
+  <text>## Student Society/Project/Event Showcase</text>
+
+  <text>
+    Every week or so we'll be showcasing a cool student society, project or event. Please email us if you want your cool society/project/event to be featured!
+  </text>
+
+  <hr/>
+
+  <image src="https://imgur.com/WAbCvKE.jpg"></image>
+  <heading>CGCU x RCSU x RSM Bloom Bash</heading>
+  <event startDate="2025-03-13T21:00:00"
+    endDate="2025-03-14T02:00:00"
+    location="Ballie Ballerson, EC2A 3BS">
+    <text>
+      RCSU, CGCU and RSM are teaming up to host their Bloom Bash at Ballie Ballerson. It will be neon colours theme event so make sure you are dressed to impress :) Each ticket comes with 2 drinks token and bottomless pizza! 18+ only - no government ID, no entry. Last entry is 10:30pm All tickets are non-refundable which supersedes the ICU terms of use.
+
+      Sign up [here](https://www.imperialcollegeunion.org/shop/cu/royal-college-science-union/rcsu-x-cgcu-bloom-bash-cgcu-tickets)
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/SSQEkG6.jpg"></image>
+  <heading>Portico Hack - ICL x UCL x KCL CyberSoc CTF</heading>
+  <event startDate="2025-03-16T09:00:00"
+    endDate="2025-03-16T21:00:00"
+    location="20 Bedford Way, UCL Bloomsbury Campus">
+    <text>
+      CyberSoc's first ever collaborative CTF with their sibling CyberSocs at UCL and KCL's :D
+
+      This will be a beginner to advanced intermediate CTF, so please feel free to come along even if this is your first CTF!
+
+      All Imperial students are welcome to join, just sign-up using [UCL's form](https://docs.google.com/forms/d/e/1FAIpQLSfHrS0gV3Lu2Nb7xkvgyyuCFU8fF5YrWOpABiMixzETPpgYqA/viewform), before rolling up on the 16th :D
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/I72uDzE.jpg"></image>
+  <heading>Cybersecurity Soc - The Power of Networking in Cybersecurity</heading>
+  <event startDate="2025-03-12T14:00:00"
+    endDate="2025-03-12T15:00:00"
+    location="Huxley 130">
+    <text>
+      Alexandra Forsyth, a cyber security threat analyst and entrepreneur, is delivering an industry talk!
+
+      How are cyber security threats evolving?
+      What are the key areas of industry under threat?
+      And what is Alexandra's role in helping to curb these threats?
+
+      In preparation for the talk, please feel free to suggest anything you would like to hear discussed [here](https://forms.gle/RCs8qo1XhQQy7QAK7).
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/s0CEtXC.jpg"></image>
+  <heading>WiC - Women at Imperial Week</heading>
+  <text>
+    Women in Computing have got an exciting lineup of events next week to celebrate Women at Imperial Week! 👩‍💻 Whether you're looking to connect, learn, or just have a great time, we've got something for you:
+
+    - 📌 Monday: WiC x DoCSoc Breakfast - Start the week off right with good food and great company! 🥐
+    - 📌 Tuesday: Sponsors Fair - Meet our sponsors, including Optiver, G-Research, and Goodnotes, and explore exciting career opportunities. 💼
+    - 📌 Wednesday: WiC x NTU Panel - Join us for an insightful discussion in collaboration with NTU. 🎓
+    - 📌 Thursday: Movie Night - Chill with us for a cosy movie night! 🎬
+    - 📌 Friday: Curly Fries Night - A classic WiC event, because everything's better with curly fries! 🍟
+
+    Save the dates, and stay tuned to their instagram for more details on rooms and times which will be released closer to the time! 💖
+  </text>
+
+  <hr/>
+  
+  <text>## DoCSoc Event Feedback Survey</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

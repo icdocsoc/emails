@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    Apologies for the yet again late weekly digest, hopefully this won't end up becoming a theme...
+
+    As Christmas time approaches, we have a few more events for you to enjoy before the end of term. Season's greetings!
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <heading>A Note about Pizza (and other free stuff)</heading>
+  <text>    
+    Hi all,
+    
+    Just a reminder to be mindful when food is being handed out -
+    it makes the experience better for everyone.
+
+    In order to avoid sheer chaos, stay seated and we'll bring food
+    to you.
+    
+    Additionally, we prioritise dietary requirements 
+    and quick distribution over catering to preferences (e.g. only
+    liking one type of pizza). Feel free to share around or
+    swap with others!
+
+    If you have a dietary condition (vegetarian, allergies, 
+    etc.) though, please give us a wave and let us know!
+
+    We tend to order a pizza per 2-3 people at our events but portion sizes
+    can vary if more people turn up than expected. Please make sure to share, and
+    don't hide a full pizza under the table. We reserve the right 
+    to ban hoarders from future DoCSoc events.
+
+    And just a reminder that DoCSoc is run and organised by students, in our spare time.
+    Thank you everyone who has been respectful and polite at our events
+    this term.
+  </text>
+  
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/h3UHocN.jpg"></image>
+  <heading>Pintos Afterparty</heading>
+  <event startDate="2024-12-06T19:00:00"
+    endDate="2024-12-06T21:00:00"
+    location="Huxley 308">
+    <text>
+      At last, Pintos is over! Come and celebrate on Friday, with Pizza, Bubble Tea and more - plus collect your Pintos glasses! 
+      
+      This event is exclusive to 2nd Years only.
+
+      Sign up [here](https://buytickets.at/docsoc/1490017/r/mailshot)!
+    </text>
+  </event>
+
+  <hr/>
+
+  <image src="https://imgur.com/kP8vSrQ.jpg"></image>
+  <heading>Puttshack</heading>
+  <event startDate="2024-12-10T18:00:00"
+    endDate="2024-12-10T20:00:00"
+    location="Puttshack Westfield W12 7HB">
+    <text>
+      Come along for a round of mini-golf with DoCSoc! We've booked out a round of mini-golf for you to enjoy with your friends!
+
+      Tickets at £5pp, sign up [here](https://buytickets.at/docsoc/1490026/r/mailshot).
+    </text>
+  </event>
+
+  <hr/>
+
+  <text>## Student Society/Project/Event Showcase</text>
+
+  <text>
+    Every week or so we'll be showcasing a cool student society, project or event. Please email us if you want your cool society/project/event to be featured!
+  </text>
+
+  <hr/>
+
+  <image src="https://imgur.com/A20TC3l.jpg"></image>
+  <heading>Imperial Junior Solutions</heading>
+  <text>
+    Imperial Junior Solutions (IJS) is a student-run consultancy 
+    at ICL, delivering high-quality technical and engineering 
+    services to companies while providing members with experience 
+    to gain an edge for future careers. Our consultants tackle 
+    real-world challenges across industries, including mobile app 
+    design, data analysis, engineering solutions, and technical 
+    translations. Past projects include collaborations with 
+    MedTech startups, app development for international events, 
+    and interactive tools for data visualization.
+
+    We are currently seeking consultants to develop a fitness 
+    and social app that integrates route planning with innovative 
+    social features. This project requires expertise in back-end 
+    app development, API integration, front-end design, and marketing strategy.
+
+    You'll earn £17 per hour, work directly with clients, and be able 
+    to shape the direction of this impactful project. If you're ready 
+    to apply your expertise and make a difference, join us and take 
+    the next step toward becoming a leader in consulting!
+
+    Sign up link [here](https://forms.gle/GHtDjNMyLBhgxwFNA)
+
+    WhatsApp link [here](https://chat.whatsapp.com/G3qoehxYVNkI3uDw6GNF5D)
+  </text>
+
+  <hr/>
+  
+  <text>## DoCSoc Event Feedback Survey</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>

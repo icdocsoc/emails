@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<email title="DoCSoc Weekly Digest" agenda="true" logos="false">
+
+  <text>
+    Hi everyone!
+
+    We're well and truly into preparations for IC Hack 25 so no social this week. If you didn't get a ticket to IC Hack we still have opportunities to attend though.
+  </text>
+
+  <hr/>
+
+  <text>## Announcements</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/mzQUj0K.jpg"></image>
+  <heading>IC Hack Meme sticker competition</heading>
+  <text>    
+    Enter the IC Hack sticker competition for a chance to win a ticket to IC Hack!
+
+    Rules
+    Deadline: Midnight on Monday 20th January
+    Submission: Email your design to ichack@ic.ac.uk as an SVG (preferred) or a high resolution PNG
+    Max size: 50x50mm (can be any shape)
+
+    we recommend stickers primarily with the IC Hack logo, with memes in the background/around it.
+
+    Here's some examples from IC Hacks 20 and 22 years:
+  </text>
+
+    <image src="https://imgur.com/eo57ttS.jpg"></image>
+    <image src="https://imgur.com/k3L9Jh3.jpg"></image>
+
+  <text>
+    Find some assets to use [here](https://drive.google.com/drive/u/1/folders/1Jdu7O4LxnUzK9EXMsMzLxZOEVzp7FbX_)!
+
+    The best designs will be printed and given to participants them at the event.
+  </text>
+  
+  <hr/>
+
+  <text>## This Week's Events</text>
+
+  <hr/>
+
+  <image src="https://imgur.com/bCEDpdt.jpg"></image>
+  <heading>IC Hack Volunteer Briefing</heading>
+  <event startDate="2025-01-21T18:00:00"
+    endDate="2025-01-21T19:00:00"
+    location="Clore Lecture Theatre">
+    <text>
+      Didn't get a ticket for IC Hack 25 but still want to be there? Then make sure to come to the volunteer briefing.
+      There won't be any other opportunities to sign up, so make sure to be there.
+
+      Being an IC Hack volunteer also comes with many benefits—you'll get free swag, food, and experience behind the scenes of Europe's largest student-run hackathon. Don't miss out on this opportunity!
+    </text>
+  </event>
+
+  <hr/>
+  
+  <text>## DoCSoc Event Feedback Survey</text>
+  <text>
+    This will be here, at the bottom of all our digests from now on. Feel free to speak your mind regarding events DoCSoc have been running so far, and also about DoCSoc in general. 
+    
+    Please find the link [here](https://forms.gle/WHU127UYv8dd5zGVA)
+
+    Individual survey results will be kept private.
+  </text>
+
+  <sign name="Aidan Madge"
+    role="DoCSoc Secretary '24/25">
+  </sign>
+  <text>
+    ![DoCSoc](https://i.imgur.com/1o6dcEV.gif)
+  </text>
+
+</email>
